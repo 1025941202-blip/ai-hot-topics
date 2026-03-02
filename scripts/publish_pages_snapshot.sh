@@ -37,6 +37,10 @@ run_cmd() {
   "$@"
 }
 
+if ! run_cmd "git pull --ff-only" git pull --ff-only "$REMOTE" "$BRANCH"; then
+  echo "[pages-publish] WARN: git pull failed, continue with local branch state"
+fi
+
 if [[ "$RUN_COLLECT" == "1" ]]; then
   IFS=',' read -r -a platforms <<< "$COLLECT_PLATFORMS"
   for p in "${platforms[@]}"; do
