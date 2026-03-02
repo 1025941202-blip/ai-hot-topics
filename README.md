@@ -81,3 +81,23 @@ PYTHONPATH=/Users/jiejie/Desktop/LVYU/projects/AI热点/src \
 
 然后把你电脑局域网地址发给同事，例如：
 - `http://192.168.31.88:8765`
+
+## GitHub Pages 公开网址
+
+如果你要给学员一个“直接打开的网址”，可以使用仓库的 `GitHub Pages`（静态页面）：
+
+1. 先导出最新候选数据到 `docs/data/candidates.json`
+
+```bash
+cd /Users/jiejie/Desktop/LVYU/projects/AI热点
+PYTHONPATH=src ./.venv/bin/python scripts/export_pages_data.py \
+  --project-dir /Users/jiejie/Desktop/LVYU/projects/AI热点 \
+  --output /Users/jiejie/Desktop/LVYU/projects/AI热点/docs/data/candidates.json \
+  --limit 300 --sort-by likes --sort-order desc
+```
+
+2. 提交并推送 `docs/` 目录后，Pages 网址可直接访问。
+
+说明：
+- Pages 是静态快照，不会自动实时抓取灰豚；
+- 你每次跑完采集后重新执行一次导出并推送，网页就会更新。

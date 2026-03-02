@@ -1,0 +1,380 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI 爆款选题公开看板</title>
+  <style>
+    :root {
+      --bg: #eef5f4;
+      --card: #ffffff;
+      --text: #0f172a;
+      --muted: #64748b;
+      --accent: #0f766e;
+      --border: #d7e2e0;
+      --ok: #166534;
+      --warn: #a16207;
+      --bad: #b91c1c;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: radial-gradient(circle at 8% 10%, #d8f4eb 0%, #eef5f4 35%) fixed;
+      font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+      color: var(--text);
+    }
+    .container { max-width: 1240px; margin: 0 auto; padding: 24px; }
+    .top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+    h1 { margin: 0; font-size: 28px; }
+    .sub { margin-top: 6px; color: var(--muted); }
+    .pill {
+      border-radius: 999px;
+      background: #d7f7ef;
+      color: #0f766e;
+      border: 1px solid #a7ead9;
+      padding: 8px 12px;
+      font-size: 13px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .summary .item {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 10px 12px;
+    }
+    .summary .label { color: var(--muted); font-size: 12px; }
+    .summary .val { margin-top: 6px; font-size: 25px; font-weight: 700; }
+    .toolbar {
+      display: grid;
+      grid-template-columns: 1fr 150px 150px 140px 100px;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+    .toolbar input, .toolbar select, .toolbar button {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: #fff;
+      padding: 9px 10px;
+      font-size: 14px;
+    }
+    .toolbar button {
+      border: none;
+      background: linear-gradient(90deg, #0f766e, #0d9488);
+      color: #fff;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .board {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 12px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px;
+    }
+    .title { margin: 0 0 8px; font-size: 17px; line-height: 1.4; }
+    .meta { color: var(--muted); font-size: 12px; margin-bottom: 8px; }
+    .author {
+      display: grid;
+      grid-template-columns: 46px 1fr;
+      gap: 10px;
+      margin-bottom: 10px;
+      align-items: start;
+    }
+    .avatar {
+      width: 46px;
+      height: 46px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: #e2e8f0;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #334155;
+      font-weight: 700;
+    }
+    .avatar img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .author-name { margin: 0 0 4px; font-size: 14px; font-weight: 700; }
+    .author-bio { color: #475569; font-size: 12px; line-height: 1.35; max-height: 34px; overflow: hidden; }
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 6px;
+      margin-bottom: 8px;
+    }
+    .metrics .m {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: #f8fafc;
+      padding: 6px 7px;
+    }
+    .metrics .k { color: var(--muted); font-size: 11px; margin-bottom: 4px; }
+    .metrics .v { font-size: 14px; font-weight: 700; }
+    .badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+    .badge {
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 2px 8px;
+      font-size: 12px;
+      background: #f9fafb;
+    }
+    .status {
+      font-size: 12px;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .status-candidate { color: var(--warn); }
+    .status-approved { color: var(--ok); }
+    .status-rejected { color: var(--bad); }
+    .links { display: flex; gap: 6px; flex-wrap: wrap; }
+    .links a {
+      text-decoration: none;
+      border: 1px solid #bae6fd;
+      color: #0f766e;
+      background: #ecfeff;
+      border-radius: 999px;
+      font-size: 12px;
+      padding: 3px 8px;
+    }
+    .empty {
+      border: 1px dashed #cbd5e1;
+      border-radius: 12px;
+      background: #fff;
+      color: var(--muted);
+      text-align: center;
+      padding: 30px;
+    }
+    .error {
+      border: 1px solid #fecaca;
+      background: #fff1f2;
+      color: #9f1239;
+      border-radius: 10px;
+      padding: 10px 12px;
+      margin-bottom: 12px;
+      font-size: 13px;
+      display: none;
+    }
+    @media (max-width: 900px) {
+      .toolbar { grid-template-columns: 1fr 1fr; }
+      .metrics { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="top">
+      <div>
+        <h1>AI 爆款选题公开看板</h1>
+        <div class="sub">基于本地抓取结果自动导出到 GitHub Pages（静态快照）</div>
+      </div>
+      <div class="pill" id="generatedAt">最近更新：-</div>
+    </div>
+
+    <div class="error" id="errorBox"></div>
+    <div class="summary" id="summary"></div>
+
+    <div class="toolbar">
+      <input id="q" placeholder="搜索标题/摘要/博主" />
+      <select id="platform">
+        <option value="">全部平台</option>
+        <option value="xiaohongshu">小红书</option>
+        <option value="huitun">灰豚</option>
+        <option value="douyin">抖音</option>
+        <option value="x">X</option>
+        <option value="youtube">YouTube</option>
+      </select>
+      <select id="sortBy">
+        <option value="like_count">按点赞</option>
+        <option value="favorite_count">按收藏</option>
+        <option value="comment_count">按评论</option>
+        <option value="share_count">按分享</option>
+        <option value="view_count">按阅读</option>
+      </select>
+      <select id="sortOrder">
+        <option value="desc">降序</option>
+        <option value="asc">升序</option>
+      </select>
+      <button id="refreshBtn">刷新</button>
+    </div>
+
+    <div class="board" id="board"></div>
+  </div>
+
+  <script>
+    const summaryEl = document.getElementById("summary");
+    const boardEl = document.getElementById("board");
+    const generatedAtEl = document.getElementById("generatedAt");
+    const errorBox = document.getElementById("errorBox");
+    const qEl = document.getElementById("q");
+    const platformEl = document.getElementById("platform");
+    const sortByEl = document.getElementById("sortBy");
+    const sortOrderEl = document.getElementById("sortOrder");
+    const refreshBtn = document.getElementById("refreshBtn");
+
+    let allItems = [];
+    let summary = {};
+
+    const STATUS_CLASS = {
+      "待处理": "status-candidate",
+      "已通过": "status-approved",
+      "已拒绝": "status-rejected",
+    };
+
+    function escapeHtml(value) {
+      return String(value || "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#39;");
+    }
+
+    function formatCount(value) {
+      const n = Number(value || 0);
+      if (!Number.isFinite(n) || n <= 0) return "0";
+      if (n >= 100000000) return `${(n / 100000000).toFixed(1).replace(/\.0$/, "")}亿`;
+      if (n >= 10000) return `${(n / 10000).toFixed(1).replace(/\.0$/, "")}万`;
+      return String(Math.round(n));
+    }
+
+    function displayTime(item) {
+      if (item.publish_time_text) return item.publish_time_text;
+      if (!item.published_at) return "-";
+      return String(item.published_at).replace("T", " ").replace("Z", "");
+    }
+
+    function renderSummary() {
+      const cards = [
+        ["总候选", summary.total_candidates || 0],
+        ["总内容", summary.total_posts || 0],
+        ["小红书", summary.xiaohongshu_posts || 0],
+        ["灰豚", summary.huitun_posts || 0],
+        ["已通过", summary.approved_candidates || 0],
+      ];
+      summaryEl.innerHTML = cards.map(([k, v]) => (
+        `<div class="item"><div class="label">${k}</div><div class="val">${v}</div></div>`
+      )).join("");
+    }
+
+    function renderItems(rows) {
+      if (!rows.length) {
+        boardEl.innerHTML = `<div class="empty">当前筛选条件下暂无数据。</div>`;
+        return;
+      }
+      boardEl.innerHTML = rows.map(item => {
+        const platforms = (item.platforms || []).map(p => `<span class="badge">${escapeHtml(p)}</span>`).join("");
+        const links = (item.source_links || []).slice(0, 3).map(url =>
+          `<a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">来源链接</a>`
+        ).join("");
+        const avatar = String(item.author_avatar || "").trim();
+        const avatarHtml = avatar
+          ? `<div class="avatar"><img src="${escapeHtml(avatar)}" alt="avatar"/></div>`
+          : `<div class="avatar">${escapeHtml((item.author_name || "博").slice(0, 1))}</div>`;
+        const statusText = item.status || "待处理";
+        return `
+          <div class="card">
+            <h3 class="title">${escapeHtml(item.title || "未命名")}</h3>
+            <div class="meta">${escapeHtml((item.summary || "").slice(0, 140))}</div>
+            <div class="author">
+              ${avatarHtml}
+              <div>
+                <div class="author-name">${escapeHtml(item.author_name || "未知博主")} · 粉丝 ${formatCount(item.author_fans_count)}</div>
+                <div class="author-bio">${escapeHtml((item.author_bio || "暂无简介").slice(0, 100))}</div>
+              </div>
+            </div>
+            <div class="metrics">
+              <div class="m"><div class="k">阅读</div><div class="v">${formatCount(item.view_count)}</div></div>
+              <div class="m"><div class="k">点赞</div><div class="v">${formatCount(item.like_count)}</div></div>
+              <div class="m"><div class="k">收藏</div><div class="v">${formatCount(item.favorite_count)}</div></div>
+              <div class="m"><div class="k">评论</div><div class="v">${formatCount(item.comment_count)}</div></div>
+              <div class="m"><div class="k">分享</div><div class="v">${formatCount(item.share_count)}</div></div>
+            </div>
+            <div class="meta">发布时间：${escapeHtml(displayTime(item))}</div>
+            <div class="badges">${platforms}</div>
+            <div class="status ${STATUS_CLASS[statusText] || "status-candidate"}">状态：${escapeHtml(statusText)}</div>
+            <div class="links">${links}</div>
+          </div>
+        `;
+      }).join("");
+    }
+
+    function applyFilters() {
+      const q = qEl.value.trim().toLowerCase();
+      const platform = platformEl.value;
+      const sortBy = sortByEl.value;
+      const sortOrder = sortOrderEl.value;
+
+      let rows = allItems.filter(item => {
+        if (platform) {
+          const platforms = item.platforms || [];
+          if (!platforms.includes(platform)) return false;
+        }
+        if (!q) return true;
+        const hay = [
+          item.title || "",
+          item.summary || "",
+          item.author_name || "",
+          (item.platforms || []).join(" "),
+        ].join(" ").toLowerCase();
+        return hay.includes(q);
+      });
+
+      rows.sort((a, b) => {
+        const av = Number(a[sortBy] || 0);
+        const bv = Number(b[sortBy] || 0);
+        if (sortOrder === "asc") return av - bv;
+        return bv - av;
+      });
+
+      renderItems(rows);
+    }
+
+    async function load() {
+      try {
+        const resp = await fetch("./data/candidates.json?ts=" + Date.now());
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const payload = await resp.json();
+        allItems = payload.items || [];
+        summary = payload.summary || {};
+        const generatedAt = payload.generated_at || "-";
+        generatedAtEl.textContent = "最近更新：" + generatedAt;
+        renderSummary();
+        applyFilters();
+        errorBox.style.display = "none";
+      } catch (err) {
+        errorBox.style.display = "block";
+        errorBox.textContent = "数据加载失败：" + String(err);
+        boardEl.innerHTML = `<div class="empty">请确认 docs/data/candidates.json 已生成并提交。</div>`;
+      }
+    }
+
+    refreshBtn.addEventListener("click", load);
+    qEl.addEventListener("keydown", (e) => { if (e.key === "Enter") applyFilters(); });
+    platformEl.addEventListener("change", applyFilters);
+    sortByEl.addEventListener("change", applyFilters);
+    sortOrderEl.addEventListener("change", applyFilters);
+    load();
+  </script>
+</body>
+</html>
