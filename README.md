@@ -101,3 +101,35 @@ PYTHONPATH=src ./.venv/bin/python scripts/export_pages_data.py \
 说明：
 - Pages 是静态快照，不会自动实时抓取灰豚；
 - 你每次跑完采集后重新执行一次导出并推送，网页就会更新。
+
+### 自动推送（免手动）
+
+项目已提供自动发布脚本：
+- `/Users/jiejie/Desktop/LVYU/projects/AI热点/scripts/publish_pages_snapshot.sh`
+
+该脚本会自动执行：
+- 抓取平台（默认 `xiaohongshu,huitun`）
+- `process` 聚类评分
+- 导出 `docs/data/candidates.json`
+- `git commit` + `git push`
+
+安装每日定时自动发布（默认每天 09:20）：
+
+```bash
+bash /Users/jiejie/Desktop/LVYU/projects/AI热点/scripts/install_pages_publish_launchd.sh \
+  /Users/jiejie/Desktop/LVYU/projects/AI热点 \
+  /Users/jiejie/Desktop/LVYU/projects/AI热点/.venv/bin/python \
+  9 20
+```
+
+手动触发一次（用于验证）：
+
+```bash
+bash /Users/jiejie/Desktop/LVYU/projects/AI热点/scripts/publish_pages_snapshot.sh \
+  /Users/jiejie/Desktop/LVYU/projects/AI热点 \
+  /Users/jiejie/Desktop/LVYU/projects/AI热点/.venv/bin/python
+```
+
+日志路径：
+- `/Users/jiejie/Desktop/LVYU/projects/AI热点/data/logs/pages-publish.out.log`
+- `/Users/jiejie/Desktop/LVYU/projects/AI热点/data/logs/pages-publish.err.log`
