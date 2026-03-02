@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T11:12:55.014157Z",
+  "generated_at": "2026-03-02T11:18:44.959148Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 1,
-    "last_updated_at": "2026-03-02T09:49:29.835746Z",
+    "last_updated_at": "2026-03-02T11:18:44.880659Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -57,7 +57,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 76.77
+      "total_score": 76.4
     },
     {
       "candidate_id": "topic-c256047f548244e9e5",
@@ -1979,7 +1979,7 @@
       "author_bio": "还没有简介",
       "author_fans_count": 971,
       "status": "待处理",
-      "total_score": 36.07
+      "total_score": 36.06
     },
     {
       "candidate_id": "topic-0a452144816d76d9f2",
@@ -2202,7 +2202,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.41
+      "total_score": 25.4
     },
     {
       "candidate_id": "topic-c1e02dc9fe6d491e6a",
