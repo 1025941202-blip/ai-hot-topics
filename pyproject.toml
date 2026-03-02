@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-hot-topics"
+version = "0.1.0"
+description = "AI热点爆款选题库自动化（四平台抓取、评分、脚本提纲生成、飞书同步）"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+browser = ["playwright>=1.42"]
+
+[project.scripts]
+ai-hot-topics = "ai_hot_topics.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

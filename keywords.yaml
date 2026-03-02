@@ -1,0 +1,48 @@
+schema_version: 1
+language_hint: zh
+include_keywords:
+  - AI
+  - 人工智能
+  - 大模型
+  - Agent
+  - AI 工具
+  - 提示词
+  - AI 绘画
+  - AI 视频
+  - GPT
+  - Claude
+  - DeepSeek
+  - OpenAI
+  - Cursor
+  - Manus
+include_hashtags:
+  - AI
+  - 人工智能
+  - AITools
+  - AIAgent
+exclude_keywords:
+  - 招聘
+  - 代写
+  - 课程售卖
+  - 返现
+  - 广告合作
+platform_overrides:
+  douyin:
+    include_keywords:
+      - AI 副业
+      - AI 效率
+  xiaohongshu:
+    include_keywords:
+      - AI 工具推荐
+      - AI 工作流
+  x:
+    include_keywords:
+      - open-source ai
+      - ai workflow
+      - ai agent
+  youtube:
+    include_keywords:
+      - AI tools
+      - AI automation
+      - LLM tutorial
+

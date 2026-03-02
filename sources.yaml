@@ -1,0 +1,42 @@
+schema_version: 1
+sources:
+- id: douyin-search
+  name: Douyin Search (Web)
+  url: https://www.douyin.com/search
+  category: community
+  language: zh
+  region: CN
+  status: active
+  priority: 5
+  notes: 抖音搜索入口（本地登录浏览器自动化）
+  added_at: '2026-02-25'
+- id: xiaohongshu-search
+  name: Xiaohongshu Search (Web)
+  url: https://www.xiaohongshu.com/search_result
+  category: community
+  language: zh
+  region: CN
+  status: active
+  priority: 5
+  notes: 小红书搜索入口（本地登录浏览器自动化）
+  added_at: '2026-02-25'
+- id: x-search
+  name: X Search (Web)
+  url: https://x.com/search
+  category: community
+  language: en
+  region: US
+  status: active
+  priority: 4
+  notes: X 搜索入口（浏览器搜索）
+  added_at: '2026-02-25'
+- id: youtube-search
+  name: YouTube Search/API
+  url: https://www.youtube.com/results
+  category: community
+  language: en
+  region: US
+  status: active
+  priority: 4
+  notes: YouTube 搜索入口（优先 Data API v3）
+  added_at: '2026-02-25'

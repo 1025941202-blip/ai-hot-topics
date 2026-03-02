@@ -1,0 +1,22 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# runtime data
+data/
+outbox/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# playwright local profile/cache
+playwright-user-data/
+
+# editor/idea
+.idea/
+.vscode/

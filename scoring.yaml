@@ -1,0 +1,48 @@
+schema_version: 1
+weights:
+  hotness: 0.4
+  freshness: 0.2
+  reproducibility: 0.25
+  china_fit: 0.15
+weights_version: v1
+generation_threshold: 70
+platform_normalization:
+  douyin:
+    likes_scale: 5000
+    comments_scale: 500
+    shares_scale: 200
+  xiaohongshu:
+    likes_scale: 3000
+    comments_scale: 300
+    shares_scale: 150
+  x:
+    likes_scale: 2000
+    comments_scale: 200
+    shares_scale: 100
+  youtube:
+    views_scale: 50000
+    likes_scale: 2000
+    comments_scale: 200
+penalties:
+  ad_like: 20
+  low_info_density: 10
+  obvious_repost: 15
+heuristics:
+  reproducibility_keywords:
+    - 教程
+    - workflow
+    - step by step
+    - case study
+    - 拆解
+    - 清单
+    - 实测
+    - 对比
+    - prompt
+  china_fit_keywords:
+    - 国内
+    - 中文
+    - 小红书
+    - 抖音
+    - 微信
+    - 飞书
+
