@@ -14,6 +14,7 @@ MAX_PER_KEYWORD="${PAGES_MAX_PER_KEYWORD:-20}"
 EXPORT_LIMIT="${PAGES_EXPORT_LIMIT:-300}"
 SORT_BY="${PAGES_SORT_BY:-likes}"
 SORT_ORDER="${PAGES_SORT_ORDER:-desc}"
+COLLECT_TIMEOUT_SECONDS="${PAGES_COLLECT_TIMEOUT_SECONDS:-180}"
 
 if [[ ! -x "$PYTHON_BIN" ]]; then
   echo "[ERROR] Python not executable: $PYTHON_BIN" >&2
@@ -37,6 +38,32 @@ run_cmd() {
   "$@"
 }
 
+run_with_timeout() {
+  local timeout_secs="$1"
+  shift
+  if command -v gtimeout >/dev/null 2>&1; then
+    gtimeout "$timeout_secs" "$@"
+    return
+  fi
+  if command -v timeout >/dev/null 2>&1; then
+    timeout "$timeout_secs" "$@"
+    return
+  fi
+  "$PYTHON_BIN" - "$timeout_secs" "$@" <<'PY'
+import subprocess
+import sys
+
+timeout = int(sys.argv[1])
+cmd = sys.argv[2:]
+try:
+    completed = subprocess.run(cmd, timeout=timeout)
+    raise SystemExit(completed.returncode)
+except subprocess.TimeoutExpired:
+    print(f"[pages-publish] WARN: command timeout ({timeout}s): {' '.join(cmd)}", file=sys.stderr)
+    raise SystemExit(124)
+PY
+}
+
 if ! run_cmd "git pull --ff-only" git pull --ff-only "$REMOTE" "$BRANCH"; then
   echo "[pages-publish] WARN: git pull failed, continue with local branch state"
 fi
@@ -48,7 +75,8 @@ if [[ "$RUN_COLLECT" == "1" ]]; then
     if [[ -z "$p" ]]; then
       continue
     fi
-    if ! run_cmd "collect platform=$p" \
+    if ! run_cmd "collect platform=$p timeout=${COLLECT_TIMEOUT_SECONDS}s" \
+      run_with_timeout "$COLLECT_TIMEOUT_SECONDS" \
       env PYTHONPATH="$PROJECT_DIR/src" "$PYTHON_BIN" -m ai_hot_topics.cli \
         --project-dir "$PROJECT_DIR" \
         collect --platform "$p" --since-hours "$SINCE_HOURS" --max-per-keyword "$MAX_PER_KEYWORD"; then
