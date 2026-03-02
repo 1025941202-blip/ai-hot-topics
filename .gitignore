@@ -8,7 +8,7 @@ __pycache__/
 *.egg-info/
 
 # runtime data
-data/
+/data/
 outbox/
 *.db
 *.sqlite
