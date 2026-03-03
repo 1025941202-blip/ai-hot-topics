@@ -109,6 +109,7 @@ PYTHONPATH=src ./.venv/bin/python scripts/export_pages_data.py \
 
 该脚本会自动执行：
 - 抓取平台（默认 `xiaohongshu,huitun`）
+- 抓取平台（默认 `xiaohongshu,huitun,douyin,x,youtube`）
 - `process` 聚类评分
 - 导出 `docs/data/candidates.json`
 - `git commit` + `git push`

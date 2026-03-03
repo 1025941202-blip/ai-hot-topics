@@ -48,7 +48,7 @@ cat > "$PLIST_PATH" <<PLIST
       <key>PAGES_RUN_PROCESS</key>
       <string>1</string>
       <key>PAGES_COLLECT_PLATFORMS</key>
-      <string>xiaohongshu,huitun</string>
+      <string>xiaohongshu,huitun,douyin,x,youtube</string>
       <key>PAGES_SINCE_HOURS</key>
       <string>48</string>
       <key>PAGES_MAX_PER_KEYWORD</key>
