@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import sqlite3
 from dataclasses import dataclass
+from datetime import datetime
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -52,6 +53,10 @@ SORT_FIELD_ALIASES = {
     "view": "view_count",
     "view_count": "view_count",
     "阅读": "view_count",
+    "published_at": "note_published_at",
+    "publish_time": "note_published_at",
+    "published": "note_published_at",
+    "发布时间": "note_published_at",
 }
 SORT_ORDER_ALIASES = {
     "desc": "desc",
@@ -210,13 +215,22 @@ class DashboardService:
                 result.append(item)
             if sort_metric:
                 reverse = normalized_sort_order == "desc"
-                result.sort(
-                    key=lambda row: (
-                        _to_int(row.get(sort_metric)),
-                        float(row.get("total_score") or 0),
-                    ),
-                    reverse=reverse,
-                )
+                if sort_metric == "note_published_at":
+                    result.sort(
+                        key=lambda row: (
+                            _to_timestamp(row.get(sort_metric)),
+                            float(row.get("total_score") or 0),
+                        ),
+                        reverse=reverse,
+                    )
+                else:
+                    result.sort(
+                        key=lambda row: (
+                            _to_int(row.get(sort_metric)),
+                            float(row.get("total_score") or 0),
+                        ),
+                        reverse=reverse,
+                    )
                 result = result[:limit]
             return result
         finally:
@@ -406,6 +420,20 @@ def _metric_value(key: str, *metric_maps: dict[str, Any]) -> int:
         if value > 0:
             return value
     return 0
+
+
+def _to_timestamp(value: Any) -> float:
+    if value is None:
+        return 0.0
+    if isinstance(value, (int, float)):
+        return float(value)
+    text = str(value).strip()
+    if not text:
+        return 0.0
+    try:
+        return datetime.fromisoformat(text.replace("Z", "+00:00")).timestamp()
+    except ValueError:
+        return 0.0
 
 
 def _dashboard_html() -> str:
@@ -635,6 +663,7 @@ def _dashboard_html() -> str:
         <option value="likes">按点赞</option>
         <option value="favorites">按收藏</option>
         <option value="comments">按评论</option>
+        <option value="published_at">按发布时间</option>
       </select>
       <select id="sortOrder">
         <option value="desc">降序</option>

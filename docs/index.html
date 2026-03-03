@@ -210,6 +210,7 @@
         <option value="comment_count">按评论</option>
         <option value="share_count">按分享</option>
         <option value="view_count">按阅读</option>
+        <option value="published_at">按发布时间</option>
       </select>
       <select id="sortOrder">
         <option value="desc">降序</option>
@@ -262,6 +263,21 @@
       if (item.publish_time_text) return item.publish_time_text;
       if (!item.published_at) return "-";
       return String(item.published_at).replace("T", " ").replace("Z", "");
+    }
+
+    function toTimestamp(value) {
+      const text = String(value || "").trim();
+      if (!text) return 0;
+      const d = new Date(text);
+      if (!Number.isFinite(d.getTime())) return 0;
+      return d.getTime();
+    }
+
+    function getSortValue(item, sortBy) {
+      if (sortBy === "published_at") {
+        return toTimestamp(item.published_at);
+      }
+      return Number(item[sortBy] || 0);
     }
 
     function renderSummary() {
@@ -341,8 +357,8 @@
       });
 
       rows.sort((a, b) => {
-        const av = Number(a[sortBy] || 0);
-        const bv = Number(b[sortBy] || 0);
+        const av = getSortValue(a, sortBy);
+        const bv = getSortValue(b, sortBy);
         if (sortOrder === "asc") return av - bv;
         return bv - av;
       });

@@ -248,6 +248,23 @@ class DashboardServiceTests(unittest.TestCase):
         self.assertEqual(len(by_comments_top1), 1)
         self.assertEqual(by_comments_top1[0]["candidate_id"], "topic-def456")
 
+    def test_sort_by_published_at(self):
+        by_publish_desc = self.service.fetch_candidates(
+            platform="xiaohongshu",
+            sort_by="发布时间",
+            sort_order="降序",
+            limit=20,
+        )
+        self.assertEqual(by_publish_desc[0]["candidate_id"], "topic-def456")
+
+        by_publish_asc = self.service.fetch_candidates(
+            platform="xiaohongshu",
+            sort_by="published_at",
+            sort_order="asc",
+            limit=20,
+        )
+        self.assertEqual(by_publish_asc[0]["candidate_id"], "topic-abc123")
+
 
 if __name__ == "__main__":
     unittest.main()
