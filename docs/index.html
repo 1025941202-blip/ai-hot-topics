@@ -241,6 +241,13 @@
       "已通过": "status-approved",
       "已拒绝": "status-rejected",
     };
+    const PLATFORM_LABELS = {
+      xiaohongshu: "小红书",
+      huitun: "灰豚",
+      douyin: "抖音",
+      x: "X",
+      youtube: "YouTube",
+    };
 
     function escapeHtml(value) {
       return String(value || "")
@@ -280,14 +287,26 @@
       return Number(item[sortBy] || 0);
     }
 
+    function platformLabel(platform) {
+      const key = String(platform || "").trim().toLowerCase();
+      if (!key) return "未知平台";
+      return PLATFORM_LABELS[key] || key;
+    }
+
     function renderSummary() {
-      const cards = [
+      const baseCards = [
         ["总候选", summary.total_candidates || 0],
         ["总内容", summary.total_posts || 0],
-        ["小红书", summary.xiaohongshu_posts || 0],
-        ["灰豚", summary.huitun_posts || 0],
         ["已通过", summary.approved_candidates || 0],
       ];
+      const platformStats = Array.isArray(summary.by_platform_candidates) && summary.by_platform_candidates.length
+        ? summary.by_platform_candidates
+        : (Array.isArray(summary.by_platform) ? summary.by_platform : []);
+      const platformCards = platformStats.map(item => [
+        `${platformLabel(item.platform)}选题`,
+        Number(item.count || 0),
+      ]);
+      const cards = [...baseCards, ...platformCards];
       summaryEl.innerHTML = cards.map(([k, v]) => (
         `<div class="item"><div class="label">${k}</div><div class="val">${v}</div></div>`
       )).join("");

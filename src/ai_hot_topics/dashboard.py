@@ -112,6 +112,7 @@ class DashboardService:
                 ORDER BY n DESC
                 """
             ).fetchall()
+            by_platform_candidates = _candidate_platform_counts(conn)
             return {
                 "total_posts": total_posts,
                 "total_candidates": total_clusters,
@@ -123,6 +124,7 @@ class DashboardService:
                 "by_platform": [
                     {"platform": str(r["platform"]), "count": int(r["n"])} for r in by_platform_rows
                 ],
+                "by_platform_candidates": by_platform_candidates,
             }
         finally:
             conn.close()
@@ -361,6 +363,24 @@ def _count(conn: sqlite3.Connection, sql: str) -> int:
     if not row:
         return 0
     return int(row["n"])
+
+
+def _candidate_platform_counts(conn: sqlite3.Connection) -> list[dict[str, Any]]:
+    rows = conn.execute("SELECT representative_post_refs_json FROM topic_clusters").fetchall()
+    counter: dict[str, int] = {}
+    for row in rows:
+        refs = json_loads(row["representative_post_refs_json"], default=[]) or []
+        platforms: set[str] = set()
+        for ref in refs:
+            if not isinstance(ref, str) or ":" not in ref:
+                continue
+            platform = ref.split(":", 1)[0].strip().lower()
+            if platform:
+                platforms.add(platform)
+        for platform in platforms:
+            counter[platform] = counter.get(platform, 0) + 1
+    ordered = sorted(counter.items(), key=lambda item: (-item[1], item[0]))
+    return [{"platform": platform, "count": count} for platform, count in ordered]
 
 
 def _normalize_review_status(value: str) -> str:
@@ -689,6 +709,13 @@ def _dashboard_html() -> str:
       approved: "已通过",
       rejected: "已拒绝",
     };
+    const PLATFORM_LABELS = {
+      xiaohongshu: "小红书",
+      huitun: "灰豚",
+      douyin: "抖音",
+      x: "X",
+      youtube: "YouTube",
+    };
 
     async function fetchJSON(url, options = {}) {
       const resp = await fetch(url, options);
@@ -743,15 +770,27 @@ def _dashboard_html() -> str:
       return String(row.note_published_at).replace("T", " ").replace("Z", "");
     }
 
+    function platformLabel(platform) {
+      const key = String(platform || "").trim().toLowerCase();
+      if (!key) return "未知平台";
+      return PLATFORM_LABELS[key] || key;
+    }
+
     function renderSummary(data) {
-      const cards = [
+      const baseCards = [
         ["总候选", data.total_candidates || 0],
-        ["小红书内容", data.xiaohongshu_posts || 0],
-        ["灰豚内容", data.huitun_posts || 0],
         ["总内容", data.total_posts || 0],
         ["已通过", data.approved_candidates || 0],
         ["脚本草稿", data.generated_drafts || 0],
       ];
+      const platformStats = Array.isArray(data.by_platform_candidates) && data.by_platform_candidates.length
+        ? data.by_platform_candidates
+        : (Array.isArray(data.by_platform) ? data.by_platform : []);
+      const platformCards = platformStats.map(item => [
+        `${platformLabel(item.platform)}选题`,
+        Number(item.count || 0),
+      ]);
+      const cards = [...baseCards, ...platformCards];
       summaryEl.innerHTML = cards.map(([label, value]) =>
         `<div class="summary-card"><div class="label">${label}</div><div class="value">${value}</div></div>`
       ).join("");

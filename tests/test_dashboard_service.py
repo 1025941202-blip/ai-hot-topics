@@ -186,6 +186,12 @@ class DashboardServiceTests(unittest.TestCase):
         self.assertGreaterEqual(summary["total_candidates"], 1)
         self.assertGreaterEqual(summary["xiaohongshu_posts"], 1)
         self.assertIn("huitun_posts", summary)
+        self.assertIn("by_platform_candidates", summary)
+        platform_map = {
+            str(x.get("platform")): int(x.get("count") or 0)
+            for x in (summary.get("by_platform_candidates") or [])
+        }
+        self.assertEqual(platform_map.get("xiaohongshu"), 2)
 
         rows = self.service.fetch_candidates(platform="xiaohongshu", min_score=70, limit=20)
         self.assertEqual(len(rows), 2)
