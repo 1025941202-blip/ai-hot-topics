@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T01:23:18.788135Z",
+  "generated_at": "2026-03-03T06:38:01.687273Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 1,
-    "last_updated_at": "2026-03-03T01:23:18.715249Z",
+    "last_updated_at": "2026-03-03T06:38:01.587736Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -57,7 +57,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 70.92
+      "total_score": 69.07
     },
     {
       "candidate_id": "topic-c256047f548244e9e5",
@@ -878,7 +878,7 @@
       "author_bio": "邵老师，旁门左道PPT创始人，专注解决职场工作型难题\n------------\n‼️招聘PPT设计师、产品运营、用户运营",
       "author_fans_count": 1378181,
       "status": "待处理",
-      "total_score": 50.24
+      "total_score": 50.23
     },
     {
       "candidate_id": "topic-3b5621aa71f9b275cb",
@@ -1784,7 +1784,7 @@
       "author_bio": "AI产品经理 | 华科CS+传播学 → LSE\n用大白话聊AI，不贩卖焦虑，只说人话",
       "author_fans_count": 130,
       "status": "待处理",
-      "total_score": 28.06
+      "total_score": 28.05
     },
     {
       "candidate_id": "topic-0307b7401e67fd7156",
@@ -1979,7 +1979,7 @@
       "author_bio": "还没有简介",
       "author_fans_count": 971,
       "status": "待处理",
-      "total_score": 36.02
+      "total_score": 36.01
     },
     {
       "candidate_id": "topic-0a452144816d76d9f2",
@@ -2178,7 +2178,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 21.5
+      "total_score": 21.49
     },
     {
       "candidate_id": "topic-30453e764013d7cd3b",
