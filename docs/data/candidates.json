@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T07:04:16.420924Z",
+  "generated_at": "2026-03-04T01:29:21.594035Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,13 +8,13 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 286,
-    "total_candidates": 216,
+    "total_posts": 287,
+    "total_candidates": 217,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 1,
-    "last_updated_at": "2026-03-03T07:04:16.344141Z",
+    "last_updated_at": "2026-03-04T01:29:21.516501Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -26,7 +26,7 @@
       },
       {
         "platform": "x",
-        "count": 22
+        "count": 23
       },
       {
         "platform": "huitun",
@@ -44,7 +44,7 @@
       },
       {
         "platform": "x",
-        "count": 25
+        "count": 26
       },
       {
         "platform": "huitun",
@@ -75,7 +75,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 68.93
+      "total_score": 63.2
     },
     {
       "candidate_id": "topic-c256047f548244e9e5",
@@ -291,7 +291,7 @@
       "author_bio": "曾就职一线互联网大厂，目前AI创业中\n紧跟AI最前沿技术，深度研究国内外AI如何落地\n致力于帮助普通人学会AI，帮助企业通过AI提效",
       "author_fans_count": 31950,
       "status": "待处理",
-      "total_score": 63.0
+      "total_score": 62.99
     },
     {
       "candidate_id": "topic-bf83b126fd75b956bc",
@@ -580,7 +580,7 @@
       "author_bio": "教你给AI喂数据，帮模型开脑洞，难产了就重启试试！",
       "author_fans_count": 29857,
       "status": "待处理",
-      "total_score": 65.02
+      "total_score": 65.01
     },
     {
       "candidate_id": "topic-b673df28523815eb90",
@@ -702,7 +702,7 @@
       "author_bio": "苏州最有温度的一人公司创业圈@LabZone一人公司 主理人\n🎯 专研：个体商业模式×认知升级×执行力\n🌟 帮你在不确定性中寻找确定性的商业逻辑\n📈 目标：陪伴3650位伙伴完成从想法到变现",
       "author_fans_count": 2398,
       "status": "待处理",
-      "total_score": 59.39
+      "total_score": 59.38
     },
     {
       "candidate_id": "topic-bc1393af3001feafd2",
@@ -751,7 +751,7 @@
       "author_bio": "欢迎看我的每日投研笔记和每周策略(A港美债金q权)\n🏦华尔街交易员 (PIMCO加州股债 IDG风投 美林投行)\n📖哥大奖学金(15届 格雷厄姆价值投资)\n❤️运动员 连续创业 偶尔擦边@花里胡邵",
       "author_fans_count": 132127,
       "status": "待处理",
-      "total_score": 60.45
+      "total_score": 60.44
     },
     {
       "candidate_id": "topic-099575ba7986f1f8f9",
@@ -848,7 +848,7 @@
       "author_bio": "✨沉迷AI，无法自拔\n🈴 XuanJiang233（辛苦备注）\n所有视频配套教材文档，都在群里（需关注）\n加入团队，文案后期投递👉yiqustudio@gmail.com",
       "author_fans_count": 160791,
       "status": "待处理",
-      "total_score": 51.05
+      "total_score": 51.04
     },
     {
       "candidate_id": "topic-198234837d42953697",
@@ -896,7 +896,7 @@
       "author_bio": "邵老师，旁门左道PPT创始人，专注解决职场工作型难题\n------------\n‼️招聘PPT设计师、产品运营、用户运营",
       "author_fans_count": 1378181,
       "status": "待处理",
-      "total_score": 50.23
+      "total_score": 50.2
     },
     {
       "candidate_id": "topic-3b5621aa71f9b275cb",
@@ -1118,7 +1118,7 @@
       "author_bio": "📱：一个测评软件 | 网站 | 数码的号\n🌲：带你一起打开新世界的大门\n📮：Uianli",
       "author_fans_count": 425146,
       "status": "待处理",
-      "total_score": 45.0
+      "total_score": 44.99
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -1338,7 +1338,7 @@
       "author_bio": "Web3从业者\nBase北京\n一起Build呀～",
       "author_fans_count": 4289,
       "status": "待处理",
-      "total_score": 44.73
+      "total_score": 44.72
     },
     {
       "candidate_id": "topic-deb7831b5befefdf57",
@@ -1802,7 +1802,7 @@
       "author_bio": "AI产品经理 | 华科CS+传播学 → LSE\n用大白话聊AI，不贩卖焦虑，只说人话",
       "author_fans_count": 130,
       "status": "待处理",
-      "total_score": 28.05
+      "total_score": 28.04
     },
     {
       "candidate_id": "topic-0307b7401e67fd7156",
@@ -1997,7 +1997,7 @@
       "author_bio": "还没有简介",
       "author_fans_count": 971,
       "status": "待处理",
-      "total_score": 36.01
+      "total_score": 35.97
     },
     {
       "candidate_id": "topic-0a452144816d76d9f2",
@@ -2071,7 +2071,7 @@
       "author_bio": "..",
       "author_fans_count": 4907,
       "status": "待处理",
-      "total_score": 51.46
+      "total_score": 51.44
     },
     {
       "candidate_id": "topic-f25271842c1fbf468f",
@@ -2143,7 +2143,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 20.01
+      "total_score": 20.0
     },
     {
       "candidate_id": "topic-c8bd425be30bdc747f",
@@ -2196,7 +2196,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 21.49
+      "total_score": 21.47
     },
     {
       "candidate_id": "topic-30453e764013d7cd3b",
@@ -2220,7 +2220,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.39
+      "total_score": 25.38
     },
     {
       "candidate_id": "topic-c1e02dc9fe6d491e6a",
@@ -2248,7 +2248,7 @@
       "author_bio": "分享AI干货 |专注AI变现\n诗词金句爱好者，10年流量玩家，AI变现学员2000+\n关注我，开启AI赋能变现之旅！",
       "author_fans_count": 134392,
       "status": "待处理",
-      "total_score": 27.98
+      "total_score": 27.97
     },
     {
       "candidate_id": "topic-8ada23eccc3fe9acd1",
@@ -2392,7 +2392,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.71
+      "total_score": 26.7
     },
     {
       "candidate_id": "topic-93e49c311f0aee1e29",
@@ -2492,7 +2492,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 14.26
+      "total_score": 14.25
     },
     {
       "candidate_id": "topic-103bd7ee26f3872bd9",
@@ -2685,7 +2685,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 13.64
+      "total_score": 13.63
     },
     {
       "candidate_id": "topic-659b51616f7f2660b0",
@@ -2713,7 +2713,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 16.87
+      "total_score": 16.86
     },
     {
       "candidate_id": "topic-c4c5a10d5ef5e1ab3d",
@@ -3843,6 +3843,30 @@
       ],
       "source_links": [
         "https://t.co/gOB4cjxwzU"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 20.25
+    },
+    {
+      "candidate_id": "topic-20d28f891e5b4056ca",
+      "title": "𝐥𝐢𝐜𝐞 VAI VER O NOAH",
+      "summary": "𝐥𝐢𝐜𝐞 VAI VER O NOAH",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/bylerssexual"
       ],
       "published_at": "",
       "publish_time_text": "",
