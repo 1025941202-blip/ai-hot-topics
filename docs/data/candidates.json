@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T01:29:21.594035Z",
+  "generated_at": "2026-03-05T01:28:44.640089Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,13 +8,13 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 287,
-    "total_candidates": 217,
+    "total_posts": 311,
+    "total_candidates": 238,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
-    "huitun_posts": 1,
-    "last_updated_at": "2026-03-04T01:29:21.516501Z",
+    "huitun_posts": 3,
+    "last_updated_at": "2026-03-05T01:28:44.566385Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -26,33 +26,81 @@
       },
       {
         "platform": "x",
-        "count": 23
+        "count": 45
       },
       {
         "platform": "huitun",
-        "count": 1
+        "count": 3
       }
     ],
     "by_platform_candidates": [
       {
         "platform": "xiaohongshu",
-        "count": 107
+        "count": 110
       },
       {
         "platform": "youtube",
-        "count": 91
+        "count": 92
       },
       {
         "platform": "x",
-        "count": 26
+        "count": 45
       },
       {
         "platform": "huitun",
-        "count": 1
+        "count": 3
       }
     ]
   },
   "items": [
+    {
+      "candidate_id": "topic-9789c235487348adc7",
+      "title": "爱一个人爱到如此慷慨又自私 #青梅竹马 @zaibuzhan",
+      "summary": "爱一个人爱到如此慷慨又自私 #青梅竹马 @zaibuzhan",
+      "platforms": [
+        "huitun"
+      ],
+      "source_links": [
+        "https://www.douyin.com/video/7613308012879263586"
+      ],
+      "published_at": "2026-03-04T16:03:00Z",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 1168900,
+      "favorite_count": 29744,
+      "comment_count": 14636,
+      "share_count": 318903,
+      "author_name": "熙熙宝贝",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 78.37
+    },
+    {
+      "candidate_id": "topic-eed4f2441cef64053b",
+      "title": "AI机器人正确表达情绪能等同于理解了人类情绪吗？ 自古以来，人类就习惯通过面对面，\n完成最高效、最深情的交流。\n在那看似普通的对视、点头、沉默，\n乃至一个微表情的瞬间，难以量化的情绪，\n悄然左右着人们的信任、决策与爱意。\n#AI新星计划 #首形科技",
+      "summary": "AI机器人正确表达情绪能等同于理解了人类情绪吗？ 自古以来，人类就习惯通过面对面，\n完成最高效、最深情的交流。\n在那看似普通的对视、点头、沉默，\n乃至一个微表情的瞬间，难以量化的情绪，\n悄然左右着人们的信任、决策与爱意。\n#AI新星计划 #首形科技",
+      "platforms": [
+        "huitun"
+      ],
+      "source_links": [
+        "https://www.douyin.com/video/7613282466257767730"
+      ],
+      "published_at": "2026-03-04T14:34:00Z",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 439086,
+      "favorite_count": 32728,
+      "comment_count": 29660,
+      "share_count": 456539,
+      "author_name": "U航",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 78.0
+    },
     {
       "candidate_id": "topic-cd6b3201baa9327249",
       "title": "嬛嬛，假如爱真的存在… #王鹤棣 #杨不孬 #甄嬛传 #奶茶小肥仔 #剪映AI马住创意",
@@ -75,7 +123,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 63.2
+      "total_score": 62.48
     },
     {
       "candidate_id": "topic-c256047f548244e9e5",
@@ -291,7 +339,7 @@
       "author_bio": "曾就职一线互联网大厂，目前AI创业中\n紧跟AI最前沿技术，深度研究国内外AI如何落地\n致力于帮助普通人学会AI，帮助企业通过AI提效",
       "author_fans_count": 31950,
       "status": "待处理",
-      "total_score": 62.99
+      "total_score": 62.98
     },
     {
       "candidate_id": "topic-bf83b126fd75b956bc",
@@ -580,7 +628,7 @@
       "author_bio": "教你给AI喂数据，帮模型开脑洞，难产了就重启试试！",
       "author_fans_count": 29857,
       "status": "待处理",
-      "total_score": 65.01
+      "total_score": 65.0
     },
     {
       "candidate_id": "topic-b673df28523815eb90",
@@ -751,7 +799,33 @@
       "author_bio": "欢迎看我的每日投研笔记和每周策略(A港美债金q权)\n🏦华尔街交易员 (PIMCO加州股债 IDG风投 美林投行)\n📖哥大奖学金(15届 格雷厄姆价值投资)\n❤️运动员 连续创业 偶尔擦边@花里胡邵",
       "author_fans_count": 132127,
       "status": "待处理",
-      "total_score": 60.44
+      "total_score": 60.43
+    },
+    {
+      "candidate_id": "topic-6c62f8ad93985fa8dc",
+      "title": "AI Agent工程师学习路线，不走弯路",
+      "summary": "AI Agent工程师学习路线，不走弯路；@AgenticAiLabs",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69a0319f000000000e00d981",
+        "https://x.com/AgenticAiLabs"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 2731,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "小朱编程AI",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 39.5
     },
     {
       "candidate_id": "topic-099575ba7986f1f8f9",
@@ -800,7 +874,7 @@
       "author_bio": "跨境电商AI设计师｜艺术类硕士｜intj\n持续更新ai最新讯息｜AI｜养猫日记@可可奈斯 \n接作品集辅导｜Lu-X1029\n📮：2556048840@qq.com",
       "author_fans_count": 3278,
       "status": "待处理",
-      "total_score": 57.89
+      "total_score": 57.88
     },
     {
       "candidate_id": "topic-ed7f99a0b5a709ace3",
@@ -848,7 +922,7 @@
       "author_bio": "✨沉迷AI，无法自拔\n🈴 XuanJiang233（辛苦备注）\n所有视频配套教材文档，都在群里（需关注）\n加入团队，文案后期投递👉yiqustudio@gmail.com",
       "author_fans_count": 160791,
       "status": "待处理",
-      "total_score": 51.04
+      "total_score": 51.03
     },
     {
       "candidate_id": "topic-198234837d42953697",
@@ -896,7 +970,7 @@
       "author_bio": "邵老师，旁门左道PPT创始人，专注解决职场工作型难题\n------------\n‼️招聘PPT设计师、产品运营、用户运营",
       "author_fans_count": 1378181,
       "status": "待处理",
-      "total_score": 50.2
+      "total_score": 50.17
     },
     {
       "candidate_id": "topic-3b5621aa71f9b275cb",
@@ -977,6 +1051,36 @@
       "total_score": 37.55
     },
     {
+      "candidate_id": "topic-c90564737d25ae80f5",
+      "title": "學習時最不該做的事 #ai #chatgpt #ai工具 #學習",
+      "summary": "學習時最不該做的事 #ai #chatgpt #ai工具 #學習；OpenAI 认了，光靠订阅养不起ChatGPT；@OpenAI",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=vCtqphmVW_w",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
+        "https://x.com/OpenAI",
+        "https://t.co/H2O10dR013",
+        "https://x.com/hashtag/OpenAI?src=hashtag_click"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 32.13
+    },
+    {
       "candidate_id": "topic-d5c677feebcd588ea5",
       "title": "Cursor保姆级教程零基础小白从安装到实战",
       "summary": "Cursor保姆级教程零基础小白从安装到实战",
@@ -1022,7 +1126,7 @@
       "author_bio": "8年视觉项目经验｜摄影师\n产品摄影｜静物摄影｜线上电商摄影\n合作：406918632 @qq.com",
       "author_fans_count": 260,
       "status": "待处理",
-      "total_score": 48.14
+      "total_score": 48.13
     },
     {
       "candidate_id": "topic-29b11fc7a4d7604d1e",
@@ -1118,7 +1222,7 @@
       "author_bio": "📱：一个测评软件 | 网站 | 数码的号\n🌲：带你一起打开新世界的大门\n📮：Uianli",
       "author_fans_count": 425146,
       "status": "待处理",
-      "total_score": 44.99
+      "total_score": 44.98
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -1167,7 +1271,7 @@
       "author_bio": "成峰： 🔍AI 产品自由\n不是程序员\n独立开发者：正在做Agent\n                                                      😃关注一下👇🏻",
       "author_fans_count": 12508,
       "status": "待处理",
-      "total_score": 43.4
+      "total_score": 43.39
     },
     {
       "candidate_id": "topic-9d73b699b64dfe90d8",
@@ -1217,7 +1321,7 @@
       "author_bio": "🎓国立清华本硕，物理+电子工程\n🚀斜杠人生：半导体·芯片设计工程师➡️互联网·运营团队负责人➡️商业分析负责人\n💡分享产业研究 | 行业分析 | 商业案例\n📝商业分析方法学习@虎啸知析",
       "author_fans_count": 26458,
       "status": "待处理",
-      "total_score": 36.91
+      "total_score": 36.9
     },
     {
       "candidate_id": "topic-9e79cb06b8d34df4ba",
@@ -1338,7 +1442,7 @@
       "author_bio": "Web3从业者\nBase北京\n一起Build呀～",
       "author_fans_count": 4289,
       "status": "待处理",
-      "total_score": 44.72
+      "total_score": 44.71
     },
     {
       "candidate_id": "topic-deb7831b5befefdf57",
@@ -1802,7 +1906,7 @@
       "author_bio": "AI产品经理 | 华科CS+传播学 → LSE\n用大白话聊AI，不贩卖焦虑，只说人话",
       "author_fans_count": 130,
       "status": "待处理",
-      "total_score": 28.04
+      "total_score": 28.02
     },
     {
       "candidate_id": "topic-0307b7401e67fd7156",
@@ -1948,7 +2052,7 @@
       "author_bio": "🤓大厂AI深度爱好者，立志探索AI领域知识\n💪🏻努力分享自己学到的实用AIGC知识干货\n🤗AI为工作学习赋能，提高工作效率\n💪🏻原创丰富干货教程，提示词、工具、交流圈子@阿星自修室",
       "author_fans_count": 228,
       "status": "待处理",
-      "total_score": 27.63
+      "total_score": 27.62
     },
     {
       "candidate_id": "topic-0d61f7ede9386a09fd",
@@ -1997,7 +2101,7 @@
       "author_bio": "还没有简介",
       "author_fans_count": 971,
       "status": "待处理",
-      "total_score": 35.97
+      "total_score": 35.92
     },
     {
       "candidate_id": "topic-0a452144816d76d9f2",
@@ -2071,7 +2175,7 @@
       "author_bio": "..",
       "author_fans_count": 4907,
       "status": "待处理",
-      "total_score": 51.44
+      "total_score": 51.42
     },
     {
       "candidate_id": "topic-f25271842c1fbf468f",
@@ -2143,7 +2247,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 20.0
+      "total_score": 19.99
     },
     {
       "candidate_id": "topic-c8bd425be30bdc747f",
@@ -2196,7 +2300,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 21.47
+      "total_score": 21.46
     },
     {
       "candidate_id": "topic-30453e764013d7cd3b",
@@ -2220,7 +2324,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.38
+      "total_score": 25.37
     },
     {
       "candidate_id": "topic-c1e02dc9fe6d491e6a",
@@ -2344,7 +2448,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 14.38
+      "total_score": 14.37
     },
     {
       "candidate_id": "topic-4b2bbf371128e1fe6e",
@@ -2468,7 +2572,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 20.76
+      "total_score": 20.75
     },
     {
       "candidate_id": "topic-8a9ae6b3f9824d20f6",
@@ -3440,6 +3544,34 @@
       "total_score": 28.87
     },
     {
+      "candidate_id": "topic-d699582994ec6c40be",
+      "title": "@comentaindye",
+      "summary": "@comentaindye；@aixbt_agent；@aixbt_labs",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://x.com/comentaindye",
+        "https://x.com/aixbt_agent",
+        "https://x.com/aixbt_labs",
+        "https://www.xiaohongshu.com/explore/6986070a000000001a02fa21"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "ami.moment",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.0
+    },
+    {
       "candidate_id": "topic-95ac4245883c21d084",
       "title": "👍🏻我用AI搓了个生成电影解说的工作流",
       "summary": "👍🏻我用AI搓了个生成电影解说的工作流",
@@ -3561,6 +3693,30 @@
       "total_score": 25.5
     },
     {
+      "candidate_id": "topic-a417e7f59357dcd1f4",
+      "title": "The Best AI Workflow Automation Tools | Product Hunt",
+      "summary": "The Best AI Workflow Automation Tools | Product Hunt",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/XCKVI7UKk4"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 24.25
+    },
+    {
       "candidate_id": "topic-9a09c24c2481be33c1",
       "title": "I Turned My Mouse Cursor Into a Jet Plane ✈️",
       "summary": "I Turned My Mouse Cursor Into a Jet Plane ✈️；actusnews.com\nARCURE\n$ALCUR #ARCURE : Arcure Announces AI Blaxtair Solutions for BOMAG Single Drum Rollers",
@@ -3605,6 +3761,56 @@
       "comment_count": 0,
       "share_count": 0,
       "author_name": "Snelson Brunjes",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-ad05fdc52dc29b93f9",
+      "title": "@Shanghai_Repub",
+      "summary": "@Shanghai_Repub；@ponzinaire",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/Shanghai_Repub",
+        "https://x.com/ponzinaire"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-34fb31d185d2d4f7ac",
+      "title": "@sundarpichai",
+      "summary": "@sundarpichai；#YouandAICan",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/sundarpichai",
+        "https://x.com/hashtag/YouandAICan?src=hashtag_click"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
@@ -3708,6 +3914,54 @@
       "total_score": 22.25
     },
     {
+      "candidate_id": "topic-e35c40d530fd72241c",
+      "title": "The Best Open-Source LLMs in 2026: A Complete Guide for AI Developers - VERTU® Official Site",
+      "summary": "The Best Open-Source LLMs in 2026: A Complete Guide for AI Developers - VERTU® Official Site",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/ys6TYIJ573"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 22.25
+    },
+    {
+      "candidate_id": "topic-0ea7dcbd573dc122b1",
+      "title": "Aurion AI (4o Evolution)",
+      "summary": "Aurion AI (4o Evolution)",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/aurion_spark"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 22.25
+    },
+    {
       "candidate_id": "topic-fb22b5495c5d4cc948",
       "title": "API，500+大模型 需要调用Gemini API？这个网站让你效率翻倍，超好用！⬇️往评论区和主页看看",
       "summary": "API，500+大模型 需要调用Gemini API？这个网站让你效率翻倍，超好用！⬇️往评论区和主页看看；豆包Seedance2.0 API，超燃打斗，只需一句提示词⬇️往评论区和主页看看；豆包Seedance 2.0，超燃打斗，只需一条提示词⬇️往评论区和主页看看",
@@ -3732,7 +3986,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 21.55
+      "total_score": 21.54
     },
     {
       "candidate_id": "topic-d8dbd4c5b4dbf6d2c4",
@@ -3867,6 +4121,78 @@
       ],
       "source_links": [
         "https://x.com/bylerssexual"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 20.25
+    },
+    {
+      "candidate_id": "topic-ca01a8db6026d65c72",
+      "title": "Expert flags misuse of AI chatbot messages",
+      "summary": "Expert flags misuse of AI chatbot messages",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/CCSxhgXK7h"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 20.25
+    },
+    {
+      "candidate_id": "topic-a66381cdb250d54698",
+      "title": "#StopAIPaternalism",
+      "summary": "#StopAIPaternalism",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/hashtag/StopAIPaternalism?src=hashtag_click"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 20.25
+    },
+    {
+      "candidate_id": "topic-f947c971eb973da971",
+      "title": "やぎこ｜AI×UIUX×SEO",
+      "summary": "やぎこ｜AI×UIUX×SEO",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/yagicoDesign"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -4861,6 +5187,31 @@
       "total_score": 16.25
     },
     {
+      "candidate_id": "topic-267e19b609d1be2694",
+      "title": "@aiyanye2",
+      "summary": "@aiyanye2；@Riya96Ai",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/aiyanye2",
+        "https://x.com/Riya96Ai"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 15.5
+    },
+    {
       "candidate_id": "topic-6aa080066e59cd9ffa",
       "title": "Apni akhon amr ak nesha hoye gesen age je manus k grina kortam akhon oi manus amr shob👀🫶🏾🖤#songs",
       "summary": "Apni akhon amr ak nesha hoye gesen age je manus k grina kortam akhon oi manus amr shob👀🫶🏾🖤#songs",
@@ -4981,30 +5332,6 @@
       "total_score": 10.75
     },
     {
-      "candidate_id": "topic-625c4842b3373ae6f6",
-      "title": "#YouandAICan",
-      "summary": "#YouandAICan",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/hashtag/YouandAICan?src=hashtag_click"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 10.25
-    },
-    {
       "candidate_id": "topic-0e5c2a111c0a2657ac",
       "title": "@AGIisXplusAI",
       "summary": "@AGIisXplusAI",
@@ -5013,30 +5340,6 @@
       ],
       "source_links": [
         "https://x.com/AGIisXplusAI"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 10.25
-    },
-    {
-      "candidate_id": "topic-3da3d3ac7d7b621f8f",
-      "title": "@ponzinaire",
-      "summary": "@ponzinaire",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/ponzinaire"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -5157,6 +5460,222 @@
       ],
       "source_links": [
         "https://x.com/jtc_ai"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 10.25
+    },
+    {
+      "candidate_id": "topic-824ea5b49a0c823792",
+      "title": "Miss AI",
+      "summary": "Miss AI",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/Dom_shandong"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 10.25
+    },
+    {
+      "candidate_id": "topic-12db11773b50d121f5",
+      "title": "@gugeaigc",
+      "summary": "@gugeaigc",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/gugeaigc"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 10.25
+    },
+    {
+      "candidate_id": "topic-20ffe4a644c65147ca",
+      "title": "@AIExplorerTim",
+      "summary": "@AIExplorerTim",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/AIExplorerTim"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 10.25
+    },
+    {
+      "candidate_id": "topic-1dc16085e9bd6b1b43",
+      "title": "@Naiwenel",
+      "summary": "@Naiwenel",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/Naiwenel"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 10.25
+    },
+    {
+      "candidate_id": "topic-a2eb0f6f09390257e8",
+      "title": "#AINews",
+      "summary": "#AINews",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/hashtag/AINews?src=hashtag_click"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 10.25
+    },
+    {
+      "candidate_id": "topic-bb3dd77ae55105ca52",
+      "title": "From manus.im",
+      "summary": "From manus.im",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/hvTT92n4mA"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 10.25
+    },
+    {
+      "candidate_id": "topic-d586eb8cafad2c2710",
+      "title": "@aigoblin",
+      "summary": "@aigoblin",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/aigoblin"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 10.25
+    },
+    {
+      "candidate_id": "topic-625c4842b3373ae6f6",
+      "title": "#YouandAICan",
+      "summary": "#YouandAICan",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/hashtag/YouandAICan?src=hashtag_click"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 10.25
+    },
+    {
+      "candidate_id": "topic-3da3d3ac7d7b621f8f",
+      "title": "@ponzinaire",
+      "summary": "@ponzinaire",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/ponzinaire"
       ],
       "published_at": "",
       "publish_time_text": "",
