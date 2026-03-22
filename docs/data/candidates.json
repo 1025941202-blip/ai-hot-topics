@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T01:28:09.361596Z",
+  "generated_at": "2026-03-22T01:28:16.693574Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,13 +8,13 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 1198,
-    "total_candidates": 908,
+    "total_posts": 1203,
+    "total_candidates": 911,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
-    "huitun_posts": 4,
-    "last_updated_at": "2026-03-21T01:28:09.260714Z",
+    "huitun_posts": 5,
+    "last_updated_at": "2026-03-22T01:28:16.593610Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -22,7 +22,7 @@
       },
       {
         "platform": "x",
-        "count": 407
+        "count": 411
       },
       {
         "platform": "xiaohongshu",
@@ -30,13 +30,13 @@
       },
       {
         "platform": "huitun",
-        "count": 4
+        "count": 5
       }
     ],
     "by_platform_candidates": [
       {
         "platform": "x",
-        "count": 466
+        "count": 468
       },
       {
         "platform": "youtube",
@@ -48,7 +48,7 @@
       },
       {
         "platform": "huitun",
-        "count": 4
+        "count": 5
       }
     ]
   },
@@ -75,7 +75,31 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.11
+      "total_score": 61.09
+    },
+    {
+      "candidate_id": "topic-d198b6f80681346487",
+      "title": "《北境行者》 即便前方是穷途末路，也请你以身为火，照亮这沉沦时代。\n@陈泽-（尾数之王只玩尾数） @黑白- @刘回 @coke老师 @斩虍 #陈泽 #陈泽二创大赛 #ai创作浪潮计划 #coke #斩虍",
+      "summary": "《北境行者》 即便前方是穷途末路，也请你以身为火，照亮这沉沦时代。\n@陈泽-（尾数之王只玩尾数） @黑白- @刘回 @coke老师 @斩虍 #陈泽 #陈泽二创大赛 #ai创作浪潮计划 #coke #斩虍",
+      "platforms": [
+        "huitun"
+      ],
+      "source_links": [
+        "https://www.douyin.com/video/7619366626797833482"
+      ],
+      "published_at": "2026-03-21T09:25:00Z",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 913467,
+      "favorite_count": 118125,
+      "comment_count": 15324,
+      "share_count": 638169,
+      "author_name": "命比梦长AIGC",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 76.7
     },
     {
       "candidate_id": "topic-824993bb0ccb2e8a13",
@@ -99,7 +123,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.86
+      "total_score": 61.69
     },
     {
       "candidate_id": "topic-eed4f2441cef64053b",
@@ -123,7 +147,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.11
+      "total_score": 61.09
     },
     {
       "candidate_id": "topic-cd6b3201baa9327249",
@@ -147,7 +171,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.06
+      "total_score": 61.04
     },
     {
       "candidate_id": "topic-c256047f548244e9e5",
@@ -582,7 +606,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.48
+      "total_score": 41.42
     },
     {
       "candidate_id": "topic-41cc5b7f68db351328",
@@ -951,7 +975,7 @@
       "author_bio": "跨境电商AI设计师｜艺术类硕士｜intj\n持续更新ai最新讯息｜AI｜养猫日记@可可奈斯 \n接作品集辅导｜Lu-X1029\n📮：2556048840@qq.com",
       "author_fans_count": 3278,
       "status": "待处理",
-      "total_score": 57.85
+      "total_score": 57.84
     },
     {
       "candidate_id": "topic-ed7f99a0b5a709ace3",
@@ -999,7 +1023,7 @@
       "author_bio": "✨沉迷AI，无法自拔\n🈴 XuanJiang233（辛苦备注）\n所有视频配套教材文档，都在群里（需关注）\n加入团队，文案后期投递👉yiqustudio@gmail.com",
       "author_fans_count": 160791,
       "status": "待处理",
-      "total_score": 50.95
+      "total_score": 50.94
     },
     {
       "candidate_id": "topic-198234837d42953697",
@@ -1047,7 +1071,7 @@
       "author_bio": "邵老师，旁门左道PPT创始人，专注解决职场工作型难题\n------------\n‼️招聘PPT设计师、产品运营、用户运营",
       "author_fans_count": 1378181,
       "status": "待处理",
-      "total_score": 49.96
+      "total_score": 49.95
     },
     {
       "candidate_id": "topic-3b5621aa71f9b275cb",
@@ -1357,7 +1381,7 @@
       "author_bio": "📱：一个测评软件 | 网站 | 数码的号\n🌲：带你一起打开新世界的大门\n📮：Uianli",
       "author_fans_count": 425146,
       "status": "待处理",
-      "total_score": 44.92
+      "total_score": 44.91
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -1483,7 +1507,7 @@
       "author_bio": "🎓国立清华本硕，物理+电子工程\n🚀斜杠人生：半导体·芯片设计工程师➡️互联网·运营团队负责人➡️商业分析负责人\n💡分享产业研究 | 行业分析 | 商业案例\n📝商业分析方法学习@虎啸知析",
       "author_fans_count": 26458,
       "status": "待处理",
-      "total_score": 36.86
+      "total_score": 36.85
     },
     {
       "candidate_id": "topic-b8852cddd66a3367e3",
@@ -1634,7 +1658,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.26
+      "total_score": 26.2
     },
     {
       "candidate_id": "topic-d8256f31c76dacb3f3",
@@ -1659,7 +1683,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 22.8
+      "total_score": 22.79
     },
     {
       "candidate_id": "topic-edae2918aeaee81fe7",
@@ -1735,7 +1759,7 @@
       "author_bio": "Web3从业者\nBase北京\n一起Build呀～",
       "author_fans_count": 4289,
       "status": "待处理",
-      "total_score": 44.64
+      "total_score": 44.63
     },
     {
       "candidate_id": "topic-deb7831b5befefdf57",
@@ -1884,7 +1908,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.46
+      "total_score": 32.42
     },
     {
       "candidate_id": "topic-29d8665732d9fcf282",
@@ -2253,7 +2277,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.04
+      "total_score": 25.03
     },
     {
       "candidate_id": "topic-ea8ec7dfda6e06fb7d",
@@ -2677,7 +2701,7 @@
       "author_bio": "还没有简介",
       "author_fans_count": 971,
       "status": "待处理",
-      "total_score": 35.74
+      "total_score": 35.73
     },
     {
       "candidate_id": "topic-0a452144816d76d9f2",
@@ -2780,7 +2804,7 @@
       "author_bio": "..",
       "author_fans_count": 4907,
       "status": "待处理",
-      "total_score": 33.48
+      "total_score": 33.47
     },
     {
       "candidate_id": "topic-3d37ad020ece3956a6",
@@ -3145,7 +3169,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.33
+      "total_score": 25.32
     },
     {
       "candidate_id": "topic-ef057abc4023a19c15",
@@ -3171,7 +3195,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.75
+      "total_score": 25.73
     },
     {
       "candidate_id": "topic-c1e02dc9fe6d491e6a",
@@ -3327,7 +3351,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 20.19
+      "total_score": 20.18
     },
     {
       "candidate_id": "topic-a0dc770a35a4ba2007",
@@ -3561,7 +3585,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.17
+      "total_score": 25.15
     },
     {
       "candidate_id": "topic-2a203997a0a9d56832",
@@ -5288,31 +5312,6 @@
       "total_score": 25.5
     },
     {
-      "candidate_id": "topic-ef8002c486ef313ca5",
-      "title": "@KingChainX8",
-      "summary": "@KingChainX8；@Walker_B_Chain",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/KingChainX8",
-        "https://x.com/Walker_B_Chain"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
       "candidate_id": "topic-a077297957980ee139",
       "title": "@caiyue5",
       "summary": "@caiyue5；@baiyuewww；@liyue_ai",
@@ -5500,6 +5499,32 @@
       "source_links": [
         "https://x.com/kbaileyjava2",
         "https://x.com/RayBay30"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
+      "candidate_id": "topic-6433a8a99b41e12d61",
+      "title": "@Nas_tech_AI",
+      "summary": "@Nas_tech_AI；@zast_ai；@KingChainX8",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/Nas_tech_AI",
+        "https://x.com/zast_ai",
+        "https://x.com/KingChainX8"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -5723,6 +5748,31 @@
       "total_score": 25.5
     },
     {
+      "candidate_id": "topic-ef8002c486ef313ca5",
+      "title": "@KingChainX8",
+      "summary": "@KingChainX8；@Walker_B_Chain",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/KingChainX8",
+        "https://x.com/Walker_B_Chain"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
       "candidate_id": "topic-d0ecaf0ba4fb230c5c",
       "title": "@codependent_ai",
       "summary": "@codependent_ai；@contain1101；@comentaindye",
@@ -5810,32 +5860,6 @@
       "source_links": [
         "https://x.com/kissapiai",
         "https://x.com/rksais1"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
-      "candidate_id": "topic-6433a8a99b41e12d61",
-      "title": "@Nas_tech_AI",
-      "summary": "@Nas_tech_AI；@zast_ai；@KingChainX8",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/Nas_tech_AI",
-        "https://x.com/zast_ai",
-        "https://x.com/KingChainX8"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -6983,31 +7007,6 @@
         "https://x.com/CSiliconai",
         "https://x.com/kuon_ren_ai",
         "https://t.co/zkLeCiDiIY"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-2eed49e1d1d1fd0f80",
-      "title": "@broadchain_info",
-      "summary": "@broadchain_info；@Nas_tech_AI",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/broadchain_info",
-        "https://x.com/Nas_tech_AI"
       ],
       "published_at": "",
       "publish_time_text": "",
