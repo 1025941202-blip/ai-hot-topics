@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T01:29:42.650621Z",
+  "generated_at": "2026-03-30T01:30:59.359479Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 8,
-    "last_updated_at": "2026-03-29T01:29:42.540740Z",
+    "last_updated_at": "2026-03-30T01:30:59.251327Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -75,7 +75,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.99
+      "total_score": 60.98
     },
     {
       "candidate_id": "topic-d198b6f80681346487",
@@ -99,7 +99,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.52
+      "total_score": 61.43
     },
     {
       "candidate_id": "topic-824993bb0ccb2e8a13",
@@ -123,7 +123,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.2
+      "total_score": 61.17
     },
     {
       "candidate_id": "topic-02ddd7b1568cd729c4",
@@ -147,7 +147,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.63
+      "total_score": 61.52
     },
     {
       "candidate_id": "topic-eed4f2441cef64053b",
@@ -171,7 +171,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.99
+      "total_score": 60.98
     },
     {
       "candidate_id": "topic-cd6b3201baa9327249",
@@ -195,7 +195,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.97
+      "total_score": 60.96
     },
     {
       "candidate_id": "topic-3b39e84ecbc6dec024",
@@ -219,7 +219,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 77.92
+      "total_score": 69.54
     },
     {
       "candidate_id": "topic-c256047f548244e9e5",
@@ -680,7 +680,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.26
+      "total_score": 41.25
     },
     {
       "candidate_id": "topic-41cc5b7f68db351328",
@@ -1644,7 +1644,7 @@
       "author_bio": "成峰： 🔍AI 产品自由\n不是程序员\n独立开发者：正在做Agent\n                                                      😃关注一下👇🏻",
       "author_fans_count": 12508,
       "status": "待处理",
-      "total_score": 28.99
+      "total_score": 28.98
     },
     {
       "candidate_id": "topic-246acd688a5db16583",
@@ -2071,7 +2071,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.29
+      "total_score": 32.28
     },
     {
       "candidate_id": "topic-29d8665732d9fcf282",
@@ -2095,7 +2095,7 @@
       "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
       "author_fans_count": 9596,
       "status": "待处理",
-      "total_score": 48.56
+      "total_score": 48.55
     },
     {
       "candidate_id": "topic-811bdd1477288fadaa",
@@ -2440,7 +2440,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 24.98
+      "total_score": 24.97
     },
     {
       "candidate_id": "topic-ea8ec7dfda6e06fb7d",
@@ -2593,7 +2593,7 @@
       "author_bio": "AI产品经理 | 华科CS+传播学 → LSE\n用大白话聊AI，不贩卖焦虑，只说人话",
       "author_fans_count": 130,
       "status": "待处理",
-      "total_score": 27.96
+      "total_score": 27.95
     },
     {
       "candidate_id": "topic-da8197dec0a74c320e",
@@ -3000,7 +3000,7 @@
       "author_bio": "..",
       "author_fans_count": 4907,
       "status": "待处理",
-      "total_score": 27.46
+      "total_score": 27.45
     },
     {
       "candidate_id": "topic-5088d4c350f5359670",
@@ -3151,7 +3151,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 24.09
+      "total_score": 24.08
     },
     {
       "candidate_id": "topic-1b02bb8f7b419e6e73",
@@ -3892,7 +3892,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 63.28
+      "total_score": 63.16
     },
     {
       "candidate_id": "topic-c387d9d0a32d12d01a",
@@ -6519,30 +6519,6 @@
       "total_score": 23.87
     },
     {
-      "candidate_id": "topic-e731fa69a5d8f3efbe",
-      "title": "周董同款丝滑转场教程 即梦视频3.0首尾帧功能制作周董同款人生变化丝滑转场视频#即梦AI #丝滑转场 #一镜到底 #AI视频 #周杰伦",
-      "summary": "周董同款丝滑转场教程 即梦视频3.0首尾帧功能制作周董同款人生变化丝滑转场视频#即梦AI #丝滑转场 #一镜到底 #AI视频 #周杰伦",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=ik7aH-MVgss"
-      ],
-      "published_at": "2026-03-27T00:05:47Z",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "大白创意剪辑",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.8
-    },
-    {
       "candidate_id": "topic-2a9a213c232f6c9a3c",
       "title": "【副业赚钱】我裸辞了！靠人工智能AI，GPT-4o宅家赚钱一个月发了21649,打工真的是耽误赚钱啊！方法分享给有需要的人！#副业赚钱 #tiktok赚钱 #创业 #chatgpt",
       "summary": "【副业赚钱】我裸辞了！靠人工智能AI，GPT-4o宅家赚钱一个月发了21649,打工真的是耽误赚钱啊！方法分享给有需要的人！#副业赚钱 #tiktok赚钱 #创业 #chatgpt；【副业赚钱】我裸辞了！靠人工智能AI，GPT 4o宅家赚钱一个月发了21649,打工真的是耽误赚钱啊！方法分享给有需要的人！#副业赚钱 #tiktok赚钱 #创业 #chatgpt；【副业赚钱】我裸辞了！靠人工智能AI，GPT 4o宅家赚钱一个月发了21649,打工真的是耽误赚钱啊！方法分享给有需要的人！#副业赚钱 #tiktok赚钱 #创业 #chatgpt",
@@ -7631,6 +7607,31 @@
         "https://x.com/i/status/2034655173256122580",
         "https://x.com/maigomaigoHH",
         "https://x.com/cocogoatmain"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-418544a3a3b3bd84e6",
+      "title": "@CanDoItAgain",
+      "summary": "@CanDoItAgain；@TanLuAI",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/CanDoItAgain",
+        "https://x.com/TanLuAI"
       ],
       "published_at": "",
       "publish_time_text": "",
