@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T01:29:30.980188Z",
+  "generated_at": "2026-04-02T01:28:13.227763Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,13 +8,13 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 1707,
-    "total_candidates": 1298,
+    "total_posts": 1745,
+    "total_candidates": 1350,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 8,
-    "last_updated_at": "2026-04-01T01:29:30.869553Z",
+    "last_updated_at": "2026-04-02T01:28:13.124257Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -22,7 +22,7 @@
       },
       {
         "platform": "x",
-        "count": 530
+        "count": 568
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "x",
-        "count": 643
+        "count": 694
       },
       {
         "platform": "youtube",
-        "count": 621
+        "count": 626
       },
       {
         "platform": "xiaohongshu",
-        "count": 143
+        "count": 145
       },
       {
         "platform": "huitun",
@@ -75,7 +75,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.97
+      "total_score": 60.96
     },
     {
       "candidate_id": "topic-d198b6f80681346487",
@@ -99,7 +99,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.3
+      "total_score": 61.26
     },
     {
       "candidate_id": "topic-824993bb0ccb2e8a13",
@@ -123,7 +123,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.12
+      "total_score": 61.1
     },
     {
       "candidate_id": "topic-02ddd7b1568cd729c4",
@@ -147,7 +147,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.36
+      "total_score": 61.3
     },
     {
       "candidate_id": "topic-eed4f2441cef64053b",
@@ -171,7 +171,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.97
+      "total_score": 60.96
     },
     {
       "candidate_id": "topic-cd6b3201baa9327249",
@@ -195,7 +195,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.95
+      "total_score": 60.94
     },
     {
       "candidate_id": "topic-3b39e84ecbc6dec024",
@@ -219,7 +219,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 62.4
+      "total_score": 62.05
     },
     {
       "candidate_id": "topic-c256047f548244e9e5",
@@ -680,7 +680,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.23
+      "total_score": 41.22
     },
     {
       "candidate_id": "topic-41cc5b7f68db351328",
@@ -776,7 +776,7 @@
       "author_bio": "教你给AI喂数据，帮模型开脑洞，难产了就重启试试！",
       "author_fans_count": 29857,
       "status": "待处理",
-      "total_score": 64.87
+      "total_score": 64.86
     },
     {
       "candidate_id": "topic-b673df28523815eb90",
@@ -1002,7 +1002,7 @@
       "author_bio": "欢迎看我的每日投研笔记和每周策略(A港美债金q权)\n🏦华尔街交易员 (PIMCO加州股债 IDG风投 美林投行)\n📖哥大奖学金(15届 格雷厄姆价值投资)\n❤️运动员 连续创业 偶尔擦边@花里胡邵",
       "author_fans_count": 132127,
       "status": "待处理",
-      "total_score": 60.34
+      "total_score": 60.33
     },
     {
       "candidate_id": "topic-099575ba7986f1f8f9",
@@ -1539,7 +1539,7 @@
       "author_bio": "📱：一个测评软件 | 网站 | 数码的号\n🌲：带你一起打开新世界的大门\n📮：Uianli",
       "author_fans_count": 425146,
       "status": "待处理",
-      "total_score": 44.9
+      "total_score": 44.89
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -2071,7 +2071,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.27
+      "total_score": 32.26
     },
     {
       "candidate_id": "topic-29d8665732d9fcf282",
@@ -2840,7 +2840,7 @@
       "author_bio": "还没有简介",
       "author_fans_count": 971,
       "status": "待处理",
-      "total_score": 35.71
+      "total_score": 35.7
     },
     {
       "candidate_id": "topic-0a452144816d76d9f2",
@@ -3847,30 +3847,6 @@
       "total_score": 24.3
     },
     {
-      "candidate_id": "topic-1b6e1802235db9405d",
-      "title": "零基础的我，真的能靠这 1 份 OpenAI Codex 教程逆袭吗？",
-      "summary": "零基础的我，真的能靠这 1 份 OpenAI Codex 教程逆袭吗？",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=JDxAtt1WUFY"
-      ],
-      "published_at": "2026-03-08T23:18:08Z",
-      "publish_time_text": "",
-      "view_count": 12,
-      "like_count": 1,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "AI Toolbox",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 22.26
-    },
-    {
       "candidate_id": "topic-d508161f4f3858c47f",
       "title": "3千预算最强组装。电脑源头工厂！升级活动中！全套送福夯",
       "summary": "3千预算最强组装。电脑源头工厂！升级活动中！全套送福夯",
@@ -3892,7 +3868,34 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 62.99
+      "total_score": 62.92
+    },
+    {
+      "candidate_id": "topic-dbf0f13eab317b8a95",
+      "title": "@aiwarts",
+      "summary": "@aiwarts；@AgentStewart007；我做了一个能自动剪口播的AI Agent工具🔧🤖",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://x.com/aiwarts",
+        "https://x.com/AgentStewart007",
+        "https://www.xiaohongshu.com/explore/6986070a000000001a02fa21"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "ami.moment",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.0
     },
     {
       "candidate_id": "topic-c387d9d0a32d12d01a",
@@ -4094,6 +4097,35 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 30.57
+    },
+    {
+      "candidate_id": "topic-fee0bb128a8eb8b2e5",
+      "title": "From clawhub.ai",
+      "summary": "From clawhub.ai；From x.ai；@1clawAI",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://t.co/jkhpOka9YK",
+        "https://t.co/ybOcL6P5Ud",
+        "https://x.com/1clawAI",
+        "https://t.co/bh8ucLZPsA",
+        "https://www.xiaohongshu.com/explore/698edb02000000000a02c8fb"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "掌舵者AI实验室",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.0
     },
     {
       "candidate_id": "topic-de22a8fe0cbff4ba45",
@@ -4573,7 +4605,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 27.06
+      "total_score": 27.05
     },
     {
       "candidate_id": "topic-ca0e48c8f075c24e79",
@@ -4624,15 +4656,15 @@
       "total_score": 26.74
     },
     {
-      "candidate_id": "topic-289d31d3cc93d09f01",
-      "title": "Miles的AI思考日记",
-      "summary": "Miles的AI思考日记；Shailesh",
+      "candidate_id": "topic-2ecb7712936accaf36",
+      "title": "伊藤貴將（イトパン）｜AIクリエイティブ×開発",
+      "summary": "伊藤貴將（イトパン）｜AIクリエイティブ×開発；Shin丨AI×プロダクト開発の専門家",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/ma_zhenyuan",
-        "https://x.com/0xThoughtVector"
+        "https://x.com/takamasa045",
+        "https://x.com/shin_sasaki19"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -4649,15 +4681,15 @@
       "total_score": 26.5
     },
     {
-      "candidate_id": "topic-2ecb7712936accaf36",
-      "title": "伊藤貴將（イトパン）｜AIクリエイティブ×開発",
-      "summary": "伊藤貴將（イトパン）｜AIクリエイティブ×開発；Shin丨AI×プロダクト開発の専門家",
+      "candidate_id": "topic-289d31d3cc93d09f01",
+      "title": "Miles的AI思考日记",
+      "summary": "Miles的AI思考日记；Shailesh",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/takamasa045",
-        "https://x.com/shin_sasaki19"
+        "https://x.com/ma_zhenyuan",
+        "https://x.com/0xThoughtVector"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -4795,7 +4827,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.55
+      "total_score": 25.54
     },
     {
       "candidate_id": "topic-2efcd31d620cd01f74",
@@ -4807,57 +4839,6 @@
       "source_links": [
         "https://t.co/bOSIUfrZXB",
         "https://t.co/o7UaWtQk6v"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
-      "candidate_id": "topic-a077297957980ee139",
-      "title": "@caiyue5",
-      "summary": "@caiyue5；@baiyuewww；@liyue_ai",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/caiyue5",
-        "https://x.com/baiyuewww",
-        "https://x.com/liyue_ai"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
-      "candidate_id": "topic-acb20cf2d6270bc649",
-      "title": "@DaisyLuca4ever",
-      "summary": "@DaisyLuca4ever；@Lucy_love_AI",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/DaisyLuca4ever",
-        "https://x.com/Lucy_love_AI"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -4951,16 +4932,17 @@
       "total_score": 25.5
     },
     {
-      "candidate_id": "topic-da6dce705c2ca957f5",
-      "title": "@Claude60239982",
-      "summary": "@Claude60239982；From claude.com；@claude_bets",
+      "candidate_id": "topic-4732aaa71e51973c49",
+      "title": "@tmaiaroto",
+      "summary": "@tmaiaroto；@carrot_ai551；#AIArt",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/Claude60239982",
-        "https://t.co/bh8ucLZPsA",
-        "https://x.com/claude_bets"
+        "https://x.com/tmaiaroto",
+        "https://x.com/carrot_ai551",
+        "https://x.com/hashtag/AIArt?src=hashtag_click",
+        "https://x.com/hashtag/Aiart%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F?src=hashtag_click"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -5028,15 +5010,15 @@
       "total_score": 25.5
     },
     {
-      "candidate_id": "topic-10aad40ca0c3e9e0f2",
-      "title": "@AiClawrenc63415",
-      "summary": "@AiClawrenc63415；@1clawAI",
+      "candidate_id": "topic-94a5fbfb0455393012",
+      "title": "@Claude60239982",
+      "summary": "@Claude60239982；@claude_bets",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/AiClawrenc63415",
-        "https://x.com/1clawAI"
+        "https://x.com/Claude60239982",
+        "https://x.com/claude_bets"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -5053,18 +5035,15 @@
       "total_score": 25.5
     },
     {
-      "candidate_id": "topic-d818bbfac7bc82bd67",
-      "title": "@aiwarts",
-      "summary": "@aiwarts；@AgentStewart007；@49agents",
+      "candidate_id": "topic-7b4a9369f53e1f4f5d",
+      "title": "@airesearch12",
+      "summary": "@airesearch12；@SeaArt_Ai",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/aiwarts",
-        "https://x.com/AgentStewart007",
-        "https://x.com/49agents",
-        "https://x.com/aixbt_agent",
-        "https://x.com/aixrp_agent"
+        "https://x.com/airesearch12",
+        "https://x.com/SeaArt_Ai"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -5081,15 +5060,14 @@
       "total_score": 25.5
     },
     {
-      "candidate_id": "topic-7795acf915f5ca21be",
+      "candidate_id": "topic-e850121eac7c4b72ff",
       "title": "https://\nskool.com/ai-profit-lab-\n7462/about\n…",
-      "summary": "https://\nskool.com/ai-profit-lab-\n7462/about\n…；https://\nalexeygrigorev.com/aihero/；https://\ngithub.com/Princeton-AI2-\nLab/Avenir-Web\n…",
+      "summary": "https://\nskool.com/ai-profit-lab-\n7462/about\n…；https://\ngithub.com/Princeton-AI2-\nLab/Avenir-Web\n…",
       "platforms": [
         "x"
       ],
       "source_links": [
         "https://t.co/pketIk0u0f",
-        "https://t.co/havmqFq2Ws",
         "https://t.co/LTPdZ0IsAR"
       ],
       "published_at": "",
@@ -5210,6 +5188,268 @@
       "total_score": 25.5
     },
     {
+      "candidate_id": "topic-78cf9d3be1c40c4772",
+      "title": "https://\nvectara.com/blog/deepseek-\nr1-hallucinates-more-than-deepseek-v3\n…",
+      "summary": "https://\nvectara.com/blog/deepseek-\nr1-hallucinates-more-than-deepseek-v3\n…；https://\nnewsletter.languagemodels.co/p/the-illustra\nted-deepseek-r1\n…；https://\nnytimes.com/2026/03/17/tec\nhnology/china-scrutiny-meta-manus.html?smid=nytcore-ios-share\n…",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/qGgyiY1zqu",
+        "https://t.co/8V7Btiq3dH",
+        "https://t.co/rQXd0jefvj",
+        "https://t.co/k6DKrPnw6t"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
+      "candidate_id": "topic-73e478d77718e6140f",
+      "title": "@biantaishaLee",
+      "summary": "@biantaishaLee；@AwaisHanif09",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/biantaishaLee",
+        "https://x.com/AwaisHanif09"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
+      "candidate_id": "topic-4e5409b3a857cd997d",
+      "title": "#献立AIbot",
+      "summary": "#献立AIbot；@agent_ai_bot；@AgentBoone82",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/hashtag/%E7%8C%AE%E7%AB%8BAIbot?src=hashtag_click",
+        "https://x.com/agent_ai_bot",
+        "https://x.com/AgentBoone82",
+        "https://x.com/i/communities/1918880733730603290",
+        "https://t.co/ugktg1l07d"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
+      "candidate_id": "topic-e12630b62b9177ae9b",
+      "title": "#AgentSkills",
+      "summary": "#AgentSkills；@agentamour；@49agents",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/hashtag/AgentSkills?src=hashtag_click",
+        "https://x.com/agentamour",
+        "https://x.com/49agents"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
+      "candidate_id": "topic-a077297957980ee139",
+      "title": "@caiyue5",
+      "summary": "@caiyue5；@baiyuewww；@liyue_ai",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/caiyue5",
+        "https://x.com/baiyuewww",
+        "https://x.com/liyue_ai"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
+      "candidate_id": "topic-acb20cf2d6270bc649",
+      "title": "@DaisyLuca4ever",
+      "summary": "@DaisyLuca4ever；@Lucy_love_AI",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/DaisyLuca4ever",
+        "https://x.com/Lucy_love_AI"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
+      "candidate_id": "topic-da6dce705c2ca957f5",
+      "title": "@Claude60239982",
+      "summary": "@Claude60239982；From claude.com；@claude_bets",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/Claude60239982",
+        "https://t.co/bh8ucLZPsA",
+        "https://x.com/claude_bets"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
+      "candidate_id": "topic-10aad40ca0c3e9e0f2",
+      "title": "@AiClawrenc63415",
+      "summary": "@AiClawrenc63415；@1clawAI",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/AiClawrenc63415",
+        "https://x.com/1clawAI"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
+      "candidate_id": "topic-d818bbfac7bc82bd67",
+      "title": "@aiwarts",
+      "summary": "@aiwarts；@AgentStewart007；@49agents",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/aiwarts",
+        "https://x.com/AgentStewart007",
+        "https://x.com/49agents",
+        "https://x.com/aixbt_agent",
+        "https://x.com/aixrp_agent"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
+      "candidate_id": "topic-7795acf915f5ca21be",
+      "title": "https://\nskool.com/ai-profit-lab-\n7462/about\n…",
+      "summary": "https://\nskool.com/ai-profit-lab-\n7462/about\n…；https://\nalexeygrigorev.com/aihero/；https://\ngithub.com/Princeton-AI2-\nLab/Avenir-Web\n…",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/pketIk0u0f",
+        "https://t.co/havmqFq2Ws",
+        "https://t.co/LTPdZ0IsAR"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.5
+    },
+    {
       "candidate_id": "topic-d2b303cdc41733830d",
       "title": "@AgentBoone82",
       "summary": "@AgentBoone82；AI Agent Builders；From awesomeagents.ai",
@@ -5238,33 +5478,6 @@
       "total_score": 25.5
     },
     {
-      "candidate_id": "topic-78cf9d3be1c40c4772",
-      "title": "https://\nvectara.com/blog/deepseek-\nr1-hallucinates-more-than-deepseek-v3\n…",
-      "summary": "https://\nvectara.com/blog/deepseek-\nr1-hallucinates-more-than-deepseek-v3\n…；https://\nnewsletter.languagemodels.co/p/the-illustra\nted-deepseek-r1\n…；https://\nnytimes.com/2026/03/17/tec\nhnology/china-scrutiny-meta-manus.html?smid=nytcore-ios-share\n…",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://t.co/qGgyiY1zqu",
-        "https://t.co/8V7Btiq3dH",
-        "https://t.co/rQXd0jefvj",
-        "https://t.co/k6DKrPnw6t"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
       "candidate_id": "topic-6a85832b95ddfcddf2",
       "title": "@design_AIGC",
       "summary": "@design_AIGC；AIGC-Singularity；0xIan | Design & AI",
@@ -5275,31 +5488,6 @@
         "https://x.com/design_AIGC",
         "https://x.com/WarmBlood_Aban",
         "https://x.com/0xIanyan"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
-      "candidate_id": "topic-73e478d77718e6140f",
-      "title": "@biantaishaLee",
-      "summary": "@biantaishaLee；@AwaisHanif09",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/biantaishaLee",
-        "https://x.com/AwaisHanif09"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -5441,58 +5629,6 @@
       "total_score": 25.5
     },
     {
-      "candidate_id": "topic-89090aca2cd21722d8",
-      "title": "@design_AIGC",
-      "summary": "@design_AIGC；AIGC-Singularity；0xIan | Design & AI",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/design_AIGC",
-        "https://x.com/WarmBlood_Aban",
-        "https://x.com/0xIanyan",
-        "https://x.com/AlphaSignalAI"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
-      "candidate_id": "topic-94a5fbfb0455393012",
-      "title": "@Claude60239982",
-      "summary": "@Claude60239982；@claude_bets",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/Claude60239982",
-        "https://x.com/claude_bets"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
       "candidate_id": "topic-be9dee998413882fe6",
       "title": "0xIan | Design & AI",
       "summary": "0xIan | Design & AI；@desaiankitb",
@@ -5502,31 +5638,6 @@
       "source_links": [
         "https://x.com/0xIanyan",
         "https://x.com/desaiankitb"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
-      "candidate_id": "topic-e850121eac7c4b72ff",
-      "title": "https://\ngithub.com/Princeton-AI2-\nLab/Avenir-Web\n…",
-      "summary": "https://\ngithub.com/Princeton-AI2-\nLab/Avenir-Web\n…；https://\nskool.com/ai-profit-lab-\n7462/about\n…",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://t.co/LTPdZ0IsAR",
-        "https://t.co/pketIk0u0f"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -5681,31 +5792,6 @@
       "source_links": [
         "https://x.com/wangjupaian",
         "https://x.com/JiangBai2713"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
-      "candidate_id": "topic-7b4a9369f53e1f4f5d",
-      "title": "@airesearch12",
-      "summary": "@airesearch12；@SeaArt_Ai",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/airesearch12",
-        "https://x.com/SeaArt_Ai"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -5993,32 +6079,6 @@
         "https://x.com/gold_and_water",
         "https://x.com/GabeAI0",
         "https://x.com/SeaArt_Ai"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.5
-    },
-    {
-      "candidate_id": "topic-4732aaa71e51973c49",
-      "title": "@carrot_ai551",
-      "summary": "@carrot_ai551；#AIArt；#Aiart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/carrot_ai551",
-        "https://x.com/hashtag/AIArt?src=hashtag_click",
-        "https://x.com/hashtag/Aiart%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F?src=hashtag_click"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -6339,6 +6399,54 @@
       "total_score": 25.25
     },
     {
+      "candidate_id": "topic-525f41df3559bd92c2",
+      "title": "woshipm.com\n2026互联网变天了：AI不再是互联网的工具，AI是互联网新底座 – 人人都是产品经理\n2026年3月，一个值得被记住的时间节点。 不是因为某款现象级产品发布，而是因为一个趋势终于完成了自我确认：互联网的底层逻辑，正在被改写。 过去三十年，互联网的核心叙事是",
+      "summary": "woshipm.com\n2026互联网变天了：AI不再是互联网的工具，AI是互联网新底座 – 人人都是产品经理\n2026年3月，一个值得被记住的时间节点。 不是因为某款现象级产品发布，而是因为一个趋势终于完成了自我确认：互联网的底层逻辑，正在被改写。 过去三十年，互联网的核心叙事是",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/bkmdsZcIrs"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.25
+    },
+    {
+      "candidate_id": "topic-a8caa9f2594f919731",
+      "title": "111.net.tw\n智聞捷發 | 全球新聞發佈・台灣新聞稿代發服務\n智聞捷發提供全球與全台新聞發佈服務，智聞捷發、新聞發佈、全台、全球媒體曝光，AI 智能撰稿、多語言翻譯，最低 300 元/則起，30分鐘快速上線，立即免費試用！",
+      "summary": "111.net.tw\n智聞捷發 | 全球新聞發佈・台灣新聞稿代發服務\n智聞捷發提供全球與全台新聞發佈服務，智聞捷發、新聞發佈、全台、全球媒體曝光，AI 智能撰稿、多語言翻譯，最低 300 元/則起，30分鐘快速上線，立即免費試用！",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/gOjv9GKAYP"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.25
+    },
+    {
       "candidate_id": "topic-3eb4fa69fef6c9c37a",
       "title": "【34大特典付】hatakenoさんのBrain「XServer＋Cursorで始める！ ノーコードに頼らない Webアプリ開発」評判口コミ感想レビュー",
       "summary": "【34大特典付】hatakenoさんのBrain「XServer＋Cursorで始める！ ノーコードに頼らない Webアプリ開発」評判口コミ感想レビュー",
@@ -6622,56 +6730,6 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-ad05fdc52dc29b93f9",
-      "title": "@Shanghai_Repub",
-      "summary": "@Shanghai_Repub；@ponzinaire",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/Shanghai_Repub",
-        "https://x.com/ponzinaire"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-67e79a7b48169a820e",
-      "title": "@KondateAI",
-      "summary": "@KondateAI；#KonnexAI",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/KondateAI",
-        "https://x.com/hashtag/KonnexAI?src=hashtag_click"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
       "candidate_id": "topic-438c83b0be7ead14c0",
       "title": "Sofi VAI VER O SKZ DNV | DO IT",
       "summary": "Sofi VAI VER O SKZ DNV | DO IT；𝐥𝐢𝐜𝐞 VAI VER O NOAH",
@@ -6697,66 +6755,15 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-305117252f91d92633",
-      "title": "@kuon_ren_ai",
-      "summary": "@kuon_ren_ai；ManusとChatGPTの使い分け【副業での具体的な活用法】｜kuon ren",
+      "candidate_id": "topic-9d598d2f6ff0c20f4d",
+      "title": "@provenonceai",
+      "summary": "@provenonceai；@Lucy_love_AI",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/kuon_ren_ai",
-        "https://t.co/zkLeCiDiIY"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-e763261d1d5f13a631",
-      "title": "@IQAICOM_CN",
-      "summary": "@IQAICOM_CN；@CodveAi",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/IQAICOM_CN",
-        "https://x.com/CodveAi"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-841b4c9e79eaa7076d",
-      "title": "@Awesome_AI_News",
-      "summary": "@Awesome_AI_News；From dailyaiwire.news；#AINews",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/Awesome_AI_News",
-        "https://t.co/7R59S0oFxB",
-        "https://x.com/hashtag/AINews?src=hashtag_click"
+        "https://x.com/provenonceai",
+        "https://x.com/Lucy_love_AI"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -6798,66 +6805,15 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-70a31e4e2cb8e2e8e1",
-      "title": "@ai_uncovered",
-      "summary": "@ai_uncovered；#AIGovernance；@provenonceai",
+      "candidate_id": "topic-a37153a9c9fd5730ad",
+      "title": "@JamesTakesOnAI",
+      "summary": "@JamesTakesOnAI；@AmericaInvests",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/ai_uncovered",
-        "https://x.com/hashtag/AIGovernance?src=hashtag_click",
-        "https://x.com/provenonceai"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-cf12d4190b48f57ee2",
-      "title": "https://\ngeeyo.com/s/eb/ai-for-co\naches-and-consultants/\n…",
-      "summary": "https://\ngeeyo.com/s/eb/ai-for-co\naches-and-consultants/\n…；#AIforCoaches",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://t.co/JqQAs1zhzx",
-        "https://x.com/hashtag/AIforCoaches?src=hashtag_click"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-36892e805341e7684f",
-      "title": "@AgentMcClaw",
-      "summary": "@AgentMcClaw；JK Clawseum — A new layer for OpenClaw agents",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/AgentMcClaw",
-        "https://t.co/Wg1IMStw52"
+        "https://x.com/JamesTakesOnAI",
+        "https://x.com/AmericaInvests"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -6925,15 +6881,42 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-4d87a28fd3b1f7e8ff",
-      "title": "@AirminAirlert",
-      "summary": "@AirminAirlert；@girlbosseragain",
+      "candidate_id": "topic-cf5373e9bb43d1d472",
+      "title": "@chairbtc",
+      "summary": "@chairbtc；@cchahai；@Walker_B_Chain",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/AirminAirlert",
-        "https://x.com/girlbosseragain"
+        "https://x.com/chairbtc",
+        "https://x.com/cchahai",
+        "https://x.com/Walker_B_Chain"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-ba39223339d9c73f53",
+      "title": "@CSiliconai",
+      "summary": "@CSiliconai；@CodveAi；@liyue_ai",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/CSiliconai",
+        "https://x.com/CodveAi",
+        "https://x.com/liyue_ai"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -7051,31 +7034,6 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-c28e43e6cd7fbb4340",
-      "title": "@LifeNetwork_AI",
-      "summary": "@LifeNetwork_AI；@OptimaiNetwork",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/LifeNetwork_AI",
-        "https://x.com/OptimaiNetwork"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
       "candidate_id": "topic-5a7d1fa43b4c727ec8",
       "title": "Agentina",
       "summary": "Agentina；@AgentGuerra；@Agent_Oriana",
@@ -7155,33 +7113,6 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-975d9fe8f38676e551",
-      "title": "@agentamour",
-      "summary": "@agentamour；@hex_agent；@agentxagi",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/agentamour",
-        "https://x.com/hex_agent",
-        "https://x.com/agentxagi",
-        "https://x.com/AcademicAgent_X"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
       "candidate_id": "topic-bce0bea72fb0a7006d",
       "title": "@CryptoPainter",
       "summary": "@CryptoPainter；@AiInternetos；@theai_intern",
@@ -7234,32 +7165,6 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-705a037ae9269d1139",
-      "title": "From x.ai",
-      "summary": "From x.ai；From yoya.ai；From creao.ai",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://t.co/ybOcL6P5Ud",
-        "https://t.co/xNUxenMaev",
-        "https://t.co/cYiw0LJlfT"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
       "candidate_id": "topic-7fc02b8ce5acb4983e",
       "title": "Hiroki Ebuchi | VERSAROC | AI x UX",
       "summary": "Hiroki Ebuchi | VERSAROC | AI x UX；@hiroki_daichi",
@@ -7285,16 +7190,15 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-203798d9c30d2819be",
-      "title": "@saiseichosen",
-      "summary": "@saiseichosen；alison chains；@AlexInChaaains",
+      "candidate_id": "topic-4995e9c25e91642399",
+      "title": "@ai_uncovered",
+      "summary": "@ai_uncovered；#AIPoweredPedagogy",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/saiseichosen",
-        "https://x.com/cooldetat",
-        "https://x.com/AlexInChaaains"
+        "https://x.com/ai_uncovered",
+        "https://x.com/hashtag/AIPoweredPedagogy?src=hashtag_click"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -7311,41 +7215,15 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-bed91f0745499344c5",
-      "title": "@AdachiDaisuke",
-      "summary": "@AdachiDaisuke；@yusuke_imai_",
+      "candidate_id": "topic-d7b22cfb92cf527edf",
+      "title": "@AirminAirlert",
+      "summary": "@AirminAirlert；@ponzinaire",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/AdachiDaisuke",
-        "https://x.com/yusuke_imai_"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-bbbde3c59a529bcd42",
-      "title": "@chairbtc",
-      "summary": "@chairbtc；@cchahai；@sundarpichai",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/chairbtc",
-        "https://x.com/cchahai",
-        "https://x.com/sundarpichai"
+        "https://x.com/AirminAirlert",
+        "https://x.com/ponzinaire"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -7373,6 +7251,33 @@
         "https://t.co/TXUj7vdYvH",
         "https://t.co/U2IX0buJS1",
         "https://x.com/broadchain_info"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-4753c230b188275678",
+      "title": "@KondateAI",
+      "summary": "@KondateAI；@kleon_ai；@kuon_ren_ai",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/KondateAI",
+        "https://x.com/kleon_ai",
+        "https://x.com/kuon_ren_ai",
+        "https://t.co/zkLeCiDiIY"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -7443,16 +7348,16 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-e5ca8edace50c5a214",
-      "title": "Leo AIPhi",
-      "summary": "Leo AIPhi；@kleon_ai；@CSiliconai",
+      "candidate_id": "topic-34bee2ed37ebf42c7f",
+      "title": "@CanDoItAgain",
+      "summary": "@CanDoItAgain；@TanLuAI；#YouandAICan",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/xiaochou1945",
-        "https://x.com/kleon_ai",
-        "https://x.com/CSiliconai"
+        "https://x.com/CanDoItAgain",
+        "https://x.com/TanLuAI",
+        "https://x.com/hashtag/YouandAICan?src=hashtag_click"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -7478,83 +7383,6 @@
       "source_links": [
         "https://x.com/henuwangkai",
         "https://x.com/wangjupaian"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-35ffe6ef1ea47810b5",
-      "title": "@superverseai",
-      "summary": "@superverseai；Superapp AI；@servasyy_ai",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/superverseai",
-        "https://x.com/SuperAppIOS",
-        "https://x.com/servasyy_ai"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-be2d497d1e2dffb39a",
-      "title": "@AIMaskedMan",
-      "summary": "@AIMaskedMan；AI-MOON；@imanbanpai",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/AIMaskedMan",
-        "https://x.com/yangxiangdong2",
-        "https://x.com/imanbanpai"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-647894b1d51b49b5bb",
-      "title": "@icy_rainy_day",
-      "summary": "@icy_rainy_day；#YouandAICan",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/icy_rainy_day",
-        "https://x.com/hashtag/YouandAICan?src=hashtag_click"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -7623,15 +7451,196 @@
       "total_score": 23.5
     },
     {
-      "candidate_id": "topic-418544a3a3b3bd84e6",
-      "title": "@CanDoItAgain",
-      "summary": "@CanDoItAgain；@TanLuAI",
+      "candidate_id": "topic-c49853d7d79512968a",
+      "title": "@genkou_ai",
+      "summary": "@genkou_ai；@aigentdotrun",
       "platforms": [
         "x"
       ],
       "source_links": [
-        "https://x.com/CanDoItAgain",
-        "https://x.com/TanLuAI"
+        "https://x.com/genkou_ai",
+        "https://x.com/aigentdotrun"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-2b7db7733ad58920c1",
+      "title": "Harshdeep Rapal | Legitt AI",
+      "summary": "Harshdeep Rapal | Legitt AI；Sharp AI Takes",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/harshdeeprapal",
+        "https://x.com/bigcort2024"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-2149fc876b634bbee1",
+      "title": "@Daily_Hungary",
+      "summary": "@Daily_Hungary；@learn_ai_daily；#Daily",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/Daily_Hungary",
+        "https://x.com/learn_ai_daily",
+        "https://x.com/hashtag/Daily?src=hashtag_click",
+        "https://x.com/daily_ai_tools_"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-f2254e60fa9eb196cc",
+      "title": "@CuriousDaily_",
+      "summary": "@CuriousDaily_；@DailyAIWireNews；From dailyaiwire.news",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/CuriousDaily_",
+        "https://x.com/DailyAIWireNews",
+        "https://t.co/7R59S0oFxB"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-0c0ed8a44e3d8f6d8a",
+      "title": "@fankaishuoai",
+      "summary": "@fankaishuoai；@JunkaiSavoy",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/fankaishuoai",
+        "https://x.com/JunkaiSavoy"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-03a08be11c6061d5c8",
+      "title": "@AIGuideHQ",
+      "summary": "@AIGuideHQ；@DembeAi；@gugeaigc",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/AIGuideHQ",
+        "https://x.com/DembeAi",
+        "https://x.com/gugeaigc"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-cec9716ebe5cc90ee8",
+      "title": "@AIInsightDaily",
+      "summary": "@AIInsightDaily；Daily Founder Insights.",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/AIInsightDaily",
+        "https://x.com/FoundersFTW"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 23.5
+    },
+    {
+      "candidate_id": "topic-155df07cd9da6ef62b",
+      "title": "@gptraveldiary",
+      "summary": "@gptraveldiary；https://\ngpttraveldiary.com/the-frick-madi\nson-new-york-city/\n…；From gpttraveldiary.com",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/gptraveldiary",
+        "https://t.co/wymyCbNtrz",
+        "https://t.co/NWWoJ4CpYL",
+        "https://t.co/bDOPe62AyP"
       ],
       "published_at": "",
       "publish_time_text": "",
