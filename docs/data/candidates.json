@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T01:28:03.067673Z",
+  "generated_at": "2026-04-04T01:28:14.477745Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 8,
-    "last_updated_at": "2026-04-03T01:28:02.957153Z",
+    "last_updated_at": "2026-04-04T01:28:14.367913Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -99,7 +99,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.22
+      "total_score": 61.18
     },
     {
       "candidate_id": "topic-824993bb0ccb2e8a13",
@@ -123,7 +123,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.08
+      "total_score": 61.06
     },
     {
       "candidate_id": "topic-02ddd7b1568cd729c4",
@@ -147,7 +147,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.26
+      "total_score": 61.22
     },
     {
       "candidate_id": "topic-eed4f2441cef64053b",
@@ -219,7 +219,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.82
+      "total_score": 61.65
     },
     {
       "candidate_id": "topic-c256047f548244e9e5",
@@ -680,7 +680,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.22
+      "total_score": 41.21
     },
     {
       "candidate_id": "topic-41cc5b7f68db351328",
@@ -2440,7 +2440,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 24.96
+      "total_score": 24.95
     },
     {
       "candidate_id": "topic-ea8ec7dfda6e06fb7d",
@@ -3621,7 +3621,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 22.98
+      "total_score": 22.97
     },
     {
       "candidate_id": "topic-1a4f23f8ae9279c87e",
@@ -3868,7 +3868,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 62.87
+      "total_score": 62.83
     },
     {
       "candidate_id": "topic-dbf0f13eab317b8a95",
