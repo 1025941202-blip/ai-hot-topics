@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T01:31:00.137131Z",
+  "generated_at": "2026-04-07T01:29:31.580496Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,13 +8,13 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 1745,
-    "total_candidates": 1350,
+    "total_posts": 1747,
+    "total_candidates": 1352,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
-    "huitun_posts": 8,
-    "last_updated_at": "2026-04-06T01:31:00.031386Z",
+    "huitun_posts": 10,
+    "last_updated_at": "2026-04-07T01:29:31.475415Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -30,7 +30,7 @@
       },
       {
         "platform": "huitun",
-        "count": 8
+        "count": 10
       }
     ],
     "by_platform_candidates": [
@@ -48,7 +48,7 @@
       },
       {
         "platform": "huitun",
-        "count": 8
+        "count": 10
       }
     ]
   },
@@ -99,7 +99,31 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.13
+      "total_score": 61.11
+    },
+    {
+      "candidate_id": "topic-a97a6c64f578dd0e71",
+      "title": "和豆包玩猜历史人物，但是豆包来猜 #文脉里的中国 #用AI打开人文新视界#豆包#历史 #猜人物",
+      "summary": "和豆包玩猜历史人物，但是豆包来猜 #文脉里的中国 #用AI打开人文新视界#豆包#历史 #猜人物",
+      "platforms": [
+        "huitun"
+      ],
+      "source_links": [
+        "https://www.douyin.com/video/7625547255886343525"
+      ],
+      "published_at": "2026-04-06T15:37:00Z",
+      "publish_time_text": "",
+      "view_count": 38385594,
+      "like_count": 671478,
+      "favorite_count": 32111,
+      "comment_count": 17358,
+      "share_count": 491791,
+      "author_name": "混饭达人",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 78.26
     },
     {
       "candidate_id": "topic-824993bb0ccb2e8a13",
@@ -123,7 +147,31 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.03
+      "total_score": 61.02
+    },
+    {
+      "candidate_id": "topic-4747cf9f9bd67b11ea",
+      "title": "威龙和小麦【第三集】 我总是轻描淡写告诉你我的愿望#三角洲行动 #AIGC #三角洲行动漫剧 #AI创作浪潮计划 #皇帝电竞",
+      "summary": "威龙和小麦【第三集】 我总是轻描淡写告诉你我的愿望#三角洲行动 #AIGC #三角洲行动漫剧 #AI创作浪潮计划 #皇帝电竞",
+      "platforms": [
+        "huitun"
+      ],
+      "source_links": [
+        "https://www.douyin.com/video/7625573253414751523"
+      ],
+      "published_at": "2026-04-06T17:18:00Z",
+      "publish_time_text": "",
+      "view_count": 20167207,
+      "like_count": 568669,
+      "favorite_count": 38815,
+      "comment_count": 12068,
+      "share_count": 275203,
+      "author_name": "阿飞飞",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 78.69
     },
     {
       "candidate_id": "topic-02ddd7b1568cd729c4",
@@ -147,7 +195,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.15
+      "total_score": 61.13
     },
     {
       "candidate_id": "topic-eed4f2441cef64053b",
@@ -195,7 +243,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.92
+      "total_score": 60.91
     },
     {
       "candidate_id": "topic-3b39e84ecbc6dec024",
@@ -219,7 +267,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.44
+      "total_score": 61.37
     },
     {
       "candidate_id": "topic-c256047f548244e9e5",
@@ -605,7 +653,7 @@
       "author_bio": "Ai教程｜Ai工具测评｜实用网页\n已分享105+Ai教程，迈向200期新阶段\n😆一个永远好奇、不讲废话的博主\n视频资料在群里👨🏻‍💻，我真不卖课～\n🔖liaodaoai@163.com",
       "author_fans_count": 85714,
       "status": "待处理",
-      "total_score": 64.83
+      "total_score": 64.82
     },
     {
       "candidate_id": "topic-79df44dc350f32ae24",
@@ -629,7 +677,7 @@
       "author_bio": "🦌白天搬砖晚上学习\n🩷谢谢关注！好有眼光\n🈴didi",
       "author_fans_count": 13644,
       "status": "待处理",
-      "total_score": 60.8
+      "total_score": 60.79
     },
     {
       "candidate_id": "topic-c07a197bc52fa7d33e",
@@ -776,7 +824,7 @@
       "author_bio": "教你给AI喂数据，帮模型开脑洞，难产了就重启试试！",
       "author_fans_count": 29857,
       "status": "待处理",
-      "total_score": 64.86
+      "total_score": 64.85
     },
     {
       "candidate_id": "topic-b673df28523815eb90",
@@ -978,7 +1026,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.1
+      "total_score": 25.09
     },
     {
       "candidate_id": "topic-c54ae2d96e3233ce86",
@@ -1104,7 +1152,7 @@
       "author_bio": "跨境电商AI设计师｜艺术类硕士｜intj\n持续更新ai最新讯息｜AI｜养猫日记@可可奈斯 \n接作品集辅导｜Lu-X1029\n📮：2556048840@qq.com",
       "author_fans_count": 3278,
       "status": "待处理",
-      "total_score": 57.83
+      "total_score": 57.82
     },
     {
       "candidate_id": "topic-ed7f99a0b5a709ace3",
@@ -3774,30 +3822,6 @@
       "total_score": 29.76
     },
     {
-      "candidate_id": "topic-0ca40f96aca8b997e9",
-      "title": "【保姆级教程】全网最强大尺度AI视频生成，揭秘最离谱的AI功能，让你无处安放！一张美女图1分钟生成你喜欢的视频！真人演员彻底失业！",
-      "summary": "【保姆级教程】全网最强大尺度AI视频生成，揭秘最离谱的AI功能，让你无处安放！一张美女图1分钟生成你喜欢的视频！真人演员彻底失业！",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=ZBLy6Y1xiuM"
-      ],
-      "published_at": "2026-03-26T07:48:59Z",
-      "publish_time_text": "",
-      "view_count": 59,
-      "like_count": 2,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "资源集社区",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 22.34
-    },
-    {
       "candidate_id": "topic-7c26c56a4b81ccfd63",
       "title": "AI技术革命｜人工智能正在改变各行...",
       "summary": "AI技术革命｜人工智能正在改变各行...",
@@ -3868,7 +3892,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 62.77
+      "total_score": 62.74
     },
     {
       "candidate_id": "topic-dbf0f13eab317b8a95",
@@ -7614,33 +7638,6 @@
       "source_links": [
         "https://x.com/AIInsightDaily",
         "https://x.com/FoundersFTW"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-155df07cd9da6ef62b",
-      "title": "@gptraveldiary",
-      "summary": "@gptraveldiary；https://\ngpttraveldiary.com/the-frick-madi\nson-new-york-city/\n…；From gpttraveldiary.com",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/gptraveldiary",
-        "https://t.co/wymyCbNtrz",
-        "https://t.co/NWWoJ4CpYL",
-        "https://t.co/bDOPe62AyP"
       ],
       "published_at": "",
       "publish_time_text": "",
