@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T01:31:32.249233Z",
+  "generated_at": "2026-04-09T01:28:42.310597Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,13 +8,13 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 1747,
-    "total_candidates": 1352,
+    "total_posts": 1748,
+    "total_candidates": 1353,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
-    "huitun_posts": 10,
-    "last_updated_at": "2026-04-08T01:31:32.141346Z",
+    "huitun_posts": 11,
+    "last_updated_at": "2026-04-09T01:28:42.204102Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -30,7 +30,7 @@
       },
       {
         "platform": "huitun",
-        "count": 10
+        "count": 11
       }
     ],
     "by_platform_candidates": [
@@ -48,7 +48,7 @@
       },
       {
         "platform": "huitun",
-        "count": 10
+        "count": 11
       }
     ]
   },
@@ -99,7 +99,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.09
+      "total_score": 61.07
     },
     {
       "candidate_id": "topic-a97a6c64f578dd0e71",
@@ -123,7 +123,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 70.0
+      "total_score": 63.08
     },
     {
       "candidate_id": "topic-824993bb0ccb2e8a13",
@@ -147,7 +147,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.01
+      "total_score": 61.0
     },
     {
       "candidate_id": "topic-4747cf9f9bd67b11ea",
@@ -171,7 +171,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 70.6
+      "total_score": 63.14
     },
     {
       "candidate_id": "topic-02ddd7b1568cd729c4",
@@ -195,7 +195,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.11
+      "total_score": 61.09
     },
     {
       "candidate_id": "topic-eed4f2441cef64053b",
@@ -246,6 +246,30 @@
       "total_score": 60.91
     },
     {
+      "candidate_id": "topic-16977b3abc2403c2ae",
+      "title": "上班穿女装，还把客户拿下了？！ #搞笑 #抽象 #脑洞 #段子 #反转",
+      "summary": "上班穿女装，还把客户拿下了？！ #搞笑 #抽象 #脑洞 #段子 #反转",
+      "platforms": [
+        "huitun"
+      ],
+      "source_links": [
+        "https://www.douyin.com/video/7626029124297035051"
+      ],
+      "published_at": "2026-04-08T10:00:00Z",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 192476,
+      "favorite_count": 9692,
+      "comment_count": 16166,
+      "share_count": 702628,
+      "author_name": "无限帧（AI剧场）",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 76.85
+    },
+    {
       "candidate_id": "topic-3b39e84ecbc6dec024",
       "title": "平替👟👔找他👉@酷酷Fashion👟 \n#呼声高的AI新品尽在京东 #尴尬 哈哈哈😂",
       "summary": "平替👟👔找他👉@酷酷Fashion👟 \n#呼声高的AI新品尽在京东 #尴尬 哈哈哈😂",
@@ -267,7 +291,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 61.31
+      "total_score": 61.27
     },
     {
       "candidate_id": "topic-c256047f548244e9e5",
@@ -1248,7 +1272,7 @@
       "author_bio": "邵老师，旁门左道PPT创始人，专注解决职场工作型难题\n------------\n‼️招聘PPT设计师、产品运营、用户运营",
       "author_fans_count": 1378181,
       "status": "待处理",
-      "total_score": 49.9
+      "total_score": 49.89
     },
     {
       "candidate_id": "topic-3b5621aa71f9b275cb",
@@ -2119,7 +2143,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.23
+      "total_score": 32.22
     },
     {
       "candidate_id": "topic-29d8665732d9fcf282",
@@ -2488,7 +2512,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 24.95
+      "total_score": 24.94
     },
     {
       "candidate_id": "topic-ea8ec7dfda6e06fb7d",
@@ -2888,7 +2912,7 @@
       "author_bio": "还没有简介",
       "author_fans_count": 971,
       "status": "待处理",
-      "total_score": 35.7
+      "total_score": 35.69
     },
     {
       "candidate_id": "topic-0a452144816d76d9f2",
@@ -3892,7 +3916,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 62.72
+      "total_score": 62.7
     },
     {
       "candidate_id": "topic-dbf0f13eab317b8a95",
@@ -7613,31 +7637,6 @@
         "https://x.com/AIGuideHQ",
         "https://x.com/DembeAi",
         "https://x.com/gugeaigc"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.5
-    },
-    {
-      "candidate_id": "topic-cec9716ebe5cc90ee8",
-      "title": "@AIInsightDaily",
-      "summary": "@AIInsightDaily；Daily Founder Insights.",
-      "platforms": [
-        "x"
-      ],
-      "source_links": [
-        "https://x.com/AIInsightDaily",
-        "https://x.com/FoundersFTW"
       ],
       "published_at": "",
       "publish_time_text": "",
