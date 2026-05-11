@@ -89,9 +89,11 @@ class XiaohongshuCollectorTests(unittest.TestCase):
         self.assertEqual(item.metrics.get("favorites"), 3200)
         self.assertEqual(item.metrics.get("comments"), 268)
         self.assertEqual(item.metrics.get("shares"), 96)
-        self.assertIn("xsec_token=note_token", item.url)
+        self.assertEqual(item.url, "https://www.xiaohongshu.com/explore/note-001")
         self.assertEqual(item.raw_payload.get("author_name"), "效率研究员")
         self.assertEqual(item.raw_payload.get("author_avatar"), "https://example.com/a.jpg")
+        self.assertNotIn("note_xsec_token", item.raw_payload)
+        self.assertNotIn("author_xsec_token", item.raw_payload)
 
     def test_parse_publish_time_relative(self):
         parsed = XiaohongshuCollector._parse_publish_time("3小时前")

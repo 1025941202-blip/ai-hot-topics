@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import re
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlsplit, urlunsplit
 
 from ..models import RawItem
 from ..utils import now_utc
@@ -10,6 +11,13 @@ from .browser_base import BrowserSearchCollectorBase
 
 class XiaohongshuCollector(BrowserSearchCollectorBase):
     platform = "xiaohongshu"
+
+    @staticmethod
+    def _strip_public_query(url: str) -> str:
+        if not url:
+            return ""
+        parts = urlsplit(url)
+        return urlunsplit((parts.scheme, parts.netloc, parts.path, "", ""))
 
     def search_url(self, keyword: str) -> str:
         return f"https://www.xiaohongshu.com/search_result?keyword={self.q(keyword)}&source=web_explore_feed"
@@ -129,15 +137,9 @@ class XiaohongshuCollector(BrowserSearchCollectorBase):
 
             user = entry.get("user") or {}
             user_id = str(user.get("userId") or "").strip()
-            user_xsec = str(user.get("xsecToken") or "").strip()
-            note_xsec = str(entry.get("xsecToken") or "").strip()
             note_url = f"https://www.xiaohongshu.com/explore/{note_id}"
-            if note_xsec:
-                note_url += f"?xsec_token={note_xsec}&xsec_source=pc_search"
 
             profile_url = f"https://www.xiaohongshu.com/user/profile/{user_id}" if user_id else ""
-            if profile_url and user_xsec:
-                profile_url += f"?xsec_token={user_xsec}&xsec_source=pc_search"
 
             interact = entry.get("interactInfo") or {}
             likes = self._parse_count_text(str(interact.get("likedCount") or ""))
@@ -176,8 +178,6 @@ class XiaohongshuCollector(BrowserSearchCollectorBase):
                         "author_id": user_id,
                         "author_name": author_name,
                         "author_avatar": author_avatar,
-                        "author_xsec_token": user_xsec,
-                        "note_xsec_token": note_xsec,
                         "author_profile_url": profile_url,
                         "author_profile": {},
                     },
@@ -193,7 +193,7 @@ class XiaohongshuCollector(BrowserSearchCollectorBase):
         for card in cards or []:
             if not isinstance(card, dict):
                 continue
-            url = str(card.get("href") or "").strip()
+            url = self._strip_public_query(str(card.get("href") or "").strip())
             if not url or "/explore/" not in url or url in seen_urls:
                 continue
             seen_urls.add(url)
@@ -250,7 +250,7 @@ class XiaohongshuCollector(BrowserSearchCollectorBase):
         if max_profiles <= 0:
             return
 
-        author_targets: dict[str, dict[str, str]] = {}
+        author_targets: set[str] = set()
         for item in items:
             payload = item.raw_payload or {}
             user_id = str(payload.get("author_id") or "").strip()
@@ -258,9 +258,7 @@ class XiaohongshuCollector(BrowserSearchCollectorBase):
                 continue
             if user_id in author_targets:
                 continue
-            author_targets[user_id] = {
-                "xsec_token": str(payload.get("author_xsec_token") or "").strip(),
-            }
+            author_targets.add(user_id)
 
         if not author_targets:
             return
@@ -268,14 +266,10 @@ class XiaohongshuCollector(BrowserSearchCollectorBase):
         profile_data: dict[str, dict[str, object]] = {}
         detail_page = page.context.new_page()
         try:
-            for idx, (user_id, meta) in enumerate(author_targets.items()):
+            for idx, user_id in enumerate(author_targets):
                 if idx >= max_profiles:
                     break
-                info = self._fetch_profile_info(
-                    detail_page,
-                    user_id=user_id,
-                    user_xsec=meta.get("xsec_token", ""),
-                )
+                info = self._fetch_profile_info(detail_page, user_id=user_id)
                 if info:
                     profile_data[user_id] = info
         finally:
@@ -298,12 +292,10 @@ class XiaohongshuCollector(BrowserSearchCollectorBase):
                 item.author = str(info["nickname"])[:100]
             item.raw_payload = payload
 
-    def _fetch_profile_info(self, page, *, user_id: str, user_xsec: str = "") -> dict[str, object] | None:
+    def _fetch_profile_info(self, page, *, user_id: str) -> dict[str, object] | None:
         if not user_id:
             return None
         url = f"https://www.xiaohongshu.com/user/profile/{user_id}"
-        if user_xsec:
-            url += f"?xsec_token={user_xsec}&xsec_source=pc_search"
         try:
             page.goto(url, wait_until="domcontentloaded", timeout=30000)
             page.wait_for_timeout(1200)
