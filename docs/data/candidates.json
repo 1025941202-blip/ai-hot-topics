@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T01:29:04.062620Z",
+  "generated_at": "2026-06-09T01:25:27.159223Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 3769,
-    "total_candidates": 3263,
+    "total_posts": 3950,
+    "total_candidates": 3478,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-06-08T01:29:03.900149Z",
+    "last_updated_at": "2026-06-09T01:25:26.989873Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 2831
+        "count": 2985
       },
       {
         "platform": "x",
-        "count": 829
+        "count": 856
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 2160
+        "count": 2328
       },
       {
         "platform": "x",
-        "count": 1252
+        "count": 1321
       },
       {
         "platform": "xiaohongshu",
-        "count": 185
+        "count": 190
       },
       {
         "platform": "huitun",
@@ -123,7 +123,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.85
+      "total_score": 60.84
     },
     {
       "candidate_id": "topic-824993bb0ccb2e8a13",
@@ -171,7 +171,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.85
+      "total_score": 60.84
     },
     {
       "candidate_id": "topic-02ddd7b1568cd729c4",
@@ -1791,6 +1791,34 @@
       "total_score": 36.39
     },
     {
+      "candidate_id": "topic-cbf3c0a4cf5dc05515",
+      "title": "तबाही की शुरुआत! OpenAI और ट्रंप का ये खतरनाक फैसला 😟 #shorts",
+      "summary": "तबाही की शुरुआत! OpenAI और ट्रंप का ये खतरनाक फैसला 😟 #shorts；OpenAI 认了，光靠订阅养不起ChatGPT；日本生命、米国でOpenAIを提訴　「ChatGPTが非弁行為」",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=H1geebeexow",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
+        "https://t.co/dY4UopMcEs"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 34.35
+    },
+    {
       "candidate_id": "topic-c90564737d25ae80f5",
       "title": "學習時最不該做的事 #ai #chatgpt #ai工具 #學習",
       "summary": "學習時最不該做的事 #ai #chatgpt #ai工具 #學習；OpenAI 认了，光靠订阅养不起ChatGPT；@OpenAI",
@@ -2128,7 +2156,7 @@
       "author_bio": "成峰： 🔍AI 产品自由\n不是程序员\n独立开发者：正在做Agent\n                                                      😃关注一下👇🏻",
       "author_fans_count": 12508,
       "status": "待处理",
-      "total_score": 43.39
+      "total_score": 43.35
     },
     {
       "candidate_id": "topic-8110af5c83f7d83ea6",
@@ -2435,7 +2463,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.8
+      "total_score": 25.71
     },
     {
       "candidate_id": "topic-edae2918aeaee81fe7",
@@ -2567,7 +2595,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.34
+      "total_score": 33.28
     },
     {
       "candidate_id": "topic-33678c46120706bdab",
@@ -2617,30 +2645,6 @@
       "author_fans_count": 2528,
       "status": "待处理",
       "total_score": 38.7
-    },
-    {
-      "candidate_id": "topic-de08ebd5a10ef82ff2",
-      "title": "¿5 PERSONAJES MAS DEBILES QUE VENCERIAN A GOKU SEGUN CHAT GPT? #shorts",
-      "summary": "¿5 PERSONAJES MAS DEBILES QUE VENCERIAN A GOKU SEGUN CHAT GPT? #shorts",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=aDDI4USk8ow"
-      ],
-      "published_at": "2026-03-26T01:00:00Z",
-      "publish_time_text": "",
-      "view_count": 3673,
-      "like_count": 664,
-      "favorite_count": 0,
-      "comment_count": 37,
-      "share_count": 0,
-      "author_name": "MrScale",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.78
     },
     {
       "candidate_id": "topic-cdf632f870863952aa",
@@ -3296,6 +3300,30 @@
       "total_score": 30.26
     },
     {
+      "candidate_id": "topic-fc8a37ebb6015faf24",
+      "title": "高强度使用半年cursor，经验&踩坑分享给你！",
+      "summary": "高强度使用半年cursor，经验&踩坑分享给你！",
+      "platforms": [
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/699c33a3000000000e03f3b7?xsec_token=ABNmgOebEGFcgnJ-7g8EV0hovMYOvROMmfj1OPZsuurWs=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-02-26T07:37:55.556623Z",
+      "publish_time_text": "1天前",
+      "view_count": 0,
+      "like_count": 406,
+      "favorite_count": 676,
+      "comment_count": 23,
+      "share_count": 81,
+      "author_name": "你的AI背包",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31siva9jr5mc05odmiio8cf25o7u19a8?imageView2/2/w/80/format/jpg",
+      "author_bio": "AI产品经理 | 华科CS+传播学 → LSE\n用大白话聊AI，不贩卖焦虑，只说人话",
+      "author_fans_count": 130,
+      "status": "待处理",
+      "total_score": 28.63
+    },
+    {
       "candidate_id": "topic-d1f9056cd846056683",
       "title": "高强度使用半年cursor，经验&踩坑分享给你！",
       "summary": "高强度使用半年cursor，经验&踩坑分享给你！；@cursor",
@@ -3583,7 +3611,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 27.26
+      "total_score": 27.13
     },
     {
       "candidate_id": "topic-3212b431c29c7a57fb",
@@ -3631,7 +3659,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 39.34
+      "total_score": 30.47
     },
     {
       "candidate_id": "topic-b8c7df7eba2564426c",
@@ -3903,7 +3931,7 @@
       "author_bio": "..",
       "author_fans_count": 4907,
       "status": "待处理",
-      "total_score": 44.67
+      "total_score": 44.66
     },
     {
       "candidate_id": "topic-7cf889abfd2a852e2b",
@@ -4343,6 +4371,34 @@
       "total_score": 27.18
     },
     {
+      "candidate_id": "topic-86fd4f2c7a9b820d31",
+      "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
+      "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；@OpenAIDevs；From developers.openai.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/699fc2630000000022031551?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I4RS7p9xmB6jMlH2r_7gm3g=&xsec_source=pc_search",
+        "https://x.com/OpenAIDevs",
+        "https://t.co/eayhlbPzvi",
+        "https://t.co/H2O10dR013"
+      ],
+      "published_at": "2026-02-26T07:37:36.893601Z",
+      "publish_time_text": "1天前",
+      "view_count": 0,
+      "like_count": 120,
+      "favorite_count": 187,
+      "comment_count": 17,
+      "share_count": 38,
+      "author_name": "测试老江",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m60766pl86g5q5c28imc6ii9i1pflo?imageView2/2/w/80/format/jpg",
+      "author_bio": "🌿 10年+高级测开｜AI开发者\n📙  分享有趣的测试技巧 / AI 测试 \n🔍 不靠谱目标:探索100 个 AI 测试方案\n📈 在职，不培训，随心记",
+      "author_fans_count": 754,
+      "status": "待处理",
+      "total_score": 26.89
+    },
+    {
       "candidate_id": "topic-ab42c22d38a870c84a",
       "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
       "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；#openai #tablerules #unseen；#openai #tiktokvideo #tablerules #bjgroup #unseen",
@@ -4370,94 +4426,6 @@
       "author_fans_count": 754,
       "status": "待处理",
       "total_score": 23.89
-    },
-    {
-      "candidate_id": "topic-c8bd425be30bdc747f",
-      "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
-      "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；open ai ceo sam aoultman speech for youngsters || #openai #samaoltman #aishort；chat GPT photo rare pics in #mountains #viralvideo #viral",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699fc2630000000022031551?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I4RS7p9xmB6jMlH2r_7gm3g=&xsec_source=pc_search",
-        "https://www.youtube.com/watch?v=smfhe1GS2-o",
-        "https://www.youtube.com/watch?v=S6mKWMfiaEU",
-        "https://www.youtube.com/watch?v=aZb1eiqr78E",
-        "https://www.youtube.com/watch?v=32hsU-wF-es"
-      ],
-      "published_at": "2026-02-26T07:37:36.893601Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 120,
-      "favorite_count": 187,
-      "comment_count": 17,
-      "share_count": 38,
-      "author_name": "测试老江",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m60766pl86g5q5c28imc6ii9i1pflo?imageView2/2/w/80/format/jpg",
-      "author_bio": "🌿 10年+高级测开｜AI开发者\n📙  分享有趣的测试技巧 / AI 测试 \n🔍 不靠谱目标:探索100 个 AI 测试方案\n📈 在职，不培训，随心记",
-      "author_fans_count": 754,
-      "status": "待处理",
-      "total_score": 23.79
-    },
-    {
-      "candidate_id": "topic-16cfbaa0e73cca6f26",
-      "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
-      "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；#openai #tablerules #unseen；From developers.openai.com",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699fc2630000000022031551?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I4RS7p9xmB6jMlH2r_7gm3g=&xsec_source=pc_search",
-        "https://www.youtube.com/watch?v=WGcnYm7XvoE",
-        "https://t.co/eayhlbPzvi",
-        "https://t.co/Yb5T0r9Riu",
-        "https://t.co/H2O10dR013"
-      ],
-      "published_at": "2026-02-26T07:37:36.893601Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 120,
-      "favorite_count": 187,
-      "comment_count": 17,
-      "share_count": 38,
-      "author_name": "测试老江",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m60766pl86g5q5c28imc6ii9i1pflo?imageView2/2/w/80/format/jpg",
-      "author_bio": "🌿 10年+高级测开｜AI开发者\n📙  分享有趣的测试技巧 / AI 测试 \n🔍 不靠谱目标:探索100 个 AI 测试方案\n📈 在职，不培训，随心记",
-      "author_fans_count": 754,
-      "status": "待处理",
-      "total_score": 23.71
-    },
-    {
-      "candidate_id": "topic-1a5a108821c329555f",
-      "title": "wii cursor",
-      "summary": "wii cursor；Torajo VS cursor pt2；#cursor #paraiba",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=QW8X-GoGN_k",
-        "https://www.youtube.com/watch?v=ko3-1cWeWfk",
-        "https://www.youtube.com/watch?v=QEV0PMpht6A",
-        "https://www.xiaohongshu.com/explore/699fc2630000000022031551?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I4RS7p9xmB6jMlH2r_7gm3g=&xsec_source=pc_search",
-        "https://www.youtube.com/watch?v=smfhe1GS2-o"
-      ],
-      "published_at": "2026-02-26T07:37:36.893601Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 120,
-      "favorite_count": 187,
-      "comment_count": 17,
-      "share_count": 38,
-      "author_name": "测试老江",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m60766pl86g5q5c28imc6ii9i1pflo?imageView2/2/w/80/format/jpg",
-      "author_bio": "🌿 10年+高级测开｜AI开发者\n📙  分享有趣的测试技巧 / AI 测试 \n🔍 不靠谱目标:探索100 个 AI 测试方案\n📈 在职，不培训，随心记",
-      "author_fans_count": 754,
-      "status": "待处理",
-      "total_score": 23.56
     },
     {
       "candidate_id": "topic-30453e764013d7cd3b",
@@ -4747,6 +4715,32 @@
       "total_score": 25.88
     },
     {
+      "candidate_id": "topic-5310b579d947e23999",
+      "title": "OpenAI Codex免费！接管本地大模型云端DeepSeek替你干活，Token自由无压力！AI Agent新玩法！ 附部署教程  | Hex-电脑课堂",
+      "summary": "OpenAI Codex免费！接管本地大模型云端DeepSeek替你干活，Token自由无压力！AI Agent新玩法！ 附部署教程  | Hex-电脑课堂；deepseek让excel起飞 deepseek让excel起飞 #deepseek #excel #officeai；Tham số là gì?AI Model nào có tham số lớn nhất? #openai #deepseek #llama",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=t5tH4rLQtpU",
+        "https://www.youtube.com/watch?v=woR-26HbOq4",
+        "https://www.youtube.com/watch?v=Av3GsfqYf_A"
+      ],
+      "published_at": "2026-06-03T16:40:12Z",
+      "publish_time_text": "",
+      "view_count": 1132,
+      "like_count": 57,
+      "favorite_count": 0,
+      "comment_count": 13,
+      "share_count": 0,
+      "author_name": "Hex-电脑课堂",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 24.01
+    },
+    {
       "candidate_id": "topic-9e7bb479cbe413633f",
       "title": "其实，大多数大模型岗都是先混进去再说！",
       "summary": "其实，大多数大模型岗都是先混进去再说！",
@@ -4798,57 +4792,6 @@
       "total_score": 24.12
     },
     {
-      "candidate_id": "topic-d563baf0907b75f365",
-      "title": "शुभ रविवार 🌺#सूर्य #नारायण #ai #yt #वायरलवीडियो #youtubeshort",
-      "summary": "शुभ रविवार 🌺#सूर्य #नारायण #ai #yt #वायरलवीडियो #youtubeshort；YT Thumbnail Lab",
-      "platforms": [
-        "x",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=uw0KJdWF9IE",
-        "https://x.com/clickmaxxing"
-      ],
-      "published_at": "2026-06-07T00:30:03Z",
-      "publish_time_text": "",
-      "view_count": 572,
-      "like_count": 40,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Sanatan Dharm ",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 24.46
-    },
-    {
-      "candidate_id": "topic-fed60ee435ecba921b",
-      "title": "Claude Just KILLED Data Entry Jobs",
-      "summary": "Claude Just KILLED Data Entry Jobs；Claude Just Killed A 10 BILLION DOLLAR Crypto Project",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=sBvRJGjMq5k",
-        "https://www.youtube.com/watch?v=PQjvYek6Klo"
-      ],
-      "published_at": "2026-06-07T23:25:05Z",
-      "publish_time_text": "",
-      "view_count": 807,
-      "like_count": 38,
-      "favorite_count": 0,
-      "comment_count": 9,
-      "share_count": 0,
-      "author_name": "Nick Puru | AI Automation",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 26.53
-    },
-    {
       "candidate_id": "topic-bf70fd54708d26443f",
       "title": "Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化",
       "summary": "Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化；https://\nopenai.com/index/why-lang\nuage-models-hallucinate/\n…；OpenAI ads pilot tops $100 million in annualized revenue in under 2 months",
@@ -4876,6 +4819,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 39.36
+    },
+    {
+      "candidate_id": "topic-4f00d13c664092ee25",
+      "title": "美股AI半导体闪崩又反弹，A股新手投资者该怎么办？翻墙炒股信息差最重要|A股ETF|投资美股|赚钱股市",
+      "summary": "美股AI半导体闪崩又反弹，A股新手投资者该怎么办？翻墙炒股信息差最重要|A股ETF|投资美股|赚钱股市",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=yQm_FoQERJM"
+      ],
+      "published_at": "2026-06-08T18:08:02Z",
+      "publish_time_text": "",
+      "view_count": 1027,
+      "like_count": 29,
+      "favorite_count": 0,
+      "comment_count": 7,
+      "share_count": 0,
+      "author_name": "大阪刀叔",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 29.59
     },
     {
       "candidate_id": "topic-1efdb4ba7acfa6b449",
@@ -4954,34 +4921,6 @@
       "total_score": 26.7
     },
     {
-      "candidate_id": "topic-93e49c311f0aee1e29",
-      "title": "大橘战斗力爆棚#橘猫#宠物#AI创作#AI提示词#AI智能体#短视频拆解#搞笑",
-      "summary": "大橘战斗力爆棚#橘猫#宠物#AI创作#AI提示词#AI智能体#短视频拆解#搞笑；大橘面包#橘猫#宠物#AI创作#AI提示词#AI智能体#短视频拆解#搞笑；单身是有原因的#橘猫#宠物#AI创作#AI提示词#AI智能体#短视频拆解#搞笑",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=nWhy3GmXNFg",
-        "https://www.youtube.com/watch?v=yKZ6-YNB0Ws",
-        "https://www.youtube.com/watch?v=6tFwQmh59N8",
-        "https://www.youtube.com/watch?v=ajZIdgFjnrU",
-        "https://www.youtube.com/watch?v=Jmwjfuc4yAg"
-      ],
-      "published_at": "2026-02-26T05:48:08Z",
-      "publish_time_text": "",
-      "view_count": 521,
-      "like_count": 24,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "Defu",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.82
-    },
-    {
       "candidate_id": "topic-1297f66832648a3650",
       "title": "大模型八股文，一周练完面试通过率99%+",
       "summary": "大模型八股文，一周练完面试通过率99%+",
@@ -5053,30 +4992,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 25.93
-    },
-    {
-      "candidate_id": "topic-2955acca9dfcd6f3b5",
-      "title": "【NBA巔峰對決】回憶球員評測-喬．英格斯！大模型二號位選擇！？#nba巔峰對決 #nba #shortvideo  #shorts  #巔峰創作營第九期 #reels",
-      "summary": "【NBA巔峰對決】回憶球員評測-喬．英格斯！大模型二號位選擇！？#nba巔峰對決 #nba #shortvideo  #shorts  #巔峰創作營第九期 #reels",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Ad3kgR7K2H4"
-      ],
-      "published_at": "2026-06-07T15:27:12Z",
-      "publish_time_text": "",
-      "view_count": 834,
-      "like_count": 18,
-      "favorite_count": 0,
-      "comment_count": 4,
-      "share_count": 0,
-      "author_name": "巔峰小康康",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.45
     },
     {
       "candidate_id": "topic-bbe25bb526728ba40f",
@@ -5157,32 +5072,28 @@
       "total_score": 25.06
     },
     {
-      "candidate_id": "topic-3b0be0266d196597e6",
-      "title": "喵喵的快乐#猫#宠物#AI创作#AI提示词#AI智能体#短视频拆解#搞笑",
-      "summary": "喵喵的快乐#猫#宠物#AI创作#AI提示词#AI智能体#短视频拆解#搞笑；大橘战斗力爆棚#橘猫#宠物#AI创作#AI提示词#AI智能体#短视频拆解#搞笑；大橘面包#橘猫#宠物#AI创作#AI提示词#AI智能体#短视频拆解#搞笑",
+      "candidate_id": "topic-5d30b13831db5a005e",
+      "title": "视频做完，Codex 自动上传 YouTube：AI 内容工厂打通最后一公里",
+      "summary": "视频做完，Codex 自动上传 YouTube：AI 内容工厂打通最后一公里",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=YSVYyicCAns",
-        "https://www.youtube.com/watch?v=nWhy3GmXNFg",
-        "https://www.youtube.com/watch?v=yKZ6-YNB0Ws",
-        "https://www.youtube.com/watch?v=6tFwQmh59N8",
-        "https://www.youtube.com/watch?v=ajZIdgFjnrU"
+        "https://www.youtube.com/watch?v=tv1aejt1PJE"
       ],
-      "published_at": "2026-03-08T07:08:47Z",
+      "published_at": "2026-06-08T23:45:31Z",
       "publish_time_text": "",
-      "view_count": 893,
-      "like_count": 15,
+      "view_count": 156,
+      "like_count": 14,
       "favorite_count": 0,
-      "comment_count": 0,
+      "comment_count": 1,
       "share_count": 0,
-      "author_name": "Defu",
+      "author_name": "灵姐说AI  |  Ling Talk AI",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 23.82
+      "total_score": 30.17
     },
     {
       "candidate_id": "topic-1a4f23f8ae9279c87e",
@@ -5208,34 +5119,6 @@
       "author_fans_count": 294,
       "status": "待处理",
       "total_score": 44.36
-    },
-    {
-      "candidate_id": "topic-5e4f416388180bc57c",
-      "title": "这就是下场 #橘猫 #宠物 #Ai提示词 #Ai创作 #搞笑 #橘猫还是那个橘猫  #搞笑视频 #搞笑段子 #搞笑視頻 #搞笑日常 #治愈系猫咪 #治愈猫咪",
-      "summary": "这就是下场 #橘猫 #宠物 #Ai提示词 #Ai创作 #搞笑 #橘猫还是那个橘猫  #搞笑视频 #搞笑段子 #搞笑視頻 #搞笑日常 #治愈系猫咪 #治愈猫咪；你胆子太大了 #橘猫 #宠物 #Ai提示词 #Ai创作 #搞笑 #橘猫还是那个橘猫  #搞笑视频 #搞笑段子 #搞笑視頻 #搞笑日常；喵喵的快乐#猫#宠物#AI创作#AI提示词#AI智能体#短视频拆解#搞笑",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=T_k6IDZ-Ewk",
-        "https://www.youtube.com/watch?v=-wJmv-WZwtY",
-        "https://www.youtube.com/watch?v=YSVYyicCAns",
-        "https://www.youtube.com/watch?v=b-gRp4SjjKA",
-        "https://www.youtube.com/watch?v=EfLjWvBtVwQ"
-      ],
-      "published_at": "2026-03-08T16:00:40Z",
-      "publish_time_text": "",
-      "view_count": 920,
-      "like_count": 11,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "jumao2030",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.78
     },
     {
       "candidate_id": "topic-1793ebcf971a6ae83a",
@@ -5264,104 +5147,28 @@
       "total_score": 29.75
     },
     {
-      "candidate_id": "topic-715d6dba1016e9aade",
-      "title": "OpenAI、Anthropic 改口談 AI 取代工作｜真正卡住 AI 紅利的，是企業流程重整",
-      "summary": "OpenAI、Anthropic 改口談 AI 取代工作｜真正卡住 AI 紅利的，是企業流程重整；앤트로픽, OpenAI 제치고 세계 1위 AI 등극 (90조원 유치)；OpenAI Sora 종료, Arm 첫 칩, Siri 2.0 발표, 무슨 일이 벌어지고 있는가? #ai뉴스 #테크트렌드 #Sora #Arm #agenticai #ai",
+      "candidate_id": "topic-aecaf28784c0534e56",
+      "title": "🔍 ccusage — Claude Code のコストをローカルで丸見えにする OSS #claude #claudecode #ccusage",
+      "summary": "🔍 ccusage — Claude Code のコストをローカルで丸見えにする OSS #claude #claudecode #ccusage",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=HEzcAiJj7kY",
-        "https://www.youtube.com/watch?v=Ca3qfkMYu88",
-        "https://www.youtube.com/watch?v=7nBiAiLSbQ4"
+        "https://www.youtube.com/watch?v=s6AMJ9XK5RM"
       ],
-      "published_at": "2026-06-01T22:48:21Z",
+      "published_at": "2026-06-08T23:00:38Z",
       "publish_time_text": "",
-      "view_count": 351,
+      "view_count": 613,
       "like_count": 8,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "ZANDCLASS◆AI◆Zack",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.69
-    },
-    {
-      "candidate_id": "topic-10eef9a58e37656173",
-      "title": "OpenAI、Anthropic 改口談 AI 取代工作｜真正卡住 AI 紅利的，是企業流程重整",
-      "summary": "OpenAI、Anthropic 改口談 AI 取代工作｜真正卡住 AI 紅利的，是企業流程重整；[충격] OpenAI 핵심 인재가 앤트로픽으로?! + 매출 추격전 | AI 브리핑 2026.03.16 #AI뉴스 #Anthropic #앤트로픽 #OpenAI #ChatGPT",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=HEzcAiJj7kY",
-        "https://www.youtube.com/watch?v=fgx4vNngT5Q"
-      ],
-      "published_at": "2026-06-01T22:48:21Z",
-      "publish_time_text": "",
-      "view_count": 351,
-      "like_count": 8,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "ZANDCLASS◆AI◆Zack",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.62
-    },
-    {
-      "candidate_id": "topic-d6087dde58394fcdac",
-      "title": "OpenAI、Anthropic 改口談 AI 取代工作｜真正卡住 AI 紅利的，是企業流程重整",
-      "summary": "OpenAI、Anthropic 改口談 AI 取代工作｜真正卡住 AI 紅利的，是企業流程重整；以军空袭黎巴嫩254死｜AI三巨头联手指控DeepSeek｜反杀熟新规今日生效",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=HEzcAiJj7kY",
-        "https://www.youtube.com/watch?v=U0culwFgVhE"
-      ],
-      "published_at": "2026-06-01T22:48:21Z",
-      "publish_time_text": "",
-      "view_count": 351,
-      "like_count": 8,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "ZANDCLASS◆AI◆Zack",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.61
-    },
-    {
-      "candidate_id": "topic-a4aecee5ad46ea7cde",
-      "title": "全自動AI智能貓在我家！真的有AI晶片⚡️✨",
-      "summary": "全自動AI智能貓在我家！真的有AI晶片⚡️✨",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=UyPekN6d-CY"
-      ],
-      "published_at": "2026-06-08T00:00:38Z",
-      "publish_time_text": "",
-      "view_count": 504,
-      "like_count": 7,
       "favorite_count": 0,
       "comment_count": 0,
       "share_count": 0,
-      "author_name": "芬哥太太aka肉圓小姐",
+      "author_name": "☕ Claude Code Cafe",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.16
+      "total_score": 26.97
     },
     {
       "candidate_id": "topic-3c03fbac6e0c188226",
@@ -5389,6 +5196,58 @@
       "total_score": 30.04
     },
     {
+      "candidate_id": "topic-f3c4b09b44fddea807",
+      "title": "Tkell Agent 002 Blem!!",
+      "summary": "Tkell Agent 002 Blem!!；Senior Mossad Agent Killed in Tel Aviv?；Agent 00 Wore a Green hat in china 👀😭",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=UdupeKNIw48",
+        "https://www.youtube.com/watch?v=ZsQwNZSGvow",
+        "https://www.youtube.com/watch?v=7Nubsqdbwbc",
+        "https://www.youtube.com/watch?v=3XFs69ovCRE",
+        "https://www.youtube.com/watch?v=-1g-A9-QzaQ"
+      ],
+      "published_at": "2026-06-07T00:09:44Z",
+      "publish_time_text": "",
+      "view_count": 214,
+      "like_count": 7,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Nathan Neeley Outdoors",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 27.07
+    },
+    {
+      "candidate_id": "topic-a4aecee5ad46ea7cde",
+      "title": "全自動AI智能貓在我家！真的有AI晶片⚡️✨",
+      "summary": "全自動AI智能貓在我家！真的有AI晶片⚡️✨",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=UyPekN6d-CY"
+      ],
+      "published_at": "2026-06-08T00:00:38Z",
+      "publish_time_text": "",
+      "view_count": 504,
+      "like_count": 7,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "芬哥太太aka肉圓小姐",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 24.04
+    },
+    {
       "candidate_id": "topic-6174788da9b8ae9a99",
       "title": "Notionが全Claudeモデルを緊急停止｜&quot;劣化&quot;騒動の真相と単一モデル依存の教訓",
       "summary": "Notionが全Claudeモデルを緊急停止｜&quot;劣化&quot;騒動の真相と単一モデル依存の教訓；Anthropic 再帰的自己改善とは｜Claudeが自社AI開発を加速 &quot;AIがAIを作る&quot;",
@@ -5414,28 +5273,52 @@
       "total_score": 23.91
     },
     {
-      "candidate_id": "topic-2a3763589ea1744e65",
-      "title": "1000个Mac上超好用工具｜第10期 有了AI后，我才发现Mac最该装它，它的含金量又提升了！如果你经常让Mac跑AI、下载、上传、视频导出，Amphetamine真的很实用。它可以让Mac...",
-      "summary": "1000个Mac上超好用工具｜第10期 有了AI后，我才发现Mac最该装它，它的含金量又提升了！如果你经常让Mac跑AI、下载、上传、视频导出，Amphetamine真的很实用。它可以让Mac...",
+      "candidate_id": "topic-06b37c2557b6396576",
+      "title": "Claudeを使うなら絶対確認したい設定5選",
+      "summary": "Claudeを使うなら絶対確認したい設定5選",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=FmZiNa3aeLk"
+        "https://www.youtube.com/watch?v=PhGkXVWIO-s"
       ],
-      "published_at": "2026-06-07T19:37:41Z",
+      "published_at": "2026-06-09T00:16:20Z",
       "publish_time_text": "",
-      "view_count": 628,
+      "view_count": 672,
       "like_count": 6,
       "favorite_count": 0,
-      "comment_count": 0,
+      "comment_count": 1,
       "share_count": 0,
-      "author_name": "他们叫我小仙",
+      "author_name": "けん@AI活用術",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 31.04
+      "total_score": 32.39
+    },
+    {
+      "candidate_id": "topic-924da7609207aa544e",
+      "title": "AI機器人下一站在台中？!  @ingwen831",
+      "summary": "AI機器人下一站在台中？!  @ingwen831",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=z5qYjtxg044"
+      ],
+      "published_at": "2026-06-09T01:00:29Z",
+      "publish_time_text": "",
+      "view_count": 147,
+      "like_count": 6,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "何欣純",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 32.28
     },
     {
       "candidate_id": "topic-88659e249845d5cfea",
@@ -5490,6 +5373,30 @@
       "total_score": 26.63
     },
     {
+      "candidate_id": "topic-2a3763589ea1744e65",
+      "title": "1000个Mac上超好用工具｜第10期 有了AI后，我才发现Mac最该装它，它的含金量又提升了！如果你经常让Mac跑AI、下载、上传、视频导出，Amphetamine真的很实用。它可以让Mac...",
+      "summary": "1000个Mac上超好用工具｜第10期 有了AI后，我才发现Mac最该装它，它的含金量又提升了！如果你经常让Mac跑AI、下载、上传、视频导出，Amphetamine真的很实用。它可以让Mac...",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=FmZiNa3aeLk"
+      ],
+      "published_at": "2026-06-07T19:37:41Z",
+      "publish_time_text": "",
+      "view_count": 628,
+      "like_count": 6,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "他们叫我小仙",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 24.96
+    },
+    {
       "candidate_id": "topic-72a0a3f2c6a513e009",
       "title": "Claude 회사가 상장 버튼 눌렀습니다 ㄷㄷ 9650억달러 IPO 시동 #shorts",
       "summary": "Claude 회사가 상장 버튼 눌렀습니다 ㄷㄷ 9650억달러 IPO 시동 #shorts；앤트로픽, OpenAI 제치고 세계 1위 AI 등극 (90조원 유치)；【2026年最新】Anthropic、ミトス級AIを数週間で公開！Claude Opus 4.8も発表 #Shorts",
@@ -5514,6 +5421,78 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 24.2
+    },
+    {
+      "candidate_id": "topic-457ef6f7dde0016a2d",
+      "title": "无需真人出镜！2块钱搞定爆款电商视频复刻，保姆级教程",
+      "summary": "无需真人出镜！2块钱搞定爆款电商视频复刻，保姆级教程",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=yy2oyOBgf4A"
+      ],
+      "published_at": "2026-06-08T14:52:15Z",
+      "publish_time_text": "",
+      "view_count": 21,
+      "like_count": 4,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "青橙Lab",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.64
+    },
+    {
+      "candidate_id": "topic-df68f5311b6116c456",
+      "title": "本地AI时代开启 | Gemma4 12B | DeepMind | Transformer | 本地多模态 | 256K 上下文 | Apache 2.0 | 物理推理 | 原生思考模式 | 谷歌",
+      "summary": "本地AI时代开启 | Gemma4 12B | DeepMind | Transformer | 本地多模态 | 256K 上下文 | Apache 2.0 | 物理推理 | 原生思考模式 | 谷歌",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=_jETqIFHbzI"
+      ],
+      "published_at": "2026-06-08T23:00:24Z",
+      "publish_time_text": "",
+      "view_count": 142,
+      "like_count": 4,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Nana Chen Studio",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.75
+    },
+    {
+      "candidate_id": "topic-ce938de79a6d13f860",
+      "title": "万亿参数模型顺利运行！国产算力迎来里程碑，行业格局彻底改变#华为昇腾910C#DeepSeekV4Pro#国产AI算力#AI大模型训练#芯片自主可控#科技突围#人工智能发展#国产芯片替代",
+      "summary": "万亿参数模型顺利运行！国产算力迎来里程碑，行业格局彻底改变#华为昇腾910C#DeepSeekV4Pro#国产AI算力#AI大模型训练#芯片自主可控#科技突围#人工智能发展#国产芯片替代",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=n123mNO6bUI"
+      ],
+      "published_at": "2026-06-08T23:00:35Z",
+      "publish_time_text": "",
+      "view_count": 33,
+      "like_count": 4,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "江南会话",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.7
     },
     {
       "candidate_id": "topic-733203518e497148df",
@@ -5567,79 +5546,6 @@
       "total_score": 26.97
     },
     {
-      "candidate_id": "topic-ba4a04e7ae6246f0d4",
-      "title": "很短就一段提示词，但效果非常好～可以快速学习任何领域的生涩概念！亲测好用，附提示词和案例",
-      "summary": "很短就一段提示词，但效果非常好～可以快速学习任何领域的生涩概念！亲测好用，附提示词和案例",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=ZJVGA4juTbw"
-      ],
-      "published_at": "2026-06-07T02:30:14Z",
-      "publish_time_text": "",
-      "view_count": 21,
-      "like_count": 4,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "达姐说科技",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 24.5
-    },
-    {
-      "candidate_id": "topic-67ef73a28eab09089f",
-      "title": "【悲報】豊臣秀吉、AIで「猿」のあだ名を変えようとした結果…ww",
-      "summary": "【悲報】豊臣秀吉、AIで「猿」のあだ名を変えようとした結果…ww",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=WsGdvKeLo0Y"
-      ],
-      "published_at": "2026-06-07T00:53:18Z",
-      "publish_time_text": "",
-      "view_count": 355,
-      "like_count": 4,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "昭和世代のやさしいAIナビ",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 24.18
-    },
-    {
-      "candidate_id": "topic-17301362fc28efab1f",
-      "title": "Json提示词精确控图，风格迁移高阶教程，让你的香蕉指哪打哪的高手秘诀",
-      "summary": "Json提示词精确控图，风格迁移高阶教程，让你的香蕉指哪打哪的高手秘诀；用Json提示词提高控图准确性，零基础小白系统入门，Nano Banana Pro进阶教程",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=E4ZGwS3HClI",
-        "https://www.youtube.com/watch?v=5rhsAK_OoNU"
-      ],
-      "published_at": "2026-04-09T12:48:17Z",
-      "publish_time_text": "",
-      "view_count": 45,
-      "like_count": 4,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "来真的",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.62
-    },
-    {
       "candidate_id": "topic-bf118e1ef9c829f4a1",
       "title": "【第3集】【2026最新AI漫剧保姆级教程】【LibTV工具版】AI视频提示词+AI绘画+图生视频+视听语言 手把手教你玩转AI影视赛道 #aieducation",
       "summary": "【第3集】【2026最新AI漫剧保姆级教程】【LibTV工具版】AI视频提示词+AI绘画+图生视频+视听语言 手把手教你玩转AI影视赛道 #aieducation；【2026最新AI短剧保姆级教程 免费送提示词资料】02 AI人物造型设计 #aieducation",
@@ -5665,125 +5571,28 @@
       "total_score": 31.18
     },
     {
-      "candidate_id": "topic-b7fd0c29ed25d29514",
-      "title": "AI改坏产品图？用这个提示词就够了",
-      "summary": "AI改坏产品图？用这个提示词就够了",
+      "candidate_id": "topic-df4cb97fa0dcd0119e",
+      "title": "Claude finally being useful 😭😭😭😭 #trading #claude",
+      "summary": "Claude finally being useful 😭😭😭😭 #trading #claude",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=uEOd0dRhUZs"
+        "https://www.youtube.com/watch?v=9xJXzQV-aAs"
       ],
-      "published_at": "2026-06-07T13:40:08Z",
+      "published_at": "2026-06-08T22:23:24Z",
       "publish_time_text": "",
-      "view_count": 14,
+      "view_count": 635,
       "like_count": 3,
       "favorite_count": 0,
       "comment_count": 0,
       "share_count": 0,
-      "author_name": "TBPI Studio",
+      "author_name": "Grace Goldstein",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 27.31
-    },
-    {
-      "candidate_id": "topic-43981a57c7a3e692fa",
-      "title": "AI 真的在搶飯碗 ? 美5月裁員創兩年新高！ #十秒冷知識 #失業潮 #裁員潮",
-      "summary": "AI 真的在搶飯碗 ? 美5月裁員創兩年新高！ #十秒冷知識 #失業潮 #裁員潮",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=1mu7T6vGbk8"
-      ],
-      "published_at": "2026-06-06T23:00:17Z",
-      "publish_time_text": "",
-      "view_count": 410,
-      "like_count": 3,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "老霆的十秒冷知識",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.71
-    },
-    {
-      "candidate_id": "topic-20e4febe2d07b844f8",
-      "title": "【第3集】【2026最新AI漫剧保姆级教程】【LibTV工具版】AI视频提示词+AI绘画+图生视频+视听语言 手把手教你玩转AI影视赛道 #aieducation",
-      "summary": "【第3集】【2026最新AI漫剧保姆级教程】【LibTV工具版】AI视频提示词+AI绘画+图生视频+视听语言 手把手教你玩转AI影视赛道 #aieducation",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=dFeFXNM7lms"
-      ],
-      "published_at": "2026-06-06T07:00:11Z",
-      "publish_time_text": "",
-      "view_count": 63,
-      "like_count": 3,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "appearyoutube",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.59
-    },
-    {
-      "candidate_id": "topic-42fa914c867b41f449",
-      "title": "Seedance 2.0 电影级 AI 视频全流程：从角色建模到动态合成，提升人物生成稳定性！",
-      "summary": "Seedance 2.0 电影级 AI 视频全流程：从角色建模到动态合成，提升人物生成稳定性！；2026年最重要的6个AI技能｜90%的人一个都不会",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=u0xOqd4rrhs",
-        "https://www.youtube.com/watch?v=SBtrJLV8-4o"
-      ],
-      "published_at": "2026-03-25T15:07:22Z",
-      "publish_time_text": "",
-      "view_count": 21,
-      "like_count": 3,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "AI起飞站小艾",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.55
-    },
-    {
-      "candidate_id": "topic-9a85990864c278084b",
-      "title": "越安靜，越強大的9種心境 #ai工具 #數位轉型",
-      "summary": "越安靜，越強大的9種心境 #ai工具 #數位轉型",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=8HbTzEwp6_k"
-      ],
-      "published_at": "2026-06-07T23:00:22Z",
-      "publish_time_text": "",
-      "view_count": 23,
-      "like_count": 2,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Liao",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.66
+      "total_score": 26.75
     },
     {
       "candidate_id": "topic-8a43bd1932409b7a50",
@@ -5811,31 +5620,6 @@
       "total_score": 31.44
     },
     {
-      "candidate_id": "topic-7a6c019aa214a08b83",
-      "title": "没病干嘛找你？#AI搞笑视频 #搞笑我是认真的 #搞笑幽默的段子 #AI段子手 #搞笑 #大熱門 #funny  #高能段子手 #沙雕剧情 #美女搞笑",
-      "summary": "没病干嘛找你？#AI搞笑视频 #搞笑我是认真的 #搞笑幽默的段子 #AI段子手 #搞笑 #大熱門 #funny  #高能段子手 #沙雕剧情 #美女搞笑；𫫇！崩溃啦...#ai搞笑视频 #搞笑我是认真的 #搞笑幽默的段子 #AI搞笑段子 #搞笑 #大熱門 #高能段子手 #沙雕剧情",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=4AjDovBVxm8",
-        "https://www.youtube.com/watch?v=8PUbMJFMCZw"
-      ],
-      "published_at": "2026-06-08T00:33:56Z",
-      "publish_time_text": "",
-      "view_count": 266,
-      "like_count": 2,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "AI玩刀歌",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.39
-    },
-    {
       "candidate_id": "topic-25f379ba068e6f76c5",
       "title": "AI漫剧节奏控制：短视频黄金法则3秒原则",
       "summary": "AI漫剧节奏控制：短视频黄金法则3秒原则",
@@ -5858,6 +5642,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.76
+    },
+    {
+      "candidate_id": "topic-79bbeb8d2eddf1e851",
+      "title": "学 AI 总是很碎？我用 Codex 把提示词、Agent、Skill 一次串起来",
+      "summary": "学 AI 总是很碎？我用 Codex 把提示词、Agent、Skill 一次串起来",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=aCQxbBEF7Vw"
+      ],
+      "published_at": "2026-06-08T12:00:13Z",
+      "publish_time_text": "",
+      "view_count": 16,
+      "like_count": 2,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "程序楊的AI进阶指南",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 26.89
     },
     {
       "candidate_id": "topic-f0849efbeb60dfdf86",
@@ -5912,101 +5720,128 @@
       "total_score": 26.28
     },
     {
-      "candidate_id": "topic-2b97ace95151c2e01b",
-      "title": "免費體驗！Anijam AI 一分鐘做出長動畫影片！當別人還在研究 15 秒短片，你已用 Anijam AI 製作一整個 AI 故事動畫了！連配音配樂都搞定！動畫界的 ChatGPT #anijam",
-      "summary": "免費體驗！Anijam AI 一分鐘做出長動畫影片！當別人還在研究 15 秒短片，你已用 Anijam AI 製作一整個 AI 故事動畫了！連配音配樂都搞定！動畫界的 ChatGPT #anijam；フロリダ州がOpenAIを世界初提訴【#AIニュース速報 Shorts】",
+      "candidate_id": "topic-9a85990864c278084b",
+      "title": "越安靜，越強大的9種心境 #ai工具 #數位轉型",
+      "summary": "越安靜，越強大的9種心境 #ai工具 #數位轉型",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=2dC9eTza3IM",
-        "https://www.youtube.com/watch?v=45g7cV1rqeg"
+        "https://www.youtube.com/watch?v=8HbTzEwp6_k"
       ],
-      "published_at": "2026-06-05T00:03:56Z",
+      "published_at": "2026-06-07T23:00:22Z",
       "publish_time_text": "",
-      "view_count": 38,
+      "view_count": 23,
       "like_count": 2,
       "favorite_count": 0,
-      "comment_count": 1,
+      "comment_count": 0,
       "share_count": 0,
-      "author_name": "Tracy AI小妹",
+      "author_name": "Liao",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.28
+      "total_score": 25.62
     },
     {
-      "candidate_id": "topic-72b75f79251cd57c83",
-      "title": "【🚨ChatGPT注意】AI利用がバレる記号を消す設定",
-      "summary": "【🚨ChatGPT注意】AI利用がバレる記号を消す設定",
+      "candidate_id": "topic-7a6c019aa214a08b83",
+      "title": "没病干嘛找你？#AI搞笑视频 #搞笑我是认真的 #搞笑幽默的段子 #AI段子手 #搞笑 #大熱門 #funny  #高能段子手 #沙雕剧情 #美女搞笑",
+      "summary": "没病干嘛找你？#AI搞笑视频 #搞笑我是认真的 #搞笑幽默的段子 #AI段子手 #搞笑 #大熱門 #funny  #高能段子手 #沙雕剧情 #美女搞笑；𫫇！崩溃啦...#ai搞笑视频 #搞笑我是认真的 #搞笑幽默的段子 #AI搞笑段子 #搞笑 #大熱門 #高能段子手 #沙雕剧情",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=AFFNNnvoIRs"
+        "https://www.youtube.com/watch?v=4AjDovBVxm8",
+        "https://www.youtube.com/watch?v=8PUbMJFMCZw"
       ],
-      "published_at": "2026-06-07T01:13:59Z",
+      "published_at": "2026-06-08T00:33:56Z",
       "publish_time_text": "",
-      "view_count": 283,
+      "view_count": 266,
       "like_count": 2,
       "favorite_count": 0,
-      "comment_count": 1,
+      "comment_count": 0,
       "share_count": 0,
-      "author_name": "突撃!隣のマネー事情",
+      "author_name": "AI玩刀歌",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 24.3
+      "total_score": 24.35
     },
     {
-      "candidate_id": "topic-645e399ec6711a81d0",
-      "title": "豆包AI分析历史靠谱吗？实测揭开AI历史回答的真实水平好差劲#凯叔闲聊  #西汉#byd #馆长直播 #熱門 #中国历史 #西方伪史#豆包ai",
-      "summary": "豆包AI分析历史靠谱吗？实测揭开AI历史回答的真实水平好差劲#凯叔闲聊  #西汉#byd #馆长直播 #熱門 #中国历史 #西方伪史#豆包ai",
+      "candidate_id": "topic-93016aedf79d1afac0",
+      "title": "AIに強い仕事は9割が勘違い #ずんだもん #ai",
+      "summary": "AIに強い仕事は9割が勘違い #ずんだもん #ai",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=jm0l1QDsoBI"
+        "https://www.youtube.com/watch?v=4Do_Sk2GYTo"
       ],
-      "published_at": "2026-06-08T00:42:32Z",
+      "published_at": "2026-06-09T01:00:15Z",
       "publish_time_text": "",
-      "view_count": 28,
+      "view_count": 206,
       "like_count": 1,
       "favorite_count": 0,
       "comment_count": 0,
       "share_count": 0,
-      "author_name": "闪电大王龙",
+      "author_name": "もちっとAI教室",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 34.08
+      "total_score": 32.23
     },
     {
-      "candidate_id": "topic-a18273690cb70f4d13",
-      "title": "免费使用 Claude Code！接入阿里百炼 API，100+模型随便用，每个模型送100万Token",
-      "summary": "免费使用 Claude Code！接入阿里百炼 API，100+模型随便用，每个模型送100万Token",
+      "candidate_id": "topic-1dd08eda2ea16f42c8",
+      "title": "1分でわかる！Claudeアップデート詳細　Claude Code 2.1.169",
+      "summary": "1分でわかる！Claudeアップデート詳細　Claude Code 2.1.169；Claude Code AI駆動開発 OpenClaw＠クドクラ；@jean_claude_ai",
+      "platforms": [
+        "x",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=qtt7FPpEsN0",
+        "https://x.com/KudouCraft",
+        "https://x.com/jean_claude_ai"
+      ],
+      "published_at": "2026-06-08T23:29:08Z",
+      "publish_time_text": "",
+      "view_count": 401,
+      "like_count": 1,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "odayakanushi",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 32.07
+    },
+    {
+      "candidate_id": "topic-09c554de71f3a4442f",
+      "title": "AI軍備賽開打數據疑雲與砸錢大戰 | Daniel 美股 20260609",
+      "summary": "AI軍備賽開打數據疑雲與砸錢大戰 | Daniel 美股 20260609",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=tujCmDZqsIU"
+        "https://www.youtube.com/watch?v=bjQtl_7R9lE"
       ],
-      "published_at": "2026-06-08T01:17:52Z",
+      "published_at": "2026-06-08T23:01:16Z",
       "publish_time_text": "",
-      "view_count": 2,
+      "view_count": 144,
       "like_count": 1,
       "favorite_count": 0,
-      "comment_count": 1,
+      "comment_count": 0,
       "share_count": 0,
-      "author_name": "极客AI工坊",
+      "author_name": "Daniel 新聞",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.31
+      "total_score": 31.71
     },
     {
       "candidate_id": "topic-30b71b5b3b9d10e9b4",
@@ -6110,6 +5945,30 @@
       "total_score": 29.5
     },
     {
+      "candidate_id": "topic-645e399ec6711a81d0",
+      "title": "豆包AI分析历史靠谱吗？实测揭开AI历史回答的真实水平好差劲#凯叔闲聊  #西汉#byd #馆长直播 #熱門 #中国历史 #西方伪史#豆包ai",
+      "summary": "豆包AI分析历史靠谱吗？实测揭开AI历史回答的真实水平好差劲#凯叔闲聊  #西汉#byd #馆长直播 #熱門 #中国历史 #西方伪史#豆包ai",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=jm0l1QDsoBI"
+      ],
+      "published_at": "2026-06-08T00:42:32Z",
+      "publish_time_text": "",
+      "view_count": 28,
+      "like_count": 1,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "闪电大王龙",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.04
+    },
+    {
       "candidate_id": "topic-7c26c56a4b81ccfd63",
       "title": "AI技术革命｜人工智能正在改变各行...",
       "summary": "AI技术革命｜人工智能正在改变各行...",
@@ -6134,30 +5993,6 @@
       "total_score": 27.76
     },
     {
-      "candidate_id": "topic-21e5a98a379e9a962d",
-      "title": "用换模型解决大模型调用慢问题的，都是初学者！ #shrots #java #程序员 #ai #ai应用",
-      "summary": "用换模型解决大模型调用慢问题的，都是初学者！ #shrots #java #程序员 #ai #ai应用",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=WK5t5afTn_4"
-      ],
-      "published_at": "2026-06-07T14:48:54Z",
-      "publish_time_text": "",
-      "view_count": 61,
-      "like_count": 1,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "托尼学长",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.59
-    },
-    {
       "candidate_id": "topic-c2068013f0577371e8",
       "title": "Hermes Desktop，开源免费一站式大模型管理，小白双击即用智能终端桌面版",
       "summary": "Hermes Desktop，开源免费一站式大模型管理，小白双击即用智能终端桌面版",
@@ -6180,6 +6015,54 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 27.16
+    },
+    {
+      "candidate_id": "topic-a18273690cb70f4d13",
+      "title": "免费使用 Claude Code！接入阿里百炼 API，100+模型随便用，每个模型送100万Token",
+      "summary": "免费使用 Claude Code！接入阿里百炼 API，100+模型随便用，每个模型送100万Token",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=tujCmDZqsIU"
+      ],
+      "published_at": "2026-06-08T01:17:52Z",
+      "publish_time_text": "",
+      "view_count": 2,
+      "like_count": 1,
+      "favorite_count": 0,
+      "comment_count": 1,
+      "share_count": 0,
+      "author_name": "极客AI工坊",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 26.25
+    },
+    {
+      "candidate_id": "topic-89cb5c2bce9919e19d",
+      "title": "manus baba #keşfet #edit #futbol #football #futboledit #neymar #ytdayibenionecikarnolur",
+      "summary": "manus baba #keşfet #edit #futbol #football #futboledit #neymar #ytdayibenionecikarnolur",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ESye-984wHw"
+      ],
+      "published_at": "2026-06-08T20:29:28Z",
+      "publish_time_text": "",
+      "view_count": 207,
+      "like_count": 1,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "ToxYy🍃",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 26.09
     },
     {
       "candidate_id": "topic-03720b93ce19c3cde8",
@@ -6386,30 +6269,6 @@
       "total_score": 25.47
     },
     {
-      "candidate_id": "topic-ecb76fc05a2413cb9c",
-      "title": "OpenAI内部观点：「手工编写提示词是脆弱的，我们正转向一个无需提示词的未来」",
-      "summary": "OpenAI内部观点：「手工编写提示词是脆弱的，我们正转向一个无需提示词的未来」",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Kq48PMPl1f0"
-      ],
-      "published_at": "2026-06-07T05:10:38Z",
-      "publish_time_text": "",
-      "view_count": 45,
-      "like_count": 1,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "AI快递",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.16
-    },
-    {
       "candidate_id": "topic-294b9359569de8955e",
       "title": "超初心者向け　AIエージェントをNotion MCPに接続する方法 #Cursor #Notion #AIエージェント #MCP #ずんだもん #CursorAI #Notion連携 #初心者向け",
       "summary": "超初心者向け　AIエージェントをNotion MCPに接続する方法 #Cursor #Notion #AIエージェント #MCP #ずんだもん #CursorAI #Notion連携 #初心者向け；超初心者向け　yoloで画像から物体検出　#YOLO #Cursor #物体検出 #AI初心者 #KAILab #Shorts；超初心者向け　Cursorからwslに接続 #Cursor #WSL #Linux #プログラミング初心者 #開発環境 #AIエディタ",
@@ -6485,58 +6344,6 @@
       "total_score": 24.3
     },
     {
-      "candidate_id": "topic-e4e3bdf507958ad945",
-      "title": "#大威德天天晨报，#DailyDavidMorningNews，Jun. 6th，2026年，#北岸空调，#人感染，#螺旋蝇幼虫，#食肉蝇，#加拿大最新，#失业率，#琅琊，#全球海洋现象智能预报大模型",
-      "summary": "#大威德天天晨报，#DailyDavidMorningNews，Jun. 6th，2026年，#北岸空调，#人感染，#螺旋蝇幼虫，#食肉蝇，#加拿大最新，#失业率，#琅琊，#全球海洋现象智能预报大模型",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=JmibbDP8sgk"
-      ],
-      "published_at": "2026-06-06T16:47:19Z",
-      "publish_time_text": "",
-      "view_count": 4,
-      "like_count": 1,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "VTV Vancouver",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 24.02
-    },
-    {
-      "candidate_id": "topic-787347bb99dde7b0f7",
-      "title": "Day 3 of trying to clear your feed from AI SLOP#art #oilpainting #artist #painting #portraitpainting",
-      "summary": "Day 3 of trying to clear your feed from AI SLOP#art #oilpainting #artist #painting #portraitpainting；Toying with AI #aiart #art #painting #aimusic #humanandai；I hate AI :) #relatable #art #arthumor #artistpetpeeves #drawing #painting #tattooflash #ihateAI",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=kdC1NDeVuqU",
-        "https://www.youtube.com/watch?v=8gejgl081Qs",
-        "https://www.youtube.com/watch?v=m6ymGQrFi24",
-        "https://www.youtube.com/watch?v=EDgo47ytybs",
-        "https://www.youtube.com/watch?v=EeDgK_c76bw"
-      ],
-      "published_at": "2026-06-06T16:15:08Z",
-      "publish_time_text": "",
-      "view_count": 3,
-      "like_count": 1,
-      "favorite_count": 0,
-      "comment_count": 2,
-      "share_count": 0,
-      "author_name": "ArtisticSparsh02",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 23.66
-    },
-    {
       "candidate_id": "topic-d508161f4f3858c47f",
       "title": "3千预算最强组装。电脑源头工厂！升级活动中！全套送福夯",
       "summary": "3千预算最强组装。电脑源头工厂！升级活动中！全套送福夯",
@@ -6559,6 +6366,78 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 62.43
+    },
+    {
+      "candidate_id": "topic-7922f0f25070f01711",
+      "title": "2026年普通人必备的3种类型AI工具清单（免费/低门槛）",
+      "summary": "2026年普通人必备的3种类型AI工具清单（免费/低门槛）",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=nv-XTRRlTWg"
+      ],
+      "published_at": "2026-06-09T00:45:01Z",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "掌舵者AI实验室",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 36.08
+    },
+    {
+      "candidate_id": "topic-56a4a335c450097161",
+      "title": "不用写半个字！AI聊天出科幻大片！邪修教程！ 不用提示词，只需和Agent对话，从剧本到角色、分镜全流程帮你搞定！ #AI工具  #AI教程  #AIGC  #AI视频  #AI短剧",
+      "summary": "不用写半个字！AI聊天出科幻大片！邪修教程！ 不用提示词，只需和Agent对话，从剧本到角色、分镜全流程帮你搞定！ #AI工具  #AI教程  #AIGC  #AI视频  #AI短剧",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=uZA3t6CKfc4"
+      ],
+      "published_at": "2026-06-09T00:00:31Z",
+      "publish_time_text": "",
+      "view_count": 1,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "星辰⭐️电台",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 35.89
+    },
+    {
+      "candidate_id": "topic-02fa0302dcf98a61e0",
+      "title": "12 秒看懂六类 AI 工具，一次性拆解 #AI工具#AI视频#AI数字人",
+      "summary": "12 秒看懂六类 AI 工具，一次性拆解 #AI工具#AI视频#AI数字人",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=x7J58x5CAIY"
+      ],
+      "published_at": "2026-06-08T22:03:26Z",
+      "publish_time_text": "",
+      "view_count": 2,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "q哥",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 35.4
     },
     {
       "candidate_id": "topic-e73b335fe047e92628",
@@ -6584,30 +6463,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 34.32
-    },
-    {
-      "candidate_id": "topic-0258d4c54076cb54fd",
-      "title": "一句话教你做短剧！全保姆级教程！#AI #AI工具 #抽象AI短剧 #我的AI创作外挂 #短剧",
-      "summary": "一句话教你做短剧！全保姆级教程！#AI #AI工具 #抽象AI短剧 #我的AI创作外挂 #短剧",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Kssiife9yJI"
-      ],
-      "published_at": "2026-06-08T00:30:16Z",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "米小律",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 34.0
     },
     {
       "candidate_id": "topic-bf7d4742e5d187ecdb",
@@ -6717,30 +6572,6 @@
       "total_score": 33.0
     },
     {
-      "candidate_id": "topic-30532ac0a1f8b33948",
-      "title": "😂 搞笑短视频提示词（Prompt）： 一个人自信满满地展示自己的才艺，结果每一步都发生意想不到的搞笑失误。夸张表情、幽默反转、快速节奏剪辑、爆笑音效、高清画质、轻松欢乐氛围、适合短视频平台传播",
-      "summary": "😂 搞笑短视频提示词（Prompt）： 一个人自信满满地展示自己的才艺，结果每一步都发生意想不到的搞笑失误。夸张表情、幽默反转、快速节奏剪辑、爆笑音效、高清画质、轻松欢乐氛围、适合短视频平台传播",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=RtbloeF6Rws"
-      ],
-      "published_at": "2026-06-07T20:28:08Z",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Liu shishi",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 32.99
-    },
-    {
       "candidate_id": "topic-e259c5a742ab8d59fa",
       "title": "美女爆笑视频#ai #aigc #funny #happy",
       "summary": "美女爆笑视频#ai #aigc #funny #happy；美女爆笑视频#ai #aigc #funny #happy",
@@ -6764,30 +6595,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 32.91
-    },
-    {
-      "candidate_id": "topic-6c90a29a0384ca8e02",
-      "title": "每天 30 分鐘追熱點？AI 幫我縮短到 30 秒",
-      "summary": "每天 30 分鐘追熱點？AI 幫我縮短到 30 秒",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=X6KJ_utaOuo"
-      ],
-      "published_at": "2026-06-08T01:26:46Z",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "小龍蝦的 60 秒日記",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 32.24
     },
     {
       "candidate_id": "topic-9a49f93e1eca205cd8",
@@ -6814,76 +6621,52 @@
       "total_score": 32.22
     },
     {
-      "candidate_id": "topic-9b8f317b0120f53fb1",
-      "title": "🔥美日砸10億美元！AI科學研究合作震撼全球，量子、融合能源領域大突破來了 #Shorts",
-      "summary": "🔥美日砸10億美元！AI科學研究合作震撼全球，量子、融合能源領域大突破來了 #Shorts",
+      "candidate_id": "topic-12ff5b86ae77f7929c",
+      "title": "中共撒11億造政治AI 推廣習近平思想 |  #新聞第一線 #新聞精選 #中共 #新華社 #人工智慧 #時事評論 #政治宣傳",
+      "summary": "中共撒11億造政治AI 推廣習近平思想 |  #新聞第一線 #新聞精選 #中共 #新華社 #人工智慧 #時事評論 #政治宣傳",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=ohxEAp1BWbo"
+        "https://www.youtube.com/watch?v=fTQneQcS3QA"
       ],
-      "published_at": "2026-06-08T00:59:45Z",
+      "published_at": "2026-06-09T00:47:55Z",
+      "publish_time_text": "",
+      "view_count": 19,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "新聞第一線",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 32.1
+    },
+    {
+      "candidate_id": "topic-fdbcadb04929526479",
+      "title": "首个3D原生城市世界模型！高德ABot-Earth0.5内测：单卡端到端生成3DGS 【AI日报 2026-06-09】",
+      "summary": "首个3D原生城市世界模型！高德ABot-Earth0.5内测：单卡端到端生成3DGS 【AI日报 2026-06-09】",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=faYbs-L19qs"
+      ],
+      "published_at": "2026-06-09T00:36:20Z",
       "publish_time_text": "",
       "view_count": 0,
       "like_count": 0,
       "favorite_count": 0,
       "comment_count": 0,
       "share_count": 0,
-      "author_name": "AI Portal Axis",
+      "author_name": "AI天天酱",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.13
-    },
-    {
-      "candidate_id": "topic-47b96042acba557f48",
-      "title": "每天半小时AI知识 | 18万星！AutoGPT让AI自主完成任务，不用你盯着",
-      "summary": "每天半小时AI知识 | 18万星！AutoGPT让AI自主完成任务，不用你盯着",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=ie3cgRFVq98"
-      ],
-      "published_at": "2026-06-08T00:00:23Z",
-      "publish_time_text": "",
-      "view_count": 5,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "AI酋长Andy",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.88
-    },
-    {
-      "candidate_id": "topic-aa4e09b41e07cfc6eb",
-      "title": "12月10日，绮山湖科创谷人工智能创新园与空天产业智造园12栋主楼全部完成主体封顶！#江阴  #绮山湖科创谷",
-      "summary": "12月10日，绮山湖科创谷人工智能创新园与空天产业智造园12栋主楼全部完成主体封顶！#江阴  #绮山湖科创谷",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=VJdHiVx-kfc"
-      ],
-      "published_at": "2026-06-07T23:46:37Z",
-      "publish_time_text": "",
-      "view_count": 5,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "江阴时刻",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.82
+      "total_score": 32.04
     },
     {
       "candidate_id": "topic-586bf406a0acf33f97",
@@ -6988,54 +6771,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 31.17
-    },
-    {
-      "candidate_id": "topic-b15eef1ac7ea6282b5",
-      "title": "不要被「效率」骗了:AI 提效,有时是在透支你的品牌信用| EP28 #dayofdesign #ai #chatgpt #品牌设计 #个人品牌 #品牌资产 #品牌设计 #个人品牌 #品牌资产",
-      "summary": "不要被「效率」骗了:AI 提效,有时是在透支你的品牌信用| EP28 #dayofdesign #ai #chatgpt #品牌设计 #个人品牌 #品牌资产 #品牌设计 #个人品牌 #品牌资产",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=fDoEKRBNzkM"
-      ],
-      "published_at": "2026-06-07T20:55:18Z",
-      "publish_time_text": "",
-      "view_count": 1,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Andy · DAY OF DESIGN | 每日优创-品牌故事",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.1
-    },
-    {
-      "candidate_id": "topic-b1a05866f2f4651c87",
-      "title": "同样是 AI 时代,有人被冲垮,有人翻三倍 —— 区别根本不是 AI | EP25",
-      "summary": "同样是 AI 时代,有人被冲垮,有人翻三倍 —— 区别根本不是 AI | EP25",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Bfhl7lb2QXY"
-      ],
-      "published_at": "2026-06-07T20:50:32Z",
-      "publish_time_text": "",
-      "view_count": 3,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Andy · DAY OF DESIGN | 每日优创-品牌故事",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.08
     },
     {
       "candidate_id": "topic-74e0eb18b2e2b65e4c",
@@ -7164,54 +6899,30 @@
       "total_score": 31.0
     },
     {
-      "candidate_id": "topic-ed71c5788b67901529",
-      "title": "魅族AR眼镜体验，可以听歌，可以导航。可以AI大模型问问题，创作都可以，还是挺实用的。主要是价格也不贵。2000多，可以买个玩玩。#魅族21 #魅族ar智能眼镜",
-      "summary": "魅族AR眼镜体验，可以听歌，可以导航。可以AI大模型问问题，创作都可以，还是挺实用的。主要是价格也不贵。2000多，可以买个玩玩。#魅族21 #魅族ar智能眼镜",
+      "candidate_id": "topic-5a9757bc5a9f9e67a7",
+      "title": "【AIGC实战课 121】次世代图像模型Ideogram4 体验指哪儿打哪儿的精准度！高质量加速流12G可用，图形化提示词编辑器如臂使指！",
+      "summary": "【AIGC实战课 121】次世代图像模型Ideogram4 体验指哪儿打哪儿的精准度！高质量加速流12G可用，图形化提示词编辑器如臂使指！；Genius！来自开源社区Ideogram4 破解机制详解，配套自动提示词工作流｜NicknickAI AI教程；全自动提示词，wan2.2 bernini 玩法更新，完美动作迁移、人物迁移、VBVR，视频编辑工作流",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=z2nWzsXHccg"
+        "https://www.youtube.com/watch?v=ffbeo8E375A",
+        "https://www.youtube.com/watch?v=_Ti6uxNdHZo",
+        "https://www.youtube.com/watch?v=Z7ry47uZkhw"
       ],
-      "published_at": "2026-06-07T20:20:00Z",
+      "published_at": "2026-06-08T17:50:51Z",
       "publish_time_text": "",
-      "view_count": 5,
+      "view_count": 9,
       "like_count": 0,
       "favorite_count": 0,
       "comment_count": 0,
       "share_count": 0,
-      "author_name": "科技圣斗士",
+      "author_name": "Doc_workBox",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.95
-    },
-    {
-      "candidate_id": "topic-c55c127ee5ba664652",
-      "title": "高知家大模型展展示会　2026",
-      "summary": "高知家大模型展展示会　2026；第27回高知家大模型展示会　土佐市つなーで；2026년 하반기 핵심 테마 3가지#AI #로봇 #전력망 #한국증시 #성장주 #주식투자",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=5Zz_81LFdRI",
-        "https://www.youtube.com/watch?v=uL-eXWXO9A8",
-        "https://www.youtube.com/watch?v=0p6eJUPJSFk"
-      ],
-      "published_at": "2026-06-07T13:54:22Z",
-      "publish_time_text": "",
-      "view_count": 1154,
-      "like_count": 0,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "歌乙女チャンネル",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.59
+      "total_score": 30.45
     },
     {
       "candidate_id": "topic-1b43a0292c23d0c020",
@@ -7238,28 +6949,28 @@
       "total_score": 30.25
     },
     {
-      "candidate_id": "topic-a65b16db8a3fc70a93",
-      "title": "AIは意識ある存在と区別できなくなり、人々はやがてそれを受け入れる#AI #未来予測 #カーツワイル #シンギュラリティ",
-      "summary": "AIは意識ある存在と区別できなくなり、人々はやがてそれを受け入れる#AI #未来予測 #カーツワイル #シンギュラリティ",
+      "candidate_id": "topic-7aee1919d537330938",
+      "title": "G阿部前監督まさかの書類送検【他：非核三原則・OpenAI・AI】",
+      "summary": "G阿部前監督まさかの書類送検【他：非核三原則・OpenAI・AI】",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=Mz-TDKCcBzM"
+        "https://www.youtube.com/watch?v=BRlUeYBH3P4"
       ],
-      "published_at": "2026-06-08T00:53:55Z",
+      "published_at": "2026-06-09T01:12:39Z",
       "publish_time_text": "",
-      "view_count": 212,
+      "view_count": 4,
       "like_count": 0,
       "favorite_count": 0,
       "comment_count": 0,
       "share_count": 0,
-      "author_name": "松本 | アメリカ発AIの視点を読む",
+      "author_name": "毎日1min通勤ニュース",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.18
+      "total_score": 30.2
     },
     {
       "candidate_id": "topic-292b0fb326837b611f",
@@ -7341,28 +7052,28 @@
       "total_score": 30.0
     },
     {
-      "candidate_id": "topic-4f0f89c847a832e307",
-      "title": "7万字某丁 AI 项目深度复盘: 大模型时代下企业协作工具进化路径的深刻反思",
-      "summary": "7万字某丁 AI 项目深度复盘: 大模型时代下企业协作工具进化路径的深刻反思",
+      "candidate_id": "topic-06533d16e5404fea59",
+      "title": "🏯 本軍師穿越到2026年後 #ai工具 #ai",
+      "summary": "🏯 本軍師穿越到2026年後 #ai工具 #ai",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=5TU_tZrreR8"
+        "https://www.youtube.com/watch?v=oMVUE-L7l20"
       ],
-      "published_at": "2026-06-07T16:12:22Z",
+      "published_at": "2026-06-08T16:19:49Z",
       "publish_time_text": "",
-      "view_count": 2,
+      "view_count": 1,
       "like_count": 0,
       "favorite_count": 0,
       "comment_count": 0,
       "share_count": 0,
-      "author_name": "知阅无界",
+      "author_name": "麵包的ai生活視覺",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 29.91
+      "total_score": 29.96
     },
     {
       "candidate_id": "topic-bc63752f64531cb55c",
@@ -7390,6 +7101,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.89
+    },
+    {
+      "candidate_id": "topic-b8ab67217d41173259",
+      "title": "别再死磕提示词！揭秘ChatGPT最容易被忽视的4大效率神技！#AI思考笔记",
+      "summary": "别再死磕提示词！揭秘ChatGPT最容易被忽视的4大效率神技！#AI思考笔记",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=fESu_zAaxK4"
+      ],
+      "published_at": "2026-06-08T16:00:06Z",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Jason的AI思考笔记",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 29.88
     },
     {
       "candidate_id": "topic-de22a8fe0cbff4ba45",
@@ -7536,6 +7271,30 @@
       "total_score": 29.72
     },
     {
+      "candidate_id": "topic-12968e4b3ecde7e99d",
+      "title": "刚刚开源！Macaron-V1-Preview深度解析：749B参数超大模型登场，Agent后训练新路线，Mixture-of-LoRA、A2UI、OpenClaw到底有多强？",
+      "summary": "刚刚开源！Macaron-V1-Preview深度解析：749B参数超大模型登场，Agent后训练新路线，Mixture-of-LoRA、A2UI、OpenClaw到底有多强？",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Pq7crYWUOMA"
+      ],
+      "published_at": "2026-06-08T15:12:17Z",
+      "publish_time_text": "",
+      "view_count": 54,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "鲲鹏Talk",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 29.69
+    },
+    {
       "candidate_id": "topic-bb09863fea8b2b6055",
       "title": "超初心者向け　Cursorからwslに接続 #Cursor #WSL #Linux #プログラミング初心者 #開発環境 #AIエディタ",
       "summary": "超初心者向け　Cursorからwslに接続 #Cursor #WSL #Linux #プログラミング初心者 #開発環境 #AIエディタ",
@@ -7560,29 +7319,52 @@
       "total_score": 29.67
     },
     {
-      "candidate_id": "topic-9733b61244c8fb1658",
-      "title": "ai吸管滴管工具小技巧.mp4",
-      "summary": "ai吸管滴管工具小技巧.mp4；ai无限延长，画笔工具.mp4",
+      "candidate_id": "topic-c3665e236426823e79",
+      "title": "拖延症末期有救了！讓 AI 幫你打造專屬的原子習慣系統 🚀 #原子習慣 #AI #生產力工具 #拖延症",
+      "summary": "拖延症末期有救了！讓 AI 幫你打造專屬的原子習慣系統 🚀 #原子習慣 #AI #生產力工具 #拖延症",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=DZyb5oJaxOg",
-        "https://www.youtube.com/watch?v=fUcq1KElrFE"
+        "https://www.youtube.com/watch?v=_R8kyAXeyZo"
       ],
-      "published_at": "2026-06-07T00:03:48Z",
+      "published_at": "2026-06-08T23:00:14Z",
       "publish_time_text": "",
-      "view_count": 5,
+      "view_count": 2,
       "like_count": 0,
       "favorite_count": 0,
       "comment_count": 0,
       "share_count": 0,
-      "author_name": "梁志颖",
+      "author_name": "阿卿的藝想空間",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 29.09
+      "total_score": 29.64
+    },
+    {
+      "candidate_id": "topic-891e1049ab8a8e0e6c",
+      "title": "AI 智能体来了！再也不用写 Prompt，OpenAI 高管：你的电脑以后自己会干活！",
+      "summary": "AI 智能体来了！再也不用写 Prompt，OpenAI 高管：你的电脑以后自己会干活！",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=jJKvmfSJzBs"
+      ],
+      "published_at": "2026-06-08T05:49:18Z",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "每日AI创业知识分享",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 29.31
     },
     {
       "candidate_id": "topic-374469a136f777c63f",
@@ -7612,6 +7394,30 @@
       "total_score": 28.86
     },
     {
+      "candidate_id": "topic-22194767dcc3df2925",
+      "title": "📘 In the Age of AI, Those Who Record Shall Survive 2 📖 Subtitle: The Last ChroniclerYear 2045.",
+      "summary": "📘 In the Age of AI, Those Who Record Shall Survive 2 📖 Subtitle: The Last ChroniclerYear 2045.",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ni1mq-Tz1vY"
+      ],
+      "published_at": "2026-06-08T23:07:02Z",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "황제의서재.텐트아빠.민어한점.서재원(徐載源).",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.67
+    },
+    {
       "candidate_id": "topic-c899cbe0538bbd50e9",
       "title": "给大家普及一下三个月转型大模型需要达到的强度！！！",
       "summary": "给大家普及一下三个月转型大模型需要达到的强度！！！；2.5小时练完这些你的大模型就很牛了！！！；给大家普及一下三个月转型AI大模型，要达到的强度~",
@@ -7638,6 +7444,32 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.6
+    },
+    {
+      "candidate_id": "topic-c24bd24dd76c581cdb",
+      "title": "OpenAI、動画AI「Sora」終了　ディズニーとの提携も撤回",
+      "summary": "OpenAI、動画AI「Sora」終了　ディズニーとの提携も撤回；news.yahoo.co.jp\nOpenAI、動画生成の「Sora」を終了へ（Impress Watch） - Yahoo!ニュース\nOpenAIは24日(米国時間)、動画生成アプリの「Sora」を終了すると発表した。 Soraは2024年2月にOpenAIの動画生成サービスとしてスタートし、25年10月の「Sora 2」ととも；OpenAI、動画生成アプリ「Sora」終了へ なぜ?理由を聞いた",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/PebcRSg7hU",
+        "https://t.co/tACQKKytEe",
+        "https://t.co/5L6uQnnkpY"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.5
     },
     {
       "candidate_id": "topic-2866e6acb92e99bd7d",
@@ -7689,6 +7521,159 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.5
+    },
+    {
+      "candidate_id": "topic-8e503afdc7db0c68bb",
+      "title": "楽天、日本語に最適化したLLM「Rakuten AI 3.0」",
+      "summary": "楽天、日本語に最適化したLLM「Rakuten AI 3.0」；#RakutenAI",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/jvC4ZzV9m8",
+        "https://x.com/hashtag/RakutenAI?src=hashtag_click"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.5
+    },
+    {
+      "candidate_id": "topic-3a4094b4772d9349a2",
+      "title": "風＠AI副業の実践ラボ",
+      "summary": "風＠AI副業の実践ラボ；AIだけで「デザイン性の高いWebサイト」はつくれるのか？実践してわかった8つのポイント｜梶谷健人",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://x.com/kazeno_otode",
+        "https://t.co/Bw5lMvOeQJ"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.5
+    },
+    {
+      "candidate_id": "topic-31bdc5e66704838f67",
+      "title": "AIが「答える」から「実行する」時代へ。自律型エージェント『Manus』に触れて感動した話｜Yukio",
+      "summary": "AIが「答える」から「実行する」時代へ。自律型エージェント『Manus』に触れて感動した話｜Yukio；【2026最新】クラウドAIの終焉？OpenClawとManusが導く「自律型デスクトップエージェント」極限戦略全貌",
+      "platforms": [
+        "x"
+      ],
+      "source_links": [
+        "https://t.co/inMB6Jiy5d",
+        "https://t.co/ACQnPDxve2"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.5
+    },
+    {
+      "candidate_id": "topic-c7dff9dbf6443b5840",
+      "title": "#মানুষ জন্মের পরে মৃত্যুর সঠিক তারিখ যদি জানতো#ভাইরাল গান#2026 !! Manus Jonmer Pore Mittu Satik",
+      "summary": "#মানুষ জন্মের পরে মৃত্যুর সঠিক তারিখ যদি জানতো#ভাইরাল গান#2026 !! Manus Jonmer Pore Mittu Satik",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=XsjaQhOGPrw"
+      ],
+      "published_at": "2026-06-08T20:57:11Z",
+      "publish_time_text": "",
+      "view_count": 44,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Jaidul official",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.14
+    },
+    {
+      "candidate_id": "topic-fcced5c24f952e262e",
+      "title": "【2026最新AI短剧保姆级教程 免费送提示词资料】03 真人短剧分镜头图片",
+      "summary": "【2026最新AI短剧保姆级教程 免费送提示词资料】03 真人短剧分镜头图片；【2026最新AI短剧保姆级教程 免费送提示词资料】02 AI人物造型设计 #aieducation",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=oeeM7o2KW7g",
+        "https://www.youtube.com/watch?v=MciBJDV3o-4"
+      ],
+      "published_at": "2026-06-07T07:00:35Z",
+      "publish_time_text": "",
+      "view_count": 1,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Theron Armentroug",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.12
+    },
+    {
+      "candidate_id": "topic-43ca6aaa7aba353836",
+      "title": "From copy.ai",
+      "summary": "From copy.ai；From clawhub.ai；From claude.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://t.co/y61dtNZA0b",
+        "https://t.co/jkhpOka9YK",
+        "https://t.co/bh8ucLZPsA",
+        "https://t.co/cYiw0LJlfT",
+        "https://www.xiaohongshu.com/explore/698edb02000000000a02c8fb"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "掌舵者AI实验室",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.0
     }
   ]
 }
