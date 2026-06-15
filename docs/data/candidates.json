@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T01:31:02.041398Z",
+  "generated_at": "2026-06-15T01:29:29.620539Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-06-14T01:31:01.855520Z",
+    "last_updated_at": "2026-06-15T01:29:29.434621Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -363,7 +363,7 @@
       "author_bio": "⏰5年资深打工人｜4年运营｜多维表格设计师\n🔥数码产品｜职场干货｜自媒体干货\n♾️无限进步就是用小成就撬动大成就\n🕒工具@时迹TimeFriend\n 🈴️ upupduowei艾特①②⑥.com",
       "author_fans_count": 111347,
       "status": "待处理",
-      "total_score": 63.84
+      "total_score": 63.83
     },
     {
       "candidate_id": "topic-e3a8505f955332bcce",
@@ -2185,7 +2185,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 44.25
+      "total_score": 44.06
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -2541,7 +2541,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.64
+      "total_score": 25.63
     },
     {
       "candidate_id": "topic-edae2918aeaee81fe7",
@@ -2702,7 +2702,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.12
+      "total_score": 33.11
     },
     {
       "candidate_id": "topic-33678c46120706bdab",
@@ -3854,7 +3854,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.92
+      "total_score": 26.91
     },
     {
       "candidate_id": "topic-3212b431c29c7a57fb",
@@ -5588,7 +5588,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 27.9
+      "total_score": 27.89
     },
     {
       "candidate_id": "topic-f3c4b09b44fddea807",
@@ -6402,7 +6402,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 62.43
+      "total_score": 62.42
     },
     {
       "candidate_id": "topic-e73b335fe047e92628",
