@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T01:29:29.620539Z",
+  "generated_at": "2026-06-16T01:29:33.474844Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-06-15T01:29:29.434621Z",
+    "last_updated_at": "2026-06-16T01:29:33.290678Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -147,7 +147,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.82
+      "total_score": 60.81
     },
     {
       "candidate_id": "topic-4747cf9f9bd67b11ea",
@@ -1290,7 +1290,7 @@
       "author_bio": "欢迎看我的每日投研笔记和每周策略(A港美债金q权)\n🏦华尔街交易员 (PIMCO加州股债 IDG风投 美林投行)\n📖哥大奖学金(15届 格雷厄姆价值投资)\n❤️运动员 连续创业 偶尔擦边@花里胡邵",
       "author_fans_count": 132127,
       "status": "待处理",
-      "total_score": 60.28
+      "total_score": 60.27
     },
     {
       "candidate_id": "topic-880e8d25774f65dfa9",
@@ -2185,7 +2185,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 44.06
+      "total_score": 43.93
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -2541,7 +2541,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.63
+      "total_score": 25.62
     },
     {
       "candidate_id": "topic-edae2918aeaee81fe7",
@@ -2702,7 +2702,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.11
+      "total_score": 33.09
     },
     {
       "candidate_id": "topic-33678c46120706bdab",
@@ -3854,7 +3854,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.91
+      "total_score": 26.89
     },
     {
       "candidate_id": "topic-3212b431c29c7a57fb",
@@ -5793,7 +5793,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.68
+      "total_score": 25.67
     },
     {
       "candidate_id": "topic-8a43bd1932409b7a50",
