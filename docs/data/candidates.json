@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T01:28:18.993441Z",
+  "generated_at": "2026-06-27T01:28:43.035184Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-06-26T01:28:18.742734Z",
+    "last_updated_at": "2026-06-27T01:28:39.754862Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -1763,7 +1763,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 36.35
+      "total_score": 36.34
     },
     {
       "candidate_id": "topic-5aed41d31b5bfceb36",
@@ -2613,7 +2613,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 43.51
+      "total_score": 43.5
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -2849,7 +2849,7 @@
       "author_bio": "🎓国立清华本硕，物理+电子工程\n🚀斜杠人生：半导体·芯片设计工程师➡️互联网·运营团队负责人➡️商业分析负责人\n💡分享产业研究 | 行业分析 | 商业案例\n📝商业分析方法学习@虎啸知析",
       "author_fans_count": 26458,
       "status": "待处理",
-      "total_score": 33.23
+      "total_score": 33.22
     },
     {
       "candidate_id": "topic-9e79cb06b8d34df4ba",
@@ -3688,7 +3688,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 29.19
+      "total_score": 29.18
     },
     {
       "candidate_id": "topic-386cb9421f222e0328",
@@ -4503,7 +4503,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.84
+      "total_score": 26.83
     },
     {
       "candidate_id": "topic-3212b431c29c7a57fb",
@@ -6254,7 +6254,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 25.59
+      "total_score": 25.58
     },
     {
       "candidate_id": "topic-b3d5c9ff8f3e74e103",
@@ -6357,30 +6357,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.03
-    },
-    {
-      "candidate_id": "topic-1eeda022f7ed6810ae",
-      "title": "【每日聽管理】2026.6.25｜AI 工具為何沒人用？研華：最大阻力不是技術，而是使用者沒痛點",
-      "summary": "【每日聽管理】2026.6.25｜AI 工具為何沒人用？研華：最大阻力不是技術，而是使用者沒痛點",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=mL9J5S656eQ"
-      ],
-      "published_at": "2026-06-24T22:30:31Z",
-      "publish_time_text": "",
-      "view_count": 100,
-      "like_count": 4,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "經理人",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 25.52
     },
     {
       "candidate_id": "topic-bf118e1ef9c829f4a1",
@@ -6561,30 +6537,6 @@
       "total_score": 26.28
     },
     {
-      "candidate_id": "topic-d4aaaf519c8c2fd0b0",
-      "title": "#PR #manus 日本、突破確率92%！？スウェーデンの弱点は「3つ」だけ【W杯グループF戦術分析】",
-      "summary": "#PR #manus 日本、突破確率92%！？スウェーデンの弱点は「3つ」だけ【W杯グループF戦術分析】",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=251HiyOjBTg"
-      ],
-      "published_at": "2026-06-25T00:18:15Z",
-      "publish_time_text": "",
-      "view_count": 789,
-      "like_count": 2,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "AI  次世代スポーツ観戦",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 26.14
-    },
-    {
       "candidate_id": "topic-85a8f4f0b21e3d5b0f",
       "title": "AI漫剧制作零基础全套教程，YouTube最全最细的，包含所有干货！七天就能从小白到AI漫剧大佬！少走 99% 的弯路！存下吧！很难找全的！",
       "summary": "AI漫剧制作零基础全套教程，YouTube最全最细的，包含所有干货！七天就能从小白到AI漫剧大佬！少走 99% 的弯路！存下吧！很难找全的！",
@@ -6759,31 +6711,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 27.76
-    },
-    {
-      "candidate_id": "topic-745be087f72c278dd0",
-      "title": "告别工程地狱：NeMo AutoModel 如何统一主流大模型微调流程 #Shorts",
-      "summary": "告别工程地狱：NeMo AutoModel 如何统一主流大模型微调流程 #Shorts；告别工程地狱：NeMo AutoModel 如何统一主流大模型微调流程",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=9ErI3PXMAPU",
-        "https://www.youtube.com/watch?v=yRJB7XYJSVQ"
-      ],
-      "published_at": "2026-06-24T16:36:38Z",
-      "publish_time_text": "",
-      "view_count": 5,
-      "like_count": 1,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "智用AI",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.24
     },
     {
       "candidate_id": "topic-c2068013f0577371e8",
@@ -7757,28 +7684,106 @@
       "total_score": 30.25
     },
     {
-      "candidate_id": "topic-8972c4d7eaeee31b45",
-      "title": "一张参考表控制双角色、道具和场景｜LTX 2.3 Ingredients LoRA 教程",
-      "summary": "一张参考表控制双角色、道具和场景｜LTX 2.3 Ingredients LoRA 教程",
+      "candidate_id": "topic-292b0fb326837b611f",
+      "title": "DeepSeek 时刻 —— 中国开源大模型击穿美国高价泡沫",
+      "summary": "DeepSeek 时刻 —— 中国开源大模型击穿美国高价泡沫",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=HX-gRyA_wXU"
+        "https://www.youtube.com/watch?v=cz8wDmeUaAg"
       ],
-      "published_at": "2026-06-25T01:25:38Z",
+      "published_at": "2026-06-01T01:00:28Z",
+      "publish_time_text": "",
+      "view_count": 2,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "行业深度风口",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.15
+    },
+    {
+      "candidate_id": "topic-62af2b1a3d7e23edae",
+      "title": "OpenAIが政府向けパンデミックAI解禁！GPT-Rosalindが次の感染症を止める #OpenAI #ChatGPT #Shorts",
+      "summary": "OpenAIが政府向けパンデミックAI解禁！GPT-Rosalindが次の感染症を止める #OpenAI #ChatGPT #Shorts；OpenAI Giao AI Sinh Học Mạnh Nhất Cho Bên Chống Dịch  #AI #OpenAI #GPTRosalind #BaoMatSinhHoc #CongN；【衝撃】OpenAIが生物兵器検知AIを開発！空中ホログラムも実現",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ijwUKT-twbs",
+        "https://www.youtube.com/watch?v=kfyakwPpj2Y",
+        "https://www.youtube.com/watch?v=6TIRn_6Dd2Y"
+      ],
+      "published_at": "2026-05-30T00:13:03Z",
+      "publish_time_text": "",
+      "view_count": 254,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "生成AIの最新情報まとめマゼンチュア",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.1
+    },
+    {
+      "candidate_id": "topic-025eb0d83f40a47251",
+      "title": "用AI婚纱照挑战婚纱影楼!！超详细教学附提示词#AI #小云雀AI #小云雀爆款马上成片",
+      "summary": "用AI婚纱照挑战婚纱影楼!！超详细教学附提示词#AI #小云雀AI #小云雀爆款马上成片",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=4f5PYJG_xdM"
+      ],
+      "published_at": "2026-06-10T00:30:27Z",
       "publish_time_text": "",
       "view_count": 0,
       "like_count": 0,
       "favorite_count": 0,
       "comment_count": 0,
       "share_count": 0,
-      "author_name": "AI老腊肉",
+      "author_name": "米小律",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.19
+      "total_score": 30.02
+    },
+    {
+      "candidate_id": "topic-998f7aac9c53bd4434",
+      "title": "@aimax36919220",
+      "summary": "@aimax36919220；@MiniMax_AI；From agent.minimax.io",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://x.com/aimax36919220",
+        "https://x.com/MiniMax_AI",
+        "https://t.co/zxXu2xbHK7",
+        "https://www.xiaohongshu.com/explore/6986070a000000001a02fa21"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 0,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "ami.moment",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.0
     }
   ]
 }
