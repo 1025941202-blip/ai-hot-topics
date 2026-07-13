@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T01:31:33.706694Z",
+  "generated_at": "2026-07-13T01:27:52.163225Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-07-12T01:31:31.417869Z",
+    "last_updated_at": "2026-07-13T01:27:51.737617Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -243,7 +243,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.8
+      "total_score": 60.79
     },
     {
       "candidate_id": "topic-16977b3abc2403c2ae",
@@ -3731,7 +3731,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 36.4
+      "total_score": 36.36
     },
     {
       "candidate_id": "topic-2aa684e79038401b36",
@@ -3755,7 +3755,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.7
+      "total_score": 26.69
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -4072,7 +4072,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.52
+      "total_score": 30.48
     },
     {
       "candidate_id": "topic-651bb1d98f69120f0d",
@@ -5046,6 +5046,35 @@
       "author_fans_count": 130,
       "status": "待处理",
       "total_score": 25.97
+    },
+    {
+      "candidate_id": "topic-c4426a08a57876fd74",
+      "title": "高强度使用半年cursor，经验&踩坑分享给你！",
+      "summary": "高强度使用半年cursor，经验&踩坑分享给你！；@cursor；@Cursor",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/699c33a3000000000e03f3b7?xsec_token=ABNmgOebEGFcgnJ-7g8EV0hovMYOvROMmfj1OPZsuurWs=&xsec_source=pc_search",
+        "https://x.com/cursor_ai",
+        "https://x.com/Cursor",
+        "https://x.com/hashtag/Cursor?src=hashtag_click",
+        "https://x.com/hashtag/cursor?src=hashtag_click"
+      ],
+      "published_at": "2026-02-26T07:37:55.556623Z",
+      "publish_time_text": "1天前",
+      "view_count": 0,
+      "like_count": 406,
+      "favorite_count": 676,
+      "comment_count": 23,
+      "share_count": 81,
+      "author_name": "你的AI背包",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31siva9jr5mc05odmiio8cf25o7u19a8?imageView2/2/w/80/format/jpg",
+      "author_bio": "AI产品经理 | 华科CS+传播学 → LSE\n用大白话聊AI，不贩卖焦虑，只说人话",
+      "author_fans_count": 130,
+      "status": "待处理",
+      "total_score": 25.57
     },
     {
       "candidate_id": "topic-0307b7401e67fd7156",
@@ -6155,30 +6184,6 @@
       "total_score": 26.1
     },
     {
-      "candidate_id": "topic-f990859377b60b3b61",
-      "title": "聯想集團戰略價值不容忽視?｜港股AI 大模型係機會定退潮？朱克伯格否認Meta算力過剩｜黃金BTC點部署｜高位要冷靜  #港股 #美股 #動量投資 ｜【2026/7/10直播】｜孫子大戶",
-      "summary": "聯想集團戰略價值不容忽視?｜港股AI 大模型係機會定退潮？朱克伯格否認Meta算力過剩｜黃金BTC點部署｜高位要冷靜  #港股 #美股 #動量投資 ｜【2026/7/10直播】｜孫子大戶",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=kBSVXoNZ5NE"
-      ],
-      "published_at": "2026-07-10T17:43:00Z",
-      "publish_time_text": "",
-      "view_count": 1588,
-      "like_count": 133,
-      "favorite_count": 0,
-      "comment_count": 8,
-      "share_count": 0,
-      "author_name": "孫子大戶",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 26.37
-    },
-    {
       "candidate_id": "topic-1b02bb8f7b419e6e73",
       "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
       "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；#openai #tablerules #unseen；OpenAI 认了，光靠订阅养不起ChatGPT",
@@ -7209,7 +7214,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.65
+      "total_score": 26.64
     },
     {
       "candidate_id": "topic-57b822a5622315ccff",
@@ -7707,6 +7712,31 @@
       "total_score": 26.63
     },
     {
+      "candidate_id": "topic-5671cc22d97e6f4f00",
+      "title": "LTX2 3导演台升级！宫格图自动拆分，分镜提示词自动生成",
+      "summary": "LTX2 3导演台升级！宫格图自动拆分，分镜提示词自动生成；无需真人出镜！2块钱搞定爆款电商视频复刻，保姆级教程",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=YhSalFFpO-Y",
+        "https://www.youtube.com/watch?v=yy2oyOBgf4A"
+      ],
+      "published_at": "2026-06-20T13:46:23Z",
+      "publish_time_text": "",
+      "view_count": 84,
+      "like_count": 6,
+      "favorite_count": 0,
+      "comment_count": 1,
+      "share_count": 0,
+      "author_name": "青橙Lab",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.58
+    },
+    {
       "candidate_id": "topic-3544e21cccca215cde",
       "title": "AI影视创作全流程 | 保姆级教学【附提示词模版】",
       "summary": "AI影视创作全流程 | 保姆级教学【附提示词模版】；AI视频提示词反推神器！爆款作品直接拆解学习；即梦+豆包AI指令，上万组提示词终极合集重磅上线！链接：pan.quark.cn/s/1ed2590e57ad  Q群1080516530",
@@ -7833,34 +7863,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.03
-    },
-    {
-      "candidate_id": "topic-452569ffe91b753cee",
-      "title": "Chat GPT was onto something with this lazy side hustle comment &#39;VEED&#39; if you want the full workflow",
-      "summary": "Chat GPT was onto something with this lazy side hustle comment &#39;VEED&#39; if you want the full workflow；Build Your First Local RAG App: A Step-by-Step LangChain Tutorial；Mr  Catus We Have an AI Problem!",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=K5kPk5KaDjs",
-        "https://www.youtube.com/watch?v=zixi3ry9uUI",
-        "https://www.youtube.com/watch?v=4UsdkJCfQfg",
-        "https://www.youtube.com/watch?v=Kdbq1MCSWtY",
-        "https://www.youtube.com/watch?v=RWdfCdiNLuU"
-      ],
-      "published_at": "2026-07-08T23:29:37Z",
-      "publish_time_text": "",
-      "view_count": 350,
-      "like_count": 4,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "EditWithCole ",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 26.81
     }
   ]
 }
