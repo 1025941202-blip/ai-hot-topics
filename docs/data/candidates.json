@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T01:27:44.548076Z",
+  "generated_at": "2026-07-16T01:27:44.518357Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-07-15T01:27:40.609414Z",
+    "last_updated_at": "2026-07-16T01:27:44.096285Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -75,7 +75,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.8
+      "total_score": 60.79
     },
     {
       "candidate_id": "topic-d198b6f80681346487",
@@ -219,7 +219,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.8
+      "total_score": 60.79
     },
     {
       "candidate_id": "topic-cd6b3201baa9327249",
@@ -291,7 +291,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.81
+      "total_score": 60.8
     },
     {
       "candidate_id": "topic-b656eb81a835cd9717",
@@ -389,7 +389,7 @@
       "author_bio": "✨5年短视频运营操盘手\n📖自媒体干货I工具分享|AI学习\n闪剪智能旗下社群 Al Park 全球运营操盘手",
       "author_fans_count": 89526,
       "status": "待处理",
-      "total_score": 46.04
+      "total_score": 46.03
     },
     {
       "candidate_id": "topic-c8a69ffe37e1811d82",
@@ -3731,7 +3731,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 36.31
+      "total_score": 36.29
     },
     {
       "candidate_id": "topic-2aa684e79038401b36",
@@ -3755,7 +3755,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.69
+      "total_score": 26.68
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -4072,7 +4072,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.42
+      "total_score": 30.4
     },
     {
       "candidate_id": "topic-651bb1d98f69120f0d",
