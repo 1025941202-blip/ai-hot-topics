@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T01:28:09.808467Z",
+  "generated_at": "2026-07-21T01:28:27.126726Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-07-20T01:28:09.411925Z",
+    "last_updated_at": "2026-07-21T01:28:26.743209Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -3735,6 +3735,34 @@
       "total_score": 26.52
     },
     {
+      "candidate_id": "topic-1f00af1d257240fbe1",
+      "title": "Claude Fable 5 is NOT Real.",
+      "summary": "Claude Fable 5 is NOT Real.；GLM 5.2 Is INSANE. (Better than Claude Fable 5)；Did you know Allan Dulles was an OSS agent, Dulles advisor and high priest of a UFO religion? For th",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=4dqkVioLybo",
+        "https://www.youtube.com/watch?v=mp8sQTgi0YA",
+        "https://www.youtube.com/watch?v=KsAmLrq-MT4",
+        "https://www.youtube.com/watch?v=EJaDcfEksIM",
+        "https://www.youtube.com/watch?v=P1YDYhEcSlw"
+      ],
+      "published_at": "2026-07-03T21:18:56Z",
+      "publish_time_text": "",
+      "view_count": 10739,
+      "like_count": 1104,
+      "favorite_count": 0,
+      "comment_count": 229,
+      "share_count": 0,
+      "author_name": "tef",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.85
+    },
+    {
       "candidate_id": "topic-e0cbd729952558d777",
       "title": "温馨提示词条有风险！饰品需谨慎呐！ #異環 #nevernesstoeverness#异环真红 #九百九十九夜",
       "summary": "温馨提示词条有风险！饰品需谨慎呐！ #異環 #nevernesstoeverness#异环真红 #九百九十九夜",
@@ -3756,7 +3784,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 36.23
+      "total_score": 36.22
     },
     {
       "candidate_id": "topic-2aa684e79038401b36",
@@ -4124,7 +4152,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.35
+      "total_score": 30.34
     },
     {
       "candidate_id": "topic-651bb1d98f69120f0d",
@@ -5101,6 +5129,34 @@
       "total_score": 25.97
     },
     {
+      "candidate_id": "topic-1a480d5de933cf72a4",
+      "title": "高强度使用半年cursor，经验&踩坑分享给你！",
+      "summary": "高强度使用半年cursor，经验&踩坑分享给你！；#Cursor；@cursor",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/699c33a3000000000e03f3b7?xsec_token=ABNmgOebEGFcgnJ-7g8EV0hovMYOvROMmfj1OPZsuurWs=&xsec_source=pc_search",
+        "https://x.com/hashtag/Cursor?src=hashtag_click",
+        "https://x.com/cursor_ai",
+        "https://x.com/hashtag/cursor?src=hashtag_click"
+      ],
+      "published_at": "2026-02-26T07:37:55.556623Z",
+      "publish_time_text": "1天前",
+      "view_count": 0,
+      "like_count": 406,
+      "favorite_count": 676,
+      "comment_count": 23,
+      "share_count": 81,
+      "author_name": "你的AI背包",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31siva9jr5mc05odmiio8cf25o7u19a8?imageView2/2/w/80/format/jpg",
+      "author_bio": "AI产品经理 | 华科CS+传播学 → LSE\n用大白话聊AI，不贩卖焦虑，只说人话",
+      "author_fans_count": 130,
+      "status": "待处理",
+      "total_score": 25.97
+    },
+    {
       "candidate_id": "topic-0307b7401e67fd7156",
       "title": "每天了解一个AI产品 No.2 Manus",
       "summary": "每天了解一个AI产品 No.2 Manus；每天拆解一个AI产品：Manus；一觉醒来，Ai圈又变天🔥Manus强在哪里？",
@@ -5561,30 +5617,6 @@
       "author_fans_count": 134392,
       "status": "待处理",
       "total_score": 33.72
-    },
-    {
-      "candidate_id": "topic-0d049a2f3dd8bb97a3",
-      "title": "世界盃難脫離政治 人工智能誰領風騷|531 直播一會|《平台一文》|#中國 #日本 #臺灣 #伊朗 #美國 #特朗普 #沙特 #石油 #美團 #土耳其 #KIMI #霍爾穆茲海峽 #AI #月之暗面",
-      "summary": "世界盃難脫離政治 人工智能誰領風騷|531 直播一會|《平台一文》|#中國 #日本 #臺灣 #伊朗 #美國 #特朗普 #沙特 #石油 #美團 #土耳其 #KIMI #霍爾穆茲海峽 #AI #月之暗面",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=3ZjLo2AFkM8"
-      ],
-      "published_at": "2026-07-18T19:53:35Z",
-      "publish_time_text": "",
-      "view_count": 1787,
-      "like_count": 235,
-      "favorite_count": 0,
-      "comment_count": 6,
-      "share_count": 0,
-      "author_name": "平台一文",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.8
     },
     {
       "candidate_id": "topic-7b9d1dcdc30d7355c2",
@@ -6830,6 +6862,34 @@
       "total_score": 35.13
     },
     {
+      "candidate_id": "topic-69cdcfde67b8c25595",
+      "title": "Até o Chat GPT tá sabendo tudo de Mamonas 💛 #mamonas",
+      "summary": "Até o Chat GPT tá sabendo tudo de Mamonas 💛 #mamonas；#image l#oading# chat #gpt；o CHAT GPT me MANDOU DESAFIOS para MIM FAZER no MM2! (Consegui?)",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=KfYZR-6ZoBI",
+        "https://www.youtube.com/watch?v=o21m5-TXI8I",
+        "https://www.youtube.com/watch?v=Fvf2sBqgYLg",
+        "https://www.youtube.com/watch?v=X0KWcT3c7LM",
+        "https://www.youtube.com/watch?v=k1VD854B_lQ"
+      ],
+      "published_at": "2026-06-09T22:20:43Z",
+      "publish_time_text": "",
+      "view_count": 1035,
+      "like_count": 92,
+      "favorite_count": 0,
+      "comment_count": 10,
+      "share_count": 0,
+      "author_name": "Mamonas Assassinas Oficial",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.87
+    },
+    {
       "candidate_id": "topic-4123b4d89f65c492ab",
       "title": "网上cursor续杯千万别买，免费方案一大把",
       "summary": "网上cursor续杯千万别买，免费方案一大把",
@@ -6927,30 +6987,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.02
-    },
-    {
-      "candidate_id": "topic-f4eb0c9b72104573e9",
-      "title": "微软&amp;哥大重磅开源Orchard，4B小模型凭什么秒杀2350亿大神？AI智能体“工作台”的革命！",
-      "summary": "微软&amp;哥大重磅开源Orchard，4B小模型凭什么秒杀2350亿大神？AI智能体“工作台”的革命！",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=zxJNJrtZRwM"
-      ],
-      "published_at": "2026-07-18T23:00:29Z",
-      "publish_time_text": "",
-      "view_count": 719,
-      "like_count": 37,
-      "favorite_count": 0,
-      "comment_count": 3,
-      "share_count": 0,
-      "author_name": "wow",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 26.31
     },
     {
       "candidate_id": "topic-bf70fd54708d26443f",
@@ -7157,6 +7193,31 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 26.51
+    },
+    {
+      "candidate_id": "topic-9d472d317f4b91ff59",
+      "title": "留言”想學”領取工具                          #AI #ai工具 #Ai教學 #創業 #一人公司",
+      "summary": "留言”想學”領取工具                          #AI #ai工具 #Ai教學 #創業 #一人公司；留言”想學”領取工具#AI  #ai工具 #Ai教學 #創業",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=TFxi8iSSyug",
+        "https://www.youtube.com/watch?v=rZ8AkUPsnnk"
+      ],
+      "published_at": "2026-06-03T16:00:10Z",
+      "publish_time_text": "",
+      "view_count": 887,
+      "like_count": 20,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Ai.lesson08",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 25.93
     },
     {
       "candidate_id": "topic-c30a2d79d1068cc01a",
@@ -7808,59 +7869,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.77
-    },
-    {
-      "candidate_id": "topic-e2f5013fd95d1cc2f6",
-      "title": "用AI做世界杯爆款短视频教程！YouTube足球动画视频制作全流程",
-      "summary": "用AI做世界杯爆款短视频教程！YouTube足球动画视频制作全流程；又一个适合普通人的YouTube赚钱赛道：第一视角犯罪动画制作教程，不露脸也能做的副业2026",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Qg649rHAkWM",
-        "https://www.youtube.com/watch?v=UOY80Y9UXKQ"
-      ],
-      "published_at": "2026-06-10T14:47:03Z",
-      "publish_time_text": "",
-      "view_count": 87,
-      "like_count": 4,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "Windy有风",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.03
-    },
-    {
-      "candidate_id": "topic-452569ffe91b753cee",
-      "title": "Chat GPT was onto something with this lazy side hustle comment &#39;VEED&#39; if you want the full workflow",
-      "summary": "Chat GPT was onto something with this lazy side hustle comment &#39;VEED&#39; if you want the full workflow；Build Your First Local RAG App: A Step-by-Step LangChain Tutorial；Mr  Catus We Have an AI Problem!",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=K5kPk5KaDjs",
-        "https://www.youtube.com/watch?v=zixi3ry9uUI",
-        "https://www.youtube.com/watch?v=4UsdkJCfQfg",
-        "https://www.youtube.com/watch?v=Kdbq1MCSWtY",
-        "https://www.youtube.com/watch?v=RWdfCdiNLuU"
-      ],
-      "published_at": "2026-07-08T23:29:37Z",
-      "publish_time_text": "",
-      "view_count": 350,
-      "like_count": 4,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "EditWithCole ",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 26.81
     }
   ]
 }
