@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T01:28:27.126726Z",
+  "generated_at": "2026-07-22T01:26:25.169511Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-07-21T01:28:26.743209Z",
+    "last_updated_at": "2026-07-22T01:26:24.786915Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -1103,7 +1103,7 @@
       "author_bio": "🦌白天搬砖晚上学习\n🩷谢谢关注！好有眼光\n🈴didi",
       "author_fans_count": 13644,
       "status": "待处理",
-      "total_score": 60.78
+      "total_score": 60.77
     },
     {
       "candidate_id": "topic-c07a197bc52fa7d33e",
@@ -3345,7 +3345,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 43.36
+      "total_score": 43.35
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -3784,7 +3784,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 36.22
+      "total_score": 36.21
     },
     {
       "candidate_id": "topic-2aa684e79038401b36",
@@ -4152,7 +4152,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.34
+      "total_score": 30.33
     },
     {
       "candidate_id": "topic-651bb1d98f69120f0d",
