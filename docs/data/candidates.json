@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T01:26:25.169511Z",
+  "generated_at": "2026-07-23T01:30:39.957864Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-07-22T01:26:24.786915Z",
+    "last_updated_at": "2026-07-23T01:30:39.408979Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -1855,7 +1855,7 @@
       "author_bio": "欢迎看我的每日投研笔记和每周策略(A港美债金q权)\n🏦华尔街交易员 (PIMCO加州股债 IDG风投 美林投行)\n📖哥大奖学金(15届 格雷厄姆价值投资)\n❤️运动员 连续创业 偶尔擦边@花里胡邵",
       "author_fans_count": 132127,
       "status": "待处理",
-      "total_score": 60.27
+      "total_score": 60.26
     },
     {
       "candidate_id": "topic-8f1de5faba78ae83bd",
@@ -3784,7 +3784,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 36.21
+      "total_score": 36.2
     },
     {
       "candidate_id": "topic-2aa684e79038401b36",
@@ -4152,7 +4152,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.33
+      "total_score": 30.32
     },
     {
       "candidate_id": "topic-651bb1d98f69120f0d",
