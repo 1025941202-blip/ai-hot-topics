@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T01:24:04.114489Z",
+  "generated_at": "2026-07-27T01:24:46.522995Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-07-26T01:24:03.732174Z",
+    "last_updated_at": "2026-07-27T01:24:46.124190Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -147,7 +147,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.8
+      "total_score": 60.79
     },
     {
       "candidate_id": "topic-4747cf9f9bd67b11ea",
@@ -267,7 +267,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.81
+      "total_score": 60.8
     },
     {
       "candidate_id": "topic-3b39e84ecbc6dec024",
@@ -3653,7 +3653,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.68
+      "total_score": 32.64
     },
     {
       "candidate_id": "topic-ce107f7329f3c56117",
@@ -3807,7 +3807,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.67
+      "total_score": 26.66
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -5424,6 +5424,33 @@
       "total_score": 27.96
     },
     {
+      "candidate_id": "topic-aaf37a041085746f76",
+      "title": "AI презентации: как создать слайды автоматически (Manus AI урок 4)",
+      "summary": "AI презентации: как создать слайды автоматически (Manus AI урок 4)；Manus AI (бесплатная версия): Урок 2. Deep Research делает исследование рынка за 5 минут.；每天了解一个AI产品 No.2 Manus",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=SafzDEpSelY",
+        "https://www.youtube.com/watch?v=TXuYP_e0Q0M",
+        "https://www.xiaohongshu.com/explore/695cf8af000000000b0086ff?xsec_token=ABb9Aqzu6dut0GUnUDLlLgKBo2Qc1xE5p4IwminPYRFo4=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-01-06T00:00:00Z",
+      "publish_time_text": "01-06",
+      "view_count": 0,
+      "like_count": 392,
+      "favorite_count": 355,
+      "comment_count": 12,
+      "share_count": 129,
+      "author_name": "龙龙 AI 知行日记",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qr5j93ag0005p72rj709tej2unlt78?imageView2/2/w/80/format/jpg",
+      "author_bio": "前外企、大厂体验设计师。\n摇滚乐迷，重度游戏玩家，理想主义。\n厌倦了职场的假大空文化，决定在 AI 浪潮里重开真善美人生。",
+      "author_fans_count": 1743,
+      "status": "待处理",
+      "total_score": 26.29
+    },
+    {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
       "title": "为了搞清楚GPT-4o，这条视频我做了33天",
       "summary": "为了搞清楚GPT-4o，这条视频我做了33天",
@@ -5517,7 +5544,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.94
+      "total_score": 27.47
     },
     {
       "candidate_id": "topic-b8c7df7eba2564426c",
@@ -6231,30 +6258,6 @@
       "total_score": 28.91
     },
     {
-      "candidate_id": "topic-38b9e85f7c5c23c6f3",
-      "title": "川普政府应当不会对中国大模型进行限制，但是中国产模型有严重的先天不足，所有我估计虽然政府层面没有动作，但是美国公司采购方面会非常谨慎",
-      "summary": "川普政府应当不会对中国大模型进行限制，但是中国产模型有严重的先天不足，所有我估计虽然政府层面没有动作，但是美国公司采购方面会非常谨慎",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=_ohiCsjSNIg"
-      ],
-      "published_at": "2026-07-26T00:19:49Z",
-      "publish_time_text": "",
-      "view_count": 959,
-      "like_count": 141,
-      "favorite_count": 0,
-      "comment_count": 7,
-      "share_count": 0,
-      "author_name": "自由第一Liberty_First",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 32.86
-    },
-    {
       "candidate_id": "topic-1b02bb8f7b419e6e73",
       "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
       "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；#openai #tablerules #unseen；OpenAI 认了，光靠订阅养不起ChatGPT",
@@ -6639,6 +6642,34 @@
       "total_score": 30.22
     },
     {
+      "candidate_id": "topic-ef80c891a583af845b",
+      "title": "THE LAKERS JUST SIGNED EVERY FREE AGENT POSSIBLE… #lakers #walkerkessler #nbanews #nbatrade #nba",
+      "summary": "THE LAKERS JUST SIGNED EVERY FREE AGENT POSSIBLE… #lakers #walkerkessler #nbanews #nbatrade #nba；A Secret Service Agent Revealed The Biggest Secret On A Date🤯；Tkell Agent 002 Blem!!",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Zmwz8iYBgyQ",
+        "https://www.youtube.com/watch?v=mVHii_o_DmY",
+        "https://www.youtube.com/watch?v=UdupeKNIw48",
+        "https://www.youtube.com/watch?v=ZsQwNZSGvow",
+        "https://www.youtube.com/watch?v=tiFJmVhkF_s"
+      ],
+      "published_at": "2026-07-01T22:50:21Z",
+      "publish_time_text": "",
+      "view_count": 2462,
+      "like_count": 116,
+      "favorite_count": 0,
+      "comment_count": 9,
+      "share_count": 0,
+      "author_name": "The Ball Boy Podcast",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 26.48
+    },
+    {
       "candidate_id": "topic-f9974d871fff738ee8",
       "title": "10万爆款提示词免费！28天Higgsfield Seedance 2.0 Fast 无限生成Ultra！AI追光免费编辑神器！",
       "summary": "10万爆款提示词免费！28天Higgsfield Seedance 2.0 Fast 无限生成Ultra！AI追光免费编辑神器！；Higgsfield太猛了！28天无限生成视频？Seedance 2.0 Fast无限！真人短剧详细制作流程！；【2026最新AI短剧保姆级教程 免费送提示词资料】15 视频工具的免费使用",
@@ -7001,7 +7032,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.45
+      "total_score": 26.33
     },
     {
       "candidate_id": "topic-2d8b4390c6904fb6d3",
@@ -7027,30 +7058,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.61
-    },
-    {
-      "candidate_id": "topic-796f3986aa36f4140b",
-      "title": "DeepSeekショック再来？Kimi K3ショックでAI株軒並み暴落・サイズローテーション・イラン戦争泥沼化進む・テスラとGOOG決算プレビュー・26年7月19日・YT編",
-      "summary": "DeepSeekショック再来？Kimi K3ショックでAI株軒並み暴落・サイズローテーション・イラン戦争泥沼化進む・テスラとGOOG決算プレビュー・26年7月19日・YT編",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=AT28bflmflU"
-      ],
-      "published_at": "2026-07-25T22:00:38Z",
-      "publish_time_text": "",
-      "view_count": 1140,
-      "like_count": 28,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "まりーさんのYOLO＠USA！",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 32.14
     },
     {
       "candidate_id": "topic-0ed522c5bd2654995f",
@@ -7103,54 +7110,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.86
-    },
-    {
-      "candidate_id": "topic-f4941b639cf78989b2",
-      "title": "[#AI시대] K한글EP01, AI는 왜 한글의 구조를 다시 볼까? #한글 #한국어 #언어학",
-      "summary": "[#AI시대] K한글EP01, AI는 왜 한글의 구조를 다시 볼까? #한글 #한국어 #언어학",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Gvv9hhhDWik"
-      ],
-      "published_at": "2026-07-25T23:00:20Z",
-      "publish_time_text": "",
-      "view_count": 585,
-      "like_count": 26,
-      "favorite_count": 0,
-      "comment_count": 4,
-      "share_count": 0,
-      "author_name": "WHY알고리즘",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.57
-    },
-    {
-      "candidate_id": "topic-6104fc1b359ba48926",
-      "title": "신진서, AI 상대로 통쾌한 승리 #신진서 #인공지능 #바둑 #승리 #감동 #",
-      "summary": "신진서, AI 상대로 통쾌한 승리 #신진서 #인공지능 #바둑 #승리 #감동 #",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=REL0GP3iQjE"
-      ],
-      "published_at": "2026-07-25T23:00:36Z",
-      "publish_time_text": "",
-      "view_count": 837,
-      "like_count": 26,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "celeob",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.29
     },
     {
       "candidate_id": "topic-fb0c409b87d26a3456",
@@ -7408,6 +7367,34 @@
       "total_score": 29.75
     },
     {
+      "candidate_id": "topic-bfa02ad5fdfc519c58",
+      "title": "Claude has a hidden tutor mode. 5 prompts to get functional in any skill in under 4 hours.",
+      "summary": "Claude has a hidden tutor mode. 5 prompts to get functional in any skill in under 4 hours.；KAIM 9   Week 7  Day3 Tutorial 1   Prompt Engineering and Introduction to Open Source LLMs；I Stared at the Blinking Cursor",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=-NxG2HZFReI",
+        "https://www.youtube.com/watch?v=8EprNy24p-U",
+        "https://www.youtube.com/watch?v=ChOlwSsQKQM",
+        "https://www.youtube.com/watch?v=tiFJmVhkF_s",
+        "https://www.youtube.com/watch?v=e30XEnTsrrI"
+      ],
+      "published_at": "2026-06-21T22:15:10Z",
+      "publish_time_text": "",
+      "view_count": 607,
+      "like_count": 10,
+      "favorite_count": 0,
+      "comment_count": 1,
+      "share_count": 0,
+      "author_name": "Nick Sadler",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 26.4
+    },
+    {
       "candidate_id": "topic-ef4a949987bc344128",
       "title": "Prompt Caching Cuts Claude Code Bills By 80%",
       "summary": "Prompt Caching Cuts Claude Code Bills By 80%；CEO Stripe muốn một OS cho LLM Workflow — ae dev xung phong build đi；Build an MCP server in 90 seconds",
@@ -7463,6 +7450,31 @@
       "total_score": 26.6
     },
     {
+      "candidate_id": "topic-8e041112a13c5b4f7e",
+      "title": "用 ChatGPT 提示词去写 Gemini 可以吗？",
+      "summary": "用 ChatGPT 提示词去写 Gemini 可以吗？；用上这个提示词后，AI终于开始说真话了 #chatgpt #ai #ailearning",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=CQNbx2WegZ0",
+        "https://www.youtube.com/watch?v=nLFJBvia5bA"
+      ],
+      "published_at": "2026-07-08T09:30:18Z",
+      "publish_time_text": "",
+      "view_count": 728,
+      "like_count": 8,
+      "favorite_count": 0,
+      "comment_count": 2,
+      "share_count": 0,
+      "author_name": "Terry Ong",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 26.2
+    },
+    {
       "candidate_id": "topic-3c03fbac6e0c188226",
       "title": "超初心者向け　yoloで画像から物体検出　#YOLO #Cursor #物体検出 #AI初心者 #KAILab #Shorts",
       "summary": "超初心者向け　yoloで画像から物体検出　#YOLO #Cursor #物体検出 #AI初心者 #KAILab #Shorts；超初心者向け　Cursorからwslに接続 #Cursor #WSL #Linux #プログラミング初心者 #開発環境 #AIエディタ",
@@ -7486,30 +7498,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 30.04
-    },
-    {
-      "candidate_id": "topic-2c9d0f6f202ea9004c",
-      "title": "AI基礎建設大爆發！除了晶片之外，台股有哪些關鍵受惠概念股？",
-      "summary": "AI基礎建設大爆發！除了晶片之外，台股有哪些關鍵受惠概念股？",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=dVhZUGelPTw"
-      ],
-      "published_at": "2026-07-25T22:00:01Z",
-      "publish_time_text": "",
-      "view_count": 526,
-      "like_count": 7,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "文雯",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.66
     },
     {
       "candidate_id": "topic-ee86e9f74696d4a76e",
@@ -7615,54 +7603,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 31.89
-    },
-    {
-      "candidate_id": "topic-46b7f842580c4c96b7",
-      "title": "這AI又給姥爺惹急了 #年輕人小鄒#搞笑#AI對話#找對象#神奇腦回洞",
-      "summary": "這AI又給姥爺惹急了 #年輕人小鄒#搞笑#AI對話#找對象#神奇腦回洞",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=qLLiB6iGRmg"
-      ],
-      "published_at": "2026-07-26T00:00:01Z",
-      "publish_time_text": "",
-      "view_count": 172,
-      "like_count": 6,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "年轻人小邹",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.04
-    },
-    {
-      "candidate_id": "topic-5c3b1326497ba58b32",
-      "title": "硅谷公司呼吁不要禁止美国企业调用中国开源 AI 模型",
-      "summary": "硅谷公司呼吁不要禁止美国企业调用中国开源 AI 模型",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=B05j4kRURqI"
-      ],
-      "published_at": "2026-07-25T21:00:35Z",
-      "publish_time_text": "",
-      "view_count": 572,
-      "like_count": 6,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "AI视频分享",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.41
     },
     {
       "candidate_id": "topic-ec8dfe3bf4ac81e83f",
@@ -7847,6 +7787,83 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 27.58
+    },
+    {
+      "candidate_id": "topic-733203518e497148df",
+      "title": "我的AI漫剧实战经验：从0到1避坑攻略💡",
+      "summary": "我的AI漫剧实战经验：从0到1避坑攻略💡",
+      "platforms": [
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/699ffa2b000000002203001c"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 4,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "章五郎",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 29.77
+    },
+    {
+      "candidate_id": "topic-e2f5013fd95d1cc2f6",
+      "title": "用AI做世界杯爆款短视频教程！YouTube足球动画视频制作全流程",
+      "summary": "用AI做世界杯爆款短视频教程！YouTube足球动画视频制作全流程；又一个适合普通人的YouTube赚钱赛道：第一视角犯罪动画制作教程，不露脸也能做的副业2026",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Qg649rHAkWM",
+        "https://www.youtube.com/watch?v=UOY80Y9UXKQ"
+      ],
+      "published_at": "2026-06-10T14:47:03Z",
+      "publish_time_text": "",
+      "view_count": 87,
+      "like_count": 4,
+      "favorite_count": 0,
+      "comment_count": 1,
+      "share_count": 0,
+      "author_name": "Windy有风",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.03
+    },
+    {
+      "candidate_id": "topic-452569ffe91b753cee",
+      "title": "Chat GPT was onto something with this lazy side hustle comment &#39;VEED&#39; if you want the full workflow",
+      "summary": "Chat GPT was onto something with this lazy side hustle comment &#39;VEED&#39; if you want the full workflow；Build Your First Local RAG App: A Step-by-Step LangChain Tutorial；Mr  Catus We Have an AI Problem!",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=K5kPk5KaDjs",
+        "https://www.youtube.com/watch?v=zixi3ry9uUI",
+        "https://www.youtube.com/watch?v=4UsdkJCfQfg",
+        "https://www.youtube.com/watch?v=Kdbq1MCSWtY",
+        "https://www.youtube.com/watch?v=RWdfCdiNLuU"
+      ],
+      "published_at": "2026-07-08T23:29:37Z",
+      "publish_time_text": "",
+      "view_count": 350,
+      "like_count": 4,
+      "favorite_count": 0,
+      "comment_count": 1,
+      "share_count": 0,
+      "author_name": "EditWithCole ",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 26.81
     }
   ]
 }
