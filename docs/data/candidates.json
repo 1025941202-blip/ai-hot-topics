@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T01:25:31.876615Z",
+  "generated_at": "2026-08-02T01:26:17.807002Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 9980,
-    "total_candidates": 12821,
+    "total_posts": 10150,
+    "total_candidates": 13194,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-07-31T01:25:31.460574Z",
+    "last_updated_at": "2026-08-02T01:26:17.379100Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 8304
+        "count": 8453
       },
       {
         "platform": "x",
-        "count": 1567
+        "count": 1588
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 10082
+        "count": 10396
       },
       {
         "platform": "x",
-        "count": 3702
+        "count": 3792
       },
       {
         "platform": "xiaohongshu",
-        "count": 287
+        "count": 288
       },
       {
         "platform": "huitun",
@@ -99,7 +99,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.8
+      "total_score": 60.79
     },
     {
       "candidate_id": "topic-a97a6c64f578dd0e71",
@@ -2964,7 +2964,7 @@
       "author_bio": "大厂新声｜大厂不该静音。",
       "author_fans_count": 108214,
       "status": "待处理",
-      "total_score": 35.31
+      "total_score": 35.3
     },
     {
       "candidate_id": "topic-b77f000a47a32cc950",
@@ -3435,6 +3435,34 @@
       "total_score": 40.05
     },
     {
+      "candidate_id": "topic-d1877a6879094f30d2",
+      "title": "¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts",
+      "summary": "¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts；¿LOS 5 PERSONAJES MAS FUERTES DE BAKI SEGUN CHAT GPT? #shorts；¿5 PREGUNTAS MUY DIFICILES DE DRAGON BALL SEGUN CHAT GPT? #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=-ho7F66Zk84",
+        "https://www.youtube.com/watch?v=qGjiW4rviBU",
+        "https://www.youtube.com/watch?v=G--hYS7jeKo",
+        "https://www.youtube.com/watch?v=bD06lpckf1k",
+        "https://www.youtube.com/watch?v=k1VD854B_lQ"
+      ],
+      "published_at": "2026-07-16T23:59:05Z",
+      "publish_time_text": "",
+      "view_count": 11543,
+      "like_count": 1652,
+      "favorite_count": 0,
+      "comment_count": 36,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 26.64
+    },
+    {
       "candidate_id": "topic-70a021573fcb2fe1a0",
       "title": "点赞上百万的爆款AI视频，是怎么做出来的？",
       "summary": "点赞上百万的爆款AI视频，是怎么做出来的？",
@@ -3508,7 +3536,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 43.34
+      "total_score": 43.33
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -3944,7 +3972,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 36.16
+      "total_score": 36.15
     },
     {
       "candidate_id": "topic-f8648a616230536493",
@@ -6295,16 +6323,16 @@
       "total_score": 27.44
     },
     {
-      "candidate_id": "topic-55df887a314043fbed",
+      "candidate_id": "topic-2a82a53cf65631a0d9",
       "title": "每天认识一个新LOGO （OpenAI）",
-      "summary": "每天认识一个新LOGO （OpenAI）；@OpenAIDevs",
+      "summary": "每天认识一个新LOGO （OpenAI）；#OpenAIDown",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
-        "https://x.com/OpenAIDevs"
+        "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -6321,16 +6349,16 @@
       "total_score": 31.58
     },
     {
-      "candidate_id": "topic-2a82a53cf65631a0d9",
+      "candidate_id": "topic-55df887a314043fbed",
       "title": "每天认识一个新LOGO （OpenAI）",
-      "summary": "每天认识一个新LOGO （OpenAI）；#OpenAIDown",
+      "summary": "每天认识一个新LOGO （OpenAI）；@OpenAIDevs",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
-        "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
+        "https://x.com/OpenAIDevs"
       ],
       "published_at": "",
       "publish_time_text": "",
@@ -6422,30 +6450,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.91
-    },
-    {
-      "candidate_id": "topic-af359ab19b2227630d",
-      "title": "หุ้นAIงาม-SKHYNIX-SAMSUNG พุ่ง 20%-งบAMAZONดี-ฉนวนกาซาสงบ-ไทยจะคัมแบ็คไหม?-MorningBrain31ก.ค.69",
-      "summary": "หุ้นAIงาม-SKHYNIX-SAMSUNG พุ่ง 20%-งบAMAZONดี-ฉนวนกาซาสงบ-ไทยจะคัมแบ็คไหม?-MorningBrain31ก.ค.69",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=n6FZmqu_0xw"
-      ],
-      "published_at": "2026-07-31T00:47:11Z",
-      "publish_time_text": "",
-      "view_count": 1845,
-      "like_count": 147,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "ทันหุ้น",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.72
     },
     {
       "candidate_id": "topic-1b02bb8f7b419e6e73",
@@ -6962,30 +6966,6 @@
       "total_score": 29.05
     },
     {
-      "candidate_id": "topic-ea7a5d9ce0d2015022",
-      "title": "Kimi K3为何能领跑开源大模型 | 杨植麟 | 月之暗面 | Muon优化器 | 长上下文 | 智能体蜂群 | 注意力残差 | 多模态融合 | AI开源 | 大语言模型 | Kimi Linear",
-      "summary": "Kimi K3为何能领跑开源大模型 | 杨植麟 | 月之暗面 | Muon优化器 | 长上下文 | 智能体蜂群 | 注意力残差 | 多模态融合 | AI开源 | 大语言模型 | Kimi Linear",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=mwD8CAdFNmY"
-      ],
-      "published_at": "2026-07-30T23:00:20Z",
-      "publish_time_text": "",
-      "view_count": 2443,
-      "like_count": 101,
-      "favorite_count": 0,
-      "comment_count": 8,
-      "share_count": 0,
-      "author_name": "最佳拍档",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 34.57
-    },
-    {
       "candidate_id": "topic-d70e1a451195a3140a",
       "title": "P2 人物角色塑造方法·角色提示词获取",
       "summary": "P2 人物角色塑造方法·角色提示词获取；即梦seedance2.0 爆款短剧电影级提示词来了；10个即梦seedance2.0电影级的爆款提示词！",
@@ -7247,30 +7227,6 @@
       "total_score": 28.02
     },
     {
-      "candidate_id": "topic-54fc667712421edd95",
-      "title": "HUGE XRP WIN IN HONG KONG #xrp #ai #tech",
-      "summary": "HUGE XRP WIN IN HONG KONG #xrp #ai #tech",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=ZR-PcAgbJFk"
-      ],
-      "published_at": "2026-07-31T01:00:19Z",
-      "publish_time_text": "",
-      "view_count": 232,
-      "like_count": 41,
-      "favorite_count": 0,
-      "comment_count": 6,
-      "share_count": 0,
-      "author_name": "CryptoWendyO",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.33
-    },
-    {
       "candidate_id": "topic-bf70fd54708d26443f",
       "title": "Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化",
       "summary": "Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化；https://\nopenai.com/index/why-lang\nuage-models-hallucinate/\n…；OpenAI ads pilot tops $100 million in annualized revenue in under 2 months",
@@ -7377,54 +7333,6 @@
       "total_score": 29.86
     },
     {
-      "candidate_id": "topic-a692605397991e4e8a",
-      "title": "蔣萬安認了！AI深偽總統影片遭控違法",
-      "summary": "蔣萬安認了！AI深偽總統影片遭控違法",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Ome5Uob3-Po"
-      ],
-      "published_at": "2026-07-30T23:01:38Z",
-      "publish_time_text": "",
-      "view_count": 704,
-      "like_count": 26,
-      "favorite_count": 0,
-      "comment_count": 3,
-      "share_count": 0,
-      "author_name": "台灣變色龍",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.51
-    },
-    {
-      "candidate_id": "topic-c6fc88cea4dd1d4438",
-      "title": "嗶嗶測謊機？beep lie detector？ #ai #超級放鬆 #搞笑 #animation #二次元 #funny",
-      "summary": "嗶嗶測謊機？beep lie detector？ #ai #超級放鬆 #搞笑 #animation #二次元 #funny",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=TJN6rUraGhQ"
-      ],
-      "published_at": "2026-07-30T14:32:26Z",
-      "publish_time_text": "",
-      "view_count": 197,
-      "like_count": 25,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "微笑x微笑",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.89
-    },
-    {
       "candidate_id": "topic-0b6445d1e5f169ddba",
       "title": "Meme chat gpt le balance 😭 TikTok : vdi709",
       "summary": "Meme chat gpt le balance 😭 TikTok : vdi709；ni chat gpt me pudo salvar 😭 #meme  #humor #popular；cuando le preguntas algo a chat gpt #humor #humor",
@@ -7525,6 +7433,30 @@
       "total_score": 29.89
     },
     {
+      "candidate_id": "topic-3fa574f53a899250e9",
+      "title": "报告大年初一报备视频来啦！轮胎扎了去补个胎发现一堆新开的摩托车店还看了Ai电动车上山试了新换的减震又是好值的一天一张图证明你去过的地方女骑焦作",
+      "summary": "报告大年初一报备视频来啦！轮胎扎了去补个胎发现一堆新开的摩托车店还看了Ai电动车上山试了新换的减震又是好值的一天一张图证明你去过的地方女骑焦作",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=dHoU4UpduGw"
+      ],
+      "published_at": "2026-08-01T22:33:39Z",
+      "publish_time_text": "",
+      "view_count": 922,
+      "like_count": 17,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "悄咪咪",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.07
+    },
+    {
       "candidate_id": "topic-1ea948bcbf90739e95",
       "title": "Ai动画219-英伟达RTX Video Super Resolution算法视频超分放大comfyui原生支持，使用注意事项-T8 教程",
       "summary": "Ai动画219-英伟达RTX Video Super Resolution算法视频超分放大comfyui原生支持，使用注意事项-T8 教程；Ai绘画进阶293-以技术服人！字节开源的BitDance自回归模型原来那么强！项目讲解及Z-image-turbo,白转千问0.3效果对比-T8 教程",
@@ -7548,6 +7480,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.88
+    },
+    {
+      "candidate_id": "topic-78c9308dd5da7bb0cb",
+      "title": "手把手教你ai里的选择工具小技巧！ #ps#AI #平面设计 #新手设计师 #设计技巧 #ps教程",
+      "summary": "手把手教你ai里的选择工具小技巧！ #ps#AI #平面设计 #新手设计师 #设计技巧 #ps教程",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=qA1HxpT3iEA"
+      ],
+      "published_at": "2026-08-01T14:25:25Z",
+      "publish_time_text": "",
+      "view_count": 1171,
+      "like_count": 14,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "资源素材分享",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.96
     },
     {
       "candidate_id": "topic-b637ebfe7cdd7c5e71",
@@ -7576,30 +7532,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.23
-    },
-    {
-      "candidate_id": "topic-1d6dbf806d05faa5f8",
-      "title": "我用 Genspark把工作流串起來了⚡️",
-      "summary": "我用 Genspark把工作流串起來了⚡️",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=pVKEsHNlxsI"
-      ],
-      "published_at": "2026-07-30T13:49:25Z",
-      "publish_time_text": "",
-      "view_count": 1210,
-      "like_count": 14,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "CindyWang 好玩高效生活",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.82
     },
     {
       "candidate_id": "topic-1a4f23f8ae9279c87e",
@@ -7757,6 +7689,30 @@
       "total_score": 32.09
     },
     {
+      "candidate_id": "topic-d8751c93d821191c76",
+      "title": "手繪稿拍一張，直接變動畫影片#aivideo #manus #meiko微課頻道",
+      "summary": "手繪稿拍一張，直接變動畫影片#aivideo #manus #meiko微課頻道",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=zN1NWmj7qqg"
+      ],
+      "published_at": "2026-08-01T13:27:05Z",
+      "publish_time_text": "",
+      "view_count": 362,
+      "like_count": 8,
+      "favorite_count": 0,
+      "comment_count": 2,
+      "share_count": 0,
+      "author_name": "Meiko微課頻道",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 27.56
+    },
+    {
       "candidate_id": "topic-3c03fbac6e0c188226",
       "title": "超初心者向け　yoloで画像から物体検出　#YOLO #Cursor #物体検出 #AI初心者 #KAILab #Shorts",
       "summary": "超初心者向け　yoloで画像から物体検出　#YOLO #Cursor #物体検出 #AI初心者 #KAILab #Shorts；超初心者向け　Cursorからwslに接続 #Cursor #WSL #Linux #プログラミング初心者 #開発環境 #AIエディタ",
@@ -7861,6 +7817,55 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 27.07
+    },
+    {
+      "candidate_id": "topic-937ed7d19ebcd384a1",
+      "title": "Claude最新研究发现AI大模型或有意识存在，deepseek正在自研AI芯片，英伟达最新机柜量产遇到阻碍，费城半导体指数下跌近5%【Vic TALK第1727期】",
+      "summary": "Claude最新研究发现AI大模型或有意识存在，deepseek正在自研AI芯片，英伟达最新机柜量产遇到阻碍，费城半导体指数下跌近5%【Vic TALK第1727期】",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=FE4qP5M8cjc"
+      ],
+      "published_at": "2026-07-07T23:25:10Z",
+      "publish_time_text": "",
+      "view_count": 198,
+      "like_count": 6,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Vic TALK",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.89
+    },
+    {
+      "candidate_id": "topic-ec8dfe3bf4ac81e83f",
+      "title": "Fable 5 might be coming back as early as this weekend. #claude #claudecode #fable #mythos",
+      "summary": "Fable 5 might be coming back as early as this weekend. #claude #claudecode #fable #mythos；GLM 5.2 Is INSANE. (Better than Claude Fable 5)",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=3VZJVgtXIgA",
+        "https://www.youtube.com/watch?v=mp8sQTgi0YA"
+      ],
+      "published_at": "2026-06-18T23:16:48Z",
+      "publish_time_text": "",
+      "view_count": 532,
+      "like_count": 6,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Don't Sleep On AI",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.61
     }
   ]
 }
