@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:24:00.898621Z",
+  "generated_at": "2026-08-04T01:25:43.938866Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 10334,
-    "total_candidates": 13538,
+    "total_posts": 10514,
+    "total_candidates": 13925,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-08-03T01:24:00.455378Z",
+    "last_updated_at": "2026-08-04T01:25:43.490087Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 8614
+        "count": 8774
       },
       {
         "platform": "x",
-        "count": 1611
+        "count": 1631
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 10684
+        "count": 11004
       },
       {
         "platform": "x",
-        "count": 3865
+        "count": 3963
       },
       {
         "platform": "xiaohongshu",
-        "count": 289
+        "count": 290
       },
       {
         "platform": "huitun",
@@ -490,6 +490,35 @@
       "author_fans_count": 7372,
       "status": "待处理",
       "total_score": 57.25
+    },
+    {
+      "candidate_id": "topic-cf3b02b8b1dc631572",
+      "title": "&quot;I&#39;m an agent of chaos...&quot;",
+      "summary": "&quot;I&#39;m an agent of chaos...&quot;；🚨”J” is an agent of CHAOS! #quantumshifting #karma #toxic #karmic；&quot;Floor Transformation &quot;🏠 #shorts #ikonick #art #ai",
+      "platforms": [
+        "x",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=9z5_-woSX4o",
+        "https://www.youtube.com/watch?v=vXDs6qzf5KU",
+        "https://www.youtube.com/watch?v=5rJdPPdBSwc",
+        "https://t.co/w4UeJT2cFJ",
+        "https://t.co/91DgPrbIYu"
+      ],
+      "published_at": "2026-07-10T21:58:47Z",
+      "publish_time_text": "",
+      "view_count": 124777,
+      "like_count": 12419,
+      "favorite_count": 0,
+      "comment_count": 163,
+      "share_count": 0,
+      "author_name": "PassTheSalt",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 26.68
     },
     {
       "candidate_id": "topic-a30c221a41fd1292a7",
@@ -2561,6 +2590,61 @@
       "total_score": 41.86
     },
     {
+      "candidate_id": "topic-ce27d0ebe1cc95b359",
+      "title": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts",
+      "summary": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts；¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts；¿LOS 5 PERSONAJES MAS FUERTES DE BAKI SEGUN CHAT GPT? #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=68SpHqQPA3s",
+        "https://www.youtube.com/watch?v=-ho7F66Zk84",
+        "https://www.youtube.com/watch?v=qGjiW4rviBU",
+        "https://www.youtube.com/watch?v=FfkfxwrPLDI",
+        "https://www.youtube.com/watch?v=G--hYS7jeKo"
+      ],
+      "published_at": "2026-07-25T00:07:22Z",
+      "publish_time_text": "",
+      "view_count": 14012,
+      "like_count": 2259,
+      "favorite_count": 0,
+      "comment_count": 23,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 27.1
+    },
+    {
+      "candidate_id": "topic-9d689f3364dabe3436",
+      "title": "#ai #pixverse #fyp #youtubeshorts #automation #kids",
+      "summary": "#ai #pixverse #fyp #youtubeshorts #automation #kids；¿5 PERSONAJES MAS RAPIDOS QUE FLASH SEGUN CHAT GPT? #shorts；OpenAI 认了，光靠订阅养不起ChatGPT",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=StxNk8q1vVU",
+        "https://www.youtube.com/watch?v=k1VD854B_lQ",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 47.12
+    },
+    {
       "candidate_id": "topic-b16df6fcd582441657",
       "title": "最近很火的AI测试，AI画出了它眼里的我 #chatgpt  #AI绘画  #人工智能",
       "summary": "最近很火的AI测试，AI画出了它眼里的我 #chatgpt  #AI绘画  #人工智能；OpenAI 认了，光靠订阅养不起ChatGPT",
@@ -3973,7 +4057,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 36.15
+      "total_score": 36.14
     },
     {
       "candidate_id": "topic-f8648a616230536493",
@@ -4001,30 +4085,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 26.97
-    },
-    {
-      "candidate_id": "topic-2aa684e79038401b36",
-      "title": "Was ist eigentlich Kunst und hat KI einen Platz in der Kunst ?! #informatik #code #ai #kunst",
-      "summary": "Was ist eigentlich Kunst und hat KI einen Platz in der Kunst ?! #informatik #code #ai #kunst",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=DTgtFKlqOA4"
-      ],
-      "published_at": "2026-06-17T17:24:18Z",
-      "publish_time_text": "",
-      "view_count": 8274,
-      "like_count": 1029,
-      "favorite_count": 0,
-      "comment_count": 50,
-      "share_count": 0,
-      "author_name": "Hood Informatik",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 26.66
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -4348,7 +4408,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 43.13
+      "total_score": 35.27
     },
     {
       "candidate_id": "topic-affdc6cea9acfba302",
@@ -4421,7 +4481,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.28
+      "total_score": 30.27
     },
     {
       "candidate_id": "topic-19e1d0ae515248edcb",
@@ -5717,7 +5777,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 31.72
+      "total_score": 31.71
     },
     {
       "candidate_id": "topic-68579c7dec83d1acab",
@@ -5961,7 +6021,7 @@
       "author_bio": "还没有简介",
       "author_fans_count": 971,
       "status": "待处理",
-      "total_score": 31.46
+      "total_score": 31.45
     },
     {
       "candidate_id": "topic-2c5bb7425ca31735ed",
@@ -7205,30 +7265,6 @@
       "total_score": 32.76
     },
     {
-      "candidate_id": "topic-dc031d2cfa3ffc24c4",
-      "title": "最近出た神AI10選がヤバいです！🤖 5秒で誰でも使えて、あんな作業もこんな作業もエグいです！使ってみたい人は最後チェックして✅ #ai  #生成ai #ai活用  #shorts",
-      "summary": "最近出た神AI10選がヤバいです！🤖 5秒で誰でも使えて、あんな作業もこんな作業もエグいです！使ってみたい人は最後チェックして✅ #ai  #生成ai #ai活用  #shorts",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=KKbqN4p-IRw"
-      ],
-      "published_at": "2026-08-02T23:00:10Z",
-      "publish_time_text": "",
-      "view_count": 1013,
-      "like_count": 74,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "ゆきち│AI×SNS攻略",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 32.97
-    },
-    {
       "candidate_id": "topic-4123b4d89f65c492ab",
       "title": "网上cursor续杯千万别买，免费方案一大把",
       "summary": "网上cursor续杯千万别买，免费方案一大把",
@@ -7561,30 +7597,6 @@
       "total_score": 29.23
     },
     {
-      "candidate_id": "topic-51b496654d08a32d89",
-      "title": "讓 AI 不再失憶！我用 Obsidian 建構第二大腦，一句話完成整個專案",
-      "summary": "讓 AI 不再失憶！我用 Obsidian 建構第二大腦，一句話完成整個專案",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=487rKyffz2s"
-      ],
-      "published_at": "2026-08-02T14:51:09Z",
-      "publish_time_text": "",
-      "view_count": 186,
-      "like_count": 14,
-      "favorite_count": 0,
-      "comment_count": 2,
-      "share_count": 0,
-      "author_name": "G股團長 金睿",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.94
-    },
-    {
       "candidate_id": "topic-1a4f23f8ae9279c87e",
       "title": "天呐❗DeepSeek润色神级指令也太绝了吧！✨",
       "summary": "天呐❗DeepSeek润色神级指令也太绝了吧！✨；吐血整理！DeepSeek高级指令，好用到爆！",
@@ -7845,29 +7857,28 @@
       "total_score": 28.61
     },
     {
-      "candidate_id": "topic-88659e249845d5cfea",
-      "title": "Claude Opus 4.6 越狱失败？这个“问题拆分法”成功率超高！实操教程",
-      "summary": "Claude Opus 4.6 越狱失败？这个“问题拆分法”成功率超高！实操教程；免费AI神器！栋哥工作流1分钟生成90%原创抖音爆款文案（Claude Code教程）",
+      "candidate_id": "topic-c982447377b0ff6b56",
+      "title": "🤖AI、機器人、VR齊上陣！科技助攻中風復健  #shorts #中風 #復健 #AI #VR #健康大錢線 #52健康 @love52health",
+      "summary": "🤖AI、機器人、VR齊上陣！科技助攻中風復健  #shorts #中風 #復健 #AI #VR #健康大錢線 #52健康 @love52health",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=lITVamZUTTE",
-        "https://www.youtube.com/watch?v=LZyY-faKDQM"
+        "https://www.youtube.com/watch?v=OmWlz1e24Bg"
       ],
-      "published_at": "2026-06-04T15:06:00Z",
+      "published_at": "2026-08-04T01:00:21Z",
       "publish_time_text": "",
-      "view_count": 158,
-      "like_count": 6,
+      "view_count": 173,
+      "like_count": 5,
       "favorite_count": 0,
       "comment_count": 0,
       "share_count": 0,
-      "author_name": "鑫源AI",
+      "author_name": "52健康💖我愛健康",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 26.67
+      "total_score": 32.27
     }
   ]
 }
