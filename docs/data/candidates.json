@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T01:24:03.251133Z",
+  "generated_at": "2026-08-10T01:24:06.093935Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 11433,
-    "total_candidates": 15810,
+    "total_posts": 11622,
+    "total_candidates": 16184,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-08-09T01:24:02.746048Z",
+    "last_updated_at": "2026-08-10T01:24:05.520244Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 9587
+        "count": 9750
       },
       {
         "platform": "x",
-        "count": 1737
+        "count": 1763
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 12605
+        "count": 12923
       },
       {
         "platform": "x",
-        "count": 4367
+        "count": 4450
       },
       {
         "platform": "xiaohongshu",
-        "count": 305
+        "count": 308
       },
       {
         "platform": "huitun",
@@ -1061,7 +1061,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 59.89
+      "total_score": 59.54
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -2658,7 +2658,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 29.09
+      "total_score": 34.3
     },
     {
       "candidate_id": "topic-db9e23b9291419efdd",
@@ -4154,7 +4154,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 44.61
+      "total_score": 38.87
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -4534,7 +4534,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 28.93
+      "total_score": 28.9
     },
     {
       "candidate_id": "topic-affdc6cea9acfba302",
@@ -5798,6 +5798,36 @@
       "total_score": 30.36
     },
     {
+      "candidate_id": "topic-6cf099ce7ef1e34f5c",
+      "title": "@मुकेश $म्यूजिक🙏👍♥️ #चंद्रशेखर #chauhan #Stguru#manus#शॉर्ट",
+      "summary": "@मुकेश $म्यूजिक🙏👍♥️ #चंद्रशेखर #chauhan #Stguru#manus#शॉर्ट；컴퓨터 몰라도 PPT 완성! 자료조사부터 디자인까지 Manus AI가 알아서 해줍니다；每天了解一个AI产品 No.2 Manus",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=a2MwTSCurZE",
+        "https://www.youtube.com/watch?v=34xVkcAGZPg",
+        "https://www.xiaohongshu.com/explore/695cf8af000000000b0086ff?xsec_token=ABb9Aqzu6dut0GUnUDLlLgKBo2Qc1xE5p4IwminPYRFo4=&xsec_source=pc_search",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://x.com/manus_chai3546"
+      ],
+      "published_at": "2026-01-06T00:00:00Z",
+      "publish_time_text": "01-06",
+      "view_count": 0,
+      "like_count": 392,
+      "favorite_count": 355,
+      "comment_count": 12,
+      "share_count": 129,
+      "author_name": "龙龙 AI 知行日记",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qr5j93ag0005p72rj709tej2unlt78?imageView2/2/w/80/format/jpg",
+      "author_bio": "前外企、大厂体验设计师。\n摇滚乐迷，重度游戏玩家，理想主义。\n厌倦了职场的假大空文化，决定在 AI 浪潮里重开真善美人生。",
+      "author_fans_count": 1743,
+      "status": "待处理",
+      "total_score": 28.95
+    },
+    {
       "candidate_id": "topic-008522cca0b52de921",
       "title": "jay to bangal manus ka 🥹",
       "summary": "jay to bangal manus ka 🥹；manus koi jai re😭😭😭；每天了解一个AI产品 No.2 Manus",
@@ -5974,6 +6004,34 @@
       "author_fans_count": 82,
       "status": "待处理",
       "total_score": 32.0
+    },
+    {
+      "candidate_id": "topic-2aebf91c96bd1b94ba",
+      "title": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
+      "summary": "一觉醒来，Ai圈又变天🔥Manus强在哪里？；什么是Manus？和其他AI有什么区别？小白进；@ManusAI",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/67ca3293000000000302be1f?xsec_token=AB7t3ggQXiq6f-UQ08iW3J2cV3iUQZp2I84VbVHtvjRvQ=&xsec_source=pc_search",
+        "https://www.xiaohongshu.com/explore/67c9657e000000000603a539?xsec_token=ABW0WgVzUQsXmGNSxcarIp22fa92xXLY_c1pO4CzkSxmE=&xsec_source=pc_search",
+        "https://x.com/ManusAI",
+        "https://x.com/hashtag/ManusAI?src=hashtag_click"
+      ],
+      "published_at": "2025-03-07T00:00:00Z",
+      "publish_time_text": "2025-03-07",
+      "view_count": 0,
+      "like_count": 279,
+      "favorite_count": 210,
+      "comment_count": 22,
+      "share_count": 160,
+      "author_name": "光落在树叶上🍊",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31on2np170g604br4mngapv9f8mbouc8?imageView2/2/w/80/format/jpg",
+      "author_bio": "我今天先坚持，明天再放弃💚\n做你必须做的，直到你能做你想做的",
+      "author_fans_count": 82,
+      "status": "待处理",
+      "total_score": 31.09
     },
     {
       "candidate_id": "topic-930dec2aff5f4a874b",
@@ -7165,55 +7223,6 @@
       "total_score": 32.76
     },
     {
-      "candidate_id": "topic-f5e8bc1c71622980b2",
-      "title": "0参数微调让Agent智商暴涨138%，Self-Harness 自我演进框架｜大模型“外骨骼”的自我进化",
-      "summary": "0参数微调让Agent智商暴涨138%，Self-Harness 自我演进框架｜大模型“外骨骼”的自我进化",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=YJ-rQYg0EFE"
-      ],
-      "published_at": "2026-08-08T14:25:33Z",
-      "publish_time_text": "",
-      "view_count": 1642,
-      "like_count": 65,
-      "favorite_count": 0,
-      "comment_count": 3,
-      "share_count": 0,
-      "author_name": "wow",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.85
-    },
-    {
-      "candidate_id": "topic-dec850d58957277366",
-      "title": "또 빚내서 AI 투자, 구글이 멈추지 않는 이유",
-      "summary": "또 빚내서 AI 투자, 구글이 멈추지 않는 이유；구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=sc5t_7fX9eU",
-        "https://www.youtube.com/watch?v=zi9zcD4L7dU"
-      ],
-      "published_at": "2026-08-09T00:00:14Z",
-      "publish_time_text": "",
-      "view_count": 3241,
-      "like_count": 56,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "시사탐정김민",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.42
-    },
-    {
       "candidate_id": "topic-25a327c5781d4b63a5",
       "title": "斯坦福｜MIT 发布 Meta-Harness：别再迷信提示词优化了！你的调试方法正在“毒害”大模型",
       "summary": "斯坦福｜MIT 发布 Meta-Harness：别再迷信提示词优化了！你的调试方法正在“毒害”大模型；Fable 5 泄漏提示词曝光！看 Hermes 智能体如何异地组网，进化成 24h 黑灯工厂研究它",
@@ -7261,30 +7270,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.02
-    },
-    {
-      "candidate_id": "topic-155843102db17b4290",
-      "title": "从0做出你的第一个App ｜ 零基础AI编程保姆教程",
-      "summary": "从0做出你的第一个App ｜ 零基础AI编程保姆教程",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=pZyw-9iABvw"
-      ],
-      "published_at": "2026-08-07T12:15:08Z",
-      "publish_time_text": "",
-      "view_count": 656,
-      "like_count": 42,
-      "favorite_count": 0,
-      "comment_count": 4,
-      "share_count": 0,
-      "author_name": "木子不写代码",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.69
     },
     {
       "candidate_id": "topic-bf70fd54708d26443f",
@@ -7449,30 +7434,6 @@
       "total_score": 28.11
     },
     {
-      "candidate_id": "topic-8821927e53a750ab2e",
-      "title": "AI正在偷偷偷走你的脑子？ 看懂程序员的&quot;优化陷阱&quot;",
-      "summary": "AI正在偷偷偷走你的脑子？ 看懂程序员的&quot;优化陷阱&quot;",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=OTNYzc1EKIM"
-      ],
-      "published_at": "2026-08-08T12:15:29Z",
-      "publish_time_text": "",
-      "view_count": 535,
-      "like_count": 26,
-      "favorite_count": 0,
-      "comment_count": 2,
-      "share_count": 0,
-      "author_name": "为什么叫QQ",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.49
-    },
-    {
       "candidate_id": "topic-0b6445d1e5f169ddba",
       "title": "Meme chat gpt le balance 😭 TikTok : vdi709",
       "summary": "Meme chat gpt le balance 😭 TikTok : vdi709；ni chat gpt me pudo salvar 😭 #meme  #humor #popular；cuando le preguntas algo a chat gpt #humor #humor",
@@ -7547,6 +7508,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.89
+    },
+    {
+      "candidate_id": "topic-94ebf144e21ff3bec3",
+      "title": "全程免费还好用！用Gemin in Chrome 轻松搞定ideogram 4 BBox提示词设计｜Draw Things教程｜Gemini 3.6 Flash",
+      "summary": "全程免费还好用！用Gemin in Chrome 轻松搞定ideogram 4 BBox提示词设计｜Draw Things教程｜Gemini 3.6 Flash",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=gYsxDsoA_GI"
+      ],
+      "published_at": "2026-08-09T03:21:43Z",
+      "publish_time_text": "",
+      "view_count": 174,
+      "like_count": 18,
+      "favorite_count": 0,
+      "comment_count": 2,
+      "share_count": 0,
+      "author_name": "工具狂Toolbuddy",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.05
     },
     {
       "candidate_id": "topic-1ea948bcbf90739e95",
@@ -7628,30 +7613,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.23
-    },
-    {
-      "candidate_id": "topic-7c92882760c730528a",
-      "title": "我竟然現在才知道這些AI工具！ #ai #Capafy #proactorai #tips #tech",
-      "summary": "我竟然現在才知道這些AI工具！ #ai #Capafy #proactorai #tips #tech",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=sv2pfSEonYE"
-      ],
-      "published_at": "2026-08-08T13:03:44Z",
-      "publish_time_text": "",
-      "view_count": 914,
-      "like_count": 13,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "AItech_holic",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.54
     },
     {
       "candidate_id": "topic-1a4f23f8ae9279c87e",
@@ -7785,6 +7746,30 @@
       "total_score": 27.74
     },
     {
+      "candidate_id": "topic-e04fe3237090dea68e",
+      "title": "徹底打破 AI 產業鐵律！記憶體佔用僅 2GB？拆解讓 26B 超大模型在舊 MacBook 上流暢運作的真相！",
+      "summary": "徹底打破 AI 產業鐵律！記憶體佔用僅 2GB？拆解讓 26B 超大模型在舊 MacBook 上流暢運作的真相！",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Cqg7UbzFINE"
+      ],
+      "published_at": "2026-08-09T11:23:22Z",
+      "publish_time_text": "",
+      "view_count": 280,
+      "like_count": 8,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Nairoby Hiraldo",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 32.88
+    },
+    {
       "candidate_id": "topic-3c03fbac6e0c188226",
       "title": "超初心者向け　yoloで画像から物体検出　#YOLO #Cursor #物体検出 #AI初心者 #KAILab #Shorts",
       "summary": "超初心者向け　yoloで画像から物体検出　#YOLO #Cursor #物体検出 #AI初心者 #KAILab #Shorts；超初心者向け　Cursorからwslに接続 #Cursor #WSL #Linux #プログラミング初心者 #開発環境 #AIエディタ",
@@ -7861,6 +7846,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 27.6
+    },
+    {
+      "candidate_id": "topic-937ed7d19ebcd384a1",
+      "title": "Claude最新研究发现AI大模型或有意识存在，deepseek正在自研AI芯片，英伟达最新机柜量产遇到阻碍，费城半导体指数下跌近5%【Vic TALK第1727期】",
+      "summary": "Claude最新研究发现AI大模型或有意识存在，deepseek正在自研AI芯片，英伟达最新机柜量产遇到阻碍，费城半导体指数下跌近5%【Vic TALK第1727期】",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=FE4qP5M8cjc"
+      ],
+      "published_at": "2026-07-07T23:25:10Z",
+      "publish_time_text": "",
+      "view_count": 198,
+      "like_count": 6,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Vic TALK",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.89
     }
   ]
 }
