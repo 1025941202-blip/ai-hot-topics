@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T01:24:31.241862Z",
+  "generated_at": "2026-08-13T01:24:16.088109Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 11970,
-    "total_candidates": 16995,
+    "total_posts": 12156,
+    "total_candidates": 17400,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-08-12T01:24:30.703390Z",
+    "last_updated_at": "2026-08-13T01:24:15.546604Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 10052
+        "count": 10215
       },
       {
         "platform": "x",
-        "count": 1809
+        "count": 1832
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 13633
+        "count": 13963
       },
       {
         "platform": "x",
-        "count": 4607
+        "count": 4712
       },
       {
         "platform": "xiaohongshu",
-        "count": 313
+        "count": 318
       },
       {
         "platform": "huitun",
@@ -787,7 +787,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 42.83
+      "total_score": 42.82
     },
     {
       "candidate_id": "topic-6195bb8e2cf9ca72ab",
@@ -1111,7 +1111,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 59.15
+      "total_score": 59.03
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -1804,7 +1804,7 @@
       "author_bio": "苏州最有温度的一人公司创业圈@LabZone一人公司 主理人\n🎯 专研：个体商业模式×认知升级×执行力\n🌟 帮你在不确定性中寻找确定性的商业逻辑\n📈 目标：陪伴3650位伙伴完成从想法到变现",
       "author_fans_count": 2398,
       "status": "待处理",
-      "total_score": 59.32
+      "total_score": 59.31
     },
     {
       "candidate_id": "topic-bc1393af3001feafd2",
@@ -3035,6 +3035,33 @@
       "total_score": 37.36
     },
     {
+      "candidate_id": "topic-80c354e58220d774c7",
+      "title": "OpenAI 认了，光靠订阅养不起ChatGPT",
+      "summary": "OpenAI 认了，光靠订阅养不起ChatGPT；@OpenAIDevs；OpenAI、次世代AI「アストラ」の開発停止　サイバー攻撃能力を懸念",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
+        "https://x.com/OpenAIDevs",
+        "https://t.co/1ObTxQFnEO"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 37.34
+    },
+    {
       "candidate_id": "topic-4840a34829d8243cf0",
       "title": "#AI뉴스-전문가 대체가능 AI?! 최신 GPT 5.4 충격공개#GPT5 #OpenAI #인공지능 #업무자동화 #aiagents #테크 #기술트렌드 #챗gpt #AI자동화 #ai",
       "summary": "#AI뉴스-전문가 대체가능 AI?! 최신 GPT 5.4 충격공개#GPT5 #OpenAI #인공지능 #업무자동화 #aiagents #테크 #기술트렌드 #챗gpt #AI자동화 #ai；OpenAI 认了，光靠订阅养不起ChatGPT；日本生命、米国でOpenAIを提訴　「ChatGPTが非弁行為」",
@@ -4238,7 +4265,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 42.84
+      "total_score": 42.53
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -4289,7 +4316,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 36.13
+      "total_score": 36.12
     },
     {
       "candidate_id": "topic-5baf97a01d105147ea",
@@ -4693,7 +4720,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 28.85
+      "total_score": 28.84
     },
     {
       "candidate_id": "topic-affdc6cea9acfba302",
@@ -4817,6 +4844,33 @@
       "author_fans_count": 2528,
       "status": "待处理",
       "total_score": 34.98
+    },
+    {
+      "candidate_id": "topic-9f32a23d908f00a14a",
+      "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
+        "https://t.co/KIPo3rN0Zc",
+        "https://t.co/IKzuhX2Uvc"
+      ],
+      "published_at": "2025-05-26T00:00:00Z",
+      "publish_time_text": "2025-05-26",
+      "view_count": 0,
+      "like_count": 699,
+      "favorite_count": 947,
+      "comment_count": 36,
+      "share_count": 150,
+      "author_name": "媛媛的ai工厂",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31er9g7uq6gdg5n9emmek0ms61886tro?imageView2/2/w/80/format/jpg",
+      "author_bio": "研究/学习/分享\nAI工具，效率工具",
+      "author_fans_count": 2528,
+      "status": "待处理",
+      "total_score": 32.65
     },
     {
       "candidate_id": "topic-6aa2933f38ce08b299",
@@ -7263,30 +7317,6 @@
       "total_score": 28.02
     },
     {
-      "candidate_id": "topic-22738160ce97143515",
-      "title": "AI算力不仅没过剩，还更加稀缺 | Gavin Baker | GPU | Blackwell | 开源大模型 | AI基建 | 半导体 | HBM内存 | 太空算力 | SpaceX",
-      "summary": "AI算力不仅没过剩，还更加稀缺 | Gavin Baker | GPU | Blackwell | 开源大模型 | AI基建 | 半导体 | HBM内存 | 太空算力 | SpaceX",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=239EIQ1sp7I"
-      ],
-      "published_at": "2026-08-11T23:00:19Z",
-      "publish_time_text": "",
-      "view_count": 736,
-      "like_count": 39,
-      "favorite_count": 0,
-      "comment_count": 5,
-      "share_count": 0,
-      "author_name": "最佳拍档",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.88
-    },
-    {
       "candidate_id": "topic-bf70fd54708d26443f",
       "title": "Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化",
       "summary": "Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化；https://\nopenai.com/index/why-lang\nuage-models-hallucinate/\n…；OpenAI ads pilot tops $100 million in annualized revenue in under 2 months",
@@ -7632,6 +7662,30 @@
       "total_score": 29.23
     },
     {
+      "candidate_id": "topic-75bcb2d746a00ec87d",
+      "title": "AI가 배운 인종차별.....#AI편향성 #인공지능 #AI판결 #인종차별 #신경망AI #기술패권",
+      "summary": "AI가 배운 인종차별.....#AI편향성 #인공지능 #AI판결 #인종차별 #신경망AI #기술패권",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=KCtDBPc6lWc"
+      ],
+      "published_at": "2026-08-13T00:08:46Z",
+      "publish_time_text": "",
+      "view_count": 2013,
+      "like_count": 14,
+      "favorite_count": 0,
+      "comment_count": 4,
+      "share_count": 0,
+      "author_name": "노란집토끼",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.25
+    },
+    {
       "candidate_id": "topic-1a4f23f8ae9279c87e",
       "title": "天呐❗DeepSeek润色神级指令也太绝了吧！✨",
       "summary": "天呐❗DeepSeek润色神级指令也太绝了吧！✨；吐血整理！DeepSeek高级指令，好用到爆！",
@@ -7711,30 +7765,6 @@
       "total_score": 28.45
     },
     {
-      "candidate_id": "topic-f0f05ff1f203523206",
-      "title": "【🎧Morning English - AI正從投資工具變成自動交易代理】AI可在你睡覺時24小時管理股票、稅務及退休規劃｜未來每個人都可能擁有自己的AI財務顧問｜AI投資代理與風險｜英語｜新聞練習",
-      "summary": "【🎧Morning English - AI正從投資工具變成自動交易代理】AI可在你睡覺時24小時管理股票、稅務及退休規劃｜未來每個人都可能擁有自己的AI財務顧問｜AI投資代理與風險｜英語｜新聞練習",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=JIEiNQt_h2I"
-      ],
-      "published_at": "2026-08-11T23:00:24Z",
-      "publish_time_text": "",
-      "view_count": 188,
-      "like_count": 11,
-      "favorite_count": 0,
-      "comment_count": 2,
-      "share_count": 0,
-      "author_name": "流暢英語學習Smooth English Learning",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 32.04
-    },
-    {
       "candidate_id": "topic-eb373c3db3b2ba678b",
       "title": "🌎 LAS 10 MEJORES DEL MUNDO SEGÚN CHAT GPT",
       "summary": "🌎 LAS 10 MEJORES DEL MUNDO SEGÚN CHAT GPT；CHAT GPT PREDICE EL MUNDIAL DE PANAMÁ 🔥🇵🇦 #panama #mundial #mundial2026；¿5 PERSONAJES MAS RAPIDOS QUE FLASH SEGUN CHAT GPT? #shorts",
@@ -7785,30 +7815,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.75
-    },
-    {
-      "candidate_id": "topic-c3d51263db525cb052",
-      "title": "2026全球民调大逆转：20年来首次！中国好感度全面反超美国！",
-      "summary": "2026全球民调大逆转：20年来首次！中国好感度全面反超美国！",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=3Oct7IHbg3o"
-      ],
-      "published_at": "2026-08-11T14:12:45Z",
-      "publish_time_text": "",
-      "view_count": 148,
-      "like_count": 10,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "棱镜视界PrismVision",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.57
     },
     {
       "candidate_id": "topic-ef4a949987bc344128",
