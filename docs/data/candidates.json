@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T01:24:42.938621Z",
+  "generated_at": "2026-08-15T01:25:59.718712Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 12341,
-    "total_candidates": 17810,
+    "total_posts": 12519,
+    "total_candidates": 18183,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-08-14T01:24:42.374708Z",
+    "last_updated_at": "2026-08-15T01:25:59.140769Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 10374
+        "count": 10536
       },
       {
         "platform": "x",
-        "count": 1858
+        "count": 1874
       },
       {
         "platform": "xiaohongshu",
@@ -36,11 +36,11 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 14294
+        "count": 14610
       },
       {
         "platform": "x",
-        "count": 4822
+        "count": 4902
       },
       {
         "platform": "xiaohongshu",
@@ -516,6 +516,33 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 32.13
+    },
+    {
+      "candidate_id": "topic-b3c170c710edca4ec2",
+      "title": "&quot;I&#39;m an agent of chaos...&quot;",
+      "summary": "&quot;I&#39;m an agent of chaos...&quot;；🚨”J” is an agent of CHAOS! #quantumshifting #karma #toxic #karmic；Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
+      "platforms": [
+        "x",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=9z5_-woSX4o",
+        "https://www.youtube.com/watch?v=vXDs6qzf5KU",
+        "https://t.co/w4UeJT2cFJ"
+      ],
+      "published_at": "2026-07-10T21:58:47Z",
+      "publish_time_text": "",
+      "view_count": 124777,
+      "like_count": 12419,
+      "favorite_count": 0,
+      "comment_count": 163,
+      "share_count": 0,
+      "author_name": "PassTheSalt",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 32.05
     },
     {
       "candidate_id": "topic-05cc6817da9057dd0d",
@@ -1111,7 +1138,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.94
+      "total_score": 58.87
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -4265,7 +4292,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 42.35
+      "total_score": 42.24
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -4720,7 +4747,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 28.83
+      "total_score": 28.81
     },
     {
       "candidate_id": "topic-affdc6cea9acfba302",
@@ -6464,14 +6491,14 @@
     },
     {
       "candidate_id": "topic-3a2810d2de403e2e5e",
-      "title": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程",
-      "summary": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程；几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent",
+      "title": "#agent boy lover👮",
+      "summary": "#agent boy lover👮；几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent",
       "platforms": [
         "xiaohongshu",
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=5fYM48bDddw",
+        "https://www.youtube.com/watch?v=kCqkbAZKI9U",
         "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
         "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search",
         "https://www.xiaohongshu.com/explore/68f8b1f900000000070353fd"
@@ -6488,7 +6515,7 @@
       "author_bio": "..",
       "author_fans_count": 4907,
       "status": "待处理",
-      "total_score": 54.65
+      "total_score": 44.65
     },
     {
       "candidate_id": "topic-7cf889abfd2a852e2b",
@@ -6788,6 +6815,33 @@
       "total_score": 40.58
     },
     {
+      "candidate_id": "topic-06dbd14a0570a978c6",
+      "title": "#cursor #paraiba",
+      "summary": "#cursor #paraiba；OpenAI放大招，Cursor使用免费版的GPT5.3x；OpenAI 认了，光靠订阅养不起ChatGPT",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=QEV0PMpht6A",
+        "https://www.xiaohongshu.com/explore/699fc2630000000022031551?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I4RS7p9xmB6jMlH2r_7gm3g=&xsec_source=pc_search",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-02-26T07:37:36.893601Z",
+      "publish_time_text": "1天前",
+      "view_count": 0,
+      "like_count": 120,
+      "favorite_count": 187,
+      "comment_count": 17,
+      "share_count": 38,
+      "author_name": "测试老江",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m60766pl86g5q5c28imc6ii9i1pflo?imageView2/2/w/80/format/jpg",
+      "author_bio": "🌿 10年+高级测开｜AI开发者\n📙  分享有趣的测试技巧 / AI 测试 \n🔍 不靠谱目标:探索100 个 AI 测试方案\n📈 在职，不培训，随心记",
+      "author_fans_count": 754,
+      "status": "待处理",
+      "total_score": 40.52
+    },
+    {
       "candidate_id": "topic-0ec9183c9ede1c8c7a",
       "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
       "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；OpenAI 认了，光靠订阅养不起ChatGPT；From developers.openai.com",
@@ -6842,35 +6896,6 @@
       "author_fans_count": 754,
       "status": "待处理",
       "total_score": 36.9
-    },
-    {
-      "candidate_id": "topic-06dbd14a0570a978c6",
-      "title": "wii cursor",
-      "summary": "wii cursor；Torajo VS cursor pt2；#cursor #paraiba",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=QW8X-GoGN_k",
-        "https://www.youtube.com/watch?v=ko3-1cWeWfk",
-        "https://www.youtube.com/watch?v=QEV0PMpht6A",
-        "https://www.xiaohongshu.com/explore/699fc2630000000022031551?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I4RS7p9xmB6jMlH2r_7gm3g=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search"
-      ],
-      "published_at": "2026-02-26T07:37:36.893601Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 120,
-      "favorite_count": 187,
-      "comment_count": 17,
-      "share_count": 38,
-      "author_name": "测试老江",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m60766pl86g5q5c28imc6ii9i1pflo?imageView2/2/w/80/format/jpg",
-      "author_bio": "🌿 10年+高级测开｜AI开发者\n📙  分享有趣的测试技巧 / AI 测试 \n🔍 不靠谱目标:探索100 个 AI 测试方案\n📈 在职，不培训，随心记",
-      "author_fans_count": 754,
-      "status": "待处理",
-      "total_score": 30.3
     },
     {
       "candidate_id": "topic-1a788ec4faf03636ac",
@@ -7004,30 +7029,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.23
-    },
-    {
-      "candidate_id": "topic-f7e0de5ac76f6b9c92",
-      "title": "SP500ไฮ-หุ้นเทคดี-METAจะแข่งAI-เกาหลีลุยได้ไหม-ลดกังวลเงินเฟ้อดีมานด์น้ำมันวูบ-MorningBrain14ส.ค.69",
-      "summary": "SP500ไฮ-หุ้นเทคดี-METAจะแข่งAI-เกาหลีลุยได้ไหม-ลดกังวลเงินเฟ้อดีมานด์น้ำมันวูบ-MorningBrain14ส.ค.69",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Ui_t8eIqdiY"
-      ],
-      "published_at": "2026-08-14T00:47:20Z",
-      "publish_time_text": "",
-      "view_count": 1543,
-      "like_count": 114,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "ทันหุ้น",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.17
     },
     {
       "candidate_id": "topic-cccde727bcb271ac95",
@@ -7289,31 +7290,7 @@
       "author_bio": "还没有简介",
       "author_fans_count": 39,
       "status": "待处理",
-      "total_score": 32.76
-    },
-    {
-      "candidate_id": "topic-e404978c63d85b8843",
-      "title": "吴恩达怒怼AI开源阴谋论 | 知识蒸馏 | Transformer | AI Agent | 算力泡沫 | AI失业 | 数据中心 | 摩根士丹利 | OpenWorker | 大模型 | AI落地",
-      "summary": "吴恩达怒怼AI开源阴谋论 | 知识蒸馏 | Transformer | AI Agent | 算力泡沫 | AI失业 | 数据中心 | 摩根士丹利 | OpenWorker | 大模型 | AI落地",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=LHCqSqneZGQ"
-      ],
-      "published_at": "2026-08-13T23:00:12Z",
-      "publish_time_text": "",
-      "view_count": 1170,
-      "like_count": 58,
-      "favorite_count": 0,
-      "comment_count": 9,
-      "share_count": 0,
-      "author_name": "最佳拍档",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.65
+      "total_score": 32.75
     },
     {
       "candidate_id": "topic-25a327c5781d4b63a5",
@@ -7363,30 +7340,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.02
-    },
-    {
-      "candidate_id": "topic-82768c49a1aa9b6860",
-      "title": "Ray Dalio最新警告：AI泡沫症状正在出现？真正危险的不是股市，而是债务、AI失业与大周期同时到来",
-      "summary": "Ray Dalio最新警告：AI泡沫症状正在出现？真正危险的不是股市，而是债务、AI失业与大周期同时到来",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=znhLERA32_E"
-      ],
-      "published_at": "2026-08-13T21:00:08Z",
-      "publish_time_text": "",
-      "view_count": 465,
-      "like_count": 34,
-      "favorite_count": 0,
-      "comment_count": 10,
-      "share_count": 0,
-      "author_name": "菊子说房产 | 美国房产避坑、税务优化以及现金流重建",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.53
     },
     {
       "candidate_id": "topic-bf70fd54708d26443f",
@@ -7551,6 +7504,30 @@
       "total_score": 28.11
     },
     {
+      "candidate_id": "topic-b146d06075451600ed",
+      "title": "MiniMax H3 速度提升70%｜不用写提示词！官方Skill清洗＋TalkCraft工作台",
+      "summary": "MiniMax H3 速度提升70%｜不用写提示词！官方Skill清洗＋TalkCraft工作台",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Je6bTlxYvTY"
+      ],
+      "published_at": "2026-08-14T12:00:13Z",
+      "publish_time_text": "",
+      "view_count": 481,
+      "like_count": 24,
+      "favorite_count": 0,
+      "comment_count": 14,
+      "share_count": 0,
+      "author_name": "王知风",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.24
+    },
+    {
       "candidate_id": "topic-0b6445d1e5f169ddba",
       "title": "Meme chat gpt le balance 😭 TikTok : vdi709",
       "summary": "Meme chat gpt le balance 😭 TikTok : vdi709；ni chat gpt me pudo salvar 😭 #meme  #humor #popular；cuando le preguntas algo a chat gpt #humor #humor",
@@ -7625,30 +7602,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.89
-    },
-    {
-      "candidate_id": "topic-925a7eaaee9bae63b6",
-      "title": "Manus恢复独立运行意味着什么？/新闻8分钟/202",
-      "summary": "Manus恢复独立运行意味着什么？/新闻8分钟/202",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=ZBHWaEvMUKk"
-      ],
-      "published_at": "2026-08-13T22:00:06Z",
-      "publish_time_text": "",
-      "view_count": 240,
-      "like_count": 15,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "王剑每日观察Kim's Observation",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.66
     },
     {
       "candidate_id": "topic-1ea948bcbf90739e95",
@@ -7837,6 +7790,56 @@
       "total_score": 28.45
     },
     {
+      "candidate_id": "topic-13b5797d22ce439ed1",
+      "title": "【最新】大学女生遇到AI骗局！#搞笑 #搞笑视频 #内涵段子 #周小闹 #熱門 #funny #shorts",
+      "summary": "【最新】大学女生遇到AI骗局！#搞笑 #搞笑视频 #内涵段子 #周小闹 #熱門 #funny #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=y9cFmVGgYXk"
+      ],
+      "published_at": "2026-08-15T00:38:18Z",
+      "publish_time_text": "",
+      "view_count": 226,
+      "like_count": 11,
+      "favorite_count": 0,
+      "comment_count": 1,
+      "share_count": 0,
+      "author_name": "周小闹ZhouXiaoNao",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.38
+    },
+    {
+      "candidate_id": "topic-eb373c3db3b2ba678b",
+      "title": "🌎 LAS 10 MEJORES DEL MUNDO SEGÚN CHAT GPT",
+      "summary": "🌎 LAS 10 MEJORES DEL MUNDO SEGÚN CHAT GPT；CHAT GPT PREDICE EL MUNDIAL DE PANAMÁ 🔥🇵🇦 #panama #mundial #mundial2026；¿5 PERSONAJES MAS RAPIDOS QUE FLASH SEGUN CHAT GPT? #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=07RontCUrMI",
+        "https://www.youtube.com/watch?v=JDnCJ6eQynk",
+        "https://www.youtube.com/watch?v=k1VD854B_lQ"
+      ],
+      "published_at": "2026-06-05T22:09:33Z",
+      "publish_time_text": "",
+      "view_count": 972,
+      "like_count": 11,
+      "favorite_count": 0,
+      "comment_count": 4,
+      "share_count": 0,
+      "author_name": "SAGfutbol",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 29.6
+    },
+    {
       "candidate_id": "topic-760f29261a2baa6495",
       "title": "Agent为什么难落地？企业级AI Agent落地的5大核心挑战与解决方案｜腾讯、阿里、百度企业级实践深度拆解",
       "summary": "Agent为什么难落地？企业级AI Agent落地的5大核心挑战与解决方案｜腾讯、阿里、百度企业级实践深度拆解",
@@ -7858,7 +7861,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.8
+      "total_score": 27.72
     }
   ]
 }
