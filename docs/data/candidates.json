@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:26:01.655501Z",
+  "generated_at": "2026-08-20T01:24:26.619110Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 13236,
-    "total_candidates": 19775,
+    "total_posts": 13419,
+    "total_candidates": 20191,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-08-19T01:26:01.047846Z",
+    "last_updated_at": "2026-08-20T01:24:25.989555Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 11178
+        "count": 11340
       },
       {
         "platform": "x",
-        "count": 1949
+        "count": 1970
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 15965
+        "count": 16314
       },
       {
         "platform": "x",
-        "count": 5237
+        "count": 5329
       },
       {
         "platform": "xiaohongshu",
-        "count": 329
+        "count": 330
       },
       {
         "platform": "huitun",
@@ -243,7 +243,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.79
+      "total_score": 60.78
     },
     {
       "candidate_id": "topic-16977b3abc2403c2ae",
@@ -267,7 +267,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.8
+      "total_score": 60.79
     },
     {
       "candidate_id": "topic-3b39e84ecbc6dec024",
@@ -1138,7 +1138,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.69
+      "total_score": 58.66
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -2768,6 +2768,34 @@
       "total_score": 39.19
     },
     {
+      "candidate_id": "topic-d3ed34cfeaa742fd8b",
+      "title": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts",
+      "summary": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts；¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts；¿LOS 5 PERSONAJES MAS FUERTES DE BAKI SEGUN CHAT GPT? #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=68SpHqQPA3s",
+        "https://www.youtube.com/watch?v=-ho7F66Zk84",
+        "https://www.youtube.com/watch?v=qGjiW4rviBU",
+        "https://www.youtube.com/watch?v=07RontCUrMI",
+        "https://www.youtube.com/watch?v=k1VD854B_lQ"
+      ],
+      "published_at": "2026-07-25T00:07:22Z",
+      "publish_time_text": "",
+      "view_count": 14012,
+      "like_count": 2259,
+      "favorite_count": 0,
+      "comment_count": 23,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 39.05
+    },
+    {
       "candidate_id": "topic-a5b863e8b020474084",
       "title": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts",
       "summary": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts；chat GPT top 5 promt secret；Meme chat gpt le balance 😭 TikTok : vdi709",
@@ -3963,7 +3991,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.18
+      "total_score": 48.62
     },
     {
       "candidate_id": "topic-31f538d914c48e855f",
@@ -4371,7 +4399,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 42.01
+      "total_score": 41.98
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5389,30 +5417,6 @@
       "author_fans_count": 26812,
       "status": "待处理",
       "total_score": 29.7
-    },
-    {
-      "candidate_id": "topic-48195d609d7dafde4e",
-      "title": "2026 年最好用的 6 个 AI 图片生成网站",
-      "summary": "2026 年最好用的 6 个 AI 图片生成网站",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=7u7k_uTgdGo"
-      ],
-      "published_at": "2026-08-16T18:30:52Z",
-      "publish_time_text": "",
-      "view_count": 11813,
-      "like_count": 597,
-      "favorite_count": 0,
-      "comment_count": 16,
-      "share_count": 0,
-      "author_name": "AI工具箱",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.57
     },
     {
       "candidate_id": "topic-f7eca988503d59803c",
@@ -6450,6 +6454,30 @@
       "total_score": 27.57
     },
     {
+      "candidate_id": "topic-e03ac8f43b48b0ff16",
+      "title": "ลองสร้างคีย์บอร์ด AI ที่กำลังเป็นไวรัลขึ้นมาในชีวิตจริง 🤩⌨️ #keyboard #ideas #ai",
+      "summary": "ลองสร้างคีย์บอร์ด AI ที่กำลังเป็นไวรัลขึ้นมาในชีวิตจริง 🤩⌨️ #keyboard #ideas #ai",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Szvhb2yc2Lc"
+      ],
+      "published_at": "2026-08-20T00:00:36Z",
+      "publish_time_text": "",
+      "view_count": 6278,
+      "like_count": 244,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "ChillXperience",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 32.48
+    },
+    {
       "candidate_id": "topic-0d61f7ede9386a09fd",
       "title": "10个即梦seedance2.0电影级的爆款提示词！",
       "summary": "10个即梦seedance2.0电影级的爆款提示词！；即梦 Seedance 2.0 提示词高阶技巧手册",
@@ -6651,14 +6679,14 @@
     },
     {
       "candidate_id": "topic-3a2810d2de403e2e5e",
-      "title": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程",
-      "summary": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程；几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent",
+      "title": "#agent boy lover👮",
+      "summary": "#agent boy lover👮；几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent",
       "platforms": [
         "xiaohongshu",
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=5fYM48bDddw",
+        "https://www.youtube.com/watch?v=kCqkbAZKI9U",
         "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
         "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search",
         "https://www.xiaohongshu.com/explore/68f8b1f900000000070353fd"
@@ -6675,7 +6703,7 @@
       "author_bio": "..",
       "author_fans_count": 4907,
       "status": "待处理",
-      "total_score": 54.65
+      "total_score": 44.65
     },
     {
       "candidate_id": "topic-7cf889abfd2a852e2b",
@@ -7453,30 +7481,6 @@
       "total_score": 32.75
     },
     {
-      "candidate_id": "topic-db1a130b3ebb0f238b",
-      "title": "【MINIMAX-H3】高动态打斗动画精讲 | 附完整提示词模版 | 8-12G低显存流畅运行",
-      "summary": "【MINIMAX-H3】高动态打斗动画精讲 | 附完整提示词模版 | 8-12G低显存流畅运行",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=rxxRGsyYGRU"
-      ],
-      "published_at": "2026-08-18T10:44:45Z",
-      "publish_time_text": "",
-      "view_count": 938,
-      "like_count": 58,
-      "favorite_count": 0,
-      "comment_count": 7,
-      "share_count": 0,
-      "author_name": "Work-Fisher",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.87
-    },
-    {
       "candidate_id": "topic-25a327c5781d4b63a5",
       "title": "斯坦福｜MIT 发布 Meta-Harness：别再迷信提示词优化了！你的调试方法正在“毒害”大模型",
       "summary": "斯坦福｜MIT 发布 Meta-Harness：别再迷信提示词优化了！你的调试方法正在“毒害”大模型；Fable 5 泄漏提示词曝光！看 Hermes 智能体如何异地组网，进化成 24h 黑灯工厂研究它",
@@ -7524,6 +7528,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.02
+    },
+    {
+      "candidate_id": "topic-e99efadcf447413c81",
+      "title": "当AI自我觉醒，人类会发生怎样巨变？《普罗米修斯》隐藏的AI异教，有多邪典？万字拆解——人工智能异教",
+      "summary": "当AI自我觉醒，人类会发生怎样巨变？《普罗米修斯》隐藏的AI异教，有多邪典？万字拆解——人工智能异教",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=AulCIi2Mqhw"
+      ],
+      "published_at": "2026-08-20T00:47:08Z",
+      "publish_time_text": "",
+      "view_count": 497,
+      "like_count": 41,
+      "favorite_count": 0,
+      "comment_count": 7,
+      "share_count": 0,
+      "author_name": "阿冉",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 35.48
     },
     {
       "candidate_id": "topic-bf70fd54708d26443f",
@@ -7843,32 +7871,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 27.99
-    },
-    {
-      "candidate_id": "topic-8a2a7dffaaf08eaa08",
-      "title": "Comentá CONSEJO y te doy acceso al Curso Claude Hackers ⚡ y el Prompt de los 5 asesores",
-      "summary": "Comentá CONSEJO y te doy acceso al Curso Claude Hackers ⚡ y el Prompt de los 5 asesores；ALGO DIJE A CHAT GPT ??? 🤔🤨👀🗿🗣️🔥🔥🔥 #elpersonajedelasemana #humor #nosequeponerxd #memes #momazo；¿5 PERSONAJES MAS RAPIDOS QUE FLASH SEGUN CHAT GPT? #shorts",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=im4u2UBi-As",
-        "https://www.youtube.com/watch?v=i-eR83Z0wtE",
-        "https://www.youtube.com/watch?v=k1VD854B_lQ"
-      ],
-      "published_at": "2026-07-07T23:58:56Z",
-      "publish_time_text": "",
-      "view_count": 228,
-      "like_count": 14,
-      "favorite_count": 0,
-      "comment_count": 6,
-      "share_count": 0,
-      "author_name": "Dylan Rosemberg",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 33.57
     }
   ]
 }
