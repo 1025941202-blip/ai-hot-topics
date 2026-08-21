@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T01:24:26.619110Z",
+  "generated_at": "2026-08-21T01:24:29.834451Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 13419,
-    "total_candidates": 20191,
+    "total_posts": 13601,
+    "total_candidates": 20626,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-08-20T01:24:25.989555Z",
+    "last_updated_at": "2026-08-21T01:24:29.199257Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 11340
+        "count": 11500
       },
       {
         "platform": "x",
-        "count": 1970
+        "count": 1992
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 16314
+        "count": 16665
       },
       {
         "platform": "x",
-        "count": 5329
+        "count": 5447
       },
       {
         "platform": "xiaohongshu",
-        "count": 330
+        "count": 333
       },
       {
         "platform": "huitun",
@@ -1138,7 +1138,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.66
+      "total_score": 58.63
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -1731,6 +1731,35 @@
       "author_fans_count": 26120,
       "status": "待处理",
       "total_score": 30.1
+    },
+    {
+      "candidate_id": "topic-097931ac250bd500a8",
+      "title": "建议都去飞书上学AI Agent",
+      "summary": "建议都去飞书上学AI Agent；@agent_solcat；老林学KOPI AI AGENT",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search",
+        "https://x.com/agent_solcat",
+        "https://x.com/linyiq",
+        "https://x.com/aixbt_agent",
+        "https://x.com/hashtag/AIagent?src=hashtag_click"
+      ],
+      "published_at": "2026-02-11T00:00:00Z",
+      "publish_time_text": "02-11",
+      "view_count": 0,
+      "like_count": 3349,
+      "favorite_count": 4749,
+      "comment_count": 2022,
+      "share_count": 531,
+      "author_name": "Karl的AIGC产品丨光之年",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/66139aa8fa0c9200018a7867.jpg?imageView2/2/w/80/format/jpg",
+      "author_bio": "✨5年大厂高级产品经理｜3年AI产品经理\n🔍带大厂项目实战｜简历修改面经\n🚀    全程求职陪跑｜岗位内推直达\n🦾AI产品经理｜产品经理｜互联网产品经理",
+      "author_fans_count": 26120,
+      "status": "待处理",
+      "total_score": 30.05
     },
     {
       "candidate_id": "topic-ba592049121ef397f0",
@@ -3970,30 +3999,6 @@
       "total_score": 30.0
     },
     {
-      "candidate_id": "topic-26b47a71077b0ff284",
-      "title": "美股 AI数据中心违约风险一览！长债收益率19年新高！SPY、QQQ、SOXX 、SMH重要位置！HD维持前瞻！",
-      "summary": "美股 AI数据中心违约风险一览！长债收益率19年新高！SPY、QQQ、SOXX 、SMH重要位置！HD维持前瞻！",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=JmAgOc0hTwQ"
-      ],
-      "published_at": "2026-08-19T00:01:32Z",
-      "publish_time_text": "",
-      "view_count": 9560,
-      "like_count": 1561,
-      "favorite_count": 0,
-      "comment_count": 88,
-      "share_count": 0,
-      "author_name": "视野环球财经",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 48.62
-    },
-    {
       "candidate_id": "topic-31f538d914c48e855f",
       "title": "やべぇClaude(Fable5)が出ました。みんなも今日から使えるお【6/10 8:30まで】",
       "summary": "やべぇClaude(Fable5)が出ました。みんなも今日から使えるお【6/10 8:30まで】",
@@ -4016,6 +4021,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 43.31
+    },
+    {
+      "candidate_id": "topic-26b47a71077b0ff284",
+      "title": "美股 AI数据中心违约风险一览！长债收益率19年新高！SPY、QQQ、SOXX 、SMH重要位置！HD维持前瞻！",
+      "summary": "美股 AI数据中心违约风险一览！长债收益率19年新高！SPY、QQQ、SOXX 、SMH重要位置！HD维持前瞻！",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=JmAgOc0hTwQ"
+      ],
+      "published_at": "2026-08-19T00:01:32Z",
+      "publish_time_text": "",
+      "view_count": 9560,
+      "like_count": 1561,
+      "favorite_count": 0,
+      "comment_count": 88,
+      "share_count": 0,
+      "author_name": "视野环球财经",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 41.45
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -4399,7 +4428,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.98
+      "total_score": 41.96
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -4854,7 +4883,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 28.78
+      "total_score": 28.77
     },
     {
       "candidate_id": "topic-affdc6cea9acfba302",
@@ -6454,30 +6483,6 @@
       "total_score": 27.57
     },
     {
-      "candidate_id": "topic-e03ac8f43b48b0ff16",
-      "title": "ลองสร้างคีย์บอร์ด AI ที่กำลังเป็นไวรัลขึ้นมาในชีวิตจริง 🤩⌨️ #keyboard #ideas #ai",
-      "summary": "ลองสร้างคีย์บอร์ด AI ที่กำลังเป็นไวรัลขึ้นมาในชีวิตจริง 🤩⌨️ #keyboard #ideas #ai",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Szvhb2yc2Lc"
-      ],
-      "published_at": "2026-08-20T00:00:36Z",
-      "publish_time_text": "",
-      "view_count": 6278,
-      "like_count": 244,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "ChillXperience",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 32.48
-    },
-    {
       "candidate_id": "topic-0d61f7ede9386a09fd",
       "title": "10个即梦seedance2.0电影级的爆款提示词！",
       "summary": "10个即梦seedance2.0电影级的爆款提示词！；即梦 Seedance 2.0 提示词高阶技巧手册",
@@ -7551,7 +7556,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 35.48
+      "total_score": 29.02
     },
     {
       "candidate_id": "topic-bf70fd54708d26443f",
@@ -7792,6 +7797,34 @@
       "total_score": 29.89
     },
     {
+      "candidate_id": "topic-145b65de466df303e1",
+      "title": "无版权音乐！免费一站式 AI 创作网站-AI追光免费网站音乐提示词！",
+      "summary": "无版权音乐！免费一站式 AI 创作网站-AI追光免费网站音乐提示词！；牛来！牛德赛！电影级动画片制作流程详细分享！电影工作室Higgsfield一站式创作平台！；Higgsfield Seedance 2.5 1080P 实测！30秒“渡雷劫”太震撼了｜电影级仙侠AI视频！",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=7Xr5ulrtVxo",
+        "https://www.youtube.com/watch?v=qLss4dYLb4w",
+        "https://www.youtube.com/watch?v=hpw6DGD8ckU",
+        "https://www.youtube.com/watch?v=TS_pPBs3Fl0",
+        "https://www.youtube.com/watch?v=xRVXsw7fqto"
+      ],
+      "published_at": "2026-08-20T13:03:02Z",
+      "publish_time_text": "",
+      "view_count": 314,
+      "like_count": 21,
+      "favorite_count": 0,
+      "comment_count": 3,
+      "share_count": 0,
+      "author_name": "AI追光",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.28
+    },
+    {
       "candidate_id": "topic-a23da0fb7dba75a3ee",
       "title": "Higgsfield Seedance 2.5 1080P 实测！30秒“渡雷劫”太震撼了｜电影级仙侠AI视频！",
       "summary": "Higgsfield Seedance 2.5 1080P 实测！30秒“渡雷劫”太震撼了｜电影级仙侠AI视频！；Higgsfield Seedance 2.5 1080P 实测！30秒一键制造AI网红｜完整教程；Seedance 2.5电影制作实战！33天无限生成｜Higgsfield世界电影节100万美元奖池",
@@ -7843,34 +7876,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.88
-    },
-    {
-      "candidate_id": "topic-0da015c79272ece807",
-      "title": "海螺 MiniMax H3 上线！CG半写实视频完整制作流程｜AI追光免费剧本",
-      "summary": "海螺 MiniMax H3 上线！CG半写实视频完整制作流程｜AI追光免费剧本；夯爆了！MiniMax H3图生＋首尾帧新一轮实测：高低动态提示词完美适配官方！自动切换首尾帧！！；3分钟真人AI影视剧怎么做？SD 2.0手把手完整制作流程｜Higgsfield 14天SD 2.0/2.5无限生成",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Ml_laowT1E4",
-        "https://www.youtube.com/watch?v=dU_QKngPJgg",
-        "https://www.youtube.com/watch?v=ePrMMXzYH1E",
-        "https://www.youtube.com/watch?v=CIZqTSKssCM",
-        "https://www.youtube.com/watch?v=U3_VePy_URk"
-      ],
-      "published_at": "2026-08-04T14:34:25Z",
-      "publish_time_text": "",
-      "view_count": 468,
-      "like_count": 15,
-      "favorite_count": 0,
-      "comment_count": 2,
-      "share_count": 0,
-      "author_name": "AI追光",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.99
     }
   ]
 }
