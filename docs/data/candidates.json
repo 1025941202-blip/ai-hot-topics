@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:24:29.834451Z",
+  "generated_at": "2026-08-22T01:26:27.254359Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 13601,
-    "total_candidates": 20626,
+    "total_posts": 13785,
+    "total_candidates": 21051,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-08-21T01:24:29.199257Z",
+    "last_updated_at": "2026-08-22T01:26:26.598030Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 11500
+        "count": 11663
       },
       {
         "platform": "x",
-        "count": 1992
+        "count": 2013
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 16665
+        "count": 17011
       },
       {
         "platform": "x",
-        "count": 5447
+        "count": 5553
       },
       {
         "platform": "xiaohongshu",
-        "count": 333
+        "count": 335
       },
       {
         "platform": "huitun",
@@ -440,7 +440,7 @@
       "author_bio": "⏰5年资深打工人｜4年运营｜多维表格设计师\n🔥数码产品｜职场干货｜自媒体干货\n♾️无限进步就是用小成就撬动大成就\n🕒工具@时迹TimeFriend\n 🈴️ upupduowei艾特①②⑥.com",
       "author_fans_count": 111347,
       "status": "待处理",
-      "total_score": 63.83
+      "total_score": 63.82
     },
     {
       "candidate_id": "topic-e3a8505f955332bcce",
@@ -1138,7 +1138,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.63
+      "total_score": 58.61
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -2986,6 +2986,32 @@
       "total_score": 44.07
     },
     {
+      "candidate_id": "topic-b7cd3c98215a743f7d",
+      "title": "OpenAIが日本政府と電撃タッグ！",
+      "summary": "OpenAIが日本政府と電撃タッグ！；OpenAI 认了，光靠订阅养不起ChatGPT",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=xQ2PXLB7-IY",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 44.03
+    },
+    {
       "candidate_id": "topic-bedaff017f8795bb6b",
       "title": "LiteLLM: 100+ LLM API를 OpenAI 형식으로 통합 관리!",
       "summary": "LiteLLM: 100+ LLM API를 OpenAI 형식으로 통합 관리!；OpenAI 认了，光靠订阅养不起ChatGPT",
@@ -4044,7 +4070,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.45
+      "total_score": 39.47
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -4428,7 +4454,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.96
+      "total_score": 41.94
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5241,16 +5267,16 @@
       "total_score": 37.89
     },
     {
-      "candidate_id": "topic-1c8dc91e5ea4b00aa8",
+      "candidate_id": "topic-9671e65a3564b3be4b",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@cursorenla",
+      "summary": "cursor实战案例--原型图绘制；@geniam_cursor",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/cursorenla"
+        "https://x.com/geniam_cursor"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -5267,16 +5293,16 @@
       "total_score": 37.88
     },
     {
-      "candidate_id": "topic-9671e65a3564b3be4b",
+      "candidate_id": "topic-1c8dc91e5ea4b00aa8",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@geniam_cursor",
+      "summary": "cursor实战案例--原型图绘制；@cursorenla",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/geniam_cursor"
+        "https://x.com/cursorenla"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -6310,6 +6336,30 @@
       "total_score": 31.7
     },
     {
+      "candidate_id": "topic-0cf2f1b97317f0276c",
+      "title": "「ChatGPT・Claudeに勝つ」富士通が挑む新構造AI「PHOTON」 処理効率475倍の衝撃【橋本幸治の理系通信】",
+      "summary": "「ChatGPT・Claudeに勝つ」富士通が挑む新構造AI「PHOTON」 処理効率475倍の衝撃【橋本幸治の理系通信】",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=huoR2hSkbP4"
+      ],
+      "published_at": "2026-07-24T22:00:17Z",
+      "publish_time_text": "",
+      "view_count": 8132,
+      "like_count": 358,
+      "favorite_count": 0,
+      "comment_count": 92,
+      "share_count": 0,
+      "author_name": "テレ東BIZ ダイジェスト",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.58
+    },
+    {
       "candidate_id": "topic-3212b431c29c7a57fb",
       "title": "2026程序员转大模型应用开发看这篇就够了",
       "summary": "2026程序员转大模型应用开发看这篇就够了",
@@ -6684,14 +6734,14 @@
     },
     {
       "candidate_id": "topic-3a2810d2de403e2e5e",
-      "title": "#agent boy lover👮",
-      "summary": "#agent boy lover👮；几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent",
+      "title": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程",
+      "summary": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程；几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent",
       "platforms": [
         "xiaohongshu",
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=kCqkbAZKI9U",
+        "https://www.youtube.com/watch?v=5fYM48bDddw",
         "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
         "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search",
         "https://www.xiaohongshu.com/explore/68f8b1f900000000070353fd"
@@ -6708,7 +6758,7 @@
       "author_bio": "..",
       "author_fans_count": 4907,
       "status": "待处理",
-      "total_score": 44.65
+      "total_score": 54.65
     },
     {
       "candidate_id": "topic-7cf889abfd2a852e2b",
@@ -7089,6 +7139,32 @@
       "author_fans_count": 754,
       "status": "待处理",
       "total_score": 36.9
+    },
+    {
+      "candidate_id": "topic-7ceacd3a8404951403",
+      "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
+      "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；#OpenAIDown",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/699fc2630000000022031551?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I4RS7p9xmB6jMlH2r_7gm3g=&xsec_source=pc_search",
+        "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
+      ],
+      "published_at": "2026-02-26T07:37:36.893601Z",
+      "publish_time_text": "1天前",
+      "view_count": 0,
+      "like_count": 120,
+      "favorite_count": 187,
+      "comment_count": 17,
+      "share_count": 38,
+      "author_name": "测试老江",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m60766pl86g5q5c28imc6ii9i1pflo?imageView2/2/w/80/format/jpg",
+      "author_bio": "🌿 10年+高级测开｜AI开发者\n📙  分享有趣的测试技巧 / AI 测试 \n🔍 不靠谱目标:探索100 个 AI 测试方案\n📈 在职，不培训，随心记",
+      "author_fans_count": 754,
+      "status": "待处理",
+      "total_score": 27.77
     },
     {
       "candidate_id": "topic-1a788ec4faf03636ac",
@@ -7535,30 +7611,6 @@
       "total_score": 28.02
     },
     {
-      "candidate_id": "topic-e99efadcf447413c81",
-      "title": "当AI自我觉醒，人类会发生怎样巨变？《普罗米修斯》隐藏的AI异教，有多邪典？万字拆解——人工智能异教",
-      "summary": "当AI自我觉醒，人类会发生怎样巨变？《普罗米修斯》隐藏的AI异教，有多邪典？万字拆解——人工智能异教",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=AulCIi2Mqhw"
-      ],
-      "published_at": "2026-08-20T00:47:08Z",
-      "publish_time_text": "",
-      "view_count": 497,
-      "like_count": 41,
-      "favorite_count": 0,
-      "comment_count": 7,
-      "share_count": 0,
-      "author_name": "阿冉",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.02
-    },
-    {
       "candidate_id": "topic-bf70fd54708d26443f",
       "title": "Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化",
       "summary": "Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化；https://\nopenai.com/index/why-lang\nuage-models-hallucinate/\n…；OpenAI ads pilot tops $100 million in annualized revenue in under 2 months",
@@ -7797,34 +7849,6 @@
       "total_score": 29.89
     },
     {
-      "candidate_id": "topic-145b65de466df303e1",
-      "title": "无版权音乐！免费一站式 AI 创作网站-AI追光免费网站音乐提示词！",
-      "summary": "无版权音乐！免费一站式 AI 创作网站-AI追光免费网站音乐提示词！；牛来！牛德赛！电影级动画片制作流程详细分享！电影工作室Higgsfield一站式创作平台！；Higgsfield Seedance 2.5 1080P 实测！30秒“渡雷劫”太震撼了｜电影级仙侠AI视频！",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=7Xr5ulrtVxo",
-        "https://www.youtube.com/watch?v=qLss4dYLb4w",
-        "https://www.youtube.com/watch?v=hpw6DGD8ckU",
-        "https://www.youtube.com/watch?v=TS_pPBs3Fl0",
-        "https://www.youtube.com/watch?v=xRVXsw7fqto"
-      ],
-      "published_at": "2026-08-20T13:03:02Z",
-      "publish_time_text": "",
-      "view_count": 314,
-      "like_count": 21,
-      "favorite_count": 0,
-      "comment_count": 3,
-      "share_count": 0,
-      "author_name": "AI追光",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.28
-    },
-    {
       "candidate_id": "topic-a23da0fb7dba75a3ee",
       "title": "Higgsfield Seedance 2.5 1080P 实测！30秒“渡雷劫”太震撼了｜电影级仙侠AI视频！",
       "summary": "Higgsfield Seedance 2.5 1080P 实测！30秒“渡雷劫”太震撼了｜电影级仙侠AI视频！；Higgsfield Seedance 2.5 1080P 实测！30秒一键制造AI网红｜完整教程；Seedance 2.5电影制作实战！33天无限生成｜Higgsfield世界电影节100万美元奖池",
@@ -7851,31 +7875,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 30.37
-    },
-    {
-      "candidate_id": "topic-1ea948bcbf90739e95",
-      "title": "Ai动画219-英伟达RTX Video Super Resolution算法视频超分放大comfyui原生支持，使用注意事项-T8 教程",
-      "summary": "Ai动画219-英伟达RTX Video Super Resolution算法视频超分放大comfyui原生支持，使用注意事项-T8 教程；Ai绘画进阶293-以技术服人！字节开源的BitDance自回归模型原来那么强！项目讲解及Z-image-turbo,白转千问0.3效果对比-T8 教程",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=RO8Rx9H2nRU",
-        "https://www.youtube.com/watch?v=MNMO5y3YJ5w"
-      ],
-      "published_at": "2026-03-12T16:01:36Z",
-      "publish_time_text": "",
-      "view_count": 362,
-      "like_count": 15,
-      "favorite_count": 0,
-      "comment_count": 2,
-      "share_count": 0,
-      "author_name": "T8star-Aix",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.88
     }
   ]
 }
