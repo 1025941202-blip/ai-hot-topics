@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T01:24:38.994653Z",
+  "generated_at": "2026-08-29T01:24:53.267987Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 13972,
-    "total_candidates": 21462,
+    "total_posts": 14151,
+    "total_candidates": 21885,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-08-28T01:24:38.352238Z",
+    "last_updated_at": "2026-08-29T01:24:52.589465Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 11828
+        "count": 11988
       },
       {
         "platform": "x",
-        "count": 2035
+        "count": 2054
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 17366
+        "count": 17722
       },
       {
         "platform": "x",
-        "count": 5641
+        "count": 5733
       },
       {
         "platform": "xiaohongshu",
-        "count": 337
+        "count": 344
       },
       {
         "platform": "huitun",
@@ -1165,7 +1165,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.51
+      "total_score": 58.5
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -1336,7 +1336,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.12
+      "total_score": 41.11
     },
     {
       "candidate_id": "topic-0ecac751ffd3988ea0",
@@ -1728,6 +1728,35 @@
       "author_fans_count": 26120,
       "status": "待处理",
       "total_score": 34.76
+    },
+    {
+      "candidate_id": "topic-e9e4246a8ea560c4d2",
+      "title": "🤖 Создай ИДЕАЛЬНОГО чат-бота с Proma! Успей попробовать! #agent #chatbot",
+      "summary": "🤖 Создай ИДЕАЛЬНОГО чат-бота с Proma! Успей попробовать! #agent #chatbot；建议都去飞书上学AI Agent；Yano｜AI Agent",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=8A-LzRrRNrg",
+        "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search",
+        "https://x.com/yano82895800",
+        "https://x.com/aixbt_agent"
+      ],
+      "published_at": "2026-02-11T00:00:00Z",
+      "publish_time_text": "02-11",
+      "view_count": 0,
+      "like_count": 3349,
+      "favorite_count": 4749,
+      "comment_count": 2022,
+      "share_count": 531,
+      "author_name": "Karl的AIGC产品丨光之年",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/66139aa8fa0c9200018a7867.jpg?imageView2/2/w/80/format/jpg",
+      "author_bio": "✨5年大厂高级产品经理｜3年AI产品经理\n🔍带大厂项目实战｜简历修改面经\n🚀    全程求职陪跑｜岗位内推直达\n🦾AI产品经理｜产品经理｜互联网产品经理",
+      "author_fans_count": 26120,
+      "status": "待处理",
+      "total_score": 32.1
     },
     {
       "candidate_id": "topic-e5a34b4ae60bc6bdbb",
@@ -4093,7 +4122,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 38.86
+      "total_score": 38.83
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -4453,7 +4482,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.86
+      "total_score": 41.85
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5368,6 +5397,33 @@
       "author_fans_count": 9596,
       "status": "待处理",
       "total_score": 37.88
+    },
+    {
+      "candidate_id": "topic-1e2c73f23bc5000d16",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；@Cursoronsol；From cursor.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/Cursoronsol",
+        "https://t.co/u1ZkL8LtVX"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 33.25
     },
     {
       "candidate_id": "topic-bc081d21bfe61b1007",
@@ -7245,6 +7301,30 @@
       "total_score": 27.77
     },
     {
+      "candidate_id": "topic-8958f2cdf21dc8106a",
+      "title": "GLM 5.3 Flash让 DeepSeek V4 Flash跌落斩杀线？国产优秀模型很多，DeepSeek 一直被碰瓷，从未被超越！",
+      "summary": "GLM 5.3 Flash让 DeepSeek V4 Flash跌落斩杀线？国产优秀模型很多，DeepSeek 一直被碰瓷，从未被超越！",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=MTVJWQPgd-8"
+      ],
+      "published_at": "2026-08-28T12:00:39Z",
+      "publish_time_text": "",
+      "view_count": 7103,
+      "like_count": 119,
+      "favorite_count": 0,
+      "comment_count": 46,
+      "share_count": 0,
+      "author_name": "抡锤者",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 35.34
+    },
+    {
       "candidate_id": "topic-e588e444f67e887f42",
       "title": "THE LAKERS JUST SIGNED EVERY FREE AGENT POSSIBLE… #lakers #walkerkessler #nbanews #nbatrade #nba",
       "summary": "THE LAKERS JUST SIGNED EVERY FREE AGENT POSSIBLE… #lakers #walkerkessler #nbanews #nbatrade #nba；A Secret Service Agent Revealed The Biggest Secret On A Date🤯；Tkell Agent 002 Blem!!",
@@ -7563,28 +7643,28 @@
       "total_score": 32.75
     },
     {
-      "candidate_id": "topic-93285a556c1fca5a8e",
-      "title": "讀《逆向人馬》：AI到底是幫手還是剝削工具？ AI真的會取代你？ | 2026年8月28日",
-      "summary": "讀《逆向人馬》：AI到底是幫手還是剝削工具？ AI真的會取代你？ | 2026年8月28日",
+      "candidate_id": "topic-ef0122e8e3458c30a4",
+      "title": "전세계 AI강국 TOP10, 나라마다 필살기가 다 달랐다!     #AI #지식 #국뽕주의 #k반도체 #해외영상 #해외반응 #외국인반응 #해외댓글반응 #한국순위 #랭킹",
+      "summary": "전세계 AI강국 TOP10, 나라마다 필살기가 다 달랐다!     #AI #지식 #국뽕주의 #k반도체 #해외영상 #해외반응 #외국인반응 #해외댓글반응 #한국순위 #랭킹",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=57oG5kBUYdg"
+        "https://www.youtube.com/watch?v=morkAwSM25c"
       ],
-      "published_at": "2026-08-27T23:17:07Z",
+      "published_at": "2026-08-28T23:27:27Z",
       "publish_time_text": "",
-      "view_count": 479,
-      "like_count": 76,
+      "view_count": 1732,
+      "like_count": 51,
       "favorite_count": 0,
-      "comment_count": 6,
+      "comment_count": 0,
       "share_count": 0,
-      "author_name": "香港看世界",
+      "author_name": "현실적국뿡",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.45
+      "total_score": 30.08
     },
     {
       "candidate_id": "topic-25a327c5781d4b63a5",
@@ -7636,6 +7716,32 @@
       "total_score": 28.02
     },
     {
+      "candidate_id": "topic-d67d6af390f0e3c2f3",
+      "title": "03 AI時代にこそ人文知を",
+      "summary": "03 AI時代にこそ人文知を；クズグズ | AI時代の生存戦略",
+      "platforms": [
+        "x",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=4AYZMsURYTg",
+        "https://x.com/kuzguz_official"
+      ],
+      "published_at": "2026-08-29T00:30:06Z",
+      "publish_time_text": "",
+      "view_count": 146,
+      "like_count": 40,
+      "favorite_count": 0,
+      "comment_count": 1,
+      "share_count": 0,
+      "author_name": "原口一博",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 35.61
+    },
+    {
       "candidate_id": "topic-bf70fd54708d26443f",
       "title": "Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化",
       "summary": "Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化；https://\nopenai.com/index/why-lang\nuage-models-hallucinate/\n…；OpenAI ads pilot tops $100 million in annualized revenue in under 2 months",
@@ -7663,30 +7769,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 39.36
-    },
-    {
-      "candidate_id": "topic-f6a772ee821616f475",
-      "title": "美国经济&quot;冷热交织&quot; 降息与AI谁来撑住美股？《焦点大家谈》2026年8月27日 第1496期",
-      "summary": "美国经济&quot;冷热交织&quot; 降息与AI谁来撑住美股？《焦点大家谈》2026年8月27日 第1496期",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=uCztCS5BCEk"
-      ],
-      "published_at": "2026-08-27T23:52:39Z",
-      "publish_time_text": "",
-      "view_count": 2952,
-      "like_count": 31,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "How视频",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 33.38
     },
     {
       "candidate_id": "topic-2d8b4390c6904fb6d3",
@@ -7792,86 +7874,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.16
-    },
-    {
-      "candidate_id": "topic-1d857fd6ae34b78ade",
-      "title": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片",
-      "summary": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片；海螺 MiniMax H3 上线！CG半写实视频完整制作流程｜AI追光免费剧本；3分钟真人AI影视剧怎么做？SD 2.0手把手完整制作流程｜Higgsfield 14天SD 2.0/2.5无限生成",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=c_GSMZqx278",
-        "https://www.youtube.com/watch?v=Ml_laowT1E4",
-        "https://www.youtube.com/watch?v=ePrMMXzYH1E",
-        "https://www.youtube.com/watch?v=U3_VePy_URk",
-        "https://www.youtube.com/watch?v=S87kgQ1Ov-Y"
-      ],
-      "published_at": "2026-08-05T13:10:49Z",
-      "publish_time_text": "",
-      "view_count": 375,
-      "like_count": 26,
-      "favorite_count": 0,
-      "comment_count": 3,
-      "share_count": 0,
-      "author_name": "AI追光",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.11
-    },
-    {
-      "candidate_id": "topic-0b6445d1e5f169ddba",
-      "title": "Meme chat gpt le balance 😭 TikTok : vdi709",
-      "summary": "Meme chat gpt le balance 😭 TikTok : vdi709；ni chat gpt me pudo salvar 😭 #meme  #humor #popular；cuando le preguntas algo a chat gpt #humor #humor",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=t023sxrkRgA",
-        "https://www.youtube.com/watch?v=BI70_NAE0X4",
-        "https://www.youtube.com/watch?v=773yLDPo_Tg",
-        "https://www.youtube.com/watch?v=G--hYS7jeKo",
-        "https://www.youtube.com/watch?v=k1VD854B_lQ"
-      ],
-      "published_at": "2026-07-01T21:00:45Z",
-      "publish_time_text": "",
-      "view_count": 596,
-      "like_count": 24,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Cooki",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.48
-    },
-    {
-      "candidate_id": "topic-fb0c409b87d26a3456",
-      "title": "AI로 목소리까지 조작..? 억울하게 매장당할 뻔한 김수현 사건의 소름 돋는 반전 🤯 #김수현 #AI조작 #증거조작 #소름돋는이유 #기자회견 #무고죄 #대국민사기 #AI범죄 #카톡",
-      "summary": "AI로 목소리까지 조작..? 억울하게 매장당할 뻔한 김수현 사건의 소름 돋는 반전 🤯 #김수현 #AI조작 #증거조작 #소름돋는이유 #기자회견 #무고죄 #대국민사기 #AI범죄 #카톡",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=BOYE5SlZrbo"
-      ],
-      "published_at": "2026-05-31T00:05:14Z",
-      "publish_time_text": "",
-      "view_count": 1303,
-      "like_count": 24,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "민주정치로그",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 27.82
     }
   ]
 }
