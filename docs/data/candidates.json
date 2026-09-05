@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:25:09.342229Z",
+  "generated_at": "2026-09-05T01:24:50.784076Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 14892,
-    "total_candidates": 23562,
+    "total_posts": 15078,
+    "total_candidates": 23962,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-04T01:25:08.552898Z",
+    "last_updated_at": "2026-09-05T01:24:49.947840Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 12633
+        "count": 12795
       },
       {
         "platform": "x",
-        "count": 2150
+        "count": 2174
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 19121
+        "count": 19456
       },
       {
         "platform": "x",
-        "count": 6137
+        "count": 6233
       },
       {
         "platform": "xiaohongshu",
-        "count": 352
+        "count": 354
       },
       {
         "platform": "huitun",
@@ -4199,7 +4199,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 38.72
+      "total_score": 38.71
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -4435,7 +4435,7 @@
       "author_bio": "🎓国立清华本硕，物理+电子工程\n🚀斜杠人生：半导体·芯片设计工程师➡️互联网·运营团队负责人➡️商业分析负责人\n💡分享产业研究 | 行业分析 | 商业案例\n📝商业分析方法学习@虎啸知析",
       "author_fans_count": 26458,
       "status": "待处理",
-      "total_score": 33.22
+      "total_score": 33.21
     },
     {
       "candidate_id": "topic-1eb011cb5520054cc5",
@@ -4559,7 +4559,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.82
+      "total_score": 41.81
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5168,6 +5168,33 @@
       "author_fans_count": 2528,
       "status": "待处理",
       "total_score": 34.98
+    },
+    {
+      "candidate_id": "topic-dc1a40bbfa85e9281c",
+      "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
+        "https://t.co/KIPo3rN0Zc",
+        "https://t.co/A3jnigbUAc"
+      ],
+      "published_at": "2025-05-26T00:00:00Z",
+      "publish_time_text": "2025-05-26",
+      "view_count": 0,
+      "like_count": 699,
+      "favorite_count": 947,
+      "comment_count": 36,
+      "share_count": 150,
+      "author_name": "媛媛的ai工厂",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31er9g7uq6gdg5n9emmek0ms61886tro?imageView2/2/w/80/format/jpg",
+      "author_bio": "研究/学习/分享\nAI工具，效率工具",
+      "author_fans_count": 2528,
+      "status": "待处理",
+      "total_score": 32.65
     },
     {
       "candidate_id": "topic-9f32a23d908f00a14a",
@@ -6907,30 +6934,6 @@
       "total_score": 28.97
     },
     {
-      "candidate_id": "topic-3043f985cfe0decd7a",
-      "title": "本地模型开发FPS游戏，0元享上亿Token，Qwen3.8‑27B完整实操，VibeCoding教程",
-      "summary": "本地模型开发FPS游戏，0元享上亿Token，Qwen3.8‑27B完整实操，VibeCoding教程",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=MSoDoCj1fLE"
-      ],
-      "published_at": "2026-09-02T15:25:33Z",
-      "publish_time_text": "",
-      "view_count": 4952,
-      "like_count": 220,
-      "favorite_count": 0,
-      "comment_count": 24,
-      "share_count": 0,
-      "author_name": "ZZ Dream",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 32.49
-    },
-    {
       "candidate_id": "topic-0a452144816d76d9f2",
       "title": "真的感谢去年的自己刷完这10个agent项目…",
       "summary": "真的感谢去年的自己刷完这10个agent项目…",
@@ -7779,7 +7782,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.34
+      "total_score": 30.12
     },
     {
       "candidate_id": "topic-bf70fd54708d26443f",
@@ -7809,30 +7812,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 39.36
-    },
-    {
-      "candidate_id": "topic-84c0be735a07f13661",
-      "title": "吴恩达谈 AI 最危险的用法是 Cognitive Offloading",
-      "summary": "吴恩达谈 AI 最危险的用法是 Cognitive Offloading",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=HCSyUOL_Fkw"
-      ],
-      "published_at": "2026-09-03T23:00:22Z",
-      "publish_time_text": "",
-      "view_count": 335,
-      "like_count": 33,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "wow",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.19
     },
     {
       "candidate_id": "topic-2d8b4390c6904fb6d3",
@@ -7884,6 +7863,32 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 30.88
+    },
+    {
+      "candidate_id": "topic-683cde4e0430426647",
+      "title": "免费白嫖！美团 tabbit.ai 浏览器实测：Claude Opus 4.8 + GPT5.5 + Gemini 3.5 Flash 同时用",
+      "summary": "免费白嫖！美团 tabbit.ai 浏览器实测：Claude Opus 4.8 + GPT5.5 + Gemini 3.5 Flash 同时用；【2026年最强AI大模型聚合】LobeHub 智能AI聚合神器 内置ChatGPT5.5Pro、Gemini Pro 、Claude4.8等大模型——可画图、可联网、可爬虫 | 代理AI机器人 |；Claude Opus 4.6 越狱失败？这个“问题拆分法”成功率超高！实操教程",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=935LyPYQUZw",
+        "https://www.youtube.com/watch?v=S99q4GgsH_o",
+        "https://www.youtube.com/watch?v=lITVamZUTTE"
+      ],
+      "published_at": "2026-06-21T14:45:01Z",
+      "publish_time_text": "",
+      "view_count": 990,
+      "like_count": 28,
+      "favorite_count": 0,
+      "comment_count": 5,
+      "share_count": 0,
+      "author_name": "鑫源AI",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 29.86
     }
   ]
 }
