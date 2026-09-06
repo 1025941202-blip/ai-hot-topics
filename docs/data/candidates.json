@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:24:50.784076Z",
+  "generated_at": "2026-09-06T01:24:42.603844Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 15078,
-    "total_candidates": 23962,
+    "total_posts": 15257,
+    "total_candidates": 24383,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-05T01:24:49.947840Z",
+    "last_updated_at": "2026-09-06T01:24:41.762027Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 12795
+        "count": 12958
       },
       {
         "platform": "x",
-        "count": 2174
+        "count": 2190
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 19456
+        "count": 19807
       },
       {
         "platform": "x",
-        "count": 6233
+        "count": 6338
       },
       {
         "platform": "xiaohongshu",
-        "count": 354
+        "count": 355
       },
       {
         "platform": "huitun",
@@ -1214,7 +1214,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.45
+      "total_score": 58.44
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -3064,7 +3064,7 @@
       "author_bio": "大厂新声｜大厂不该静音。",
       "author_fans_count": 108214,
       "status": "待处理",
-      "total_score": 44.22
+      "total_score": 44.21
     },
     {
       "candidate_id": "topic-4ccaa5e7744d0affaf",
@@ -4102,6 +4102,34 @@
       "total_score": 40.05
     },
     {
+      "candidate_id": "topic-9889c65bd3aa56ee01",
+      "title": "¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts",
+      "summary": "¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts；¿LOS 5 PERSONAJES MAS FUERTES DE BAKI SEGUN CHAT GPT? #shorts；🌎 LAS 10 MEJORES DEL MUNDO SEGÚN CHAT GPT",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=-ho7F66Zk84",
+        "https://www.youtube.com/watch?v=qGjiW4rviBU",
+        "https://www.youtube.com/watch?v=07RontCUrMI",
+        "https://www.youtube.com/watch?v=k1VD854B_lQ",
+        "https://www.youtube.com/watch?v=aDDI4USk8ow"
+      ],
+      "published_at": "2026-07-16T23:59:05Z",
+      "publish_time_text": "",
+      "view_count": 11543,
+      "like_count": 1652,
+      "favorite_count": 0,
+      "comment_count": 36,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 38.48
+    },
+    {
       "candidate_id": "topic-70a021573fcb2fe1a0",
       "title": "点赞上百万的爆款AI视频，是怎么做出来的？",
       "summary": "点赞上百万的爆款AI视频，是怎么做出来的？",
@@ -4199,7 +4227,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 38.71
+      "total_score": 38.7
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -5170,9 +5198,9 @@
       "total_score": 34.98
     },
     {
-      "candidate_id": "topic-dc1a40bbfa85e9281c",
+      "candidate_id": "topic-9f32a23d908f00a14a",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5180,7 +5208,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/A3jnigbUAc"
+        "https://t.co/IKzuhX2Uvc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -5197,9 +5225,9 @@
       "total_score": 32.65
     },
     {
-      "candidate_id": "topic-9f32a23d908f00a14a",
+      "candidate_id": "topic-dc1a40bbfa85e9281c",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5207,7 +5235,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/IKzuhX2Uvc"
+        "https://t.co/A3jnigbUAc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -5559,33 +5587,6 @@
       "total_score": 37.88
     },
     {
-      "candidate_id": "topic-1e2c73f23bc5000d16",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@Cursoronsol；From cursor.com",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/Cursoronsol",
-        "https://t.co/u1ZkL8LtVX"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 33.25
-    },
-    {
       "candidate_id": "topic-bc081d21bfe61b1007",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制；@geniam_cursor；@cursorenla",
@@ -5613,19 +5614,17 @@
       "total_score": 33.25
     },
     {
-      "candidate_id": "topic-565124a5e1afe45dfc",
+      "candidate_id": "topic-1e2c73f23bc5000d16",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；From cursor.com；@Cursoronsol",
+      "summary": "cursor实战案例--原型图绘制；@Cursoronsol；From cursor.com",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://t.co/C9ViZEUeLO",
         "https://x.com/Cursoronsol",
-        "https://t.co/5dPcI8P004",
-        "https://t.co/OEs5M69fzS"
+        "https://t.co/u1ZkL8LtVX"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -5639,7 +5638,7 @@
       "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
       "author_fans_count": 9596,
       "status": "待处理",
-      "total_score": 27.97
+      "total_score": 33.25
     },
     {
       "candidate_id": "topic-4199fcfba5e5783f65",
@@ -6253,58 +6252,6 @@
       "total_score": 28.62
     },
     {
-      "candidate_id": "topic-d1f9056cd846056683",
-      "title": "高强度使用半年cursor，经验&踩坑分享给你！",
-      "summary": "高强度使用半年cursor，经验&踩坑分享给你！；@cursor",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699c33a3000000000e03f3b7?xsec_token=ABNmgOebEGFcgnJ-7g8EV0hovMYOvROMmfj1OPZsuurWs=&xsec_source=pc_search",
-        "https://x.com/cursor_ai"
-      ],
-      "published_at": "2026-02-26T07:37:55.556623Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 406,
-      "favorite_count": 676,
-      "comment_count": 23,
-      "share_count": 81,
-      "author_name": "你的AI背包",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31siva9jr5mc05odmiio8cf25o7u19a8?imageView2/2/w/80/format/jpg",
-      "author_bio": "AI产品经理 | 华科CS+传播学 → LSE\n用大白话聊AI，不贩卖焦虑，只说人话",
-      "author_fans_count": 130,
-      "status": "待处理",
-      "total_score": 27.98
-    },
-    {
-      "candidate_id": "topic-691b4e81a414e8a220",
-      "title": "高强度使用半年cursor，经验&踩坑分享给你！",
-      "summary": "高强度使用半年cursor，经验&踩坑分享给你！；#cursor",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699c33a3000000000e03f3b7?xsec_token=ABNmgOebEGFcgnJ-7g8EV0hovMYOvROMmfj1OPZsuurWs=&xsec_source=pc_search",
-        "https://x.com/hashtag/cursor?src=hashtag_click"
-      ],
-      "published_at": "2026-02-26T07:37:55.556623Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 406,
-      "favorite_count": 676,
-      "comment_count": 23,
-      "share_count": 81,
-      "author_name": "你的AI背包",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31siva9jr5mc05odmiio8cf25o7u19a8?imageView2/2/w/80/format/jpg",
-      "author_bio": "AI产品经理 | 华科CS+传播学 → LSE\n用大白话聊AI，不贩卖焦虑，只说人话",
-      "author_fans_count": 130,
-      "status": "待处理",
-      "total_score": 27.94
-    },
-    {
       "candidate_id": "topic-0307b7401e67fd7156",
       "title": "每天了解一个AI产品 No.2 Manus",
       "summary": "每天了解一个AI产品 No.2 Manus；每天拆解一个AI产品：Manus；一觉醒来，Ai圈又变天🔥Manus强在哪里？",
@@ -6584,32 +6531,6 @@
       "total_score": 28.0
     },
     {
-      "candidate_id": "topic-e8f9bfe30b745e208e",
-      "title": "Manus 1. 6 создает приложения за 15 минут",
-      "summary": "Manus 1. 6 создает приложения за 15 минут；每天了解一个AI产品 No.2 Manus",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=DA2U2Zl2opo",
-        "https://www.xiaohongshu.com/explore/695cf8af000000000b0086ff?xsec_token=ABb9Aqzu6dut0GUnUDLlLgKBo2Qc1xE5p4IwminPYRFo4=&xsec_source=pc_search"
-      ],
-      "published_at": "2026-01-06T00:00:00Z",
-      "publish_time_text": "01-06",
-      "view_count": 0,
-      "like_count": 392,
-      "favorite_count": 355,
-      "comment_count": 12,
-      "share_count": 129,
-      "author_name": "龙龙 AI 知行日记",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qr5j93ag0005p72rj709tej2unlt78?imageView2/2/w/80/format/jpg",
-      "author_bio": "前外企、大厂体验设计师。\n摇滚乐迷，重度游戏玩家，理想主义。\n厌倦了职场的假大空文化，决定在 AI 浪潮里重开真善美人生。",
-      "author_fans_count": 1743,
-      "status": "待处理",
-      "total_score": 27.96
-    },
-    {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
       "title": "为了搞清楚GPT-4o，这条视频我做了33天",
       "summary": "为了搞清楚GPT-4o，这条视频我做了33天",
@@ -6680,7 +6601,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 28.57
+      "total_score": 28.56
     },
     {
       "candidate_id": "topic-3212b431c29c7a57fb",
@@ -7889,6 +7810,90 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.86
+    },
+    {
+      "candidate_id": "topic-f4427b76d5dfef4552",
+      "title": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片",
+      "summary": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片；海螺 MiniMax H3 上线！CG半写实视频完整制作流程｜AI追光免费剧本；3分钟真人AI影视剧怎么做？SD 2.0手把手完整制作流程｜Higgsfield 14天SD 2.0/2.5无限生成",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=c_GSMZqx278",
+        "https://www.youtube.com/watch?v=Ml_laowT1E4",
+        "https://www.youtube.com/watch?v=ePrMMXzYH1E",
+        "https://www.youtube.com/watch?v=U3_VePy_URk",
+        "https://www.youtube.com/watch?v=LDRbcOojOy0"
+      ],
+      "published_at": "2026-08-05T13:10:49Z",
+      "publish_time_text": "",
+      "view_count": 375,
+      "like_count": 26,
+      "favorite_count": 0,
+      "comment_count": 3,
+      "share_count": 0,
+      "author_name": "AI追光",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.16
+    },
+    {
+      "candidate_id": "topic-1d857fd6ae34b78ade",
+      "title": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片",
+      "summary": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片；海螺 MiniMax H3 上线！CG半写实视频完整制作流程｜AI追光免费剧本；3分钟真人AI影视剧怎么做？SD 2.0手把手完整制作流程｜Higgsfield 14天SD 2.0/2.5无限生成",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=c_GSMZqx278",
+        "https://www.youtube.com/watch?v=Ml_laowT1E4",
+        "https://www.youtube.com/watch?v=ePrMMXzYH1E",
+        "https://www.youtube.com/watch?v=U3_VePy_URk",
+        "https://www.youtube.com/watch?v=S87kgQ1Ov-Y"
+      ],
+      "published_at": "2026-08-05T13:10:49Z",
+      "publish_time_text": "",
+      "view_count": 375,
+      "like_count": 26,
+      "favorite_count": 0,
+      "comment_count": 3,
+      "share_count": 0,
+      "author_name": "AI追光",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.11
+    },
+    {
+      "candidate_id": "topic-0b6445d1e5f169ddba",
+      "title": "Meme chat gpt le balance 😭 TikTok : vdi709",
+      "summary": "Meme chat gpt le balance 😭 TikTok : vdi709；ni chat gpt me pudo salvar 😭 #meme  #humor #popular；cuando le preguntas algo a chat gpt #humor #humor",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=t023sxrkRgA",
+        "https://www.youtube.com/watch?v=BI70_NAE0X4",
+        "https://www.youtube.com/watch?v=773yLDPo_Tg",
+        "https://www.youtube.com/watch?v=G--hYS7jeKo",
+        "https://www.youtube.com/watch?v=k1VD854B_lQ"
+      ],
+      "published_at": "2026-07-01T21:00:45Z",
+      "publish_time_text": "",
+      "view_count": 596,
+      "like_count": 24,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Cooki",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 29.48
     }
   ]
 }
