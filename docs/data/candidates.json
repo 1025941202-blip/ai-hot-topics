@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T01:24:42.603844Z",
+  "generated_at": "2026-09-07T01:24:43.036566Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 15257,
-    "total_candidates": 24383,
+    "total_posts": 15436,
+    "total_candidates": 24813,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-06T01:24:41.762027Z",
+    "last_updated_at": "2026-09-07T01:24:42.192839Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 12958
+        "count": 13119
       },
       {
         "platform": "x",
-        "count": 2190
+        "count": 2208
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 19807
+        "count": 20182
       },
       {
         "platform": "x",
-        "count": 6338
+        "count": 6431
       },
       {
         "platform": "xiaohongshu",
-        "count": 355
+        "count": 357
       },
       {
         "platform": "huitun",
@@ -1214,7 +1214,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.44
+      "total_score": 58.43
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -4227,7 +4227,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 38.7
+      "total_score": 38.69
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -5042,7 +5042,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 28.74
+      "total_score": 28.73
     },
     {
       "candidate_id": "topic-affdc6cea9acfba302",
@@ -5145,7 +5145,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.24
+      "total_score": 30.23
     },
     {
       "candidate_id": "topic-19e1d0ae515248edcb",
@@ -5198,9 +5198,9 @@
       "total_score": 34.98
     },
     {
-      "candidate_id": "topic-9f32a23d908f00a14a",
+      "candidate_id": "topic-dc1a40bbfa85e9281c",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5208,7 +5208,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/IKzuhX2Uvc"
+        "https://t.co/A3jnigbUAc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -5225,9 +5225,9 @@
       "total_score": 32.65
     },
     {
-      "candidate_id": "topic-dc1a40bbfa85e9281c",
+      "candidate_id": "topic-9f32a23d908f00a14a",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5235,7 +5235,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/A3jnigbUAc"
+        "https://t.co/IKzuhX2Uvc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -5889,7 +5889,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 29.09
+      "total_score": 29.08
     },
     {
       "candidate_id": "topic-386cb9421f222e0328",
@@ -7251,6 +7251,54 @@
       "total_score": 33.02
     },
     {
+      "candidate_id": "topic-d06678cccb91dcc811",
+      "title": "Này AI cũng bị lừa 😁 #laonap",
+      "summary": "Này AI cũng bị lừa 😁 #laonap",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=5m5ZGOZuWUc"
+      ],
+      "published_at": "2026-09-06T23:45:01Z",
+      "publish_time_text": "",
+      "view_count": 4712,
+      "like_count": 157,
+      "favorite_count": 0,
+      "comment_count": 4,
+      "share_count": 0,
+      "author_name": "Lão Nạp",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.05
+    },
+    {
+      "candidate_id": "topic-784acc55aaeccfc3d0",
+      "title": "【精選】黃仁勳噩夢成真？中國10萬張晶片硬扛「牛來」1/40價格斬首輝達...美國大模型神話當場崩盤？！｜#環球大戰線 #寰宇全視界",
+      "summary": "【精選】黃仁勳噩夢成真？中國10萬張晶片硬扛「牛來」1/40價格斬首輝達...美國大模型神話當場崩盤？！｜#環球大戰線 #寰宇全視界",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=d5PR8OsW004"
+      ],
+      "published_at": "2026-09-06T14:00:31Z",
+      "publish_time_text": "",
+      "view_count": 8942,
+      "like_count": 145,
+      "favorite_count": 0,
+      "comment_count": 1,
+      "share_count": 0,
+      "author_name": "寰宇全視界",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.52
+    },
+    {
       "candidate_id": "topic-1b02bb8f7b419e6e73",
       "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
       "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；#openai #tablerules #unseen；OpenAI 认了，光靠订阅养不起ChatGPT",
@@ -7654,6 +7702,30 @@
       "total_score": 32.75
     },
     {
+      "candidate_id": "topic-13f8ce6cffb486e9dc",
+      "title": "动荡时代来临，比尔盖茨发出AI警告 | AI风险 | 人工智能 | AI治理 | 就业冲击 | 人类专属岗位 | AI监管 | 生物安全 | 网络安全 | 大模型 | 人形机器人 | 科技革命",
+      "summary": "动荡时代来临，比尔盖茨发出AI警告 | AI风险 | 人工智能 | AI治理 | 就业冲击 | 人类专属岗位 | AI监管 | 生物安全 | 网络安全 | 大模型 | 人形机器人 | 科技革命",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=UlA5y1xz6qo"
+      ],
+      "published_at": "2026-09-07T00:00:06Z",
+      "publish_time_text": "",
+      "view_count": 1685,
+      "like_count": 72,
+      "favorite_count": 0,
+      "comment_count": 27,
+      "share_count": 0,
+      "author_name": "最佳拍档",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 34.02
+    },
+    {
       "candidate_id": "topic-9e7bb479cbe413633f",
       "title": "其实，大多数大模型岗都是先混进去再说！",
       "summary": "其实，大多数大模型岗都是先混进去再说！",
@@ -7703,7 +7775,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.12
+      "total_score": 30.34
     },
     {
       "candidate_id": "topic-bf70fd54708d26443f",
@@ -7810,90 +7882,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.86
-    },
-    {
-      "candidate_id": "topic-f4427b76d5dfef4552",
-      "title": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片",
-      "summary": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片；海螺 MiniMax H3 上线！CG半写实视频完整制作流程｜AI追光免费剧本；3分钟真人AI影视剧怎么做？SD 2.0手把手完整制作流程｜Higgsfield 14天SD 2.0/2.5无限生成",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=c_GSMZqx278",
-        "https://www.youtube.com/watch?v=Ml_laowT1E4",
-        "https://www.youtube.com/watch?v=ePrMMXzYH1E",
-        "https://www.youtube.com/watch?v=U3_VePy_URk",
-        "https://www.youtube.com/watch?v=LDRbcOojOy0"
-      ],
-      "published_at": "2026-08-05T13:10:49Z",
-      "publish_time_text": "",
-      "view_count": 375,
-      "like_count": 26,
-      "favorite_count": 0,
-      "comment_count": 3,
-      "share_count": 0,
-      "author_name": "AI追光",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.16
-    },
-    {
-      "candidate_id": "topic-1d857fd6ae34b78ade",
-      "title": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片",
-      "summary": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片；海螺 MiniMax H3 上线！CG半写实视频完整制作流程｜AI追光免费剧本；3分钟真人AI影视剧怎么做？SD 2.0手把手完整制作流程｜Higgsfield 14天SD 2.0/2.5无限生成",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=c_GSMZqx278",
-        "https://www.youtube.com/watch?v=Ml_laowT1E4",
-        "https://www.youtube.com/watch?v=ePrMMXzYH1E",
-        "https://www.youtube.com/watch?v=U3_VePy_URk",
-        "https://www.youtube.com/watch?v=S87kgQ1Ov-Y"
-      ],
-      "published_at": "2026-08-05T13:10:49Z",
-      "publish_time_text": "",
-      "view_count": 375,
-      "like_count": 26,
-      "favorite_count": 0,
-      "comment_count": 3,
-      "share_count": 0,
-      "author_name": "AI追光",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.11
-    },
-    {
-      "candidate_id": "topic-0b6445d1e5f169ddba",
-      "title": "Meme chat gpt le balance 😭 TikTok : vdi709",
-      "summary": "Meme chat gpt le balance 😭 TikTok : vdi709；ni chat gpt me pudo salvar 😭 #meme  #humor #popular；cuando le preguntas algo a chat gpt #humor #humor",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=t023sxrkRgA",
-        "https://www.youtube.com/watch?v=BI70_NAE0X4",
-        "https://www.youtube.com/watch?v=773yLDPo_Tg",
-        "https://www.youtube.com/watch?v=G--hYS7jeKo",
-        "https://www.youtube.com/watch?v=k1VD854B_lQ"
-      ],
-      "published_at": "2026-07-01T21:00:45Z",
-      "publish_time_text": "",
-      "view_count": 596,
-      "like_count": 24,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Cooki",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.48
     }
   ]
 }
