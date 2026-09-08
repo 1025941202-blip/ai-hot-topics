@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T01:24:43.036566Z",
+  "generated_at": "2026-09-08T01:24:49.378756Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 15436,
-    "total_candidates": 24813,
+    "total_posts": 15618,
+    "total_candidates": 25247,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-07T01:24:42.192839Z",
+    "last_updated_at": "2026-09-08T01:24:48.498719Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 13119
+        "count": 13280
       },
       {
         "platform": "x",
-        "count": 2208
+        "count": 2229
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 20182
+        "count": 20566
       },
       {
         "platform": "x",
-        "count": 6431
+        "count": 6520
       },
       {
         "platform": "xiaohongshu",
-        "count": 357
+        "count": 359
       },
       {
         "platform": "huitun",
@@ -1215,6 +1215,32 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 58.43
+    },
+    {
+      "candidate_id": "topic-f49925b7088db4b4b1",
+      "title": "[#이재명 LIVE] 대한민국, 대체불가 글로벌 AI 허브로! | 샌프란시스코 AI 서밋",
+      "summary": "[#이재명 LIVE] 대한민국, 대체불가 글로벌 AI 허브로! | 샌프란시스코 AI 서밋；AI 팩토리란 무엇일까?；高知家大模型展展示会　2026",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZnKqDi19okU",
+        "https://www.youtube.com/watch?v=SfzzE5Yep1k",
+        "https://www.youtube.com/watch?v=5Zz_81LFdRI"
+      ],
+      "published_at": "2026-07-25T01:00:23Z",
+      "publish_time_text": "",
+      "view_count": 14605,
+      "like_count": 6633,
+      "favorite_count": 0,
+      "comment_count": 134,
+      "share_count": 0,
+      "author_name": "이재명",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.78
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -4227,7 +4253,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 38.69
+      "total_score": 38.68
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -4587,7 +4613,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.81
+      "total_score": 41.8
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -4638,7 +4664,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 36.1
+      "total_score": 36.09
     },
     {
       "candidate_id": "topic-5baf97a01d105147ea",
@@ -6501,36 +6527,6 @@
       "total_score": 28.95
     },
     {
-      "candidate_id": "topic-008522cca0b52de921",
-      "title": "jay to bangal manus ka 🥹",
-      "summary": "jay to bangal manus ka 🥹；manus koi jai re😭😭😭；每天了解一个AI产品 No.2 Manus",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=EzGp-5TCXdY",
-        "https://www.youtube.com/watch?v=d63bDu0amgc",
-        "https://www.xiaohongshu.com/explore/695cf8af000000000b0086ff?xsec_token=ABb9Aqzu6dut0GUnUDLlLgKBo2Qc1xE5p4IwminPYRFo4=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
-        "https://x.com/ManusAI"
-      ],
-      "published_at": "2026-01-06T00:00:00Z",
-      "publish_time_text": "01-06",
-      "view_count": 0,
-      "like_count": 392,
-      "favorite_count": 355,
-      "comment_count": 12,
-      "share_count": 129,
-      "author_name": "龙龙 AI 知行日记",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qr5j93ag0005p72rj709tej2unlt78?imageView2/2/w/80/format/jpg",
-      "author_bio": "前外企、大厂体验设计师。\n摇滚乐迷，重度游戏玩家，理想主义。\n厌倦了职场的假大空文化，决定在 AI 浪潮里重开真善美人生。",
-      "author_fans_count": 1743,
-      "status": "待处理",
-      "total_score": 28.0
-    },
-    {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
       "title": "为了搞清楚GPT-4o，这条视频我做了33天",
       "summary": "为了搞清楚GPT-4o，这条视频我做了33天",
@@ -7251,54 +7247,6 @@
       "total_score": 33.02
     },
     {
-      "candidate_id": "topic-d06678cccb91dcc811",
-      "title": "Này AI cũng bị lừa 😁 #laonap",
-      "summary": "Này AI cũng bị lừa 😁 #laonap",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=5m5ZGOZuWUc"
-      ],
-      "published_at": "2026-09-06T23:45:01Z",
-      "publish_time_text": "",
-      "view_count": 4712,
-      "like_count": 157,
-      "favorite_count": 0,
-      "comment_count": 4,
-      "share_count": 0,
-      "author_name": "Lão Nạp",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.05
-    },
-    {
-      "candidate_id": "topic-784acc55aaeccfc3d0",
-      "title": "【精選】黃仁勳噩夢成真？中國10萬張晶片硬扛「牛來」1/40價格斬首輝達...美國大模型神話當場崩盤？！｜#環球大戰線 #寰宇全視界",
-      "summary": "【精選】黃仁勳噩夢成真？中國10萬張晶片硬扛「牛來」1/40價格斬首輝達...美國大模型神話當場崩盤？！｜#環球大戰線 #寰宇全視界",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=d5PR8OsW004"
-      ],
-      "published_at": "2026-09-06T14:00:31Z",
-      "publish_time_text": "",
-      "view_count": 8942,
-      "like_count": 145,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "寰宇全視界",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 33.52
-    },
-    {
       "candidate_id": "topic-1b02bb8f7b419e6e73",
       "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
       "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；#openai #tablerules #unseen；OpenAI 认了，光靠订阅养不起ChatGPT",
@@ -7702,28 +7650,28 @@
       "total_score": 32.75
     },
     {
-      "candidate_id": "topic-13f8ce6cffb486e9dc",
-      "title": "动荡时代来临，比尔盖茨发出AI警告 | AI风险 | 人工智能 | AI治理 | 就业冲击 | 人类专属岗位 | AI监管 | 生物安全 | 网络安全 | 大模型 | 人形机器人 | 科技革命",
-      "summary": "动荡时代来临，比尔盖茨发出AI警告 | AI风险 | 人工智能 | AI治理 | 就业冲击 | 人类专属岗位 | AI监管 | 生物安全 | 网络安全 | 大模型 | 人形机器人 | 科技革命",
+      "candidate_id": "topic-db7013614c0bd9d38b",
+      "title": "如何从专有LLM API中窃取推理痕迹 | LLM安全 | 推理痕迹 | 大语言模型 | AI安全 | 越狱攻击 | 模型蒸馏 | 推理模型 | 加密推理 | 隐私泄露 | 提示注入",
+      "summary": "如何从专有LLM API中窃取推理痕迹 | LLM安全 | 推理痕迹 | 大语言模型 | AI安全 | 越狱攻击 | 模型蒸馏 | 推理模型 | 加密推理 | 隐私泄露 | 提示注入",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=UlA5y1xz6qo"
+        "https://www.youtube.com/watch?v=lCxYPyNM1ZQ"
       ],
-      "published_at": "2026-09-07T00:00:06Z",
+      "published_at": "2026-09-08T00:00:08Z",
       "publish_time_text": "",
-      "view_count": 1685,
-      "like_count": 72,
+      "view_count": 798,
+      "like_count": 46,
       "favorite_count": 0,
-      "comment_count": 27,
+      "comment_count": 6,
       "share_count": 0,
       "author_name": "最佳拍档",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 34.02
+      "total_score": 31.37
     },
     {
       "candidate_id": "topic-9e7bb479cbe413633f",
@@ -7748,6 +7696,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.02
+    },
+    {
+      "candidate_id": "topic-6a340c43d0b197a930",
+      "title": "沉浸式体验，80年代“儿童脚踏车工厂工人”的一天。 #AI笔记本#即梦AI创作者成长计划#80年代怀旧#历史#儿童三轮车",
+      "summary": "沉浸式体验，80年代“儿童脚踏车工厂工人”的一天。 #AI笔记本#即梦AI创作者成长计划#80年代怀旧#历史#儿童三轮车",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=tJrSmx8acE0"
+      ],
+      "published_at": "2026-09-07T21:00:24Z",
+      "publish_time_text": "",
+      "view_count": 953,
+      "like_count": 41,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "AI笔记本",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.94
     },
     {
       "candidate_id": "topic-17b81e0904436f58b1",
@@ -7775,7 +7747,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.34
+      "total_score": 30.12
     },
     {
       "candidate_id": "topic-bf70fd54708d26443f",
@@ -7882,6 +7854,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.86
+    },
+    {
+      "candidate_id": "topic-44b8ce2f68cef96d73",
+      "title": "今天的提示词是：大龙虾#农村美食#吃播#辣椒酱#抖音美食#tiktok#美食盲盒#spicy",
+      "summary": "今天的提示词是：大龙虾#农村美食#吃播#辣椒酱#抖音美食#tiktok#美食盲盒#spicy",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=rjNr6vNJGNw"
+      ],
+      "published_at": "2026-09-07T12:30:10Z",
+      "publish_time_text": "",
+      "view_count": 1757,
+      "like_count": 28,
+      "favorite_count": 0,
+      "comment_count": 2,
+      "share_count": 0,
+      "author_name": "干饭兄弟",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.97
     }
   ]
 }
