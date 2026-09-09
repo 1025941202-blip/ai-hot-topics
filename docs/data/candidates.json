@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T01:24:49.378756Z",
+  "generated_at": "2026-09-09T01:26:54.804803Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 15618,
-    "total_candidates": 25247,
+    "total_posts": 15807,
+    "total_candidates": 25686,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-08T01:24:48.498719Z",
+    "last_updated_at": "2026-09-09T01:26:53.951538Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 13280
+        "count": 13439
       },
       {
         "platform": "x",
-        "count": 2229
+        "count": 2259
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 20566
+        "count": 20924
       },
       {
         "platform": "x",
-        "count": 6520
+        "count": 6632
       },
       {
         "platform": "xiaohongshu",
-        "count": 359
+        "count": 360
       },
       {
         "platform": "huitun",
@@ -99,7 +99,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.79
+      "total_score": 60.78
     },
     {
       "candidate_id": "topic-a97a6c64f578dd0e71",
@@ -1214,7 +1214,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.43
+      "total_score": 58.42
     },
     {
       "candidate_id": "topic-f49925b7088db4b4b1",
@@ -4253,7 +4253,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 38.68
+      "total_score": 38.67
     },
     {
       "candidate_id": "topic-d1c664fa6e76402a12",
@@ -6527,6 +6527,36 @@
       "total_score": 28.95
     },
     {
+      "candidate_id": "topic-008522cca0b52de921",
+      "title": "jay to bangal manus ka 🥹",
+      "summary": "jay to bangal manus ka 🥹；manus koi jai re😭😭😭；每天了解一个AI产品 No.2 Manus",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=EzGp-5TCXdY",
+        "https://www.youtube.com/watch?v=d63bDu0amgc",
+        "https://www.xiaohongshu.com/explore/695cf8af000000000b0086ff?xsec_token=ABb9Aqzu6dut0GUnUDLlLgKBo2Qc1xE5p4IwminPYRFo4=&xsec_source=pc_search",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://x.com/ManusAI"
+      ],
+      "published_at": "2026-01-06T00:00:00Z",
+      "publish_time_text": "01-06",
+      "view_count": 0,
+      "like_count": 392,
+      "favorite_count": 355,
+      "comment_count": 12,
+      "share_count": 129,
+      "author_name": "龙龙 AI 知行日记",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qr5j93ag0005p72rj709tej2unlt78?imageView2/2/w/80/format/jpg",
+      "author_bio": "前外企、大厂体验设计师。\n摇滚乐迷，重度游戏玩家，理想主义。\n厌倦了职场的假大空文化，决定在 AI 浪潮里重开真善美人生。",
+      "author_fans_count": 1743,
+      "status": "待处理",
+      "total_score": 28.0
+    },
+    {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
       "title": "为了搞清楚GPT-4o，这条视频我做了33天",
       "summary": "为了搞清楚GPT-4o，这条视频我做了33天",
@@ -6772,6 +6802,32 @@
       "author_fans_count": 134392,
       "status": "待处理",
       "total_score": 33.72
+    },
+    {
+      "candidate_id": "topic-903fed3f710215943b",
+      "title": "Cinna Extra Emily Agent and Rage REUNITE!! (C.A.R.E.)",
+      "summary": "Cinna Extra Emily Agent and Rage REUNITE!! (C.A.R.E.)；#funny #viral #twitch #agent #trending #trendingvideo #streameruniversity2026；Senior Mossad Agent Killed in Tel Aviv?",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=cZ-a8Sn4UiA",
+        "https://www.youtube.com/watch?v=WT79hllR7_c",
+        "https://www.youtube.com/watch?v=ZsQwNZSGvow"
+      ],
+      "published_at": "2026-07-18T20:50:17Z",
+      "publish_time_text": "",
+      "view_count": 4718,
+      "like_count": 231,
+      "favorite_count": 0,
+      "comment_count": 7,
+      "share_count": 0,
+      "author_name": "rainy.mp4",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.85
     },
     {
       "candidate_id": "topic-7b9d1dcdc30d7355c2",
@@ -7650,30 +7706,6 @@
       "total_score": 32.75
     },
     {
-      "candidate_id": "topic-db7013614c0bd9d38b",
-      "title": "如何从专有LLM API中窃取推理痕迹 | LLM安全 | 推理痕迹 | 大语言模型 | AI安全 | 越狱攻击 | 模型蒸馏 | 推理模型 | 加密推理 | 隐私泄露 | 提示注入",
-      "summary": "如何从专有LLM API中窃取推理痕迹 | LLM安全 | 推理痕迹 | 大语言模型 | AI安全 | 越狱攻击 | 模型蒸馏 | 推理模型 | 加密推理 | 隐私泄露 | 提示注入",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=lCxYPyNM1ZQ"
-      ],
-      "published_at": "2026-09-08T00:00:08Z",
-      "publish_time_text": "",
-      "view_count": 798,
-      "like_count": 46,
-      "favorite_count": 0,
-      "comment_count": 6,
-      "share_count": 0,
-      "author_name": "最佳拍档",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.37
-    },
-    {
       "candidate_id": "topic-9e7bb479cbe413633f",
       "title": "其实，大多数大模型岗都是先混进去再说！",
       "summary": "其实，大多数大模型岗都是先混进去再说！",
@@ -7696,30 +7728,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.02
-    },
-    {
-      "candidate_id": "topic-6a340c43d0b197a930",
-      "title": "沉浸式体验，80年代“儿童脚踏车工厂工人”的一天。 #AI笔记本#即梦AI创作者成长计划#80年代怀旧#历史#儿童三轮车",
-      "summary": "沉浸式体验，80年代“儿童脚踏车工厂工人”的一天。 #AI笔记本#即梦AI创作者成长计划#80年代怀旧#历史#儿童三轮车",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=tJrSmx8acE0"
-      ],
-      "published_at": "2026-09-07T21:00:24Z",
-      "publish_time_text": "",
-      "view_count": 953,
-      "like_count": 41,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "AI笔记本",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.94
     },
     {
       "candidate_id": "topic-17b81e0904436f58b1",
@@ -7856,28 +7864,32 @@
       "total_score": 29.86
     },
     {
-      "candidate_id": "topic-44b8ce2f68cef96d73",
-      "title": "今天的提示词是：大龙虾#农村美食#吃播#辣椒酱#抖音美食#tiktok#美食盲盒#spicy",
-      "summary": "今天的提示词是：大龙虾#农村美食#吃播#辣椒酱#抖音美食#tiktok#美食盲盒#spicy",
+      "candidate_id": "topic-f4427b76d5dfef4552",
+      "title": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片",
+      "summary": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片；海螺 MiniMax H3 上线！CG半写实视频完整制作流程｜AI追光免费剧本；3分钟真人AI影视剧怎么做？SD 2.0手把手完整制作流程｜Higgsfield 14天SD 2.0/2.5无限生成",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=rjNr6vNJGNw"
+        "https://www.youtube.com/watch?v=c_GSMZqx278",
+        "https://www.youtube.com/watch?v=Ml_laowT1E4",
+        "https://www.youtube.com/watch?v=ePrMMXzYH1E",
+        "https://www.youtube.com/watch?v=U3_VePy_URk",
+        "https://www.youtube.com/watch?v=LDRbcOojOy0"
       ],
-      "published_at": "2026-09-07T12:30:10Z",
+      "published_at": "2026-08-05T13:10:49Z",
       "publish_time_text": "",
-      "view_count": 1757,
-      "like_count": 28,
+      "view_count": 375,
+      "like_count": 26,
       "favorite_count": 0,
-      "comment_count": 2,
+      "comment_count": 3,
       "share_count": 0,
-      "author_name": "干饭兄弟",
+      "author_name": "AI追光",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 28.97
+      "total_score": 28.16
     }
   ]
 }
