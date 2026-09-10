@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:26:54.804803Z",
+  "generated_at": "2026-09-10T01:26:19.548447Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 15807,
-    "total_candidates": 25686,
+    "total_posts": 15997,
+    "total_candidates": 26108,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-09T01:26:53.951538Z",
+    "last_updated_at": "2026-09-10T01:26:18.665481Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 13439
+        "count": 13598
       },
       {
         "platform": "x",
-        "count": 2259
+        "count": 2290
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 20924
+        "count": 21291
       },
       {
         "platform": "x",
-        "count": 6632
+        "count": 6723
       },
       {
         "platform": "xiaohongshu",
-        "count": 360
+        "count": 361
       },
       {
         "platform": "huitun",
@@ -195,7 +195,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.79
+      "total_score": 60.78
     },
     {
       "candidate_id": "topic-eed4f2441cef64053b",
@@ -1588,7 +1588,7 @@
       "author_bio": "🙋🏻‍♂️ 大厂设计师丨 AI搞钱实战派丨宝爸\n💻 从 0 到 1，陪你掌握AI搞钱思路\n🎯 每周更新AI 实战案例\n📚 小红书丨自媒体丨AIGC应用技巧",
       "author_fans_count": 74384,
       "status": "待处理",
-      "total_score": 62.78
+      "total_score": 62.77
     },
     {
       "candidate_id": "topic-5c1bd2c322d7abab76",
@@ -3690,6 +3690,33 @@
       "total_score": 34.49
     },
     {
+      "candidate_id": "topic-aa339f92411e91c3c9",
+      "title": "OpenAI 투자 가능한 ETF 등장",
+      "summary": "OpenAI 투자 가능한 ETF 등장；#openai #tablerules #unseen；OpenAI 认了，光靠订阅养不起ChatGPT",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=VBCpTNTNWUM",
+        "https://www.youtube.com/watch?v=WGcnYm7XvoE",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 34.48
+    },
+    {
       "candidate_id": "topic-b77f000a47a32cc950",
       "title": "AI FOMO 보다 심각하다는 AI FOBO #AI #FOMO #GPT #인공지능",
       "summary": "AI FOMO 보다 심각하다는 AI FOBO #AI #FOMO #GPT #인공지능；OpenAI 认了，光靠订阅养不起ChatGPT；日本生命、米国でOpenAIを提訴　「ChatGPTが非弁行為」",
@@ -4334,7 +4361,7 @@
     {
       "candidate_id": "topic-dda2856a562039c2fb",
       "title": "ClaudeCode+剪辑Skill，自动剪视频！",
-      "summary": "ClaudeCode+剪辑Skill，自动剪视频！；全球最厉害的人都在用的Claude Skills🔥；#ClaudeCode",
+      "summary": "ClaudeCode+剪辑Skill，自动剪视频！；全球最厉害的人都在用的Claude Skills🔥；#claudecode",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -4342,6 +4369,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/697d78eb0000000021031056?xsec_token=ABsCdrwtolcd1iKXwbCHZRX0nD5JziO2zOmMuGIzA10kY=&xsec_source=pc_search",
         "https://www.xiaohongshu.com/explore/6961d964000000000c0342a9?xsec_token=ABk1pmaEnWcAGzOtnkWBZjcsscWrWebiywPdt8xOfH88c=&xsec_source=pc_search",
+        "https://x.com/hashtag/claudecode?src=hashtag_click",
         "https://x.com/hashtag/ClaudeCode?src=hashtag_click"
       ],
       "published_at": "2026-01-31T00:00:00Z",
@@ -4356,7 +4384,7 @@
       "author_bio": "成峰： 🔍AI 产品自由\n不是程序员\n独立开发者：正在做Agent\n                                                      😃关注一下👇🏻",
       "author_fans_count": 12508,
       "status": "待处理",
-      "total_score": 36.89
+      "total_score": 33.67
     },
     {
       "candidate_id": "topic-246acd688a5db16583",
@@ -5303,6 +5331,30 @@
       "author_fans_count": 2528,
       "status": "待处理",
       "total_score": 32.65
+    },
+    {
+      "candidate_id": "topic-db0eb8179afc752e6c",
+      "title": "AI不是变聪明了，是开始抢工作了",
+      "summary": "AI不是变聪明了，是开始抢工作了",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=n2B1RfJUyZg"
+      ],
+      "published_at": "2026-09-09T21:51:16Z",
+      "publish_time_text": "",
+      "view_count": 4632,
+      "like_count": 650,
+      "favorite_count": 0,
+      "comment_count": 51,
+      "share_count": 0,
+      "author_name": "Alan Chen",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 43.27
     },
     {
       "candidate_id": "topic-cdf632f870863952aa",
@@ -7706,6 +7758,30 @@
       "total_score": 32.75
     },
     {
+      "candidate_id": "topic-671c34a539b169ef9f",
+      "title": "AI开始预测人类：83亿虚拟人格、数字社会，与一门押注未来的生意｜解析AI预测模型｜AI prediction model",
+      "summary": "AI开始预测人类：83亿虚拟人格、数字社会，与一门押注未来的生意｜解析AI预测模型｜AI prediction model",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=--ePbkaRwl4"
+      ],
+      "published_at": "2026-09-10T00:29:42Z",
+      "publish_time_text": "",
+      "view_count": 1258,
+      "like_count": 78,
+      "favorite_count": 0,
+      "comment_count": 8,
+      "share_count": 0,
+      "author_name": "硅谷101",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 34.27
+    },
+    {
       "candidate_id": "topic-9e7bb479cbe413633f",
       "title": "其实，大多数大模型岗都是先混进去再说！",
       "summary": "其实，大多数大模型岗都是先混进去再说！",
@@ -7787,109 +7863,28 @@
       "total_score": 39.36
     },
     {
-      "candidate_id": "topic-2d8b4390c6904fb6d3",
-      "title": "&quot;Chat gpt tú eres mágico&quot;//creadora con mika// #gacha #gachalife #gachaclub #chatgpt",
-      "summary": "&quot;Chat gpt tú eres mágico&quot;//creadora con mika// #gacha #gachalife #gachaclub #chatgpt；¿5 PREGUNTAS MUY DIFICILES DE DRAGON BALL SEGUN CHAT GPT? #shorts",
+      "candidate_id": "topic-b02dd4bf3169227b3e",
+      "title": "你写的提示词正在让 GPT-6 Astra 变笨",
+      "summary": "你写的提示词正在让 GPT-6 Astra 变笨",
       "platforms": [
         "youtube"
       ],
       "source_links": [
-        "https://www.youtube.com/watch?v=oGtHarHYk_g",
-        "https://www.youtube.com/watch?v=G--hYS7jeKo"
+        "https://www.youtube.com/watch?v=0AvqP_WRVVM"
       ],
-      "published_at": "2026-06-07T22:27:24Z",
+      "published_at": "2026-09-09T12:15:33Z",
       "publish_time_text": "",
-      "view_count": 678,
-      "like_count": 29,
+      "view_count": 4512,
+      "like_count": 31,
       "favorite_count": 0,
-      "comment_count": 0,
+      "comment_count": 1,
       "share_count": 0,
-      "author_name": "More kun🌙",
+      "author_name": "为什么叫QQ",
       "author_avatar": "",
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 29.61
-    },
-    {
-      "candidate_id": "topic-0ed522c5bd2654995f",
-      "title": "免费白嫖！美团 tabbit.ai 浏览器实测：Claude Opus 4.8 + GPT5.5 + Gemini 3.5 Flash 同时用",
-      "summary": "免费白嫖！美团 tabbit.ai 浏览器实测：Claude Opus 4.8 + GPT5.5 + Gemini 3.5 Flash 同时用；Claude Opus 4.6 越狱失败？这个“问题拆分法”成功率超高！实操教程；免费AI神器！栋哥工作流1分钟生成90%原创抖音爆款文案（Claude Code教程）",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=935LyPYQUZw",
-        "https://www.youtube.com/watch?v=lITVamZUTTE",
-        "https://www.youtube.com/watch?v=LZyY-faKDQM"
-      ],
-      "published_at": "2026-06-21T14:45:01Z",
-      "publish_time_text": "",
-      "view_count": 990,
-      "like_count": 28,
-      "favorite_count": 0,
-      "comment_count": 5,
-      "share_count": 0,
-      "author_name": "鑫源AI",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.88
-    },
-    {
-      "candidate_id": "topic-683cde4e0430426647",
-      "title": "免费白嫖！美团 tabbit.ai 浏览器实测：Claude Opus 4.8 + GPT5.5 + Gemini 3.5 Flash 同时用",
-      "summary": "免费白嫖！美团 tabbit.ai 浏览器实测：Claude Opus 4.8 + GPT5.5 + Gemini 3.5 Flash 同时用；【2026年最强AI大模型聚合】LobeHub 智能AI聚合神器 内置ChatGPT5.5Pro、Gemini Pro 、Claude4.8等大模型——可画图、可联网、可爬虫 | 代理AI机器人 |；Claude Opus 4.6 越狱失败？这个“问题拆分法”成功率超高！实操教程",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=935LyPYQUZw",
-        "https://www.youtube.com/watch?v=S99q4GgsH_o",
-        "https://www.youtube.com/watch?v=lITVamZUTTE"
-      ],
-      "published_at": "2026-06-21T14:45:01Z",
-      "publish_time_text": "",
-      "view_count": 990,
-      "like_count": 28,
-      "favorite_count": 0,
-      "comment_count": 5,
-      "share_count": 0,
-      "author_name": "鑫源AI",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.86
-    },
-    {
-      "candidate_id": "topic-f4427b76d5dfef4552",
-      "title": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片",
-      "summary": "免费AI拍摄基地上线！Seedance 4K与1080P实测｜不用搭景也能拍大片；海螺 MiniMax H3 上线！CG半写实视频完整制作流程｜AI追光免费剧本；3分钟真人AI影视剧怎么做？SD 2.0手把手完整制作流程｜Higgsfield 14天SD 2.0/2.5无限生成",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=c_GSMZqx278",
-        "https://www.youtube.com/watch?v=Ml_laowT1E4",
-        "https://www.youtube.com/watch?v=ePrMMXzYH1E",
-        "https://www.youtube.com/watch?v=U3_VePy_URk",
-        "https://www.youtube.com/watch?v=LDRbcOojOy0"
-      ],
-      "published_at": "2026-08-05T13:10:49Z",
-      "publish_time_text": "",
-      "view_count": 375,
-      "like_count": 26,
-      "favorite_count": 0,
-      "comment_count": 3,
-      "share_count": 0,
-      "author_name": "AI追光",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.16
+      "total_score": 30.59
     }
   ]
 }
