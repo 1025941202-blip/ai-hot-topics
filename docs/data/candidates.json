@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T01:24:56.217203Z",
+  "generated_at": "2026-09-14T01:24:54.602716Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 16539,
-    "total_candidates": 27535,
+    "total_posts": 16714,
+    "total_candidates": 28014,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-13T01:24:55.367480Z",
+    "last_updated_at": "2026-09-14T01:24:53.722642Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 14077
+        "count": 14233
       },
       {
         "platform": "x",
-        "count": 2353
+        "count": 2372
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 22441
+        "count": 22841
       },
       {
         "platform": "x",
-        "count": 7105
+        "count": 7216
       },
       {
         "platform": "xiaohongshu",
-        "count": 365
+        "count": 368
       },
       {
         "platform": "huitun",
@@ -1214,7 +1214,33 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.41
+      "total_score": 58.4
+    },
+    {
+      "candidate_id": "topic-f49925b7088db4b4b1",
+      "title": "[#이재명 LIVE] 대한민국, 대체불가 글로벌 AI 허브로! | 샌프란시스코 AI 서밋",
+      "summary": "[#이재명 LIVE] 대한민국, 대체불가 글로벌 AI 허브로! | 샌프란시스코 AI 서밋；AI 팩토리란 무엇일까?；高知家大模型展展示会　2026",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZnKqDi19okU",
+        "https://www.youtube.com/watch?v=SfzzE5Yep1k",
+        "https://www.youtube.com/watch?v=5Zz_81LFdRI"
+      ],
+      "published_at": "2026-07-25T01:00:23Z",
+      "publish_time_text": "",
+      "view_count": 14605,
+      "like_count": 6633,
+      "favorite_count": 0,
+      "comment_count": 134,
+      "share_count": 0,
+      "author_name": "이재명",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.78
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -1310,7 +1336,7 @@
       "author_bio": "Ai教程｜Ai工具测评｜实用网页\n已分享105+Ai教程，迈向200期新阶段\n😆一个永远好奇、不讲废话的博主\n视频资料在群里👨🏻‍💻，我真不卖课～\n🔖liaodaoai@163.com",
       "author_fans_count": 85714,
       "status": "待处理",
-      "total_score": 64.78
+      "total_score": 64.77
     },
     {
       "candidate_id": "topic-79df44dc350f32ae24",
@@ -2802,35 +2828,6 @@
       "total_score": 50.85
     },
     {
-      "candidate_id": "topic-f04c4788f2a257c222",
-      "title": "Zuck’s Meta AI is creepy..",
-      "summary": "Zuck’s Meta AI is creepy..；@meetissai；Star AI Researcher Is Leaving Meta",
-      "platforms": [
-        "x",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=ZOoyOl0Ybto",
-        "https://x.com/meetissai",
-        "https://t.co/c1s4KpPoga",
-        "https://t.co/02A8Da6ruU",
-        "https://t.co/I2DWVnhLkn"
-      ],
-      "published_at": "2026-09-12T22:34:55Z",
-      "publish_time_text": "",
-      "view_count": 13549,
-      "like_count": 2583,
-      "favorite_count": 0,
-      "comment_count": 91,
-      "share_count": 0,
-      "author_name": "Ben Esherick",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.9
-    },
-    {
       "candidate_id": "topic-198234837d42953697",
       "title": "如何用GPT5.2+Gemini3.0pro三天搞定国自然",
       "summary": "如何用GPT5.2+Gemini3.0pro三天搞定国自然",
@@ -3833,6 +3830,34 @@
       "total_score": 33.15
     },
     {
+      "candidate_id": "topic-13b8d09aa7adbb3d39",
+      "title": "OpenAIがティーン向けChatGPT発表！10代のAI利用は安全になる？",
+      "summary": "OpenAIがティーン向けChatGPT発表！10代のAI利用は安全になる？；getpiai#ai #llm #chatgpt；OpenAIからAIスピーカー登場！気になる価格は300〜400ドル",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=r2BbhxEY_T8",
+        "https://www.youtube.com/watch?v=TxNnvKUPcxU",
+        "https://www.youtube.com/watch?v=c5QE7wR_eLk",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 33.07
+    },
+    {
       "candidate_id": "topic-c90564737d25ae80f5",
       "title": "學習時最不該做的事 #ai #chatgpt #ai工具 #學習",
       "summary": "學習時最不該做的事 #ai #chatgpt #ai工具 #學習；OpenAI 认了，光靠订阅养不起ChatGPT；@OpenAI",
@@ -4332,7 +4357,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 45.34
+      "total_score": 38.1
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -4669,7 +4694,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.79
+      "total_score": 41.78
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5589,6 +5614,32 @@
       "author_fans_count": 9596,
       "status": "待处理",
       "total_score": 37.89
+    },
+    {
+      "candidate_id": "topic-93e035856a369dbd7c",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 37.88
     },
     {
       "candidate_id": "topic-ef83594ef78c0aa15f",
@@ -7785,7 +7836,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.1
+      "total_score": 30.11
     },
     {
       "candidate_id": "topic-bf70fd54708d26443f",
@@ -7840,58 +7891,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.61
-    },
-    {
-      "candidate_id": "topic-0ed522c5bd2654995f",
-      "title": "免费白嫖！美团 tabbit.ai 浏览器实测：Claude Opus 4.8 + GPT5.5 + Gemini 3.5 Flash 同时用",
-      "summary": "免费白嫖！美团 tabbit.ai 浏览器实测：Claude Opus 4.8 + GPT5.5 + Gemini 3.5 Flash 同时用；Claude Opus 4.6 越狱失败？这个“问题拆分法”成功率超高！实操教程；免费AI神器！栋哥工作流1分钟生成90%原创抖音爆款文案（Claude Code教程）",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=935LyPYQUZw",
-        "https://www.youtube.com/watch?v=lITVamZUTTE",
-        "https://www.youtube.com/watch?v=LZyY-faKDQM"
-      ],
-      "published_at": "2026-06-21T14:45:01Z",
-      "publish_time_text": "",
-      "view_count": 990,
-      "like_count": 28,
-      "favorite_count": 0,
-      "comment_count": 5,
-      "share_count": 0,
-      "author_name": "鑫源AI",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.88
-    },
-    {
-      "candidate_id": "topic-683cde4e0430426647",
-      "title": "免费白嫖！美团 tabbit.ai 浏览器实测：Claude Opus 4.8 + GPT5.5 + Gemini 3.5 Flash 同时用",
-      "summary": "免费白嫖！美团 tabbit.ai 浏览器实测：Claude Opus 4.8 + GPT5.5 + Gemini 3.5 Flash 同时用；【2026年最强AI大模型聚合】LobeHub 智能AI聚合神器 内置ChatGPT5.5Pro、Gemini Pro 、Claude4.8等大模型——可画图、可联网、可爬虫 | 代理AI机器人 |；Claude Opus 4.6 越狱失败？这个“问题拆分法”成功率超高！实操教程",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=935LyPYQUZw",
-        "https://www.youtube.com/watch?v=S99q4GgsH_o",
-        "https://www.youtube.com/watch?v=lITVamZUTTE"
-      ],
-      "published_at": "2026-06-21T14:45:01Z",
-      "publish_time_text": "",
-      "view_count": 990,
-      "like_count": 28,
-      "favorite_count": 0,
-      "comment_count": 5,
-      "share_count": 0,
-      "author_name": "鑫源AI",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.86
     }
   ]
 }
