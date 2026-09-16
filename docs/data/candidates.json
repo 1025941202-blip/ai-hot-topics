@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:26:40.815694Z",
+  "generated_at": "2026-09-16T01:25:06.639914Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 16877,
-    "total_candidates": 28466,
+    "total_posts": 17057,
+    "total_candidates": 28933,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-15T01:26:39.756128Z",
+    "last_updated_at": "2026-09-16T01:25:05.771822Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 14396
+        "count": 14557
       },
       {
         "platform": "x",
-        "count": 2372
+        "count": 2391
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 23245
+        "count": 23638
       },
       {
         "platform": "x",
-        "count": 7307
+        "count": 7417
       },
       {
         "platform": "xiaohongshu",
-        "count": 371
+        "count": 373
       },
       {
         "platform": "huitun",
@@ -315,7 +315,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.79
+      "total_score": 60.78
     },
     {
       "candidate_id": "topic-b656eb81a835cd9717",
@@ -1214,33 +1214,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.4
-    },
-    {
-      "candidate_id": "topic-f49925b7088db4b4b1",
-      "title": "[#이재명 LIVE] 대한민국, 대체불가 글로벌 AI 허브로! | 샌프란시스코 AI 서밋",
-      "summary": "[#이재명 LIVE] 대한민국, 대체불가 글로벌 AI 허브로! | 샌프란시스코 AI 서밋；AI 팩토리란 무엇일까?；高知家大模型展展示会　2026",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=ZnKqDi19okU",
-        "https://www.youtube.com/watch?v=SfzzE5Yep1k",
-        "https://www.youtube.com/watch?v=5Zz_81LFdRI"
-      ],
-      "published_at": "2026-07-25T01:00:23Z",
-      "publish_time_text": "",
-      "view_count": 14605,
-      "like_count": 6633,
-      "favorite_count": 0,
-      "comment_count": 134,
-      "share_count": 0,
-      "author_name": "이재명",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.78
+      "total_score": 58.39
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -2830,33 +2804,6 @@
       "total_score": 28.52
     },
     {
-      "candidate_id": "topic-07afc904b0fad3c256",
-      "title": "(실시간) 전세계 반도체 반등 | OpenAI IPO 기업공개 신청 | 무역수지, 기존주택매매 지수 | 미국주식, 비트코인 방송",
-      "summary": "(실시간) 전세계 반도체 반등 | OpenAI IPO 기업공개 신청 | 무역수지, 기존주택매매 지수 | 미국주식, 비트코인 방송；SpaceX가 사상 최대 IPO를 시작합니다 — 조주당135  #ai뉴스 #anthropic #spacex #openai #ai상장；OpenAIより先行？Anthropic IPOニュースの正しい見方 #Shorts",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=RZ-9Kzlkc44",
-        "https://www.youtube.com/watch?v=cJiVjpXRU4M",
-        "https://www.youtube.com/watch?v=uNEg2VPh31M",
-        "https://www.youtube.com/watch?v=fgx4vNngT5Q"
-      ],
-      "published_at": "2026-06-09T22:12:29Z",
-      "publish_time_text": "",
-      "view_count": 172514,
-      "like_count": 2625,
-      "favorite_count": 0,
-      "comment_count": 2,
-      "share_count": 0,
-      "author_name": "미국 주식 채널 - 에디 Eddie",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.47
-    },
-    {
       "candidate_id": "topic-dfa20fcdf1abfde4fd",
       "title": "5大技巧，让你的AI视频更真实！",
       "summary": "5大技巧，让你的AI视频更真实！",
@@ -3090,6 +3037,34 @@
       "author_fans_count": 108214,
       "status": "待处理",
       "total_score": 47.12
+    },
+    {
+      "candidate_id": "topic-2e318e703420625200",
+      "title": "【6月最新AI大模型国内购买教程】ChatGpt、Claude、grok自助充值便携通道来袭，亲测有效！！正规订阅保姆级教程！",
+      "summary": "【6月最新AI大模型国内购买教程】ChatGpt、Claude、grok自助充值便携通道来袭，亲测有效！！正规订阅保姆级教程！；OpenAI 认了，光靠订阅养不起ChatGPT；岡安モフモフ（アーガイル社長）＠ChatGPT/Gemini/ClaudeなどLLMでサービス作る人",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=f19JRIEkKUo",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
+        "https://x.com/shields_pikes"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 44.39
     },
     {
       "candidate_id": "topic-8f19bb0d6b7ecdd5bb",
@@ -4410,7 +4385,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.67
+      "total_score": 33.5
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -4846,7 +4821,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 49.99
+      "total_score": 39.67
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -5718,16 +5693,16 @@
       "total_score": 37.89
     },
     {
-      "candidate_id": "topic-93e035856a369dbd7c",
+      "candidate_id": "topic-ef83594ef78c0aa15f",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
+      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
+        "https://x.com/Cursoronsol"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -5744,16 +5719,16 @@
       "total_score": 37.88
     },
     {
-      "candidate_id": "topic-ef83594ef78c0aa15f",
+      "candidate_id": "topic-93e035856a369dbd7c",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
+      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/Cursoronsol"
+        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -6788,6 +6763,32 @@
       "total_score": 30.22
     },
     {
+      "candidate_id": "topic-7f5ab89370af2b4c97",
+      "title": "美股 NVDA、META不同意AI放缓！加息后，标普、利率走势！SPY、QQQ、SOXX、SMH较差的情况，跌至哪里？",
+      "summary": "美股 NVDA、META不同意AI放缓！加息后，标普、利率走势！SPY、QQQ、SOXX、SMH较差的情况，跌至哪里？；美股 三家巨头呼吁AI发展放缓，半导体暴跌！利好！利空！何去何从？几个思考！；美股 AI数据中心违约风险一览！长债收益率19年新高！SPY、QQQ、SOXX 、SMH重要位置！HD维持前瞻！",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=EB4-BTw4ETQ",
+        "https://www.youtube.com/watch?v=fLKcWY1h45w",
+        "https://www.youtube.com/watch?v=JmAgOc0hTwQ"
+      ],
+      "published_at": "2026-09-16T01:10:03Z",
+      "publish_time_text": "",
+      "view_count": 2558,
+      "like_count": 363,
+      "favorite_count": 0,
+      "comment_count": 34,
+      "share_count": 0,
+      "author_name": "视野环球财经",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.79
+    },
+    {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
       "title": "为了搞清楚GPT-4o，这条视频我做了33天",
       "summary": "为了搞清楚GPT-4o，这条视频我做了33天",
@@ -7781,32 +7782,6 @@
       "total_score": 30.45
     },
     {
-      "candidate_id": "topic-376f57856099049856",
-      "title": "即梦seedance2.0 爆款短剧电影级提示词来了",
-      "summary": "即梦seedance2.0 爆款短剧电影级提示词来了；10个即梦seedance2.0电影级的爆款提示词！；即梦 Seedance 2.0 提示词高阶技巧手册",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69a0ee90000000001d026336?xsec_token=AB4DSu5CFLyVIINYA6j3ynOxFFdbx9wM7ybrxpWJs6NnM=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/699e388d0000000015038d81?xsec_token=ABM7BFs1l0rztS8dXNGvxq69hVezvBbBeu59oAL84EYuc=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/698d51d40000000015023e40"
-      ],
-      "published_at": "2026-02-27T01:35:49.754067Z",
-      "publish_time_text": "6小时前",
-      "view_count": 0,
-      "like_count": 100,
-      "favorite_count": 154,
-      "comment_count": 9,
-      "share_count": 22,
-      "author_name": "尤道子",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8l68r2l8005prugsn27s4ldfllrs8?imageView2/2/w/80/format/jpg",
-      "author_bio": "分享AI干货 |专注AI变现\n诗词金句爱好者，10年流量玩家，AI变现学员2000+\n关注我，开启AI赋能变现之旅！",
-      "author_fans_count": 134392,
-      "status": "待处理",
-      "total_score": 28.45
-    },
-    {
       "candidate_id": "topic-e51257a3aac35752c2",
       "title": "哈哈终于领到ChatGPT Plus免费一个月附教程",
       "summary": "哈哈终于领到ChatGPT Plus免费一个月附教程；#หารchatgptplus",
@@ -7881,6 +7856,32 @@
       "author_fans_count": 39,
       "status": "待处理",
       "total_score": 32.75
+    },
+    {
+      "candidate_id": "topic-f1c07efa3f159e5593",
+      "title": "4 大极限实测：用代码写 3D 动画，MiniMax H3 渲染写实大片",
+      "summary": "4 大极限实测：用代码写 3D 动画，MiniMax H3 渲染写实大片；MINImax h3大模型，动作迁移舞蹈视频分分钟生成 #AI视频 #AI舞蹈 #AI教程 #AI#MINImax；8月3新出开源视频开源大模型minimax_h3 超强的动作一致性，comfyui做漫剧首选#comfyui #comfyui教程  #ai #视频#漫剧",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=YAfsAfC1__U",
+        "https://www.youtube.com/watch?v=x6QXM68W0vw",
+        "https://www.youtube.com/watch?v=62NxJmIvh3s"
+      ],
+      "published_at": "2026-09-15T04:30:21Z",
+      "publish_time_text": "",
+      "view_count": 5311,
+      "like_count": 48,
+      "favorite_count": 0,
+      "comment_count": 6,
+      "share_count": 0,
+      "author_name": "AI老腊肉",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.17
     }
   ]
 }
