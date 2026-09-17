@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:25:06.639914Z",
+  "generated_at": "2026-09-17T01:26:36.216866Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 17057,
-    "total_candidates": 28933,
+    "total_posts": 17253,
+    "total_candidates": 29401,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-16T01:25:05.771822Z",
+    "last_updated_at": "2026-09-17T01:26:35.222474Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 14557
+        "count": 14720
       },
       {
         "platform": "x",
-        "count": 2391
+        "count": 2424
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 23638
+        "count": 24030
       },
       {
         "platform": "x",
-        "count": 7417
+        "count": 7526
       },
       {
         "platform": "xiaohongshu",
-        "count": 373
+        "count": 375
       },
       {
         "platform": "huitun",
@@ -4385,7 +4385,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.5
+      "total_score": 33.41
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -4821,7 +4821,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 39.67
+      "total_score": 32.85
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -5201,7 +5201,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 28.73
+      "total_score": 28.72
     },
     {
       "candidate_id": "topic-affdc6cea9acfba302",
@@ -5382,9 +5382,9 @@
       "total_score": 34.98
     },
     {
-      "candidate_id": "topic-dc1a40bbfa85e9281c",
+      "candidate_id": "topic-9f32a23d908f00a14a",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5392,7 +5392,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/A3jnigbUAc"
+        "https://t.co/IKzuhX2Uvc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -5409,9 +5409,9 @@
       "total_score": 32.65
     },
     {
-      "candidate_id": "topic-9f32a23d908f00a14a",
+      "candidate_id": "topic-dc1a40bbfa85e9281c",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5419,7 +5419,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/IKzuhX2Uvc"
+        "https://t.co/A3jnigbUAc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -6387,6 +6387,32 @@
       "total_score": 33.85
     },
     {
+      "candidate_id": "topic-ab21895791e5a1ae9c",
+      "title": "「ChatGPT・Claudeに勝つ」富士通が挑む新構造AI「PHOTON」 処理効率475倍の衝撃【橋本幸治の理系通信】",
+      "summary": "「ChatGPT・Claudeに勝つ」富士通が挑む新構造AI「PHOTON」 処理効率475倍の衝撃【橋本幸治の理系通信】；一文讲透ChatGPT/Claude/Gemini科研如何选",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=huoR2hSkbP4",
+        "https://www.xiaohongshu.com/explore/699c923d000000000b013bf3"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 409,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "bo老师",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 32.43
+    },
+    {
       "candidate_id": "topic-f159c95907217565cb",
       "title": "为什么主流 AI 大模型都“偏爱”日本？拆解 ChatGPT、DeepSeek 背后的文化偏见与语料真相| LLM Cultural Bias",
       "summary": "为什么主流 AI 大模型都“偏爱”日本？拆解 ChatGPT、DeepSeek 背后的文化偏见与语料真相| LLM Cultural Bias；AI大模型也分工种，聊聊我对deepseek降价的...；如何给你的openclaw安装369大模型？#openclaw  #chatgpt  #ClawBBA #image  #AI #openai  #deepseek",
@@ -6786,7 +6812,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.79
+      "total_score": 33.77
     },
     {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
@@ -7436,6 +7462,33 @@
       "total_score": 31.58
     },
     {
+      "candidate_id": "topic-3d989ecf01668938f2",
+      "title": "每天认识一个新LOGO （OpenAI）",
+      "summary": "每天认识一个新LOGO （OpenAI）；From openai.com；From openai.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
+        "https://t.co/qubOTrZVND",
+        "https://t.co/9gG0utPwx3"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 186,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Lyon品牌汇",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.38
+    },
+    {
       "candidate_id": "topic-6f9d7dcbdd8d47c3de",
       "title": "每天认识一个新LOGO （OpenAI）",
       "summary": "每天认识一个新LOGO （OpenAI）；@OpenAIDevs；#OpenAIDown",
@@ -7830,58 +7883,6 @@
       "author_fans_count": 39,
       "status": "待处理",
       "total_score": 35.13
-    },
-    {
-      "candidate_id": "topic-f91142fc297643387e",
-      "title": "ChatGPT Plus怎么充值？2026国内用户完整开通教程 #chatgpt",
-      "summary": "ChatGPT Plus怎么充值？2026国内用户完整开通教程 #chatgpt；哈哈终于领到ChatGPT Plus免费一个月附教程",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=hz5vOcHTED0",
-        "https://www.xiaohongshu.com/explore/69a0220b000000000e03d5e8?xsec_token=AB4DSu5CFLyVIINYA6j3ynO8gOVFoEG-KTdeT9eR5u_D0=&xsec_source=pc_search"
-      ],
-      "published_at": "",
-      "publish_time_text": "昨天 18:35",
-      "view_count": 0,
-      "like_count": 96,
-      "favorite_count": 118,
-      "comment_count": 23,
-      "share_count": 33,
-      "author_name": "sunny out",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2m85t1b8ju06g5ol9k3c5bj5cejk09ro?imageView2/2/w/80/format/jpg",
-      "author_bio": "还没有简介",
-      "author_fans_count": 39,
-      "status": "待处理",
-      "total_score": 32.75
-    },
-    {
-      "candidate_id": "topic-f1c07efa3f159e5593",
-      "title": "4 大极限实测：用代码写 3D 动画，MiniMax H3 渲染写实大片",
-      "summary": "4 大极限实测：用代码写 3D 动画，MiniMax H3 渲染写实大片；MINImax h3大模型，动作迁移舞蹈视频分分钟生成 #AI视频 #AI舞蹈 #AI教程 #AI#MINImax；8月3新出开源视频开源大模型minimax_h3 超强的动作一致性，comfyui做漫剧首选#comfyui #comfyui教程  #ai #视频#漫剧",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=YAfsAfC1__U",
-        "https://www.youtube.com/watch?v=x6QXM68W0vw",
-        "https://www.youtube.com/watch?v=62NxJmIvh3s"
-      ],
-      "published_at": "2026-09-15T04:30:21Z",
-      "publish_time_text": "",
-      "view_count": 5311,
-      "like_count": 48,
-      "favorite_count": 0,
-      "comment_count": 6,
-      "share_count": 0,
-      "author_name": "AI老腊肉",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.17
     }
   ]
 }
