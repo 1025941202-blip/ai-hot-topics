@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T01:26:36.216866Z",
+  "generated_at": "2026-09-18T01:25:05.777142Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 17253,
-    "total_candidates": 29401,
+    "total_posts": 17443,
+    "total_candidates": 29905,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-17T01:26:35.222474Z",
+    "last_updated_at": "2026-09-18T01:25:04.827089Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 14720
+        "count": 14881
       },
       {
         "platform": "x",
-        "count": 2424
+        "count": 2453
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 24030
+        "count": 24458
       },
       {
         "platform": "x",
-        "count": 7526
+        "count": 7633
       },
       {
         "platform": "xiaohongshu",
-        "count": 375
+        "count": 376
       },
       {
         "platform": "huitun",
@@ -1215,6 +1215,32 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 58.39
+    },
+    {
+      "candidate_id": "topic-f49925b7088db4b4b1",
+      "title": "[#이재명 LIVE] 대한민국, 대체불가 글로벌 AI 허브로! | 샌프란시스코 AI 서밋",
+      "summary": "[#이재명 LIVE] 대한민국, 대체불가 글로벌 AI 허브로! | 샌프란시스코 AI 서밋；AI 팩토리란 무엇일까?；高知家大模型展展示会　2026",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZnKqDi19okU",
+        "https://www.youtube.com/watch?v=SfzzE5Yep1k",
+        "https://www.youtube.com/watch?v=5Zz_81LFdRI"
+      ],
+      "published_at": "2026-07-25T01:00:23Z",
+      "publish_time_text": "",
+      "view_count": 14605,
+      "like_count": 6633,
+      "favorite_count": 0,
+      "comment_count": 134,
+      "share_count": 0,
+      "author_name": "이재명",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.77
     },
     {
       "candidate_id": "topic-df0d2380755b6e2f0d",
@@ -3012,6 +3038,30 @@
       "total_score": 28.83
     },
     {
+      "candidate_id": "topic-0f85e93e1e1d8194f6",
+      "title": "AI失控毁灭人类？业内呼吁大模型延缓开发！黄仁勋特朗普急了！打电话演双簧力挺AI开发！美联储突然加息？特朗普不高兴为什么却不敢对沃什生气？短期美债到底被谁买走了？",
+      "summary": "AI失控毁灭人类？业内呼吁大模型延缓开发！黄仁勋特朗普急了！打电话演双簧力挺AI开发！美联储突然加息？特朗普不高兴为什么却不敢对沃什生气？短期美债到底被谁买走了？",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=g8Ktg_yybbU"
+      ],
+      "published_at": "2026-09-17T15:49:06Z",
+      "publish_time_text": "",
+      "view_count": 29110,
+      "like_count": 2247,
+      "favorite_count": 0,
+      "comment_count": 190,
+      "share_count": 0,
+      "author_name": "磊哥聊政经",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 70.36
+    },
+    {
       "candidate_id": "topic-9d689f3364dabe3436",
       "title": "#ai #pixverse #fyp #youtubeshorts #automation #kids",
       "summary": "#ai #pixverse #fyp #youtubeshorts #automation #kids；¿5 PERSONAJES MAS RAPIDOS QUE FLASH SEGUN CHAT GPT? #shorts；OpenAI 认了，光靠订阅养不起ChatGPT",
@@ -4385,7 +4435,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.41
+      "total_score": 33.35
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -4821,7 +4871,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.85
+      "total_score": 31.08
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -5693,16 +5743,16 @@
       "total_score": 37.89
     },
     {
-      "candidate_id": "topic-ef83594ef78c0aa15f",
+      "candidate_id": "topic-93e035856a369dbd7c",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
+      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/Cursoronsol"
+        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -5719,16 +5769,16 @@
       "total_score": 37.88
     },
     {
-      "candidate_id": "topic-93e035856a369dbd7c",
+      "candidate_id": "topic-ef83594ef78c0aa15f",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
+      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
+        "https://x.com/Cursoronsol"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -6812,7 +6862,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.77
+      "total_score": 33.76
     },
     {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
@@ -7833,56 +7883,6 @@
       "author_fans_count": 134392,
       "status": "待处理",
       "total_score": 30.45
-    },
-    {
-      "candidate_id": "topic-e51257a3aac35752c2",
-      "title": "哈哈终于领到ChatGPT Plus免费一个月附教程",
-      "summary": "哈哈终于领到ChatGPT Plus免费一个月附教程；#หารchatgptplus",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69a0220b000000000e03d5e8?xsec_token=AB4DSu5CFLyVIINYA6j3ynO8gOVFoEG-KTdeT9eR5u_D0=&xsec_source=pc_search",
-        "https://x.com/hashtag/%E0%B8%AB%E0%B8%B2%E0%B8%A3chatgptplus?src=hashtag_click"
-      ],
-      "published_at": "",
-      "publish_time_text": "昨天 18:35",
-      "view_count": 0,
-      "like_count": 96,
-      "favorite_count": 118,
-      "comment_count": 23,
-      "share_count": 33,
-      "author_name": "sunny out",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2m85t1b8ju06g5ol9k3c5bj5cejk09ro?imageView2/2/w/80/format/jpg",
-      "author_bio": "还没有简介",
-      "author_fans_count": 39,
-      "status": "待处理",
-      "total_score": 36.69
-    },
-    {
-      "candidate_id": "topic-8ada23eccc3fe9acd1",
-      "title": "哈哈终于领到ChatGPT Plus免费一个月附教程",
-      "summary": "哈哈终于领到ChatGPT Plus免费一个月附教程",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69a0220b000000000e03d5e8?xsec_token=AB4DSu5CFLyVIINYA6j3ynO8gOVFoEG-KTdeT9eR5u_D0=&xsec_source=pc_search"
-      ],
-      "published_at": "",
-      "publish_time_text": "昨天 18:35",
-      "view_count": 0,
-      "like_count": 96,
-      "favorite_count": 118,
-      "comment_count": 23,
-      "share_count": 33,
-      "author_name": "sunny out",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2m85t1b8ju06g5ol9k3c5bj5cejk09ro?imageView2/2/w/80/format/jpg",
-      "author_bio": "还没有简介",
-      "author_fans_count": 39,
-      "status": "待处理",
-      "total_score": 35.13
     }
   ]
 }
