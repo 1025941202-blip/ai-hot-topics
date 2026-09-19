@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T01:25:05.777142Z",
+  "generated_at": "2026-09-19T01:25:19.173304Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 17443,
-    "total_candidates": 29905,
+    "total_posts": 17636,
+    "total_candidates": 30413,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-18T01:25:04.827089Z",
+    "last_updated_at": "2026-09-19T01:25:18.234439Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 14881
+        "count": 15045
       },
       {
         "platform": "x",
-        "count": 2453
+        "count": 2482
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 24458
+        "count": 24873
       },
       {
         "platform": "x",
-        "count": 7633
+        "count": 7764
       },
       {
         "platform": "xiaohongshu",
-        "count": 376
+        "count": 378
       },
       {
         "platform": "huitun",
@@ -1214,7 +1214,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.39
+      "total_score": 58.38
     },
     {
       "candidate_id": "topic-f49925b7088db4b4b1",
@@ -3059,7 +3059,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 70.36
+      "total_score": 61.81
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -3247,6 +3247,32 @@
       "author_fans_count": 108214,
       "status": "待处理",
       "total_score": 44.03
+    },
+    {
+      "candidate_id": "topic-c2eafcf9d0a1b456cb",
+      "title": "OpenAI 认了，光靠订阅养不起ChatGPT",
+      "summary": "OpenAI 认了，光靠订阅养不起ChatGPT；なぜAnthropicは広告を拒み、OpenAIは導入するのか　ChatGPT広告の日本上陸で考える生成AI各社の“哲学”（リアルサウンド） - Yahoo!ニュース",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
+        "https://t.co/7aq2WGtIS5"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 44.01
     },
     {
       "candidate_id": "topic-bedaff017f8795bb6b",
@@ -4435,7 +4461,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.35
+      "total_score": 33.3
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -4772,7 +4798,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.78
+      "total_score": 41.77
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -4871,7 +4897,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 31.08
+      "total_score": 30.92
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -5743,16 +5769,16 @@
       "total_score": 37.89
     },
     {
-      "candidate_id": "topic-93e035856a369dbd7c",
+      "candidate_id": "topic-ef83594ef78c0aa15f",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
+      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
+        "https://x.com/Cursoronsol"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -5769,16 +5795,16 @@
       "total_score": 37.88
     },
     {
-      "candidate_id": "topic-ef83594ef78c0aa15f",
+      "candidate_id": "topic-93e035856a369dbd7c",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
+      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/Cursoronsol"
+        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -6862,7 +6888,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.76
+      "total_score": 33.75
     },
     {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
@@ -7856,33 +7882,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 29.05
-    },
-    {
-      "candidate_id": "topic-d70e1a451195a3140a",
-      "title": "P2 人物角色塑造方法·角色提示词获取",
-      "summary": "P2 人物角色塑造方法·角色提示词获取；即梦seedance2.0 爆款短剧电影级提示词来了；10个即梦seedance2.0电影级的爆款提示词！",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=ZyeU6c6I0IM",
-        "https://www.xiaohongshu.com/explore/69a0ee90000000001d026336?xsec_token=AB4DSu5CFLyVIINYA6j3ynOxFFdbx9wM7ybrxpWJs6NnM=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/699e388d0000000015038d81?xsec_token=ABM7BFs1l0rztS8dXNGvxq69hVezvBbBeu59oAL84EYuc=&xsec_source=pc_search"
-      ],
-      "published_at": "2026-02-27T01:35:49.754067Z",
-      "publish_time_text": "6小时前",
-      "view_count": 0,
-      "like_count": 100,
-      "favorite_count": 154,
-      "comment_count": 9,
-      "share_count": 22,
-      "author_name": "尤道子",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8l68r2l8005prugsn27s4ldfllrs8?imageView2/2/w/80/format/jpg",
-      "author_bio": "分享AI干货 |专注AI变现\n诗词金句爱好者，10年流量玩家，AI变现学员2000+\n关注我，开启AI赋能变现之旅！",
-      "author_fans_count": 134392,
-      "status": "待处理",
-      "total_score": 30.45
     }
   ]
 }
