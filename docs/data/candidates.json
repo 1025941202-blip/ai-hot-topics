@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:27:07.952080Z",
+  "generated_at": "2026-09-21T01:25:12.357477Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 17817,
-    "total_candidates": 30888,
+    "total_posts": 17994,
+    "total_candidates": 31371,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-20T01:27:06.930426Z",
+    "last_updated_at": "2026-09-21T01:25:11.364245Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 15206
+        "count": 15364
       },
       {
         "platform": "x",
-        "count": 2502
+        "count": 2521
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 25257
+        "count": 25656
       },
       {
         "platform": "x",
-        "count": 7901
+        "count": 8013
       },
       {
         "platform": "xiaohongshu",
-        "count": 379
+        "count": 381
       },
       {
         "platform": "huitun",
@@ -3087,7 +3087,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 54.92
+      "total_score": 54.32
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4416,7 +4416,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 43.3
+      "total_score": 43.29
     },
     {
       "candidate_id": "topic-26b47a71077b0ff284",
@@ -4489,7 +4489,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.27
+      "total_score": 33.24
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -4925,7 +4925,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.83
+      "total_score": 30.76
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -7696,6 +7696,30 @@
       "total_score": 33.02
     },
     {
+      "candidate_id": "topic-be4e2a32921ab2da3d",
+      "title": "Ai đi học hay trượt cầu thang để về cho nhanh",
+      "summary": "Ai đi học hay trượt cầu thang để về cho nhanh",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=hKE-3-AS63c"
+      ],
+      "published_at": "2026-09-20T23:14:19Z",
+      "publish_time_text": "",
+      "view_count": 13518,
+      "like_count": 132,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "CHUYỆN THƯỜNG NGÀY",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.45
+    },
+    {
       "candidate_id": "topic-1b02bb8f7b419e6e73",
       "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
       "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；#openai #tablerules #unseen；OpenAI 认了，光靠订阅养不起ChatGPT",
@@ -7863,30 +7887,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 30.22
-    },
-    {
-      "candidate_id": "topic-cccde727bcb271ac95",
-      "title": "Fable 5 泄漏提示词曝光！看 Hermes 智能体如何异地组网，进化成 24h 黑灯工厂研究它",
-      "summary": "Fable 5 泄漏提示词曝光！看 Hermes 智能体如何异地组网，进化成 24h 黑灯工厂研究它",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=_wK663dIJ88"
-      ],
-      "published_at": "2026-06-20T08:00:03Z",
-      "publish_time_text": "",
-      "view_count": 3323,
-      "like_count": 110,
-      "favorite_count": 0,
-      "comment_count": 14,
-      "share_count": 0,
-      "author_name": "wow",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.79
     }
   ]
 }
