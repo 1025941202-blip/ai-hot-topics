@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:27:24.498778Z",
+  "generated_at": "2026-09-24T01:29:03.525775Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 18366,
-    "total_candidates": 32300,
+    "total_posts": 18546,
+    "total_candidates": 32788,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-23T01:27:23.497292Z",
+    "last_updated_at": "2026-09-24T01:29:02.404047Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 15683
+        "count": 15841
       },
       {
         "platform": "x",
-        "count": 2574
+        "count": 2596
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 26424
+        "count": 26819
       },
       {
         "platform": "x",
-        "count": 8236
+        "count": 8365
       },
       {
         "platform": "xiaohongshu",
-        "count": 383
+        "count": 384
       },
       {
         "platform": "huitun",
@@ -3115,7 +3115,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.77
+      "total_score": 53.62
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4517,7 +4517,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.21
+      "total_score": 33.19
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -4953,7 +4953,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.68
+      "total_score": 30.65
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -7731,6 +7731,34 @@
       "total_score": 31.38
     },
     {
+      "candidate_id": "topic-416831fdb567897a1d",
+      "title": "每天认识一个新LOGO （OpenAI）",
+      "summary": "每天认识一个新LOGO （OpenAI）；From openai.com；From openai.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
+        "https://t.co/ecDz67eE4b",
+        "https://t.co/qubOTrZVND",
+        "https://t.co/9gG0utPwx3"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 186,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Lyon品牌汇",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.29
+    },
+    {
       "candidate_id": "topic-f25271842c1fbf468f",
       "title": "每天认识一个新LOGO （OpenAI）",
       "summary": "每天认识一个新LOGO （OpenAI）",
@@ -7860,34 +7888,6 @@
       "author_fans_count": 754,
       "status": "待处理",
       "total_score": 36.9
-    },
-    {
-      "candidate_id": "topic-86c480efd0f7bb1002",
-      "title": "OpenAI放大招，Cursor使用免费版的GPT5.3x",
-      "summary": "OpenAI放大招，Cursor使用免费版的GPT5.3x；OpenAI 认了，光靠订阅养不起ChatGPT；@OpenAIDevs",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699fc2630000000022031551?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I4RS7p9xmB6jMlH2r_7gm3g=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
-        "https://x.com/OpenAIDevs",
-        "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
-      ],
-      "published_at": "2026-02-26T07:37:36.893601Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 120,
-      "favorite_count": 187,
-      "comment_count": 17,
-      "share_count": 38,
-      "author_name": "测试老江",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m60766pl86g5q5c28imc6ii9i1pflo?imageView2/2/w/80/format/jpg",
-      "author_bio": "🌿 10年+高级测开｜AI开发者\n📙  分享有趣的测试技巧 / AI 测试 \n🔍 不靠谱目标:探索100 个 AI 测试方案\n📈 在职，不培训，随心记",
-      "author_fans_count": 754,
-      "status": "待处理",
-      "total_score": 36.89
     }
   ]
 }
