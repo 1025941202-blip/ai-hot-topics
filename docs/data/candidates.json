@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T01:25:07.174930Z",
+  "generated_at": "2026-09-28T01:29:36.474745Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 18732,
-    "total_candidates": 33260,
+    "total_posts": 18873,
+    "total_candidates": 33683,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-09-27T01:25:06.005855Z",
+    "last_updated_at": "2026-09-28T01:29:35.303261Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 15999
+        "count": 16138
       },
       {
         "platform": "x",
-        "count": 2624
+        "count": 2626
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 27201
+        "count": 27575
       },
       {
         "platform": "x",
-        "count": 8493
+        "count": 8576
       },
       {
         "platform": "xiaohongshu",
-        "count": 383
+        "count": 384
       },
       {
         "platform": "huitun",
@@ -3089,7 +3089,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.35
+      "total_score": 53.3
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4491,7 +4491,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.17
+      "total_score": 33.16
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -4927,7 +4927,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.6
+      "total_score": 30.58
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -5799,16 +5799,16 @@
       "total_score": 37.89
     },
     {
-      "candidate_id": "topic-ef83594ef78c0aa15f",
+      "candidate_id": "topic-93e035856a369dbd7c",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
+      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/Cursoronsol"
+        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -5825,16 +5825,16 @@
       "total_score": 37.88
     },
     {
-      "candidate_id": "topic-93e035856a369dbd7c",
+      "candidate_id": "topic-ef83594ef78c0aa15f",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
+      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
+        "https://x.com/Cursoronsol"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -6542,7 +6542,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.43
+      "total_score": 32.42
     },
     {
       "candidate_id": "topic-f159c95907217565cb",
@@ -7701,6 +7701,30 @@
       "total_score": 28.91
     },
     {
+      "candidate_id": "topic-5783a85a609e0287e0",
+      "title": "【AI Agent 新紀元】專訪：孫大千｜2026.09.28《飛碟早餐 唐湘龍時間》",
+      "summary": "【AI Agent 新紀元】專訪：孫大千｜2026.09.28《飛碟早餐 唐湘龍時間》",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=wuxYnA4RPpU"
+      ],
+      "published_at": "2026-09-27T23:00:06Z",
+      "publish_time_text": "",
+      "view_count": 1200,
+      "like_count": 185,
+      "favorite_count": 0,
+      "comment_count": 3,
+      "share_count": 0,
+      "author_name": "飛碟聯播網",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 34.71
+    },
+    {
       "candidate_id": "topic-db7eaf72ad0046ce98",
       "title": "구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
       "summary": "구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
@@ -7862,36 +7886,6 @@
       "author_fans_count": 754,
       "status": "待处理",
       "total_score": 36.89
-    },
-    {
-      "candidate_id": "topic-06dbd14a0570a978c6",
-      "title": "Stickman and a cursor",
-      "summary": "Stickman and a cursor；#cursor #paraiba；OpenAI放大招，Cursor使用免费版的GPT5.3x",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Y7Jln4mxxro",
-        "https://www.youtube.com/watch?v=QEV0PMpht6A",
-        "https://www.xiaohongshu.com/explore/699fc2630000000022031551?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I4RS7p9xmB6jMlH2r_7gm3g=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
-        "https://x.com/ztechnewsupdate/status/2081913175759368626/media_tags"
-      ],
-      "published_at": "2026-02-26T07:37:36.893601Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 120,
-      "favorite_count": 187,
-      "comment_count": 17,
-      "share_count": 38,
-      "author_name": "测试老江",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m60766pl86g5q5c28imc6ii9i1pflo?imageView2/2/w/80/format/jpg",
-      "author_bio": "🌿 10年+高级测开｜AI开发者\n📙  分享有趣的测试技巧 / AI 测试 \n🔍 不靠谱目标:探索100 个 AI 测试方案\n📈 在职，不培训，随心记",
-      "author_fans_count": 754,
-      "status": "待处理",
-      "total_score": 31.79
     }
   ]
 }
