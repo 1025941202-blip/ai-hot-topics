@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:31:19.714144Z",
+  "generated_at": "2026-10-02T01:28:21.595164Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 19394,
-    "total_candidates": 35168,
+    "total_posts": 19568,
+    "total_candidates": 35626,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-01T01:31:18.432271Z",
+    "last_updated_at": "2026-10-02T01:28:10.050374Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 16615
+        "count": 16772
       },
       {
         "platform": "x",
-        "count": 2670
+        "count": 2687
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 28842
+        "count": 29229
       },
       {
         "platform": "x",
-        "count": 8906
+        "count": 9001
       },
       {
         "platform": "xiaohongshu",
-        "count": 391
+        "count": 395
       },
       {
         "platform": "huitun",
@@ -514,6 +514,31 @@
       "author_fans_count": 7372,
       "status": "待处理",
       "total_score": 57.25
+    },
+    {
+      "candidate_id": "topic-148db3ba09ef2f1125",
+      "title": "&quot;I&#39;m an agent of chaos...&quot;",
+      "summary": "&quot;I&#39;m an agent of chaos...&quot;；🚨”J” is an agent of CHAOS! #quantumshifting #karma #toxic #karmic",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=9z5_-woSX4o",
+        "https://www.youtube.com/watch?v=vXDs6qzf5KU"
+      ],
+      "published_at": "2026-07-10T21:58:47Z",
+      "publish_time_text": "",
+      "view_count": 124777,
+      "like_count": 12419,
+      "favorite_count": 0,
+      "comment_count": 163,
+      "share_count": 0,
+      "author_name": "PassTheSalt",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 38.78
     },
     {
       "candidate_id": "topic-de99bf5a37939e0b96",
@@ -1214,7 +1239,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.36
+      "total_score": 58.35
     },
     {
       "candidate_id": "topic-f49925b7088db4b4b1",
@@ -2570,6 +2595,34 @@
       "total_score": 36.66
     },
     {
+      "candidate_id": "topic-3585b58c1b5f79018c",
+      "title": "AI Agent工程师学习路线，不走弯路",
+      "summary": "AI Agent工程师学习路线，不走弯路；@raidragent；From kopiaiagent.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69a0319f000000000e00d981",
+        "https://x.com/RaidrAgent",
+        "https://t.co/s36sD3I9L9",
+        "https://www.xiaohongshu.com/explore/6986070a000000001a02fa21"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 2731,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "小朱编程AI",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 35.25
+    },
+    {
       "candidate_id": "topic-85dfcbc8d3279c2508",
       "title": "AI Agent工程师学习路线，不走弯路",
       "summary": "AI Agent工程师学习路线，不走弯路；@aixbt_agent；http://\nAgent.ai",
@@ -2915,60 +2968,6 @@
       "total_score": 31.8
     },
     {
-      "candidate_id": "topic-a56ef032cb4b42111f",
-      "title": "(실시간) 전세계 반도체 반등 | OpenAI IPO 기업공개 신청 | 무역수지, 기존주택매매 지수 | 미국주식, 비트코인 방송",
-      "summary": "(실시간) 전세계 반도체 반등 | OpenAI IPO 기업공개 신청 | 무역수지, 기존주택매매 지수 | 미국주식, 비트코인 방송；OpenAIより先行？Anthropic IPOニュースの正しい見方 #Shorts；Claude 회사가 상장 버튼 눌렀습니다 ㄷㄷ 9650억달러 IPO 시동 #shorts",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=RZ-9Kzlkc44",
-        "https://www.youtube.com/watch?v=uNEg2VPh31M",
-        "https://www.youtube.com/watch?v=PNipmorKtAc",
-        "https://www.youtube.com/watch?v=Ca3qfkMYu88"
-      ],
-      "published_at": "2026-06-09T22:12:29Z",
-      "publish_time_text": "",
-      "view_count": 172514,
-      "like_count": 2625,
-      "favorite_count": 0,
-      "comment_count": 2,
-      "share_count": 0,
-      "author_name": "미국 주식 채널 - 에디 Eddie",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.53
-    },
-    {
-      "candidate_id": "topic-5aed41d31b5bfceb36",
-      "title": "(실시간) 전세계 반도체 반등 | OpenAI IPO 기업공개 신청 | 무역수지, 기존주택매매 지수 | 미국주식, 비트코인 방송",
-      "summary": "(실시간) 전세계 반도체 반등 | OpenAI IPO 기업공개 신청 | 무역수지, 기존주택매매 지수 | 미국주식, 비트코인 방송；SpaceX가 사상 최대 IPO를 시작합니다 — 조주당135  #ai뉴스 #anthropic #spacex #openai #ai상장；Microsoft가 자체 AI 모델 7종을 공개했습니다 — OpenAI 의존 탈피, 코딩 4파전 #ai뉴스  #microsoft #ai코딩 #ai보안",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=RZ-9Kzlkc44",
-        "https://www.youtube.com/watch?v=cJiVjpXRU4M",
-        "https://www.youtube.com/watch?v=XlCg4BAo6IQ",
-        "https://www.youtube.com/watch?v=fgx4vNngT5Q"
-      ],
-      "published_at": "2026-06-09T22:12:29Z",
-      "publish_time_text": "",
-      "view_count": 172514,
-      "like_count": 2625,
-      "favorite_count": 0,
-      "comment_count": 2,
-      "share_count": 0,
-      "author_name": "미국 주식 채널 - 에디 Eddie",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.52
-    },
-    {
       "candidate_id": "topic-dfa20fcdf1abfde4fd",
       "title": "5大技巧，让你的AI视频更真实！",
       "summary": "5大技巧，让你的AI视频更真实！",
@@ -3226,7 +3225,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.19
+      "total_score": 53.16
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -3570,6 +3569,32 @@
       "author_fans_count": 108214,
       "status": "待处理",
       "total_score": 41.02
+    },
+    {
+      "candidate_id": "topic-800edc59a6c33d9cc2",
+      "title": "🧐👉 OpenAI की सुरक्षा पर सवाल: Tumbler Ridge शूटिंग के बाद सरकार का दबाव #QixNewsAI",
+      "summary": "🧐👉 OpenAI की सुरक्षा पर सवाल: Tumbler Ridge शूटिंग के बाद सरकार का दबाव #QixNewsAI；OpenAI 认了，光靠订阅养不起ChatGPT",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=29doJWr1yMs",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 41.01
     },
     {
       "candidate_id": "topic-6bb79d6138b30fe7ab",
@@ -7165,7 +7190,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.68
+      "total_score": 33.67
     },
     {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
@@ -7214,7 +7239,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 31.7
+      "total_score": 31.69
     },
     {
       "candidate_id": "topic-0cf2f1b97317f0276c",
@@ -7854,33 +7879,6 @@
         "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
         "https://x.com/OpenAIDevs",
         "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 186,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Lyon品牌汇",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.38
-    },
-    {
-      "candidate_id": "topic-3d989ecf01668938f2",
-      "title": "每天认识一个新LOGO （OpenAI）",
-      "summary": "每天认识一个新LOGO （OpenAI）；From openai.com；From openai.com",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
-        "https://t.co/qubOTrZVND",
-        "https://t.co/9gG0utPwx3"
       ],
       "published_at": "",
       "publish_time_text": "",
