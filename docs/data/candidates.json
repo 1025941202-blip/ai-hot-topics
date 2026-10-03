@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:28:21.595164Z",
+  "generated_at": "2026-10-03T01:27:43.854370Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 19568,
-    "total_candidates": 35626,
+    "total_posts": 19749,
+    "total_candidates": 36129,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-02T01:28:10.050374Z",
+    "last_updated_at": "2026-10-03T01:27:42.474243Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 16772
+        "count": 16930
       },
       {
         "platform": "x",
-        "count": 2687
+        "count": 2710
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 29229
+        "count": 29652
       },
       {
         "platform": "x",
-        "count": 9001
+        "count": 9119
       },
       {
         "platform": "xiaohongshu",
-        "count": 395
+        "count": 397
       },
       {
         "platform": "huitun",
@@ -2595,6 +2595,34 @@
       "total_score": 36.66
     },
     {
+      "candidate_id": "topic-3ab333f9072357a303",
+      "title": "AI Agent工程师学习路线，不走弯路",
+      "summary": "AI Agent工程师学习路线，不走弯路；@aixbt_agent；@agent_ai_bot",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69a0319f000000000e00d981",
+        "https://x.com/aixbt_agent",
+        "https://x.com/agent_ai_bot",
+        "https://x.com/aixrp_agent"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 2731,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "小朱编程AI",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 35.25
+    },
+    {
       "candidate_id": "topic-3585b58c1b5f79018c",
       "title": "AI Agent工程师学习路线，不走弯路",
       "summary": "AI Agent工程师学习路线，不走弯路；@raidragent；From kopiaiagent.com",
@@ -3225,7 +3253,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.16
+      "total_score": 53.13
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4679,7 +4707,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.14
+      "total_score": 33.13
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -5115,7 +5143,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.55
+      "total_score": 30.54
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -6197,35 +6225,6 @@
       "author_fans_count": 9596,
       "status": "待处理",
       "total_score": 30.94
-    },
-    {
-      "candidate_id": "topic-48d508b30223b3e17e",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；From cursor.com；From cursor.com",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://t.co/9ss9DNKkMb",
-        "https://t.co/C9ViZEUeLO",
-        "https://x.com/Cursoronsol",
-        "https://t.co/5dPcI8P004"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 29.55
     },
     {
       "candidate_id": "topic-4199fcfba5e5783f65",
