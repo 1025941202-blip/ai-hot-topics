@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T01:27:43.854370Z",
+  "generated_at": "2026-10-04T01:31:24.860893Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 19749,
-    "total_candidates": 36129,
+    "total_posts": 19933,
+    "total_candidates": 36627,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-03T01:27:42.474243Z",
+    "last_updated_at": "2026-10-04T01:31:23.556862Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 16930
+        "count": 17092
       },
       {
         "platform": "x",
-        "count": 2710
+        "count": 2732
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 29652
+        "count": 30087
       },
       {
         "platform": "x",
-        "count": 9119
+        "count": 9221
       },
       {
         "platform": "xiaohongshu",
-        "count": 397
+        "count": 400
       },
       {
         "platform": "huitun",
@@ -440,7 +440,7 @@
       "author_bio": "✨5年短视频运营操盘手\n📖自媒体干货I工具分享|AI学习\n闪剪智能旗下社群 Al Park 全球运营操盘手",
       "author_fans_count": 89526,
       "status": "待处理",
-      "total_score": 39.43
+      "total_score": 39.42
     },
     {
       "candidate_id": "topic-c8a69ffe37e1811d82",
@@ -1616,6 +1616,34 @@
       "author_fans_count": 29857,
       "status": "待处理",
       "total_score": 64.78
+    },
+    {
+      "candidate_id": "topic-2154cadd02b1747c2f",
+      "title": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts",
+      "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；Chat Gpt… 🥀 #shorts #fyp；Yo cada que habló con chat gpt:#chatgpt #ayudasaquenmedelflop#saquenmedelflop #chat#gpt#humor",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZNrnuMV3WlQ",
+        "https://www.youtube.com/watch?v=Vd8yP5TnkCk",
+        "https://www.youtube.com/watch?v=P935NzStlZ8",
+        "https://www.youtube.com/watch?v=68SpHqQPA3s",
+        "https://www.youtube.com/watch?v=-ho7F66Zk84"
+      ],
+      "published_at": "2026-08-18T22:07:21Z",
+      "publish_time_text": "",
+      "view_count": 24458,
+      "like_count": 4079,
+      "favorite_count": 0,
+      "comment_count": 43,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.17
     },
     {
       "candidate_id": "topic-baf6116e9633d9ba2f",
@@ -3253,7 +3281,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.13
+      "total_score": 53.11
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -5044,7 +5072,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.76
+      "total_score": 41.75
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5143,7 +5171,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.54
+      "total_score": 30.53
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -5274,6 +5302,34 @@
       "author_fans_count": 21244,
       "status": "待处理",
       "total_score": 34.55
+    },
+    {
+      "candidate_id": "topic-5715717b58e42a4562",
+      "title": "@मुकेश $म्यूजिक🙏👍♥️ #चंद्रशेखर #chauhan #Stguru#manus#शॉर्ट",
+      "summary": "@मुकेश $म्यूजिक🙏👍♥️ #चंद्रशेखर #chauhan #Stguru#manus#शॉर्ट；每天拆解一个AI产品：Manus；【時間修正版】Manus AI ゆるふわもくもく会「今まで Manus で作って心底役立ったアプリの紹介」 #29 #manusもくもく会",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=a2MwTSCurZE",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://t.co/c8k36Bxkii"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 33.53
     },
     {
       "candidate_id": "topic-50008c2e37b4a2f79a",
@@ -6015,6 +6071,32 @@
       "total_score": 37.89
     },
     {
+      "candidate_id": "topic-1c8dc91e5ea4b00aa8",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；@cursorenla",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/cursorenla"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 37.88
+    },
+    {
       "candidate_id": "topic-93e035856a369dbd7c",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
@@ -6051,32 +6133,6 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
         "https://x.com/Cursoronsol"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 37.88
-    },
-    {
-      "candidate_id": "topic-1c8dc91e5ea4b00aa8",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@cursorenla",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/cursorenla"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -7241,30 +7297,6 @@
       "total_score": 31.69
     },
     {
-      "candidate_id": "topic-0cf2f1b97317f0276c",
-      "title": "「ChatGPT・Claudeに勝つ」富士通が挑む新構造AI「PHOTON」 処理効率475倍の衝撃【橋本幸治の理系通信】",
-      "summary": "「ChatGPT・Claudeに勝つ」富士通が挑む新構造AI「PHOTON」 処理効率475倍の衝撃【橋本幸治の理系通信】",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=huoR2hSkbP4"
-      ],
-      "published_at": "2026-07-24T22:00:17Z",
-      "publish_time_text": "",
-      "view_count": 8132,
-      "like_count": 358,
-      "favorite_count": 0,
-      "comment_count": 92,
-      "share_count": 0,
-      "author_name": "テレ東BIZ ダイジェスト",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.55
-    },
-    {
       "candidate_id": "topic-3212b431c29c7a57fb",
       "title": "2026程序员转大模型应用开发看这篇就够了",
       "summary": "2026程序员转大模型应用开发看这篇就够了",
@@ -7865,33 +7897,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 31.58
-    },
-    {
-      "candidate_id": "topic-6f9d7dcbdd8d47c3de",
-      "title": "每天认识一个新LOGO （OpenAI）",
-      "summary": "每天认识一个新LOGO （OpenAI）；@OpenAIDevs；#OpenAIDown",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
-        "https://x.com/OpenAIDevs",
-        "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 186,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Lyon品牌汇",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.38
     }
   ]
 }
