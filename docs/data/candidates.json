@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T01:31:24.860893Z",
+  "generated_at": "2026-10-05T01:30:34.358713Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 19933,
-    "total_candidates": 36627,
+    "total_posts": 20124,
+    "total_candidates": 37186,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-04T01:31:23.556862Z",
+    "last_updated_at": "2026-10-05T01:30:32.880832Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 17092
+        "count": 17256
       },
       {
         "platform": "x",
-        "count": 2732
+        "count": 2759
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 30087
+        "count": 30553
       },
       {
         "platform": "x",
-        "count": 9221
+        "count": 9354
       },
       {
         "platform": "xiaohongshu",
-        "count": 400
+        "count": 401
       },
       {
         "platform": "huitun",
@@ -621,34 +621,6 @@
       "total_score": 31.87
     },
     {
-      "candidate_id": "topic-05cc6817da9057dd0d",
-      "title": "&quot;I&#39;m an agent of chaos...&quot;",
-      "summary": "&quot;I&#39;m an agent of chaos...&quot;；🚨”J” is an agent of CHAOS! #quantumshifting #karma #toxic #karmic；&quot;Floor Transformation &quot;🏠 #shorts #ikonick #art #ai",
-      "platforms": [
-        "x",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=9z5_-woSX4o",
-        "https://www.youtube.com/watch?v=vXDs6qzf5KU",
-        "https://www.youtube.com/watch?v=5rJdPPdBSwc",
-        "https://t.co/w4UeJT2cFJ"
-      ],
-      "published_at": "2026-07-10T21:58:47Z",
-      "publish_time_text": "",
-      "view_count": 124777,
-      "like_count": 12419,
-      "favorite_count": 0,
-      "comment_count": 163,
-      "share_count": 0,
-      "author_name": "PassTheSalt",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.72
-    },
-    {
       "candidate_id": "topic-d9fe69dc90eb99881f",
       "title": "如何制作低成本高质量的AI广告",
       "summary": "如何制作低成本高质量的AI广告",
@@ -792,7 +764,7 @@
       "author_bio": "曾就职一线互联网大厂，目前AI创业中\n紧跟AI最前沿技术，深度研究国内外AI如何落地\n致力于帮助普通人学会AI，帮助企业通过AI提效",
       "author_fans_count": 31950,
       "status": "待处理",
-      "total_score": 62.78
+      "total_score": 62.77
     },
     {
       "candidate_id": "topic-bf83b126fd75b956bc",
@@ -2339,33 +2311,6 @@
       "total_score": 32.12
     },
     {
-      "candidate_id": "topic-b8f41a75658b06a81a",
-      "title": "¿5 PERSONAJES MAS RAPIDOS QUE FLASH SEGUN CHAT GPT? #shorts",
-      "summary": "¿5 PERSONAJES MAS RAPIDOS QUE FLASH SEGUN CHAT GPT? #shorts；House flipper vs real estate agent: rapid fire questions 💪🏽；¿5 PERSONAJES MAS DEBILES QUE VENCERIAN A GOKU SEGUN CHAT GPT? #shorts",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=k1VD854B_lQ",
-        "https://www.youtube.com/watch?v=Vn-NRsZagJ4",
-        "https://www.youtube.com/watch?v=aDDI4USk8ow",
-        "https://www.youtube.com/watch?v=4d7YwIQWcic"
-      ],
-      "published_at": "2026-03-26T23:00:52Z",
-      "publish_time_text": "",
-      "view_count": 14712,
-      "like_count": 3062,
-      "favorite_count": 0,
-      "comment_count": 70,
-      "share_count": 0,
-      "author_name": "MrScale",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.79
-    },
-    {
       "candidate_id": "topic-5455181db6fd77e977",
       "title": "I Tested AI Hotels",
       "summary": "I Tested AI Hotels",
@@ -3232,34 +3177,6 @@
       "total_score": 30.68
     },
     {
-      "candidate_id": "topic-db9e23b9291419efdd",
-      "title": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts",
-      "summary": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts；gpt chat for 666💀☠️ #666 and #gpt；Ayúdame chat GPT🤑. #humor #cheems #shorts",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=68SpHqQPA3s",
-        "https://www.youtube.com/watch?v=bzaoJJ7-xcE",
-        "https://www.youtube.com/watch?v=noRAJ4Of4bc",
-        "https://www.youtube.com/watch?v=qGjiW4rviBU",
-        "https://www.youtube.com/watch?v=VyEkWIJmcVA"
-      ],
-      "published_at": "2026-07-25T00:07:22Z",
-      "publish_time_text": "",
-      "view_count": 14012,
-      "like_count": 2259,
-      "favorite_count": 0,
-      "comment_count": 23,
-      "share_count": 0,
-      "author_name": "MrScale",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.83
-    },
-    {
       "candidate_id": "topic-0f85e93e1e1d8194f6",
       "title": "AI失控毁灭人类？业内呼吁大模型延缓开发！黄仁勋特朗普急了！打电话演双簧力挺AI开发！美联储突然加息？特朗普不高兴为什么却不敢对沃什生气？短期美债到底被谁买走了？",
       "summary": "AI失控毁灭人类？业内呼吁大模型延缓开发！黄仁勋特朗普急了！打电话演双簧力挺AI开发！美联储突然加息？特朗普不高兴为什么却不敢对沃什生气？短期美债到底被谁买走了？",
@@ -3281,7 +3198,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.11
+      "total_score": 53.09
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4735,7 +4652,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.13
+      "total_score": 33.12
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -5558,30 +5475,6 @@
       "total_score": 44.55
     },
     {
-      "candidate_id": "topic-8716d4cc8391c5bd28",
-      "title": "被中國AI嚇到怕！美國科技巨頭Open AI大降價20%到80%，《紐約時報》罕見地講真話！",
-      "summary": "被中國AI嚇到怕！美國科技巨頭Open AI大降價20%到80%，《紐約時報》罕見地講真話！",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=exoz-_p_nZc"
-      ],
-      "published_at": "2026-08-02T16:00:06Z",
-      "publish_time_text": "",
-      "view_count": 4814,
-      "like_count": 930,
-      "favorite_count": 0,
-      "comment_count": 28,
-      "share_count": 0,
-      "author_name": "正向報 - 正向香港 面向世界",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.72
-    },
-    {
       "candidate_id": "topic-affdc6cea9acfba302",
       "title": "10萬份絕密文件，中共首創人工智能“測算”誰未來是“反賊”；北京當局六四監控手段明顯升級；高調作秀本身盡現安全隱患，也是下次災難起點。",
       "summary": "10萬份絕密文件，中共首創人工智能“測算”誰未來是“反賊”；北京當局六四監控手段明顯升級；高調作秀本身盡現安全隱患，也是下次災難起點。",
@@ -5682,7 +5575,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.23
+      "total_score": 30.22
     },
     {
       "candidate_id": "topic-a8c8b1370e5208bd6d",
@@ -5760,9 +5653,9 @@
       "total_score": 34.98
     },
     {
-      "candidate_id": "topic-dc1a40bbfa85e9281c",
+      "candidate_id": "topic-9f32a23d908f00a14a",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5770,7 +5663,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/A3jnigbUAc"
+        "https://t.co/IKzuhX2Uvc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -5787,9 +5680,9 @@
       "total_score": 32.65
     },
     {
-      "candidate_id": "topic-9f32a23d908f00a14a",
+      "candidate_id": "topic-dc1a40bbfa85e9281c",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5797,7 +5690,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/IKzuhX2Uvc"
+        "https://t.co/A3jnigbUAc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -6071,6 +5964,32 @@
       "total_score": 37.89
     },
     {
+      "candidate_id": "topic-9671e65a3564b3be4b",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；@geniam_cursor",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/geniam_cursor"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 37.88
+    },
+    {
       "candidate_id": "topic-1c8dc91e5ea4b00aa8",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制；@cursorenla",
@@ -6133,32 +6052,6 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
         "https://x.com/Cursoronsol"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 37.88
-    },
-    {
-      "candidate_id": "topic-9671e65a3564b3be4b",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@geniam_cursor",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/geniam_cursor"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -6920,30 +6813,6 @@
       "author_fans_count": 130,
       "status": "待处理",
       "total_score": 30.26
-    },
-    {
-      "candidate_id": "topic-fc8a37ebb6015faf24",
-      "title": "高强度使用半年cursor，经验&踩坑分享给你！",
-      "summary": "高强度使用半年cursor，经验&踩坑分享给你！",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699c33a3000000000e03f3b7?xsec_token=ABNmgOebEGFcgnJ-7g8EV0hovMYOvROMmfj1OPZsuurWs=&xsec_source=pc_search"
-      ],
-      "published_at": "2026-02-26T07:37:55.556623Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 406,
-      "favorite_count": 676,
-      "comment_count": 23,
-      "share_count": 81,
-      "author_name": "你的AI背包",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31siva9jr5mc05odmiio8cf25o7u19a8?imageView2/2/w/80/format/jpg",
-      "author_bio": "AI产品经理 | 华科CS+传播学 → LSE\n用大白话聊AI，不贩卖焦虑，只说人话",
-      "author_fans_count": 130,
-      "status": "待处理",
-      "total_score": 28.62
     },
     {
       "candidate_id": "topic-0307b7401e67fd7156",
@@ -7897,6 +7766,136 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 31.58
+    },
+    {
+      "candidate_id": "topic-6f9d7dcbdd8d47c3de",
+      "title": "每天认识一个新LOGO （OpenAI）",
+      "summary": "每天认识一个新LOGO （OpenAI）；@OpenAIDevs；#OpenAIDown",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
+        "https://x.com/OpenAIDevs",
+        "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 186,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Lyon品牌汇",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.38
+    },
+    {
+      "candidate_id": "topic-3d989ecf01668938f2",
+      "title": "每天认识一个新LOGO （OpenAI）",
+      "summary": "每天认识一个新LOGO （OpenAI）；From openai.com；From openai.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
+        "https://t.co/qubOTrZVND",
+        "https://t.co/9gG0utPwx3"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 186,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Lyon品牌汇",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.38
+    },
+    {
+      "candidate_id": "topic-f25271842c1fbf468f",
+      "title": "每天认识一个新LOGO （OpenAI）",
+      "summary": "每天认识一个新LOGO （OpenAI）",
+      "platforms": [
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 186,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Lyon品牌汇",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.91
+    },
+    {
+      "candidate_id": "topic-db7eaf72ad0046ce98",
+      "title": "구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
+      "summary": "구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=zi9zcD4L7dU"
+      ],
+      "published_at": "2026-08-07T23:00:01Z",
+      "publish_time_text": "",
+      "view_count": 5828,
+      "like_count": 175,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "1분썰배달",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.02
+    },
+    {
+      "candidate_id": "topic-9150521737ecd772bd",
+      "title": "Será que o chat gpt mandou bem? #chatgpt #comida #shorts",
+      "summary": "Será que o chat gpt mandou bem? #chatgpt #comida #shorts；que é isso chat gpt kkkkkk；O chat gpt é assim!😂 #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=wh8QpqB0Ryk",
+        "https://www.youtube.com/watch?v=Z4GoDP4AuAk",
+        "https://www.youtube.com/watch?v=bOoNBVUTmuI",
+        "https://www.youtube.com/watch?v=-ho7F66Zk84",
+        "https://www.youtube.com/watch?v=vIxAXA3prVA"
+      ],
+      "published_at": "2026-08-09T00:47:16Z",
+      "publish_time_text": "",
+      "view_count": 2102,
+      "like_count": 165,
+      "favorite_count": 0,
+      "comment_count": 6,
+      "share_count": 0,
+      "author_name": "Guindicasp",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.0
     }
   ]
 }
