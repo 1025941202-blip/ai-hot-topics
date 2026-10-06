@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:30:34.358713Z",
+  "generated_at": "2026-10-06T01:28:00.286564Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 20124,
-    "total_candidates": 37186,
+    "total_posts": 20300,
+    "total_candidates": 37669,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-05T01:30:32.880832Z",
+    "last_updated_at": "2026-10-06T01:27:58.908254Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 17256
+        "count": 17412
       },
       {
         "platform": "x",
-        "count": 2759
+        "count": 2779
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 30553
+        "count": 30954
       },
       {
         "platform": "x",
-        "count": 9354
+        "count": 9465
       },
       {
         "platform": "xiaohongshu",
-        "count": 401
+        "count": 404
       },
       {
         "platform": "huitun",
@@ -3177,6 +3177,34 @@
       "total_score": 30.68
     },
     {
+      "candidate_id": "topic-db9e23b9291419efdd",
+      "title": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts",
+      "summary": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts；gpt chat for 666💀☠️ #666 and #gpt；Ayúdame chat GPT🤑. #humor #cheems #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=68SpHqQPA3s",
+        "https://www.youtube.com/watch?v=bzaoJJ7-xcE",
+        "https://www.youtube.com/watch?v=noRAJ4Of4bc",
+        "https://www.youtube.com/watch?v=qGjiW4rviBU",
+        "https://www.youtube.com/watch?v=VyEkWIJmcVA"
+      ],
+      "published_at": "2026-07-25T00:07:22Z",
+      "publish_time_text": "",
+      "view_count": 14012,
+      "like_count": 2259,
+      "favorite_count": 0,
+      "comment_count": 23,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 28.83
+    },
+    {
       "candidate_id": "topic-0f85e93e1e1d8194f6",
       "title": "AI失控毁灭人类？业内呼吁大模型延缓开发！黄仁勋特朗普急了！打电话演双簧力挺AI开发！美联储突然加息？特朗普不高兴为什么却不敢对沃什生气？短期美债到底被谁买走了？",
       "summary": "AI失控毁灭人类？业内呼吁大模型延缓开发！黄仁勋特朗普急了！打电话演双簧力挺AI开发！美联储突然加息？特朗普不高兴为什么却不敢对沃什生气？短期美债到底被谁买走了？",
@@ -3198,7 +3226,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.09
+      "total_score": 53.08
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4815,6 +4843,32 @@
       "total_score": 36.9
     },
     {
+      "candidate_id": "topic-6f23b98c4276f272fa",
+      "title": "AI大模型，会是下一个被淘汰的专家   下#科普涨知识#知识科普#科普知识",
+      "summary": "AI大模型，会是下一个被淘汰的专家   下#科普涨知识#知识科普#科普知识；一天吃透一条产业链：NO.49 AI大模型",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=5wNdRPnyKTU",
+        "https://www.xiaohongshu.com/explore/698446bd000000002103d850?xsec_token=ABzEkrBrsBAH2egDP6WLlzurk_l6asiL-4YMgyvoBkfVo=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-02-05T00:00:00Z",
+      "publish_time_text": "02-05",
+      "view_count": 0,
+      "like_count": 1352,
+      "favorite_count": 1586,
+      "comment_count": 27,
+      "share_count": 350,
+      "author_name": "虎啸黄老师",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j5e3nv22a005p92oe2qmhk1bsvc1p0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🎓国立清华本硕，物理+电子工程\n🚀斜杠人生：半导体·芯片设计工程师➡️互联网·运营团队负责人➡️商业分析负责人\n💡分享产业研究 | 行业分析 | 商业案例\n📝商业分析方法学习@虎啸知析",
+      "author_fans_count": 26458,
+      "status": "待处理",
+      "total_score": 36.82
+    },
+    {
       "candidate_id": "topic-78bf1b8cb43c8e4eca",
       "title": "豆包将上春晚发10万份科技好礼 #豆包#AI大模型#腾讯元宝#现金红包",
       "summary": "豆包将上春晚发10万份科技好礼 #豆包#AI大模型#腾讯元宝#现金红包；一天吃透一条产业链：NO.49 AI大模型",
@@ -5088,7 +5142,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.53
+      "total_score": 30.52
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -7114,7 +7168,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.67
+      "total_score": 33.66
     },
     {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
@@ -7844,58 +7898,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.91
-    },
-    {
-      "candidate_id": "topic-db7eaf72ad0046ce98",
-      "title": "구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
-      "summary": "구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=zi9zcD4L7dU"
-      ],
-      "published_at": "2026-08-07T23:00:01Z",
-      "publish_time_text": "",
-      "view_count": 5828,
-      "like_count": 175,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "1분썰배달",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 33.02
-    },
-    {
-      "candidate_id": "topic-9150521737ecd772bd",
-      "title": "Será que o chat gpt mandou bem? #chatgpt #comida #shorts",
-      "summary": "Será que o chat gpt mandou bem? #chatgpt #comida #shorts；que é isso chat gpt kkkkkk；O chat gpt é assim!😂 #shorts",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=wh8QpqB0Ryk",
-        "https://www.youtube.com/watch?v=Z4GoDP4AuAk",
-        "https://www.youtube.com/watch?v=bOoNBVUTmuI",
-        "https://www.youtube.com/watch?v=-ho7F66Zk84",
-        "https://www.youtube.com/watch?v=vIxAXA3prVA"
-      ],
-      "published_at": "2026-08-09T00:47:16Z",
-      "publish_time_text": "",
-      "view_count": 2102,
-      "like_count": 165,
-      "favorite_count": 0,
-      "comment_count": 6,
-      "share_count": 0,
-      "author_name": "Guindicasp",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 30.0
     }
   ]
 }
