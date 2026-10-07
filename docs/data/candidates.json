@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T01:28:00.286564Z",
+  "generated_at": "2026-10-07T01:28:51.380088Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 20300,
-    "total_candidates": 37669,
+    "total_posts": 20472,
+    "total_candidates": 38178,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-06T01:27:58.908254Z",
+    "last_updated_at": "2026-10-07T01:28:49.896036Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 17412
+        "count": 17574
       },
       {
         "platform": "x",
-        "count": 2779
+        "count": 2789
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 30954
+        "count": 31382
       },
       {
         "platform": "x",
-        "count": 9465
+        "count": 9577
       },
       {
         "platform": "xiaohongshu",
-        "count": 404
+        "count": 405
       },
       {
         "platform": "huitun",
@@ -1587,7 +1587,7 @@
       "author_bio": "教你给AI喂数据，帮模型开脑洞，难产了就重启试试！",
       "author_fans_count": 29857,
       "status": "待处理",
-      "total_score": 64.78
+      "total_score": 64.77
     },
     {
       "candidate_id": "topic-2154cadd02b1747c2f",
@@ -3177,34 +3177,6 @@
       "total_score": 30.68
     },
     {
-      "candidate_id": "topic-db9e23b9291419efdd",
-      "title": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts",
-      "summary": "¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts；gpt chat for 666💀☠️ #666 and #gpt；Ayúdame chat GPT🤑. #humor #cheems #shorts",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=68SpHqQPA3s",
-        "https://www.youtube.com/watch?v=bzaoJJ7-xcE",
-        "https://www.youtube.com/watch?v=noRAJ4Of4bc",
-        "https://www.youtube.com/watch?v=qGjiW4rviBU",
-        "https://www.youtube.com/watch?v=VyEkWIJmcVA"
-      ],
-      "published_at": "2026-07-25T00:07:22Z",
-      "publish_time_text": "",
-      "view_count": 14012,
-      "like_count": 2259,
-      "favorite_count": 0,
-      "comment_count": 23,
-      "share_count": 0,
-      "author_name": "MrScale",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.83
-    },
-    {
       "candidate_id": "topic-0f85e93e1e1d8194f6",
       "title": "AI失控毁灭人类？业内呼吁大模型延缓开发！黄仁勋特朗普急了！打电话演双簧力挺AI开发！美联储突然加息？特朗普不高兴为什么却不敢对沃什生气？短期美债到底被谁买走了？",
       "summary": "AI失控毁灭人类？业内呼吁大模型延缓开发！黄仁勋特朗普急了！打电话演双簧力挺AI开发！美联储突然加息？特朗普不高兴为什么却不敢对沃什生气？短期美债到底被谁买走了？",
@@ -3226,7 +3198,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.08
+      "total_score": 53.06
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -5707,9 +5679,9 @@
       "total_score": 34.98
     },
     {
-      "candidate_id": "topic-9f32a23d908f00a14a",
+      "candidate_id": "topic-dc1a40bbfa85e9281c",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5717,7 +5689,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/IKzuhX2Uvc"
+        "https://t.co/A3jnigbUAc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -5734,9 +5706,9 @@
       "total_score": 32.65
     },
     {
-      "candidate_id": "topic-dc1a40bbfa85e9281c",
+      "candidate_id": "topic-9f32a23d908f00a14a",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5744,7 +5716,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/A3jnigbUAc"
+        "https://t.co/IKzuhX2Uvc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -7898,6 +7870,30 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 28.91
+    },
+    {
+      "candidate_id": "topic-db7eaf72ad0046ce98",
+      "title": "구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
+      "summary": "구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=zi9zcD4L7dU"
+      ],
+      "published_at": "2026-08-07T23:00:01Z",
+      "publish_time_text": "",
+      "view_count": 5828,
+      "like_count": 175,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "1분썰배달",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.02
     }
   ]
 }
