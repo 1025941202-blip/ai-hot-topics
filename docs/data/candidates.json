@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:28:51.380088Z",
+  "generated_at": "2026-10-08T01:30:04.383899Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 20472,
-    "total_candidates": 38178,
+    "total_posts": 20643,
+    "total_candidates": 38660,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-07T01:28:49.896036Z",
+    "last_updated_at": "2026-10-08T01:30:02.740647Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 17574
+        "count": 17734
       },
       {
         "platform": "x",
-        "count": 2789
+        "count": 2800
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 31382
+        "count": 31807
       },
       {
         "platform": "x",
-        "count": 9577
+        "count": 9664
       },
       {
         "platform": "xiaohongshu",
-        "count": 405
+        "count": 409
       },
       {
         "platform": "huitun",
@@ -1211,7 +1211,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 58.35
+      "total_score": 58.34
     },
     {
       "candidate_id": "topic-f49925b7088db4b4b1",
@@ -1748,6 +1748,34 @@
       "author_fans_count": 74384,
       "status": "待处理",
       "total_score": 55.09
+    },
+    {
+      "candidate_id": "topic-560a8bce5152130b7c",
+      "title": "Agent Has A Full Circle Moment With A Supporter! 🥹❤️",
+      "summary": "Agent Has A Full Circle Moment With A Supporter! 🥹❤️；LLM Agent Wins with a Map! Second-Best Performer!；chat gpt describes me! #comment #roblox #rblx #subscribe #fyp #viral #blowup #edit #robloxedit #like",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=lzIUBch-DGc",
+        "https://www.youtube.com/watch?v=azejzG4U6Aw",
+        "https://www.youtube.com/watch?v=hiQlFBqqKys",
+        "https://www.youtube.com/watch?v=5tMSxaMYXVo",
+        "https://www.youtube.com/watch?v=rQTOmYWbTJY"
+      ],
+      "published_at": "2026-09-12T23:12:34Z",
+      "publish_time_text": "",
+      "view_count": 79430,
+      "like_count": 3780,
+      "favorite_count": 0,
+      "comment_count": 22,
+      "share_count": 0,
+      "author_name": "Succesful Celebrity",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 29.24
     },
     {
       "candidate_id": "topic-3647900620f5e988c8",
@@ -3198,7 +3226,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.06
+      "total_score": 53.05
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -5114,7 +5142,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.52
+      "total_score": 30.51
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -6202,6 +6230,35 @@
       "total_score": 30.94
     },
     {
+      "candidate_id": "topic-5c72619d9ead247296",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；From cursor.com；Cursor Ops",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://t.co/kUE0jw7nph",
+        "https://x.com/grokBOTARMY",
+        "https://t.co/YFSpzyRBw7",
+        "https://t.co/RQUZ4J4xSn"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 29.55
+    },
+    {
       "candidate_id": "topic-4199fcfba5e5783f65",
       "title": "Deepseek提示词万能模板👍😱",
       "summary": "Deepseek提示词万能模板👍😱",
@@ -6356,6 +6413,34 @@
       "author_fans_count": 26812,
       "status": "待处理",
       "total_score": 29.7
+    },
+    {
+      "candidate_id": "topic-0f6438b242f5ba4926",
+      "title": "AI办公全场景实操课程：提示词+文案写作+营销方案+PPT制作+Excel图表",
+      "summary": "AI办公全场景实操课程：提示词+文案写作+营销方案+PPT制作+Excel图表；AI写作变现全链路：教案×PPT×作业设计×DeepSeek提示词×豆包；deepseek让excel起飞 deepseek让excel起飞 #deepseek #excel #officeai",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=_fLDvQVHfLM",
+        "https://www.youtube.com/watch?v=R_j1n7ZxYkA",
+        "https://www.youtube.com/watch?v=woR-26HbOq4",
+        "https://www.xiaohongshu.com/explore/67c6ac7a000000002a00d12d?xsec_token=ABOrC1N8EOqaPtrLu8rvK1NCJNhe846AYA6_LaT1PpMUQ=&xsec_source=pc_search"
+      ],
+      "published_at": "2025-03-04T00:00:00Z",
+      "publish_time_text": "2025-03-04",
+      "view_count": 0,
+      "like_count": 597,
+      "favorite_count": 806,
+      "comment_count": 314,
+      "share_count": 90,
+      "author_name": "艾恒",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310m2agtcmoe05pfemrn197ggoueemt0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🔬专研AI工具落地应用\n💡用AIGC提高工作效率，探索AI的无限效能。\n💖每日持续更新AI前沿干货。",
+      "author_fans_count": 26812,
+      "status": "待处理",
+      "total_score": 29.62
     },
     {
       "candidate_id": "topic-f7eca988503d59803c",
@@ -7241,6 +7326,33 @@
       "total_score": 38.18
     },
     {
+      "candidate_id": "topic-4f3d9e643759e357e1",
+      "title": "apon manus nai",
+      "summary": "apon manus nai；一觉醒来，Ai圈又变天🔥Manus强在哪里？；什么是Manus？和其他AI有什么区别？小白进",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Afw3VHTmpxU",
+        "https://www.xiaohongshu.com/explore/67ca3293000000000302be1f?xsec_token=AB7t3ggQXiq6f-UQ08iW3J2cV3iUQZp2I84VbVHtvjRvQ=&xsec_source=pc_search",
+        "https://www.xiaohongshu.com/explore/67c9657e000000000603a539?xsec_token=ABW0WgVzUQsXmGNSxcarIp22fa92xXLY_c1pO4CzkSxmE=&xsec_source=pc_search"
+      ],
+      "published_at": "2025-03-07T00:00:00Z",
+      "publish_time_text": "2025-03-07",
+      "view_count": 0,
+      "like_count": 279,
+      "favorite_count": 210,
+      "comment_count": 22,
+      "share_count": 160,
+      "author_name": "光落在树叶上🍊",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31on2np170g604br4mngapv9f8mbouc8?imageView2/2/w/80/format/jpg",
+      "author_bio": "我今天先坚持，明天再放弃💚\n做你必须做的，直到你能做你想做的",
+      "author_fans_count": 82,
+      "status": "待处理",
+      "total_score": 33.45
+    },
+    {
       "candidate_id": "topic-d46bce9f0f8b4ef365",
       "title": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
       "summary": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
@@ -7364,32 +7476,6 @@
       "author_fans_count": 134392,
       "status": "待处理",
       "total_score": 33.72
-    },
-    {
-      "candidate_id": "topic-903fed3f710215943b",
-      "title": "Cinna Extra Emily Agent and Rage REUNITE!! (C.A.R.E.)",
-      "summary": "Cinna Extra Emily Agent and Rage REUNITE!! (C.A.R.E.)；#funny #viral #twitch #agent #trending #trendingvideo #streameruniversity2026；Senior Mossad Agent Killed in Tel Aviv?",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=cZ-a8Sn4UiA",
-        "https://www.youtube.com/watch?v=WT79hllR7_c",
-        "https://www.youtube.com/watch?v=ZsQwNZSGvow"
-      ],
-      "published_at": "2026-07-18T20:50:17Z",
-      "publish_time_text": "",
-      "view_count": 4718,
-      "like_count": 231,
-      "favorite_count": 0,
-      "comment_count": 7,
-      "share_count": 0,
-      "author_name": "rainy.mp4",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.85
     },
     {
       "candidate_id": "topic-7b9d1dcdc30d7355c2",
@@ -7819,81 +7905,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 31.38
-    },
-    {
-      "candidate_id": "topic-3d989ecf01668938f2",
-      "title": "每天认识一个新LOGO （OpenAI）",
-      "summary": "每天认识一个新LOGO （OpenAI）；From openai.com；From openai.com",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
-        "https://t.co/qubOTrZVND",
-        "https://t.co/9gG0utPwx3"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 186,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Lyon品牌汇",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.38
-    },
-    {
-      "candidate_id": "topic-f25271842c1fbf468f",
-      "title": "每天认识一个新LOGO （OpenAI）",
-      "summary": "每天认识一个新LOGO （OpenAI）",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 186,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Lyon品牌汇",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 28.91
-    },
-    {
-      "candidate_id": "topic-db7eaf72ad0046ce98",
-      "title": "구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
-      "summary": "구글 35조 빌린 이유? 💰 6% 고금리에도 AI 인프라 투자 강행",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=zi9zcD4L7dU"
-      ],
-      "published_at": "2026-08-07T23:00:01Z",
-      "publish_time_text": "",
-      "view_count": 5828,
-      "like_count": 175,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "1분썰배달",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 33.02
     }
   ]
 }
