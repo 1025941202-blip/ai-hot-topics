@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:30:04.383899Z",
+  "generated_at": "2026-10-09T01:28:04.844929Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 20643,
-    "total_candidates": 38660,
+    "total_posts": 20825,
+    "total_candidates": 39165,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-08T01:30:02.740647Z",
+    "last_updated_at": "2026-10-09T01:28:03.518715Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 17734
+        "count": 17894
       },
       {
         "platform": "x",
-        "count": 2800
+        "count": 2822
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 31807
+        "count": 32237
       },
       {
         "platform": "x",
-        "count": 9664
+        "count": 9770
       },
       {
         "platform": "xiaohongshu",
-        "count": 409
+        "count": 415
       },
       {
         "platform": "huitun",
@@ -2817,7 +2817,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.53
+      "total_score": 32.52
     },
     {
       "candidate_id": "topic-df973b07f2f22db94b",
@@ -3226,7 +3226,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.05
+      "total_score": 53.04
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4356,36 +4356,6 @@
       "total_score": 30.68
     },
     {
-      "candidate_id": "topic-28175e1742b5f4a73d",
-      "title": "OpenAIが日本政府と電撃タッグ！",
-      "summary": "OpenAIが日本政府と電撃タッグ！；#ai #openai #samaltman；OpenAI 认了，光靠订阅养不起ChatGPT",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=xQ2PXLB7-IY",
-        "https://www.youtube.com/watch?v=MzVwAj4OVTY",
-        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
-        "https://x.com/hashtag/OpenAI?src=hashtag_click",
-        "https://x.com/OpenAI"
-      ],
-      "published_at": "2026-01-19T00:00:00Z",
-      "publish_time_text": "01-19",
-      "view_count": 0,
-      "like_count": 2239,
-      "favorite_count": 802,
-      "comment_count": 623,
-      "share_count": 964,
-      "author_name": "大厂新声",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
-      "author_bio": "大厂新声｜大厂不该静音。",
-      "author_fans_count": 108214,
-      "status": "待处理",
-      "total_score": 29.03
-    },
-    {
       "candidate_id": "topic-d5c677feebcd588ea5",
       "title": "Cursor保姆级教程零基础小白从安装到实战",
       "summary": "Cursor保姆级教程零基础小白从安装到实战",
@@ -4680,7 +4650,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.12
+      "total_score": 33.11
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -4761,36 +4731,6 @@
       "author_fans_count": 12508,
       "status": "待处理",
       "total_score": 33.67
-    },
-    {
-      "candidate_id": "topic-246acd688a5db16583",
-      "title": "Claude 🖤",
-      "summary": "Claude 🖤；Claude.；ClaudeCode+剪辑Skill，自动剪视频！",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=P3y8T3lL3hY",
-        "https://www.youtube.com/watch?v=ykCfFJnYY30",
-        "https://www.xiaohongshu.com/explore/697d78eb0000000021031056?xsec_token=ABsCdrwtolcd1iKXwbCHZRX0nD5JziO2zOmMuGIzA10kY=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/6961d964000000000c0342a9?xsec_token=ABk1pmaEnWcAGzOtnkWBZjcsscWrWebiywPdt8xOfH88c=&xsec_source=pc_search",
-        "https://x.com/hashtag/ClaudeCode?src=hashtag_click"
-      ],
-      "published_at": "2026-01-31T00:00:00Z",
-      "publish_time_text": "01-31",
-      "view_count": 0,
-      "like_count": 1361,
-      "favorite_count": 2247,
-      "comment_count": 35,
-      "share_count": 442,
-      "author_name": "AI产品自由",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ficr8k4066g5ntor970924mbrc0o20?imageView2/2/w/80/format/jpg",
-      "author_bio": "成峰： 🔍AI 产品自由\n不是程序员\n独立开发者：正在做Agent\n                                                      😃关注一下👇🏻",
-      "author_fans_count": 12508,
-      "status": "待处理",
-      "total_score": 28.96
     },
     {
       "candidate_id": "topic-9d73b699b64dfe90d8",
@@ -5386,6 +5326,33 @@
       "author_fans_count": 21244,
       "status": "待处理",
       "total_score": 31.72
+    },
+    {
+      "candidate_id": "topic-25a41a80af0eb6a4b4",
+      "title": "dute Manus # short #ihavethisthingwithplants",
+      "summary": "dute Manus # short #ihavethisthingwithplants；ai；每天拆解一个AI产品：Manus",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=zHwjjzT1PC0",
+        "https://www.youtube.com/watch?v=mUF7qZbeelM",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 31.59
     },
     {
       "candidate_id": "topic-ddb0764e71a2ac1e59",
@@ -6018,6 +5985,32 @@
       "total_score": 37.89
     },
     {
+      "candidate_id": "topic-93e035856a369dbd7c",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 37.88
+    },
+    {
       "candidate_id": "topic-9671e65a3564b3be4b",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制；@geniam_cursor",
@@ -6054,32 +6047,6 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
         "https://x.com/cursorenla"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 37.88
-    },
-    {
-      "candidate_id": "topic-93e035856a369dbd7c",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -7377,6 +7344,34 @@
       "total_score": 32.0
     },
     {
+      "candidate_id": "topic-d696ad7c8c6e5c2a49",
+      "title": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
+      "summary": "一觉醒来，Ai圈又变天🔥Manus强在哪里？；什么是Manus？和其他AI有什么区别？小白进；@ManusAI_JP",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/67ca3293000000000302be1f?xsec_token=AB7t3ggQXiq6f-UQ08iW3J2cV3iUQZp2I84VbVHtvjRvQ=&xsec_source=pc_search",
+        "https://www.xiaohongshu.com/explore/67c9657e000000000603a539?xsec_token=ABW0WgVzUQsXmGNSxcarIp22fa92xXLY_c1pO4CzkSxmE=&xsec_source=pc_search",
+        "https://x.com/ManusAI_JP",
+        "https://x.com/ManusAI_JP/status/2036458920085160406?s=20"
+      ],
+      "published_at": "2025-03-07T00:00:00Z",
+      "publish_time_text": "2025-03-07",
+      "view_count": 0,
+      "like_count": 279,
+      "favorite_count": 210,
+      "comment_count": 22,
+      "share_count": 160,
+      "author_name": "光落在树叶上🍊",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31on2np170g604br4mngapv9f8mbouc8?imageView2/2/w/80/format/jpg",
+      "author_bio": "我今天先坚持，明天再放弃💚\n做你必须做的，直到你能做你想做的",
+      "author_fans_count": 82,
+      "status": "待处理",
+      "total_score": 31.09
+    },
+    {
       "candidate_id": "topic-2aebf91c96bd1b94ba",
       "title": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
       "summary": "一觉醒来，Ai圈又变天🔥Manus强在哪里？；什么是Manus？和其他AI有什么区别？小白进；@ManusAI",
@@ -7526,33 +7521,6 @@
       "author_fans_count": 971,
       "status": "待处理",
       "total_score": 31.45
-    },
-    {
-      "candidate_id": "topic-2c5bb7425ca31735ed",
-      "title": "给大家普及下用Chatgpt+banana画顶刊技术路",
-      "summary": "给大家普及下用Chatgpt+banana画顶刊技术路；Kaluna chatgpt+；#หารchatgpt",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699e4b65000000002602f164?xsec_token=ABM7BFs1l0rztS8dXNGvxq65_Za0pPcIifrg-n-eTehkA=&xsec_source=pc_search",
-        "https://x.com/maqkarel",
-        "https://x.com/hashtag/%E0%B8%AB%E0%B8%B2%E0%B8%A3chatgpt?src=hashtag_click"
-      ],
-      "published_at": "2026-02-25T07:36:43.061383Z",
-      "publish_time_text": "2天前",
-      "view_count": 0,
-      "like_count": 222,
-      "favorite_count": 366,
-      "comment_count": 238,
-      "share_count": 55,
-      "author_name": "两颗红西柚",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rm4idlc28005q89ofjttcd224kb24g?imageView2/2/w/80/format/jpg",
-      "author_bio": "还没有简介",
-      "author_fans_count": 971,
-      "status": "待处理",
-      "total_score": 28.97
     },
     {
       "candidate_id": "topic-0a452144816d76d9f2",
@@ -7891,6 +7859,33 @@
         "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
         "https://x.com/OpenAIDevs",
         "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 186,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Lyon品牌汇",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.38
+    },
+    {
+      "candidate_id": "topic-3d989ecf01668938f2",
+      "title": "每天认识一个新LOGO （OpenAI）",
+      "summary": "每天认识一个新LOGO （OpenAI）；From openai.com；From openai.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
+        "https://t.co/qubOTrZVND",
+        "https://t.co/9gG0utPwx3"
       ],
       "published_at": "",
       "publish_time_text": "",
