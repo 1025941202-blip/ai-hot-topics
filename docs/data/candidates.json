@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T01:28:04.844929Z",
+  "generated_at": "2026-10-10T01:28:34.106644Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 20825,
-    "total_candidates": 39165,
+    "total_posts": 21002,
+    "total_candidates": 39701,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-09T01:28:03.518715Z",
+    "last_updated_at": "2026-10-10T01:28:32.680010Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 17894
+        "count": 18056
       },
       {
         "platform": "x",
-        "count": 2822
+        "count": 2837
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 32237
+        "count": 32719
       },
       {
         "platform": "x",
-        "count": 9770
+        "count": 9869
       },
       {
         "platform": "xiaohongshu",
-        "count": 415
+        "count": 417
       },
       {
         "platform": "huitun",
@@ -3226,7 +3226,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.04
+      "total_score": 53.02
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4476,6 +4476,33 @@
       "total_score": 40.05
     },
     {
+      "candidate_id": "topic-4ad9edf00c4b05269a",
+      "title": "¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts",
+      "summary": "¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts；¿LOS 5 PERSONAJES MAS FUERTES DE BAKI SEGUN CHAT GPT? #shorts；CON CHAT GPT NO 😡 #humor #viral #podcast #comedia #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=-ho7F66Zk84",
+        "https://www.youtube.com/watch?v=qGjiW4rviBU",
+        "https://www.youtube.com/watch?v=sAxEmwECykQ",
+        "https://www.youtube.com/watch?v=k1VD854B_lQ"
+      ],
+      "published_at": "2026-07-16T23:59:05Z",
+      "publish_time_text": "",
+      "view_count": 11543,
+      "like_count": 1652,
+      "favorite_count": 0,
+      "comment_count": 36,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 41.29
+    },
+    {
       "candidate_id": "topic-9889c65bd3aa56ee01",
       "title": "¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts",
       "summary": "¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts；¿LOS 5 PERSONAJES MAS FUERTES DE BAKI SEGUN CHAT GPT? #shorts；🌎 LAS 10 MEJORES DEL MUNDO SEGÚN CHAT GPT",
@@ -4832,7 +4859,7 @@
       "author_bio": "🎓国立清华本硕，物理+电子工程\n🚀斜杠人生：半导体·芯片设计工程师➡️互联网·运营团队负责人➡️商业分析负责人\n💡分享产业研究 | 行业分析 | 商业案例\n📝商业分析方法学习@虎啸知析",
       "author_fans_count": 26458,
       "status": "待处理",
-      "total_score": 36.82
+      "total_score": 36.81
     },
     {
       "candidate_id": "topic-f247c351def618513d",
@@ -5674,9 +5701,9 @@
       "total_score": 34.98
     },
     {
-      "candidate_id": "topic-dc1a40bbfa85e9281c",
+      "candidate_id": "topic-9f32a23d908f00a14a",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5684,7 +5711,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/A3jnigbUAc"
+        "https://t.co/IKzuhX2Uvc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -5701,9 +5728,9 @@
       "total_score": 32.65
     },
     {
-      "candidate_id": "topic-9f32a23d908f00a14a",
+      "candidate_id": "topic-dc1a40bbfa85e9281c",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -5711,7 +5738,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/IKzuhX2Uvc"
+        "https://t.co/A3jnigbUAc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -5985,6 +6012,32 @@
       "total_score": 37.89
     },
     {
+      "candidate_id": "topic-ef83594ef78c0aa15f",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/Cursoronsol"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 37.88
+    },
+    {
       "candidate_id": "topic-93e035856a369dbd7c",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
@@ -6047,32 +6100,6 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
         "https://x.com/cursorenla"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 37.88
-    },
-    {
-      "candidate_id": "topic-ef83594ef78c0aa15f",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/Cursoronsol"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -7859,33 +7886,6 @@
         "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
         "https://x.com/OpenAIDevs",
         "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 186,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Lyon品牌汇",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.38
-    },
-    {
-      "candidate_id": "topic-3d989ecf01668938f2",
-      "title": "每天认识一个新LOGO （OpenAI）",
-      "summary": "每天认识一个新LOGO （OpenAI）；From openai.com；From openai.com",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
-        "https://t.co/qubOTrZVND",
-        "https://t.co/9gG0utPwx3"
       ],
       "published_at": "",
       "publish_time_text": "",
