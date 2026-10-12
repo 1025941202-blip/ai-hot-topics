@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:28:31.108995Z",
+  "generated_at": "2026-10-12T01:28:47.942036Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 21182,
-    "total_candidates": 40195,
+    "total_posts": 21360,
+    "total_candidates": 40747,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-11T01:28:29.653261Z",
+    "last_updated_at": "2026-10-12T01:28:46.606968Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 18213
+        "count": 18372
       },
       {
         "platform": "x",
-        "count": 2860
+        "count": 2879
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 33137
+        "count": 33592
       },
       {
         "platform": "x",
-        "count": 9981
+        "count": 10107
       },
       {
         "platform": "xiaohongshu",
-        "count": 420
+        "count": 421
       },
       {
         "platform": "huitun",
@@ -2081,35 +2081,6 @@
       "author_fans_count": 26120,
       "status": "待处理",
       "total_score": 30.05
-    },
-    {
-      "candidate_id": "topic-ba592049121ef397f0",
-      "title": "#hitman amr #agent",
-      "summary": "#hitman amr #agent；Manus AI: ก้าวใหม่ของ AI Agent ที่จะเปลี่ยนอนาคตการทำงานไปอย่างสิ้นเชิง!；컴퓨터 몰라도 PPT 완성! 자료조사부터 디자인까지 Manus AI가 알아서 해줍니다",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=fo2rY7qehE8",
-        "https://www.youtube.com/watch?v=DC6l4_1WDN8",
-        "https://www.youtube.com/watch?v=34xVkcAGZPg",
-        "https://www.youtube.com/watch?v=Afw3VHTmpxU",
-        "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search"
-      ],
-      "published_at": "2026-02-11T00:00:00Z",
-      "publish_time_text": "02-11",
-      "view_count": 0,
-      "like_count": 3349,
-      "favorite_count": 4749,
-      "comment_count": 2022,
-      "share_count": 531,
-      "author_name": "Karl的AIGC产品丨光之年",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/66139aa8fa0c9200018a7867.jpg?imageView2/2/w/80/format/jpg",
-      "author_bio": "✨5年大厂高级产品经理｜3年AI产品经理\n🔍带大厂项目实战｜简历修改面经\n🚀    全程求职陪跑｜岗位内推直达\n🦾AI产品经理｜产品经理｜互联网产品经理",
-      "author_fans_count": 26120,
-      "status": "待处理",
-      "total_score": 29.08
     },
     {
       "candidate_id": "topic-b60597ca70a18c3aaa",
@@ -4356,36 +4327,6 @@
       "total_score": 30.68
     },
     {
-      "candidate_id": "topic-28175e1742b5f4a73d",
-      "title": "OpenAIが日本政府と電撃タッグ！",
-      "summary": "OpenAIが日本政府と電撃タッグ！；#ai #openai #samaltman；OpenAI 认了，光靠订阅养不起ChatGPT",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=xQ2PXLB7-IY",
-        "https://www.youtube.com/watch?v=MzVwAj4OVTY",
-        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
-        "https://x.com/hashtag/OpenAI?src=hashtag_click",
-        "https://x.com/OpenAI"
-      ],
-      "published_at": "2026-01-19T00:00:00Z",
-      "publish_time_text": "01-19",
-      "view_count": 0,
-      "like_count": 2239,
-      "favorite_count": 802,
-      "comment_count": 623,
-      "share_count": 964,
-      "author_name": "大厂新声",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
-      "author_bio": "大厂新声｜大厂不该静音。",
-      "author_fans_count": 108214,
-      "status": "待处理",
-      "total_score": 29.03
-    },
-    {
       "candidate_id": "topic-d5c677feebcd588ea5",
       "title": "Cursor保姆级教程零基础小白从安装到实战",
       "summary": "Cursor保姆级教程零基础小白从安装到实战",
@@ -4635,7 +4576,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 50.89
+      "total_score": 50.88
     },
     {
       "candidate_id": "topic-31f538d914c48e855f",
@@ -6588,31 +6529,6 @@
       "total_score": 29.35
     },
     {
-      "candidate_id": "topic-5a85e63a3d9a7fd310",
-      "title": "中国AI＝検閲は本当か？DeepSeekとQwenの純正と改造版で比較",
-      "summary": "中国AI＝検閲は本当か？DeepSeekとQwenの純正と改造版で比較；中国の不思議AI会社。ヘッジファンド発のAIモデルDeepSeekとは何者か",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=1nBGFBezWWs",
-        "https://www.youtube.com/watch?v=_tNVEdEISO0"
-      ],
-      "published_at": "2026-06-20T23:23:10Z",
-      "publish_time_text": "",
-      "view_count": 4756,
-      "like_count": 559,
-      "favorite_count": 0,
-      "comment_count": 125,
-      "share_count": 0,
-      "author_name": "海外Yパパラジオ　世界を読み解く",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.08
-    },
-    {
       "candidate_id": "topic-386cb9421f222e0328",
       "title": "用cursor，3小时搭了个舆情监控平台（附教程）",
       "summary": "用cursor，3小时搭了个舆情监控平台（附教程）；如何用AI抄参考图？（附教程）；小白用cursor半小时手撕小程序",
@@ -7274,7 +7190,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.66
+      "total_score": 33.65
     },
     {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
@@ -7902,6 +7818,86 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 31.58
+    },
+    {
+      "candidate_id": "topic-5088d4c350f5359670",
+      "title": "每天认识一个新LOGO （OpenAI）",
+      "summary": "每天认识一个新LOGO （OpenAI）；From openai.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
+        "https://t.co/H2O10dR013"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 186,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Lyon品牌汇",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.58
+    },
+    {
+      "candidate_id": "topic-6f9d7dcbdd8d47c3de",
+      "title": "每天认识一个新LOGO （OpenAI）",
+      "summary": "每天认识一个新LOGO （OpenAI）；@OpenAIDevs；#OpenAIDown",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
+        "https://x.com/OpenAIDevs",
+        "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 186,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Lyon品牌汇",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.38
+    },
+    {
+      "candidate_id": "topic-3d989ecf01668938f2",
+      "title": "每天认识一个新LOGO （OpenAI）",
+      "summary": "每天认识一个新LOGO （OpenAI）；From openai.com；From openai.com",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
+        "https://t.co/qubOTrZVND",
+        "https://t.co/9gG0utPwx3"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 186,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Lyon品牌汇",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.38
     }
   ]
 }
