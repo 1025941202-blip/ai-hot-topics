@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T01:28:47.942036Z",
+  "generated_at": "2026-10-13T01:29:11.780924Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 21360,
-    "total_candidates": 40747,
+    "total_posts": 21540,
+    "total_candidates": 41315,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-12T01:28:46.606968Z",
+    "last_updated_at": "2026-10-13T01:29:10.413797Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 18372
+        "count": 18532
       },
       {
         "platform": "x",
-        "count": 2879
+        "count": 2899
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 33592
+        "count": 34065
       },
       {
         "platform": "x",
-        "count": 10107
+        "count": 10239
       },
       {
         "platform": "xiaohongshu",
-        "count": 421
+        "count": 423
       },
       {
         "platform": "huitun",
@@ -717,6 +717,33 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 47.0
+    },
+    {
+      "candidate_id": "topic-796b1a0e05db37a31d",
+      "title": "15分钟Claude Code小白入门",
+      "summary": "15分钟Claude Code小白入门；#ClaudeCode；#claudecode",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/697de727000000002203b0bc",
+        "https://x.com/hashtag/ClaudeCode?src=hashtag_click",
+        "https://x.com/hashtag/claudecode?src=hashtag_click"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 9052,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "第四种黑猩猩",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 42.33
     },
     {
       "candidate_id": "topic-0b84ddd52df03b7f40",
@@ -1748,34 +1775,6 @@
       "author_fans_count": 74384,
       "status": "待处理",
       "total_score": 55.09
-    },
-    {
-      "candidate_id": "topic-560a8bce5152130b7c",
-      "title": "Agent Has A Full Circle Moment With A Supporter! 🥹❤️",
-      "summary": "Agent Has A Full Circle Moment With A Supporter! 🥹❤️；LLM Agent Wins with a Map! Second-Best Performer!；chat gpt describes me! #comment #roblox #rblx #subscribe #fyp #viral #blowup #edit #robloxedit #like",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=lzIUBch-DGc",
-        "https://www.youtube.com/watch?v=azejzG4U6Aw",
-        "https://www.youtube.com/watch?v=hiQlFBqqKys",
-        "https://www.youtube.com/watch?v=5tMSxaMYXVo",
-        "https://www.youtube.com/watch?v=rQTOmYWbTJY"
-      ],
-      "published_at": "2026-09-12T23:12:34Z",
-      "publish_time_text": "",
-      "view_count": 79430,
-      "like_count": 3780,
-      "favorite_count": 0,
-      "comment_count": 22,
-      "share_count": 0,
-      "author_name": "Succesful Celebrity",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.24
     },
     {
       "candidate_id": "topic-3647900620f5e988c8",
@@ -3197,7 +3196,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.01
+      "total_score": 53.0
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4648,7 +4647,7 @@
       "author_bio": "📍复旦写过代码 创过业👉咨询画过饼👉互联网接过锅 \n🤓战略转型AI产品经理\n🫶ENFP｜生活太多面啦@元气Vivi（日常版💖） \n📮Mengjie.xiao@outlook.com",
       "author_fans_count": 29786,
       "status": "待处理",
-      "total_score": 48.36
+      "total_score": 48.35
     },
     {
       "candidate_id": "topic-59a0845734d630560c",
@@ -4673,7 +4672,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.11
+      "total_score": 33.1
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
