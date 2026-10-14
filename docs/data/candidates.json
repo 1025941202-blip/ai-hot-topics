@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:29:11.780924Z",
+  "generated_at": "2026-10-14T01:28:32.703102Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 21540,
-    "total_candidates": 41315,
+    "total_posts": 21714,
+    "total_candidates": 41845,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-13T01:29:10.413797Z",
+    "last_updated_at": "2026-10-14T01:28:31.329832Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 18532
+        "count": 18696
       },
       {
         "platform": "x",
-        "count": 2899
+        "count": 2909
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 34065
+        "count": 34522
       },
       {
         "platform": "x",
-        "count": 10239
+        "count": 10347
       },
       {
         "platform": "xiaohongshu",
-        "count": 423
+        "count": 425
       },
       {
         "platform": "huitun",
@@ -3196,7 +3196,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 53.0
+      "total_score": 52.99
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -5104,7 +5104,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.5
+      "total_score": 30.49
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -7568,6 +7568,30 @@
       "total_score": 36.36
     },
     {
+      "candidate_id": "topic-5e455d03b683363573",
+      "title": "纳指跌幅不大，AI硬件却跌得惨：美光、闪迪来到强支撑，抄底还要等什么信号？【视频第902期】10/13/2026",
+      "summary": "纳指跌幅不大，AI硬件却跌得惨：美光、闪迪来到强支撑，抄底还要等什么信号？【视频第902期】10/13/2026",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=0uMHEDB9PBg"
+      ],
+      "published_at": "2026-10-13T23:00:07Z",
+      "publish_time_text": "",
+      "view_count": 2007,
+      "like_count": 205,
+      "favorite_count": 0,
+      "comment_count": 5,
+      "share_count": 0,
+      "author_name": "股市咖啡屋 Stock Cafe",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 35.45
+    },
+    {
       "candidate_id": "topic-820ad6e9c61090f259",
       "title": "БЕСПЛАТНО ПОДКЛЮЧАЕМ API DEEPSEEK V4 К HERMES AGENT",
       "summary": "БЕСПЛАТНО ПОДКЛЮЧАЕМ API DEEPSEEK V4 К HERMES AGENT；DeepSeek-V4 前瞻",
@@ -7856,33 +7880,6 @@
         "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
         "https://x.com/OpenAIDevs",
         "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 186,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Lyon品牌汇",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.38
-    },
-    {
-      "candidate_id": "topic-3d989ecf01668938f2",
-      "title": "每天认识一个新LOGO （OpenAI）",
-      "summary": "每天认识一个新LOGO （OpenAI）；From openai.com；From openai.com",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
-        "https://t.co/qubOTrZVND",
-        "https://t.co/9gG0utPwx3"
       ],
       "published_at": "",
       "publish_time_text": "",
