@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:28:32.703102Z",
+  "generated_at": "2026-10-15T01:27:27.712963Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 21714,
-    "total_candidates": 41845,
+    "total_posts": 21898,
+    "total_candidates": 42382,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-14T01:28:31.329832Z",
+    "last_updated_at": "2026-10-15T01:27:26.277811Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 18696
+        "count": 18858
       },
       {
         "platform": "x",
-        "count": 2909
+        "count": 2931
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 34522
+        "count": 34976
       },
       {
         "platform": "x",
-        "count": 10347
+        "count": 10464
       },
       {
         "platform": "xiaohongshu",
-        "count": 425
+        "count": 429
       },
       {
         "platform": "huitun",
@@ -1701,6 +1701,34 @@
       "total_score": 31.35
     },
     {
+      "candidate_id": "topic-9e341655520cfb9e5f",
+      "title": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts",
+      "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；Matias Claro según Chat Gpt；O chat gpt é assim!😂 #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZNrnuMV3WlQ",
+        "https://www.youtube.com/watch?v=JK_f3v7-yj0",
+        "https://www.youtube.com/watch?v=bOoNBVUTmuI",
+        "https://www.youtube.com/watch?v=4X9n1rIBKlg",
+        "https://www.youtube.com/watch?v=68SpHqQPA3s"
+      ],
+      "published_at": "2026-08-18T22:07:21Z",
+      "publish_time_text": "",
+      "view_count": 24458,
+      "like_count": 4079,
+      "favorite_count": 0,
+      "comment_count": 43,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.04
+    },
+    {
       "candidate_id": "topic-23ecd985381a399966",
       "title": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts",
       "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；MY TELESCOPE VS CHAT GPT #space #telescope #shorts；Únete A La Comunidad Y Hazle Las Preguntas A Chat GPT",
@@ -3196,7 +3224,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 52.99
+      "total_score": 52.98
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4575,7 +4603,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 50.88
+      "total_score": 50.87
     },
     {
       "candidate_id": "topic-31f538d914c48e855f",
@@ -5182,6 +5210,33 @@
       "author_fans_count": 21244,
       "status": "待处理",
       "total_score": 40.28
+    },
+    {
+      "candidate_id": "topic-199ffeeac73e496590",
+      "title": "每天拆解一个AI产品：Manus",
+      "summary": "每天拆解一个AI产品：Manus；一觉醒来，Ai圈又变天🔥Manus强在哪里？；Manus Fellow & SHIFT AI奈良オフ会",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://www.xiaohongshu.com/explore/67ca3293000000000302be1f?xsec_token=AB7t3ggQXiq6f-UQ08iW3J2cV3iUQZp2I84VbVHtvjRvQ=&xsec_source=pc_search",
+        "https://t.co/Ilo49XAxAO"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 38.28
     },
     {
       "candidate_id": "topic-47b6ec4322ff829773",
@@ -6137,6 +6192,33 @@
       "total_score": 37.88
     },
     {
+      "candidate_id": "topic-e0e630cb3b98a07633",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；Cursor Ops；@Cursoronsol",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/grokBOTARMY",
+        "https://x.com/Cursoronsol"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 33.25
+    },
+    {
       "candidate_id": "topic-bc081d21bfe61b1007",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制；@cursorenla；@geniam_cursor",
@@ -6502,30 +6584,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 33.27
-    },
-    {
-      "candidate_id": "topic-6643aad433aca27b81",
-      "title": "中国AI＝検閲は本当か？DeepSeekとQwenの純正と改造版で比較",
-      "summary": "中国AI＝検閲は本当か？DeepSeekとQwenの純正と改造版で比較",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=1nBGFBezWWs"
-      ],
-      "published_at": "2026-06-20T23:23:10Z",
-      "publish_time_text": "",
-      "view_count": 4756,
-      "like_count": 559,
-      "favorite_count": 0,
-      "comment_count": 125,
-      "share_count": 0,
-      "author_name": "海外Yパパラジオ　世界を読み解く",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.35
     },
     {
       "candidate_id": "topic-386cb9421f222e0328",
@@ -7568,30 +7626,6 @@
       "total_score": 36.36
     },
     {
-      "candidate_id": "topic-5e455d03b683363573",
-      "title": "纳指跌幅不大，AI硬件却跌得惨：美光、闪迪来到强支撑，抄底还要等什么信号？【视频第902期】10/13/2026",
-      "summary": "纳指跌幅不大，AI硬件却跌得惨：美光、闪迪来到强支撑，抄底还要等什么信号？【视频第902期】10/13/2026",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=0uMHEDB9PBg"
-      ],
-      "published_at": "2026-10-13T23:00:07Z",
-      "publish_time_text": "",
-      "view_count": 2007,
-      "like_count": 205,
-      "favorite_count": 0,
-      "comment_count": 5,
-      "share_count": 0,
-      "author_name": "股市咖啡屋 Stock Cafe",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 35.45
-    },
-    {
       "candidate_id": "topic-820ad6e9c61090f259",
       "title": "БЕСПЛАТНО ПОДКЛЮЧАЕМ API DEEPSEEK V4 К HERMES AGENT",
       "summary": "БЕСПЛАТНО ПОДКЛЮЧАЕМ API DEEPSEEK V4 К HERMES AGENT；DeepSeek-V4 前瞻",
@@ -7867,33 +7901,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 31.58
-    },
-    {
-      "candidate_id": "topic-6f9d7dcbdd8d47c3de",
-      "title": "每天认识一个新LOGO （OpenAI）",
-      "summary": "每天认识一个新LOGO （OpenAI）；@OpenAIDevs；#OpenAIDown",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
-        "https://x.com/OpenAIDevs",
-        "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 186,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "Lyon品牌汇",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 31.38
     }
   ]
 }
