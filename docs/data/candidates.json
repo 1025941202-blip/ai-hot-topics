@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T01:27:27.712963Z",
+  "generated_at": "2026-10-16T01:27:25.900434Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 21898,
-    "total_candidates": 42382,
+    "total_posts": 22075,
+    "total_candidates": 42907,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-15T01:27:26.277811Z",
+    "last_updated_at": "2026-10-16T01:27:24.489449Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 18858
+        "count": 19019
       },
       {
         "platform": "x",
-        "count": 2931
+        "count": 2947
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 34976
+        "count": 35438
       },
       {
         "platform": "x",
-        "count": 10464
+        "count": 10559
       },
       {
         "platform": "xiaohongshu",
-        "count": 429
+        "count": 430
       },
       {
         "platform": "huitun",
@@ -1189,34 +1189,6 @@
       "total_score": 30.3
     },
     {
-      "candidate_id": "topic-a13f1eac092ffc9259",
-      "title": "¿LOS 5 PERSONAJES MAS FUERTES DE BAKI SEGUN CHAT GPT? #shorts",
-      "summary": "¿LOS 5 PERSONAJES MAS FUERTES DE BAKI SEGUN CHAT GPT? #shorts；¿5 PREGUNTAS MUY DIFICILES DE DRAGON BALL SEGUN CHAT GPT? #shorts；🤖 ChatGPT como “abogado” sin matricula.",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=qGjiW4rviBU",
-        "https://www.youtube.com/watch?v=G--hYS7jeKo",
-        "https://www.youtube.com/watch?v=iso6DvRuOHg",
-        "https://www.youtube.com/watch?v=ZsQwNZSGvow",
-        "https://www.youtube.com/watch?v=i-eR83Z0wtE"
-      ],
-      "published_at": "2026-06-21T21:15:47Z",
-      "publish_time_text": "",
-      "view_count": 69879,
-      "like_count": 8187,
-      "favorite_count": 0,
-      "comment_count": 89,
-      "share_count": 0,
-      "author_name": "MrScale",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.48
-    },
-    {
       "candidate_id": "topic-470ea56e8c7f473009",
       "title": "(附字幕) 盧永雄「巴士的點評」美國讓步，不打算審查中國大模型。中國硬打美國，宣佈5項對美反制措施，警告還有後著。  26年8月5日",
       "summary": "(附字幕) 盧永雄「巴士的點評」美國讓步，不打算審查中國大模型。中國硬打美國，宣佈5項對美反制措施，警告還有後著。  26年8月5日",
@@ -1615,6 +1587,34 @@
       "author_fans_count": 29857,
       "status": "待处理",
       "total_score": 64.77
+    },
+    {
+      "candidate_id": "topic-87ff14c307968fc048",
+      "title": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts",
+      "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；Matias Claro según Chat Gpt；¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZNrnuMV3WlQ",
+        "https://www.youtube.com/watch?v=JK_f3v7-yj0",
+        "https://www.youtube.com/watch?v=68SpHqQPA3s",
+        "https://www.youtube.com/watch?v=-ho7F66Zk84",
+        "https://www.youtube.com/watch?v=qGjiW4rviBU"
+      ],
+      "published_at": "2026-08-18T22:07:21Z",
+      "publish_time_text": "",
+      "view_count": 24458,
+      "like_count": 4079,
+      "favorite_count": 0,
+      "comment_count": 43,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 34.75
     },
     {
       "candidate_id": "topic-2154cadd02b1747c2f",
@@ -2157,34 +2157,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 34.47
-    },
-    {
-      "candidate_id": "topic-1b2a52232600d1bc22",
-      "title": "L&#39;AGENT DE ENZO FERNANDEZ annonce que son joueur veut signer au... : Elliot Anderson signe officiell",
-      "summary": "L&#39;AGENT DE ENZO FERNANDEZ annonce que son joueur veut signer au... : Elliot Anderson signe officiell；#Agent Day 3 | One door. One life. One adventure.🔫The Agent&#39;s journey begins.#Stickman #agent；The NHL on TNT Panel Reflects on the Life of Claude Lemieux ❤️",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=h5N6Ev77iQc",
-        "https://www.youtube.com/watch?v=0Ub9jPD5LtM",
-        "https://www.youtube.com/watch?v=UFbeKGIGBVI",
-        "https://www.youtube.com/watch?v=BqoHe8sbL_s",
-        "https://www.youtube.com/watch?v=ekY2Y_l7cbQ"
-      ],
-      "published_at": "2026-07-02T21:58:04Z",
-      "publish_time_text": "",
-      "view_count": 10054,
-      "like_count": 3321,
-      "favorite_count": 0,
-      "comment_count": 81,
-      "share_count": 0,
-      "author_name": "KING OUSE & NGARY TV",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.47
     },
     {
       "candidate_id": "topic-6ffd974fe6aee939b5",
@@ -3224,7 +3196,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 52.98
+      "total_score": 52.97
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -5033,7 +5005,31 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.75
+      "total_score": 41.74
+    },
+    {
+      "candidate_id": "topic-3a6c9cc785d55e9652",
+      "title": "通胀爆表、韩国熔断！订单还在涨，AI股为什么跌这么狠？",
+      "summary": "通胀爆表、韩国熔断！订单还在涨，AI股为什么跌这么狠？",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=6IX6IIV6Ml0"
+      ],
+      "published_at": "2026-10-15T20:48:50Z",
+      "publish_time_text": "",
+      "view_count": 21539,
+      "like_count": 1118,
+      "favorite_count": 0,
+      "comment_count": 50,
+      "share_count": 0,
+      "author_name": "Alan Chen",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 52.3
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -7455,30 +7451,6 @@
       "total_score": 31.09
     },
     {
-      "candidate_id": "topic-930dec2aff5f4a874b",
-      "title": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
-      "summary": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/67ca3293000000000302be1f"
-      ],
-      "published_at": "2025-03-07T00:00:00Z",
-      "publish_time_text": "2025-03-07",
-      "view_count": 0,
-      "like_count": 279,
-      "favorite_count": 210,
-      "comment_count": 22,
-      "share_count": 160,
-      "author_name": "光落在树叶上🍊",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31on2np170g604br4mngapv9f8mbouc8?imageView2/2/w/80/format/jpg",
-      "author_bio": "我今天先坚持，明天再放弃💚\n做你必须做的，直到你能做你想做的",
-      "author_fans_count": 82,
-      "status": "待处理",
-      "total_score": 29.49
-    },
-    {
       "candidate_id": "topic-5b5f37ff9dfe5d34ed",
       "title": "豆包这 125 个指令直接封神！好用到哭",
       "summary": "豆包这 125 个指令直接封神！好用到哭",
@@ -7901,6 +7873,33 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 31.58
+    },
+    {
+      "candidate_id": "topic-6f9d7dcbdd8d47c3de",
+      "title": "每天认识一个新LOGO （OpenAI）",
+      "summary": "每天认识一个新LOGO （OpenAI）；@OpenAIDevs；#OpenAIDown",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/66387022000000001e02fe9f",
+        "https://x.com/OpenAIDevs",
+        "https://x.com/hashtag/OpenAIDown?src=hashtag_click"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 186,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "Lyon品牌汇",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 31.38
     }
   ]
 }
