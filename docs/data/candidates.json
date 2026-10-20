@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:29:25.914730Z",
+  "generated_at": "2026-10-20T01:29:29.799640Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 22610,
-    "total_candidates": 44561,
+    "total_posts": 22797,
+    "total_candidates": 45151,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-19T01:29:24.486851Z",
+    "last_updated_at": "2026-10-20T01:29:28.332716Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 19495
+        "count": 19655
       },
       {
         "platform": "x",
-        "count": 3006
+        "count": 3033
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 36828
+        "count": 37319
       },
       {
         "platform": "x",
-        "count": 10923
+        "count": 11071
       },
       {
         "platform": "xiaohongshu",
-        "count": 438
+        "count": 440
       },
       {
         "platform": "huitun",
@@ -3196,7 +3196,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 52.96
+      "total_score": 52.95
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4700,7 +4700,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.1
+      "total_score": 33.09
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -5057,7 +5057,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 34.23
+      "total_score": 34.06
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -6377,6 +6377,35 @@
       "author_fans_count": 9596,
       "status": "待处理",
       "total_score": 30.94
+    },
+    {
+      "candidate_id": "topic-5c72619d9ead247296",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；From cursor.com；Cursor Ops",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://t.co/kUE0jw7nph",
+        "https://x.com/grokBOTARMY",
+        "https://t.co/YFSpzyRBw7",
+        "https://t.co/RQUZ4J4xSn"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 29.55
     },
     {
       "candidate_id": "topic-4199fcfba5e5783f65",
@@ -7871,35 +7900,6 @@
       "author_fans_count": 4907,
       "status": "待处理",
       "total_score": 32.16
-    },
-    {
-      "candidate_id": "topic-a645deff5c11f87e8a",
-      "title": "几乎跪着读完了Google新发布的AI Agent😭",
-      "summary": "几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent；@aixbt_agent",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search",
-        "https://x.com/aixbt_agent",
-        "https://x.com/agent_ai_bot",
-        "https://x.com/i/communities/1918880733730603290"
-      ],
-      "published_at": "2026-02-26T07:35:12.771842Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 188,
-      "favorite_count": 417,
-      "comment_count": 137,
-      "share_count": 57,
-      "author_name": "Ai智维",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154s3v1rh46g5pkfek70uesh4duio7g?imageView2/2/w/80/format/jpg",
-      "author_bio": "..",
-      "author_fans_count": 4907,
-      "status": "待处理",
-      "total_score": 31.36
     }
   ]
 }
