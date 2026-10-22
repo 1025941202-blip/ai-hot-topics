@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:27:48.072203Z",
+  "generated_at": "2026-10-22T01:27:59.290887Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 22980,
-    "total_candidates": 45699,
+    "total_posts": 23168,
+    "total_candidates": 46267,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-21T01:27:46.655928Z",
+    "last_updated_at": "2026-10-22T01:27:57.783981Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 19817
+        "count": 19977
       },
       {
         "platform": "x",
-        "count": 3054
+        "count": 3082
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 37784
+        "count": 38263
       },
       {
         "platform": "x",
-        "count": 11196
+        "count": 11329
       },
       {
         "platform": "xiaohongshu",
-        "count": 441
+        "count": 446
       },
       {
         "platform": "huitun",
@@ -3196,7 +3196,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 52.95
+      "total_score": 52.94
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4407,6 +4407,32 @@
       "total_score": 50.89
     },
     {
+      "candidate_id": "topic-89ca97ad4bbece171c",
+      "title": "인간 테스트 통과한 GPT",
+      "summary": "인간 테스트 통과한 GPT；白宫爆AI监管内斗 马斯克直通川普挡干预#白宫#AI#内斗#马斯克#黄仁勋#HOW视频；8월 챗GPT 업데이트, 채팅은 이제 GPT 5.6 Sol이 기본이다!",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=BXRnej4Vw24",
+        "https://www.youtube.com/watch?v=Lmclmp7PNAQ",
+        "https://www.youtube.com/watch?v=CQBHlt26fgA"
+      ],
+      "published_at": "2026-09-30T22:00:33Z",
+      "publish_time_text": "",
+      "view_count": 133677,
+      "like_count": 1981,
+      "favorite_count": 0,
+      "comment_count": 27,
+      "share_count": 0,
+      "author_name": "김블루",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.49
+    },
+    {
       "candidate_id": "topic-41e700bf91e16c26d2",
       "title": "绝了！绝了！终于找到了用AI做图的流量密码",
       "summary": "绝了！绝了！终于找到了用AI做图的流量密码",
@@ -4632,7 +4658,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 50.86
+      "total_score": 50.85
     },
     {
       "candidate_id": "topic-31f538d914c48e855f",
@@ -5086,7 +5112,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.95
+      "total_score": 33.87
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5656,6 +5682,35 @@
       "total_score": 30.04
     },
     {
+      "candidate_id": "topic-16825901b7ca0811e8",
+      "title": "Manus boroi ajob",
+      "summary": "Manus boroi ajob；컴퓨터 몰라도 PPT 완성! 자료조사부터 디자인까지 Manus AI가 알아서 해줍니다；每天拆解一个AI产品：Manus",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=oVzGyxt1s3A",
+        "https://www.youtube.com/watch?v=34xVkcAGZPg",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://x.com/manus_chai3546"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 29.97
+    },
+    {
       "candidate_id": "topic-ba86381281cd45d5a8",
       "title": "清华AI双子星：先是姚顺雨，又出了个姚顺宇",
       "summary": "清华AI双子星：先是姚顺雨，又出了个姚顺宇",
@@ -5702,6 +5757,32 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 32.94
+    },
+    {
+      "candidate_id": "topic-0c8a79e47280ce6e31",
+      "title": "AI时代，电商美工最不该学的就是提示词！",
+      "summary": "AI时代，电商美工最不该学的就是提示词！；码住🔥AI做电商溶图提示词| 附详细教程🔥",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=K10dJ9zY-z8",
+        "https://www.xiaohongshu.com/explore/697b6b03000000000a03c037?xsec_token=ABFl0wmDYJTc-EjuQ6hbV2wilItTgzZUky38BpPEGKrj0=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-01-29T00:00:00Z",
+      "publish_time_text": "01-29",
+      "view_count": 0,
+      "like_count": 792,
+      "favorite_count": 1114,
+      "comment_count": 34,
+      "share_count": 93,
+      "author_name": "柚子带你玩AI",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gvr63aak2005pjeua00u96oi1cvnoo?imageView2/2/w/80/format/jpg",
+      "author_bio": "👋 | Hi～叫我柚子就好啦😃\n📍 | 挑战学习100个Ai玩法ing\n✅ 全流程实操\n✅ Ai工具包分享\n✅ 提示词近裙🫰🏻@八哥是只喵🐱",
+      "author_fans_count": 11223,
+      "status": "待处理",
+      "total_score": 33.71
     },
     {
       "candidate_id": "topic-62cb35d1278dccd97e",
@@ -6408,6 +6489,35 @@
       "total_score": 30.94
     },
     {
+      "candidate_id": "topic-5c72619d9ead247296",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；From cursor.com；Cursor Ops",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://t.co/kUE0jw7nph",
+        "https://x.com/grokBOTARMY",
+        "https://t.co/YFSpzyRBw7",
+        "https://t.co/RQUZ4J4xSn"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 29.55
+    },
+    {
       "candidate_id": "topic-4199fcfba5e5783f65",
       "title": "Deepseek提示词万能模板👍😱",
       "summary": "Deepseek提示词万能模板👍😱",
@@ -6789,7 +6899,7 @@
       "author_bio": "👋 | Hi～叫我柚子就好啦😃\n📍 | 挑战学习100个Ai玩法ing\n✅ 全流程实操\n✅ Ai工具包分享\n✅ 提示词近裙🫰🏻@八哥是只喵🐱",
       "author_fans_count": 11223,
       "status": "待处理",
-      "total_score": 33.41
+      "total_score": 33.4
     },
     {
       "candidate_id": "topic-2570489c291162d236",
@@ -7784,122 +7894,6 @@
       "author_fans_count": 4907,
       "status": "待处理",
       "total_score": 54.65
-    },
-    {
-      "candidate_id": "topic-f941b50a44c7ddc7d9",
-      "title": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程",
-      "summary": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程；几乎跪着读完了Google新发布的AI Agent😭；老林学KOPI AI AGENT",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=5fYM48bDddw",
-        "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
-        "https://x.com/linyiq"
-      ],
-      "published_at": "2026-02-26T07:35:12.771842Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 188,
-      "favorite_count": 417,
-      "comment_count": 137,
-      "share_count": 57,
-      "author_name": "Ai智维",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154s3v1rh46g5pkfek70uesh4duio7g?imageView2/2/w/80/format/jpg",
-      "author_bio": "..",
-      "author_fans_count": 4907,
-      "status": "待处理",
-      "total_score": 37.44
-    },
-    {
-      "candidate_id": "topic-7cf889abfd2a852e2b",
-      "title": "几乎跪着读完了Google新发布的AI Agent😭",
-      "summary": "几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent；#AIAgents",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search",
-        "https://x.com/hashtag/AIAgents?src=hashtag_click",
-        "https://t.co/ugktg1l07d",
-        "https://x.com/i/broadcasts/1aKbdboWXqaJX"
-      ],
-      "published_at": "2026-02-26T07:35:12.771842Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 188,
-      "favorite_count": 417,
-      "comment_count": 137,
-      "share_count": 57,
-      "author_name": "Ai智维",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154s3v1rh46g5pkfek70uesh4duio7g?imageView2/2/w/80/format/jpg",
-      "author_bio": "..",
-      "author_fans_count": 4907,
-      "status": "待处理",
-      "total_score": 33.47
-    },
-    {
-      "candidate_id": "topic-3d37ad020ece3956a6",
-      "title": "几乎跪着读完了Google新发布的AI Agent😭",
-      "summary": "几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent；#AIAgents",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search",
-        "https://x.com/hashtag/AIAgents?src=hashtag_click",
-        "https://x.com/hashtag/AIagents?src=hashtag_click",
-        "https://x.com/aixbt_agent"
-      ],
-      "published_at": "2026-02-26T07:35:12.771842Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 188,
-      "favorite_count": 417,
-      "comment_count": 137,
-      "share_count": 57,
-      "author_name": "Ai智维",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154s3v1rh46g5pkfek70uesh4duio7g?imageView2/2/w/80/format/jpg",
-      "author_bio": "..",
-      "author_fans_count": 4907,
-      "status": "待处理",
-      "total_score": 32.27
-    },
-    {
-      "candidate_id": "topic-667484b4d9aaa4f34a",
-      "title": "🤖 Создай ИДЕАЛЬНОГО чат-бота с Proma! Успей попробовать! #agent #chatbot",
-      "summary": "🤖 Создай ИДЕАЛЬНОГО чат-бота с Proma! Успей попробовать! #agent #chatbot；几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=8A-LzRrRNrg",
-        "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search",
-        "https://t.co/jc8gipK0fZ",
-        "https://x.com/aixbt_agent"
-      ],
-      "published_at": "2026-02-26T07:35:12.771842Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 188,
-      "favorite_count": 417,
-      "comment_count": 137,
-      "share_count": 57,
-      "author_name": "Ai智维",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154s3v1rh46g5pkfek70uesh4duio7g?imageView2/2/w/80/format/jpg",
-      "author_bio": "..",
-      "author_fans_count": 4907,
-      "status": "待处理",
-      "total_score": 32.16
     }
   ]
 }
