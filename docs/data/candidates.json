@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:27:59.290887Z",
+  "generated_at": "2026-10-23T01:29:05.567285Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 23168,
-    "total_candidates": 46267,
+    "total_posts": 23355,
+    "total_candidates": 46863,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-22T01:27:57.783981Z",
+    "last_updated_at": "2026-10-23T01:29:04.037060Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 19977
+        "count": 20142
       },
       {
         "platform": "x",
-        "count": 3082
+        "count": 3104
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 38263
+        "count": 38753
       },
       {
         "platform": "x",
-        "count": 11329
+        "count": 11480
       },
       {
         "platform": "xiaohongshu",
-        "count": 446
+        "count": 450
       },
       {
         "platform": "huitun",
@@ -4407,6 +4407,32 @@
       "total_score": 50.89
     },
     {
+      "candidate_id": "topic-4ecc57b564feb0c609",
+      "title": "인간 테스트 통과한 GPT",
+      "summary": "인간 테스트 통과한 GPT；白宫爆AI监管内斗 马斯克直通川普挡干预#白宫#AI#内斗#马斯克#黄仁勋#HOW视频；なかなかやるな…AI！チャットGPTが選んだSixTONES歌唱力TOP3をプロが検証！！",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=BXRnej4Vw24",
+        "https://www.youtube.com/watch?v=Lmclmp7PNAQ",
+        "https://www.youtube.com/watch?v=lDVLb20Qvxw"
+      ],
+      "published_at": "2026-09-30T22:00:33Z",
+      "publish_time_text": "",
+      "view_count": 133677,
+      "like_count": 1981,
+      "favorite_count": 0,
+      "comment_count": 27,
+      "share_count": 0,
+      "author_name": "김블루",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.49
+    },
+    {
       "candidate_id": "topic-89ca97ad4bbece171c",
       "title": "인간 테스트 통과한 GPT",
       "summary": "인간 테스트 통과한 GPT；白宫爆AI监管内斗 马斯克直通川普挡干预#白宫#AI#内斗#马斯克#黄仁勋#HOW视频；8월 챗GPT 업데이트, 채팅은 이제 GPT 5.6 Sol이 기본이다!",
@@ -5112,7 +5138,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.87
+      "total_score": 33.82
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5423,6 +5449,34 @@
       "author_fans_count": 21244,
       "status": "待处理",
       "total_score": 34.55
+    },
+    {
+      "candidate_id": "topic-4cfaed3ead91e2a44d",
+      "title": "Manus 1. 6 создает приложения за 15 минут",
+      "summary": "Manus 1. 6 создает приложения за 15 минут；每天拆解一个AI产品：Manus；Manus Fellow & SHIFT AI奈良オフ会",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=DA2U2Zl2opo",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://t.co/Ilo49XAxAO"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 33.54
     },
     {
       "candidate_id": "topic-5715717b58e42a4562",
@@ -6250,6 +6304,32 @@
       "total_score": 37.89
     },
     {
+      "candidate_id": "topic-1c8dc91e5ea4b00aa8",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；@cursorenla",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/cursorenla"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 37.88
+    },
+    {
       "candidate_id": "topic-ef83594ef78c0aa15f",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
@@ -6312,32 +6392,6 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
         "https://x.com/geniam_cursor"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 37.88
-    },
-    {
-      "candidate_id": "topic-1c8dc91e5ea4b00aa8",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@cursorenla",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/cursorenla"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -6487,35 +6541,6 @@
       "author_fans_count": 9596,
       "status": "待处理",
       "total_score": 30.94
-    },
-    {
-      "candidate_id": "topic-5c72619d9ead247296",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；From cursor.com；Cursor Ops",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://t.co/kUE0jw7nph",
-        "https://x.com/grokBOTARMY",
-        "https://t.co/YFSpzyRBw7",
-        "https://t.co/RQUZ4J4xSn"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 29.55
     },
     {
       "candidate_id": "topic-4199fcfba5e5783f65",
@@ -6699,34 +6724,6 @@
       "author_fans_count": 26812,
       "status": "待处理",
       "total_score": 29.7
-    },
-    {
-      "candidate_id": "topic-0f6438b242f5ba4926",
-      "title": "AI办公全场景实操课程：提示词+文案写作+营销方案+PPT制作+Excel图表",
-      "summary": "AI办公全场景实操课程：提示词+文案写作+营销方案+PPT制作+Excel图表；AI写作变现全链路：教案×PPT×作业设计×DeepSeek提示词×豆包；deepseek让excel起飞 deepseek让excel起飞 #deepseek #excel #officeai",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=_fLDvQVHfLM",
-        "https://www.youtube.com/watch?v=R_j1n7ZxYkA",
-        "https://www.youtube.com/watch?v=woR-26HbOq4",
-        "https://www.xiaohongshu.com/explore/67c6ac7a000000002a00d12d?xsec_token=ABOrC1N8EOqaPtrLu8rvK1NCJNhe846AYA6_LaT1PpMUQ=&xsec_source=pc_search"
-      ],
-      "published_at": "2025-03-04T00:00:00Z",
-      "publish_time_text": "2025-03-04",
-      "view_count": 0,
-      "like_count": 597,
-      "favorite_count": 806,
-      "comment_count": 314,
-      "share_count": 90,
-      "author_name": "艾恒",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310m2agtcmoe05pfemrn197ggoueemt0?imageView2/2/w/80/format/jpg",
-      "author_bio": "🔬专研AI工具落地应用\n💡用AIGC提高工作效率，探索AI的无限效能。\n💖每日持续更新AI前沿干货。",
-      "author_fans_count": 26812,
-      "status": "待处理",
-      "total_score": 29.62
     },
     {
       "candidate_id": "topic-f7eca988503d59803c",
