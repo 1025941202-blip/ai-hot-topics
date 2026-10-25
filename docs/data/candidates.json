@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:29:10.644316Z",
+  "generated_at": "2026-10-25T01:28:58.323861Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 23539,
-    "total_candidates": 47458,
+    "total_posts": 23726,
+    "total_candidates": 48033,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-24T01:29:09.115387Z",
+    "last_updated_at": "2026-10-25T01:28:56.766494Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 20304
+        "count": 20467
       },
       {
         "platform": "x",
-        "count": 3126
+        "count": 3150
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 39245
+        "count": 39719
       },
       {
         "platform": "x",
-        "count": 11632
+        "count": 11771
       },
       {
         "platform": "xiaohongshu",
-        "count": 452
+        "count": 454
       },
       {
         "platform": "huitun",
@@ -1589,6 +1589,34 @@
       "total_score": 64.77
     },
     {
+      "candidate_id": "topic-87ff14c307968fc048",
+      "title": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts",
+      "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；Matias Claro según Chat Gpt；¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZNrnuMV3WlQ",
+        "https://www.youtube.com/watch?v=JK_f3v7-yj0",
+        "https://www.youtube.com/watch?v=68SpHqQPA3s",
+        "https://www.youtube.com/watch?v=-ho7F66Zk84",
+        "https://www.youtube.com/watch?v=qGjiW4rviBU"
+      ],
+      "published_at": "2026-08-18T22:07:21Z",
+      "publish_time_text": "",
+      "view_count": 24458,
+      "like_count": 4079,
+      "favorite_count": 0,
+      "comment_count": 43,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 38.04
+    },
+    {
       "candidate_id": "topic-a60a08443dfd542393",
       "title": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts",
       "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；MY TELESCOPE VS CHAT GPT #space #telescope #shorts；¿LOS 5 PERSONAJES MAS PODEROSOS DE BAKI SEGUN CHAT GPT? #shorts",
@@ -2815,33 +2843,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 31.8
-    },
-    {
-      "candidate_id": "topic-ec966502dad6e27bcd",
-      "title": "专注于为企业定制化开发智能体、AI大模型的AI前线部署工程师，助力企业降本增效。",
-      "summary": "专注于为企业定制化开发智能体、AI大模型的AI前线部署工程师，助力企业降本增效。；如何成为AIAgent工程师，这个学习路线给你讲清楚！大模型AI工程师AI智能体AIAGENT；AI Agent工程师学习路线，不走弯路",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=N5nw6-KTGzs",
-        "https://www.youtube.com/watch?v=qTX5lNY6TkA",
-        "https://www.xiaohongshu.com/explore/69a0319f000000000e00d981"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 2731,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "小朱编程AI",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.7
     },
     {
       "candidate_id": "topic-c70952475ecbe45f06",
@@ -5138,7 +5139,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.77
+      "total_score": 33.74
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5237,7 +5238,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.48
+      "total_score": 30.47
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -6201,33 +6202,6 @@
       "total_score": 29.89
     },
     {
-      "candidate_id": "topic-cebaa6d7602d743b84",
-      "title": "什么是Manus？和其他AI有什么区别？小白进",
-      "summary": "什么是Manus？和其他AI有什么区别？小白进；Manus Fellow & SHIFT AI奈良オフ会；いしたにまさき, ブロガー, ひらくPCバッグ, Manus Fellow, ログミーツの中の人",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/67c9657e000000000603a539?xsec_token=ABW0WgVzUQsXmGNSxcarIp22fa92xXLY_c1pO4CzkSxmE=&xsec_source=pc_search",
-        "https://t.co/Ilo49XAxAO",
-        "https://x.com/masakiishitani"
-      ],
-      "published_at": "2025-03-06T00:00:00Z",
-      "publish_time_text": "2025-03-06",
-      "view_count": 0,
-      "like_count": 634,
-      "favorite_count": 626,
-      "comment_count": 26,
-      "share_count": 336,
-      "author_name": "AI探长",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kgrdsorj4005n8bbei49vpe4m4n2ag?imageView2/2/w/80/format/jpg",
-      "author_bio": "AI体验师、超级自学者\n欢迎成为我的赛博网友\n一起学习实践！",
-      "author_fans_count": 203,
-      "status": "待处理",
-      "total_score": 29.7
-    },
-    {
       "candidate_id": "topic-29d8665732d9fcf282",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制",
@@ -6304,6 +6278,32 @@
       "total_score": 37.89
     },
     {
+      "candidate_id": "topic-93e035856a369dbd7c",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 37.88
+    },
+    {
       "candidate_id": "topic-1c8dc91e5ea4b00aa8",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制；@cursorenla",
@@ -6340,32 +6340,6 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
         "https://x.com/Cursoronsol"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 37.88
-    },
-    {
-      "candidate_id": "topic-93e035856a369dbd7c",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -6646,6 +6620,33 @@
       "total_score": 35.5
     },
     {
+      "candidate_id": "topic-1e4f9cb57b688ec08b",
+      "title": "AI做赛车游戏，哪个是DeepSeek，哪个是GPT？",
+      "summary": "AI做赛车游戏，哪个是DeepSeek，哪个是GPT？；AI写作变现全链路：教案×PPT×作业设计×DeepSeek提示词×豆包；Deepseek提示词万能模板👍😱",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=8Vd0j3nIhNE",
+        "https://www.youtube.com/watch?v=R_j1n7ZxYkA",
+        "https://www.xiaohongshu.com/explore/67c6ac7a000000002a00d12d?xsec_token=ABOrC1N8EOqaPtrLu8rvK1NCJNhe846AYA6_LaT1PpMUQ=&xsec_source=pc_search"
+      ],
+      "published_at": "2025-03-04T00:00:00Z",
+      "publish_time_text": "2025-03-04",
+      "view_count": 0,
+      "like_count": 597,
+      "favorite_count": 806,
+      "comment_count": 314,
+      "share_count": 90,
+      "author_name": "艾恒",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310m2agtcmoe05pfemrn197ggoueemt0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🔬专研AI工具落地应用\n💡用AIGC提高工作效率，探索AI的无限效能。\n💖每日持续更新AI前沿干货。",
+      "author_fans_count": 26812,
+      "status": "待处理",
+      "total_score": 33.5
+    },
+    {
       "candidate_id": "topic-534bc4e5c4e736489c",
       "title": "Deepseek提示词万能模板👍😱",
       "summary": "Deepseek提示词万能模板👍😱",
@@ -6696,34 +6697,6 @@
       "author_fans_count": 26812,
       "status": "待处理",
       "total_score": 31.62
-    },
-    {
-      "candidate_id": "topic-4ef12c260a1d8d2eb4",
-      "title": "AI写作变现全链路：教案×PPT×作业设计×DeepSeek提示词×豆包",
-      "summary": "AI写作变现全链路：教案×PPT×作业设计×DeepSeek提示词×豆包；DeepSeek Fundraise Paused!；各位畫手大大：順手的事！#ai #繪畫 #deepseek #同人",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=R_j1n7ZxYkA",
-        "https://www.youtube.com/watch?v=h5HbB5VtMJU",
-        "https://www.youtube.com/watch?v=ePtmUsuDAgU",
-        "https://www.xiaohongshu.com/explore/67c6ac7a000000002a00d12d?xsec_token=ABOrC1N8EOqaPtrLu8rvK1NCJNhe846AYA6_LaT1PpMUQ=&xsec_source=pc_search"
-      ],
-      "published_at": "2025-03-04T00:00:00Z",
-      "publish_time_text": "2025-03-04",
-      "view_count": 0,
-      "like_count": 597,
-      "favorite_count": 806,
-      "comment_count": 314,
-      "share_count": 90,
-      "author_name": "艾恒",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310m2agtcmoe05pfemrn197ggoueemt0?imageView2/2/w/80/format/jpg",
-      "author_bio": "🔬专研AI工具落地应用\n💡用AIGC提高工作效率，探索AI的无限效能。\n💖每日持续更新AI前沿干货。",
-      "author_fans_count": 26812,
-      "status": "待处理",
-      "total_score": 29.7
     },
     {
       "candidate_id": "topic-f7eca988503d59803c",
@@ -7891,6 +7864,34 @@
       "author_fans_count": 4907,
       "status": "待处理",
       "total_score": 54.65
+    },
+    {
+      "candidate_id": "topic-f941b50a44c7ddc7d9",
+      "title": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程",
+      "summary": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程；几乎跪着读完了Google新发布的AI Agent😭；老林学KOPI AI AGENT",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=5fYM48bDddw",
+        "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
+        "https://x.com/linyiq"
+      ],
+      "published_at": "2026-02-26T07:35:12.771842Z",
+      "publish_time_text": "1天前",
+      "view_count": 0,
+      "like_count": 188,
+      "favorite_count": 417,
+      "comment_count": 137,
+      "share_count": 57,
+      "author_name": "Ai智维",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154s3v1rh46g5pkfek70uesh4duio7g?imageView2/2/w/80/format/jpg",
+      "author_bio": "..",
+      "author_fans_count": 4907,
+      "status": "待处理",
+      "total_score": 37.44
     }
   ]
 }
