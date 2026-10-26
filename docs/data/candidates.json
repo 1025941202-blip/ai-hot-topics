@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:28:58.323861Z",
+  "generated_at": "2026-10-26T01:27:59.371160Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 23726,
-    "total_candidates": 48033,
+    "total_posts": 23911,
+    "total_candidates": 48605,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-25T01:28:56.766494Z",
+    "last_updated_at": "2026-10-26T01:27:57.791896Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 20467
+        "count": 20631
       },
       {
         "platform": "x",
-        "count": 3150
+        "count": 3171
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 39719
+        "count": 40206
       },
       {
         "platform": "x",
-        "count": 11771
+        "count": 11892
       },
       {
         "platform": "xiaohongshu",
-        "count": 454
+        "count": 456
       },
       {
         "platform": "huitun",
@@ -1591,16 +1591,16 @@
     {
       "candidate_id": "topic-87ff14c307968fc048",
       "title": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts",
-      "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；Matias Claro según Chat Gpt；¿5 PREGUNTAS DIFICILES DE BAKI SEGUN CHAT GPT? #shorts",
+      "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；Matias Claro según Chat Gpt；O chat gpt é assim!😂 #shorts",
       "platforms": [
         "youtube"
       ],
       "source_links": [
         "https://www.youtube.com/watch?v=ZNrnuMV3WlQ",
         "https://www.youtube.com/watch?v=JK_f3v7-yj0",
+        "https://www.youtube.com/watch?v=bOoNBVUTmuI",
         "https://www.youtube.com/watch?v=68SpHqQPA3s",
-        "https://www.youtube.com/watch?v=-ho7F66Zk84",
-        "https://www.youtube.com/watch?v=qGjiW4rviBU"
+        "https://www.youtube.com/watch?v=-ho7F66Zk84"
       ],
       "published_at": "2026-08-18T22:07:21Z",
       "publish_time_text": "",
@@ -1614,7 +1614,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 38.04
+      "total_score": 38.32
     },
     {
       "candidate_id": "topic-a60a08443dfd542393",
@@ -2845,6 +2845,33 @@
       "total_score": 31.8
     },
     {
+      "candidate_id": "topic-288f8974705dee9f06",
+      "title": "刚刚，全球首台「真·大模型原生Agent手机」来了！",
+      "summary": "刚刚，全球首台「真·大模型原生Agent手机」来了！；如何成为AIAgent工程师，这个学习路线给你讲清楚！大模型AI工程师AI智能体AIAGENT；AI Agent工程师学习路线，不走弯路",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Or6qWBqgQu8",
+        "https://www.youtube.com/watch?v=qTX5lNY6TkA",
+        "https://www.xiaohongshu.com/explore/69a0319f000000000e00d981"
+      ],
+      "published_at": "",
+      "publish_time_text": "",
+      "view_count": 0,
+      "like_count": 2731,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "小朱编程AI",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 29.7
+    },
+    {
       "candidate_id": "topic-c70952475ecbe45f06",
       "title": "🔥3小时手搓｜完全用AI生成的产品广告教程",
       "summary": "🔥3小时手搓｜完全用AI生成的产品广告教程",
@@ -3197,7 +3224,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 52.93
+      "total_score": 52.92
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4839,7 +4866,7 @@
     {
       "candidate_id": "topic-dda2856a562039c2fb",
       "title": "ClaudeCode+剪辑Skill，自动剪视频！",
-      "summary": "ClaudeCode+剪辑Skill，自动剪视频！；全球最厉害的人都在用的Claude Skills🔥；#claudecode",
+      "summary": "ClaudeCode+剪辑Skill，自动剪视频！；全球最厉害的人都在用的Claude Skills🔥；#ClaudeCode",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -4847,8 +4874,8 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/697d78eb0000000021031056?xsec_token=ABsCdrwtolcd1iKXwbCHZRX0nD5JziO2zOmMuGIzA10kY=&xsec_source=pc_search",
         "https://www.xiaohongshu.com/explore/6961d964000000000c0342a9?xsec_token=ABk1pmaEnWcAGzOtnkWBZjcsscWrWebiywPdt8xOfH88c=&xsec_source=pc_search",
-        "https://x.com/hashtag/claudecode?src=hashtag_click",
-        "https://x.com/hashtag/ClaudeCode?src=hashtag_click"
+        "https://x.com/hashtag/ClaudeCode?src=hashtag_click",
+        "https://x.com/hashtag/claudecode?src=hashtag_click"
       ],
       "published_at": "2026-01-31T00:00:00Z",
       "publish_time_text": "01-31",
@@ -5139,7 +5166,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.74
+      "total_score": 33.72
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5994,9 +6021,9 @@
       "total_score": 34.98
     },
     {
-      "candidate_id": "topic-9f32a23d908f00a14a",
+      "candidate_id": "topic-dc1a40bbfa85e9281c",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -6004,7 +6031,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/IKzuhX2Uvc"
+        "https://t.co/A3jnigbUAc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -6021,9 +6048,9 @@
       "total_score": 32.65
     },
     {
-      "candidate_id": "topic-dc1a40bbfa85e9281c",
+      "candidate_id": "topic-9f32a23d908f00a14a",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -6031,7 +6058,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/A3jnigbUAc"
+        "https://t.co/IKzuhX2Uvc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -6278,6 +6305,32 @@
       "total_score": 37.89
     },
     {
+      "candidate_id": "topic-ef83594ef78c0aa15f",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/Cursoronsol"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 37.88
+    },
+    {
       "candidate_id": "topic-93e035856a369dbd7c",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
@@ -6314,32 +6367,6 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
         "https://x.com/cursorenla"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 37.88
-    },
-    {
-      "candidate_id": "topic-ef83594ef78c0aa15f",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@Cursoronsol",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/Cursoronsol"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -7864,34 +7891,6 @@
       "author_fans_count": 4907,
       "status": "待处理",
       "total_score": 54.65
-    },
-    {
-      "candidate_id": "topic-f941b50a44c7ddc7d9",
-      "title": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程",
-      "summary": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程；几乎跪着读完了Google新发布的AI Agent😭；老林学KOPI AI AGENT",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=5fYM48bDddw",
-        "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
-        "https://x.com/linyiq"
-      ],
-      "published_at": "2026-02-26T07:35:12.771842Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 188,
-      "favorite_count": 417,
-      "comment_count": 137,
-      "share_count": 57,
-      "author_name": "Ai智维",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154s3v1rh46g5pkfek70uesh4duio7g?imageView2/2/w/80/format/jpg",
-      "author_bio": "..",
-      "author_fans_count": 4907,
-      "status": "待处理",
-      "total_score": 37.44
     }
   ]
 }
