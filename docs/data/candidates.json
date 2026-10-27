@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:27:59.371160Z",
+  "generated_at": "2026-10-27T01:30:08.907700Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 23911,
-    "total_candidates": 48605,
+    "total_posts": 24084,
+    "total_candidates": 49137,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-26T01:27:57.791896Z",
+    "last_updated_at": "2026-10-27T01:30:07.291892Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 20631
+        "count": 20793
       },
       {
         "platform": "x",
-        "count": 3171
+        "count": 3182
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 40206
+        "count": 40674
       },
       {
         "platform": "x",
-        "count": 11892
+        "count": 11996
       },
       {
         "platform": "xiaohongshu",
-        "count": 456
+        "count": 458
       },
       {
         "platform": "huitun",
@@ -792,30 +792,6 @@
       "author_fans_count": 31950,
       "status": "待处理",
       "total_score": 62.77
-    },
-    {
-      "candidate_id": "topic-bf83b126fd75b956bc",
-      "title": "2026年如果只学一个AI技能，就一定是Skills",
-      "summary": "2026年如果只学一个AI技能，就一定是Skills",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/6986f80900000000150238af"
-      ],
-      "published_at": "2026-02-07T00:00:00Z",
-      "publish_time_text": "02-07",
-      "view_count": 0,
-      "like_count": 8712,
-      "favorite_count": 12487,
-      "comment_count": 198,
-      "share_count": 2230,
-      "author_name": "跟着阿亮学AI",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mq3mt7f4q005ns4d5fg934diqnlr20?imageView2/2/w/80/format/jpg",
-      "author_bio": "曾就职一线互联网大厂，目前AI创业中\n紧跟AI最前沿技术，深度研究国内外AI如何落地\n致力于帮助普通人学会AI，帮助企业通过AI提效",
-      "author_fans_count": 31950,
-      "status": "待处理",
-      "total_score": 29.75
     },
     {
       "candidate_id": "topic-76c8ada08c0053464d",
@@ -2845,33 +2821,6 @@
       "total_score": 31.8
     },
     {
-      "candidate_id": "topic-288f8974705dee9f06",
-      "title": "刚刚，全球首台「真·大模型原生Agent手机」来了！",
-      "summary": "刚刚，全球首台「真·大模型原生Agent手机」来了！；如何成为AIAgent工程师，这个学习路线给你讲清楚！大模型AI工程师AI智能体AIAGENT；AI Agent工程师学习路线，不走弯路",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=Or6qWBqgQu8",
-        "https://www.youtube.com/watch?v=qTX5lNY6TkA",
-        "https://www.xiaohongshu.com/explore/69a0319f000000000e00d981"
-      ],
-      "published_at": "",
-      "publish_time_text": "",
-      "view_count": 0,
-      "like_count": 2731,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "小朱编程AI",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 29.7
-    },
-    {
       "candidate_id": "topic-c70952475ecbe45f06",
       "title": "🔥3小时手搓｜完全用AI生成的产品广告教程",
       "summary": "🔥3小时手搓｜完全用AI生成的产品广告教程",
@@ -4411,6 +4360,36 @@
       "total_score": 30.68
     },
     {
+      "candidate_id": "topic-ca466e1a9b009dd811",
+      "title": "If chat gpt was a indian parent.30 skits in 30 daysskit:1/30IndianParents, abusive parents, chat gpt",
+      "summary": "If chat gpt was a indian parent.30 skits in 30 daysskit:1/30IndianParents, abusive parents, chat gpt；I ain’t talking to chat gpt for 100000 days；OpenAI 认了，光靠订阅养不起ChatGPT",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=EBmvzjwaa-4",
+        "https://www.youtube.com/watch?v=uniyLa_10AM",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
+        "https://t.co/9Xay9DWbU0",
+        "https://x.com/i/broadcasts/1jGXgBoROmBKZ"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 29.77
+    },
+    {
       "candidate_id": "topic-d5c677feebcd588ea5",
       "title": "Cursor保姆级教程零基础小白从安装到实战",
       "summary": "Cursor保姆级教程零基础小白从安装到实战",
@@ -4712,7 +4691,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 50.85
+      "total_score": 50.84
     },
     {
       "candidate_id": "topic-31f538d914c48e855f",
@@ -5166,7 +5145,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.72
+      "total_score": 33.69
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -7891,6 +7870,34 @@
       "author_fans_count": 4907,
       "status": "待处理",
       "total_score": 54.65
+    },
+    {
+      "candidate_id": "topic-f941b50a44c7ddc7d9",
+      "title": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程",
+      "summary": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程；几乎跪着读完了Google新发布的AI Agent😭；老林学KOPI AI AGENT",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=5fYM48bDddw",
+        "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
+        "https://x.com/linyiq"
+      ],
+      "published_at": "2026-02-26T07:35:12.771842Z",
+      "publish_time_text": "1天前",
+      "view_count": 0,
+      "like_count": 188,
+      "favorite_count": 417,
+      "comment_count": 137,
+      "share_count": 57,
+      "author_name": "Ai智维",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154s3v1rh46g5pkfek70uesh4duio7g?imageView2/2/w/80/format/jpg",
+      "author_bio": "..",
+      "author_fans_count": 4907,
+      "status": "待处理",
+      "total_score": 37.44
     }
   ]
 }
