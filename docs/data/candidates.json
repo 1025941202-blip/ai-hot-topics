@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T01:30:08.907700Z",
+  "generated_at": "2026-10-28T01:31:35.456982Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 24084,
-    "total_candidates": 49137,
+    "total_posts": 24263,
+    "total_candidates": 49724,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-27T01:30:07.291892Z",
+    "last_updated_at": "2026-10-28T01:31:33.808637Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 20793
+        "count": 20952
       },
       {
         "platform": "x",
-        "count": 3182
+        "count": 3202
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 40674
+        "count": 41147
       },
       {
         "platform": "x",
-        "count": 11996
+        "count": 12154
       },
       {
         "platform": "xiaohongshu",
-        "count": 458
+        "count": 460
       },
       {
         "platform": "huitun",
@@ -243,7 +243,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 60.78
+      "total_score": 60.77
     },
     {
       "candidate_id": "topic-904e165d30dd8947e8",
@@ -1165,6 +1165,34 @@
       "total_score": 30.3
     },
     {
+      "candidate_id": "topic-3638f26bc5dae358f3",
+      "title": "Aula 01 - Claude na prática: de assistentes de IA a automações com Cowork",
+      "summary": "Aula 01 - Claude na prática: de assistentes de IA a automações com Cowork；Esta IA analiza documentos larguísimos en segundos 📄 #claude  #ia；Claude Code mudou (OUTRA VEZ) e pode estar atrapalhando seu workflow",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Ln_kCZPwbcI",
+        "https://www.youtube.com/watch?v=SJloAH104NY",
+        "https://www.youtube.com/watch?v=oye4qhikzZk",
+        "https://www.youtube.com/watch?v=EJaDcfEksIM",
+        "https://www.youtube.com/watch?v=OX2RS9_Yf4s"
+      ],
+      "published_at": "2026-10-06T00:12:28Z",
+      "publish_time_text": "",
+      "view_count": 27114,
+      "like_count": 7200,
+      "favorite_count": 0,
+      "comment_count": 126,
+      "share_count": 0,
+      "author_name": "Daxus",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.49
+    },
+    {
       "candidate_id": "topic-470ea56e8c7f473009",
       "title": "(附字幕) 盧永雄「巴士的點評」美國讓步，不打算審查中國大模型。中國硬打美國，宣佈5項對美反制措施，警告還有後著。  26年8月5日",
       "summary": "(附字幕) 盧永雄「巴士的點評」美國讓步，不打算審查中國大模型。中國硬打美國，宣佈5項對美反制措施，警告還有後著。  26年8月5日",
@@ -1591,6 +1619,34 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 38.32
+    },
+    {
+      "candidate_id": "topic-94d74a19153e04b555",
+      "title": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts",
+      "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；Matias Claro según Chat Gpt；O chat gpt é assim!😂 #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZNrnuMV3WlQ",
+        "https://www.youtube.com/watch?v=JK_f3v7-yj0",
+        "https://www.youtube.com/watch?v=bOoNBVUTmuI",
+        "https://www.youtube.com/watch?v=b1OnVu8S_e4",
+        "https://www.youtube.com/watch?v=qGjiW4rviBU"
+      ],
+      "published_at": "2026-08-18T22:07:21Z",
+      "publish_time_text": "",
+      "view_count": 24458,
+      "like_count": 4079,
+      "favorite_count": 0,
+      "comment_count": 43,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 36.81
     },
     {
       "candidate_id": "topic-a60a08443dfd542393",
@@ -2842,7 +2898,7 @@
       "author_bio": "跨境电商AI设计师｜艺术类硕士｜intj\n持续更新ai最新讯息｜AI｜养猫日记@可可奈斯 \n接作品集辅导｜Lu-X1029\n📮：2556048840@qq.com",
       "author_fans_count": 3278,
       "status": "待处理",
-      "total_score": 57.78
+      "total_score": 57.77
     },
     {
       "candidate_id": "topic-ed7f99a0b5a709ace3",
@@ -5145,7 +5201,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.69
+      "total_score": 33.67
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5456,6 +5512,34 @@
       "author_fans_count": 21244,
       "status": "待处理",
       "total_score": 34.55
+    },
+    {
+      "candidate_id": "topic-4a437d705ce36c0fb2",
+      "title": "Manus 1. 6 создает приложения за 15 минут",
+      "summary": "Manus 1. 6 создает приложения за 15 минут；每天拆解一个AI产品：Manus；@Manus_FS",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=DA2U2Zl2opo",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://x.com/Manus_FS"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 33.54
     },
     {
       "candidate_id": "topic-4cfaed3ead91e2a44d",
@@ -7816,88 +7900,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 36.36
-    },
-    {
-      "candidate_id": "topic-820ad6e9c61090f259",
-      "title": "БЕСПЛАТНО ПОДКЛЮЧАЕМ API DEEPSEEK V4 К HERMES AGENT",
-      "summary": "БЕСПЛАТНО ПОДКЛЮЧАЕМ API DEEPSEEK V4 К HERMES AGENT；DeepSeek-V4 前瞻",
-      "platforms": [
-        "x",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=m9Lj3UCCRcI",
-        "https://t.co/lktecScvIt"
-      ],
-      "published_at": "2026-06-06T20:00:42Z",
-      "publish_time_text": "",
-      "view_count": 1838,
-      "like_count": 190,
-      "favorite_count": 0,
-      "comment_count": 23,
-      "share_count": 0,
-      "author_name": "ForgetMe",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 33.45
-    },
-    {
-      "candidate_id": "topic-3a2810d2de403e2e5e",
-      "title": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程",
-      "summary": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程；几乎跪着读完了Google新发布的AI Agent😭；建议都去飞书上学AI Agent",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=5fYM48bDddw",
-        "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/698bfc1c000000001a022431?xsec_token=AB-a8FjhcZncXefqLuY_McWjpb30ucONV3-zEAgA9Nxpo=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/68f8b1f900000000070353fd"
-      ],
-      "published_at": "2026-02-26T07:35:12.771842Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 188,
-      "favorite_count": 417,
-      "comment_count": 137,
-      "share_count": 57,
-      "author_name": "Ai智维",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154s3v1rh46g5pkfek70uesh4duio7g?imageView2/2/w/80/format/jpg",
-      "author_bio": "..",
-      "author_fans_count": 4907,
-      "status": "待处理",
-      "total_score": 54.65
-    },
-    {
-      "candidate_id": "topic-f941b50a44c7ddc7d9",
-      "title": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程",
-      "summary": "手把手拆解：从零到一条完整AI短视频广告的全流程#AI短视频制作 #GoogleFlowAgent教程 #UGC广告制作全流程；几乎跪着读完了Google新发布的AI Agent😭；老林学KOPI AI AGENT",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=5fYM48bDddw",
-        "https://www.xiaohongshu.com/explore/699fe28e000000001a02d011?xsec_token=AB-0IM5VSI0Bbv9zTNoQX7I3stktL8WQaFBt0dUmrYFVU=&xsec_source=pc_search",
-        "https://x.com/linyiq"
-      ],
-      "published_at": "2026-02-26T07:35:12.771842Z",
-      "publish_time_text": "1天前",
-      "view_count": 0,
-      "like_count": 188,
-      "favorite_count": 417,
-      "comment_count": 137,
-      "share_count": 57,
-      "author_name": "Ai智维",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154s3v1rh46g5pkfek70uesh4duio7g?imageView2/2/w/80/format/jpg",
-      "author_bio": "..",
-      "author_fans_count": 4907,
-      "status": "待处理",
-      "total_score": 37.44
     }
   ]
 }
