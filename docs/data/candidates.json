@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:30:15.401641Z",
+  "generated_at": "2026-10-30T01:30:21.608190Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 24450,
-    "total_candidates": 50259,
+    "total_posts": 24632,
+    "total_candidates": 50805,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-29T01:30:13.738836Z",
+    "last_updated_at": "2026-10-30T01:30:19.785703Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 21115
+        "count": 21280
       },
       {
         "platform": "x",
-        "count": 3226
+        "count": 3243
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 41581
+        "count": 42045
       },
       {
         "platform": "x",
-        "count": 12292
+        "count": 12409
       },
       {
         "platform": "xiaohongshu",
-        "count": 462
+        "count": 463
       },
       {
         "platform": "huitun",
@@ -1163,6 +1163,32 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 30.3
+    },
+    {
+      "candidate_id": "topic-347269c05a3a3ea464",
+      "title": "Aula 01 - Claude na prática: de assistentes de IA a automações com Cowork",
+      "summary": "Aula 01 - Claude na prática: de assistentes de IA a automações com Cowork；Claude Code mudou (OUTRA VEZ) e pode estar atrapalhando seu workflow；Claude Computer Use na prática: útil de verdade ou apenas hype?",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Ln_kCZPwbcI",
+        "https://www.youtube.com/watch?v=oye4qhikzZk",
+        "https://www.youtube.com/watch?v=BlzlWVqprIU"
+      ],
+      "published_at": "2026-10-06T00:12:28Z",
+      "publish_time_text": "",
+      "view_count": 27114,
+      "like_count": 7200,
+      "favorite_count": 0,
+      "comment_count": 126,
+      "share_count": 0,
+      "author_name": "Daxus",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 36.22
     },
     {
       "candidate_id": "topic-3638f26bc5dae358f3",
@@ -4416,36 +4442,6 @@
       "total_score": 30.68
     },
     {
-      "candidate_id": "topic-ca466e1a9b009dd811",
-      "title": "If chat gpt was a indian parent.30 skits in 30 daysskit:1/30IndianParents, abusive parents, chat gpt",
-      "summary": "If chat gpt was a indian parent.30 skits in 30 daysskit:1/30IndianParents, abusive parents, chat gpt；I ain’t talking to chat gpt for 100000 days；OpenAI 认了，光靠订阅养不起ChatGPT",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=EBmvzjwaa-4",
-        "https://www.youtube.com/watch?v=uniyLa_10AM",
-        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
-        "https://t.co/9Xay9DWbU0",
-        "https://x.com/i/broadcasts/1jGXgBoROmBKZ"
-      ],
-      "published_at": "2026-01-19T00:00:00Z",
-      "publish_time_text": "01-19",
-      "view_count": 0,
-      "like_count": 2239,
-      "favorite_count": 802,
-      "comment_count": 623,
-      "share_count": 964,
-      "author_name": "大厂新声",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
-      "author_bio": "大厂新声｜大厂不该静音。",
-      "author_fans_count": 108214,
-      "status": "待处理",
-      "total_score": 29.77
-    },
-    {
       "candidate_id": "topic-d5c677feebcd588ea5",
       "title": "Cursor保姆级教程零基础小白从安装到实战",
       "summary": "Cursor保姆级教程零基础小白从安装到实战",
@@ -4844,7 +4840,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.09
+      "total_score": 33.08
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -5201,7 +5197,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.66
+      "total_score": 33.65
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5514,6 +5510,34 @@
       "total_score": 34.55
     },
     {
+      "candidate_id": "topic-71a3627ed2d67f5dbb",
+      "title": "Manus 1. 6 создает приложения за 15 минут",
+      "summary": "Manus 1. 6 создает приложения за 15 минут；每天拆解一个AI产品：Manus；【時間修正版】Manus AI ゆるふわもくもく会「今まで Manus で作って心底役立ったアプリの紹介」 #29 #manusもくもく会",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=DA2U2Zl2opo",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://t.co/c8k36Bxkii"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 33.54
+    },
+    {
       "candidate_id": "topic-4a437d705ce36c0fb2",
       "title": "Manus 1. 6 создает приложения за 15 минут",
       "summary": "Manus 1. 6 создает приложения за 15 минут；每天拆解一个AI产品：Manus；@Manus_FS",
@@ -5625,35 +5649,6 @@
       "author_fans_count": 21244,
       "status": "待处理",
       "total_score": 32.9
-    },
-    {
-      "candidate_id": "topic-71a3627ed2d67f5dbb",
-      "title": "Manus 1. 6 создает приложения за 15 минут",
-      "summary": "Manus 1. 6 создает приложения за 15 минут；每天拆解一个AI产品：Manus；【時間修正版】Manus AI ゆるふわもくもく会「今まで Manus で作って心底役立ったアプリの紹介」 #29 #manusもくもく会",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=DA2U2Zl2opo",
-        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
-        "https://t.co/c8k36Bxkii",
-        "https://x.com/manus_chai3546"
-      ],
-      "published_at": "2025-12-31T00:00:00Z",
-      "publish_time_text": "2025-12-31",
-      "view_count": 0,
-      "like_count": 987,
-      "favorite_count": 949,
-      "comment_count": 32,
-      "share_count": 334,
-      "author_name": "AI产品阿豪",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
-      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
-      "author_fans_count": 21244,
-      "status": "待处理",
-      "total_score": 31.91
     },
     {
       "candidate_id": "topic-e01e2db5d7ba74b4a4",
@@ -6708,6 +6703,33 @@
       "author_fans_count": 26812,
       "status": "待处理",
       "total_score": 35.5
+    },
+    {
+      "candidate_id": "topic-2174a715c73093fc0d",
+      "title": "DeepSeekの画像認識AIが無料公開！AI開発の新たな幕開け",
+      "summary": "DeepSeekの画像認識AIが無料公開！AI開発の新たな幕開け；AI写作变现全链路：教案×PPT×作业设计×DeepSeek提示词×豆包；Deepseek提示词万能模板👍😱",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=Q9w7WXIwdoU",
+        "https://www.youtube.com/watch?v=R_j1n7ZxYkA",
+        "https://www.xiaohongshu.com/explore/67c6ac7a000000002a00d12d?xsec_token=ABOrC1N8EOqaPtrLu8rvK1NCJNhe846AYA6_LaT1PpMUQ=&xsec_source=pc_search"
+      ],
+      "published_at": "2025-03-04T00:00:00Z",
+      "publish_time_text": "2025-03-04",
+      "view_count": 0,
+      "like_count": 597,
+      "favorite_count": 806,
+      "comment_count": 314,
+      "share_count": 90,
+      "author_name": "艾恒",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310m2agtcmoe05pfemrn197ggoueemt0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🔬专研AI工具落地应用\n💡用AIGC提高工作效率，探索AI的无限效能。\n💖每日持续更新AI前沿干货。",
+      "author_fans_count": 26812,
+      "status": "待处理",
+      "total_score": 33.51
     },
     {
       "candidate_id": "topic-1e4f9cb57b688ec08b",
@@ -7876,30 +7898,6 @@
       "author_fans_count": 1448,
       "status": "待处理",
       "total_score": 31.06
-    },
-    {
-      "candidate_id": "topic-45187733c75cb950c5",
-      "title": "油價暴跌，晶片股為何還在跌？Nvidia為OpenAI擔保，誰在替AI買單？｜2026/07/28 (二)",
-      "summary": "油價暴跌，晶片股為何還在跌？Nvidia為OpenAI擔保，誰在替AI買單？｜2026/07/28 (二)",
-      "platforms": [
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=RBL7rys568E"
-      ],
-      "published_at": "2026-07-28T01:12:18Z",
-      "publish_time_text": "",
-      "view_count": 3611,
-      "like_count": 206,
-      "favorite_count": 0,
-      "comment_count": 1,
-      "share_count": 0,
-      "author_name": "財女珍妮",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 36.36
     }
   ]
 }
