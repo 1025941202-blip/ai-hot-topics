@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:30:27.730857Z",
+  "generated_at": "2026-11-01T01:28:48.125738Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-10-31T01:30:25.962799Z",
+    "last_updated_at": "2026-11-01T01:28:46.186733Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -3255,7 +3255,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 52.91
+      "total_score": 52.9
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4442,6 +4442,36 @@
       "total_score": 30.68
     },
     {
+      "candidate_id": "topic-ca466e1a9b009dd811",
+      "title": "If chat gpt was a indian parent.30 skits in 30 daysskit:1/30IndianParents, abusive parents, chat gpt",
+      "summary": "If chat gpt was a indian parent.30 skits in 30 daysskit:1/30IndianParents, abusive parents, chat gpt；I ain’t talking to chat gpt for 100000 days；OpenAI 认了，光靠订阅养不起ChatGPT",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=EBmvzjwaa-4",
+        "https://www.youtube.com/watch?v=uniyLa_10AM",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
+        "https://t.co/9Xay9DWbU0",
+        "https://x.com/i/broadcasts/1jGXgBoROmBKZ"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 29.77
+    },
+    {
       "candidate_id": "topic-d5c677feebcd588ea5",
       "title": "Cursor保姆级教程零基础小白从安装到实战",
       "summary": "Cursor保姆级教程零基础小白从安装到实战",
@@ -5197,7 +5227,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.63
+      "total_score": 33.62
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -7872,30 +7902,6 @@
       "author_fans_count": 971,
       "status": "待处理",
       "total_score": 31.45
-    },
-    {
-      "candidate_id": "topic-0a452144816d76d9f2",
-      "title": "真的感谢去年的自己刷完这10个agent项目…",
-      "summary": "真的感谢去年的自己刷完这10个agent项目…",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/696da083000000001a033294"
-      ],
-      "published_at": "2026-01-19T00:00:00Z",
-      "publish_time_text": "01-19",
-      "view_count": 0,
-      "like_count": 211,
-      "favorite_count": 311,
-      "comment_count": 52,
-      "share_count": 34,
-      "author_name": "林念蕾",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q03684enu605q9fjsegpumokqhkte0?imageView2/2/w/80/format/jpg",
-      "author_bio": "永远热爱生活，永远期待明天！",
-      "author_fans_count": 1448,
-      "status": "待处理",
-      "total_score": 31.06
     }
   ]
 }
