@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T01:25:33.073075Z",
+  "generated_at": "2026-11-04T01:29:45.910572Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 24827,
-    "total_candidates": 51375,
+    "total_posts": 25005,
+    "total_candidates": 51972,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-11-03T01:25:31.192784Z",
+    "last_updated_at": "2026-11-04T01:29:44.269386Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 21446
+        "count": 21603
       },
       {
         "platform": "x",
-        "count": 3272
+        "count": 3293
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 42514
+        "count": 42991
       },
       {
         "platform": "x",
-        "count": 12542
+        "count": 12690
       },
       {
         "platform": "xiaohongshu",
-        "count": 465
+        "count": 467
       },
       {
         "platform": "huitun",
@@ -1675,6 +1675,34 @@
       "total_score": 38.27
     },
     {
+      "candidate_id": "topic-817ab89349d2ca9d3b",
+      "title": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts",
+      "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；MY TELESCOPE VS CHAT GPT #space #telescope #shorts；¿LOS 5 PERSONAJES MAS FUERTES DE BAKI SEGUN CHAT GPT? #shorts",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZNrnuMV3WlQ",
+        "https://www.youtube.com/watch?v=3cubIAsHpZQ",
+        "https://www.youtube.com/watch?v=qGjiW4rviBU",
+        "https://www.youtube.com/watch?v=G--hYS7jeKo",
+        "https://www.youtube.com/watch?v=k1VD854B_lQ"
+      ],
+      "published_at": "2026-08-18T22:07:21Z",
+      "publish_time_text": "",
+      "view_count": 24458,
+      "like_count": 4079,
+      "favorite_count": 0,
+      "comment_count": 43,
+      "share_count": 0,
+      "author_name": "MrScale",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 37.95
+    },
+    {
       "candidate_id": "topic-94d74a19153e04b555",
       "title": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts",
       "summary": "¿5 MAYORES FUMADAS DE BAKI SEGUN CHAT GPT? PARTE 2 #shorts；Matias Claro según Chat Gpt；O chat gpt é assim!😂 #shorts",
@@ -2873,7 +2901,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.52
+      "total_score": 32.51
     },
     {
       "candidate_id": "topic-df973b07f2f22db94b",
@@ -4442,36 +4470,6 @@
       "total_score": 30.68
     },
     {
-      "candidate_id": "topic-ca466e1a9b009dd811",
-      "title": "If chat gpt was a indian parent.30 skits in 30 daysskit:1/30IndianParents, abusive parents, chat gpt",
-      "summary": "If chat gpt was a indian parent.30 skits in 30 daysskit:1/30IndianParents, abusive parents, chat gpt；I ain’t talking to chat gpt for 100000 days；OpenAI 认了，光靠订阅养不起ChatGPT",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=EBmvzjwaa-4",
-        "https://www.youtube.com/watch?v=uniyLa_10AM",
-        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
-        "https://t.co/9Xay9DWbU0",
-        "https://x.com/i/broadcasts/1jGXgBoROmBKZ"
-      ],
-      "published_at": "2026-01-19T00:00:00Z",
-      "publish_time_text": "01-19",
-      "view_count": 0,
-      "like_count": 2239,
-      "favorite_count": 802,
-      "comment_count": 623,
-      "share_count": 964,
-      "author_name": "大厂新声",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
-      "author_bio": "大厂新声｜大厂不该静音。",
-      "author_fans_count": 108214,
-      "status": "待处理",
-      "total_score": 29.77
-    },
-    {
       "candidate_id": "topic-d5c677feebcd588ea5",
       "title": "Cursor保姆级教程零基础小白从安装到实战",
       "summary": "Cursor保姆级教程零基础小白从安装到实战",
@@ -5203,7 +5201,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 41.74
+      "total_score": 41.73
     },
     {
       "candidate_id": "topic-3a6c9cc785d55e9652",
@@ -5227,7 +5225,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.61
+      "total_score": 33.6
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5326,7 +5324,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.47
+      "total_score": 30.46
     },
     {
       "candidate_id": "topic-a6ca7a9deb88fc7040",
@@ -6393,6 +6391,32 @@
       "total_score": 37.89
     },
     {
+      "candidate_id": "topic-1c8dc91e5ea4b00aa8",
+      "title": "cursor实战案例--原型图绘制",
+      "summary": "cursor实战案例--原型图绘制；@cursorenla",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
+        "https://x.com/cursorenla"
+      ],
+      "published_at": "2026-01-21T00:00:00Z",
+      "publish_time_text": "01-21",
+      "view_count": 0,
+      "like_count": 622,
+      "favorite_count": 838,
+      "comment_count": 404,
+      "share_count": 111,
+      "author_name": "AI产品经理Aronn",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
+      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
+      "author_fans_count": 9596,
+      "status": "待处理",
+      "total_score": 37.88
+    },
+    {
       "candidate_id": "topic-93e035856a369dbd7c",
       "title": "cursor实战案例--原型图绘制",
       "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
@@ -6429,32 +6453,6 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
         "https://x.com/Cursoronsol"
-      ],
-      "published_at": "2026-01-21T00:00:00Z",
-      "publish_time_text": "01-21",
-      "view_count": 0,
-      "like_count": 622,
-      "favorite_count": 838,
-      "comment_count": 404,
-      "share_count": 111,
-      "author_name": "AI产品经理Aronn",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/f024db55-7076-3277-9862-673ab78904a3?imageView2/2/w/80/format/jpg",
-      "author_bio": "🚴‍♀️原北美独角兽AI产品经理\n🔎最新AI技术研究者\n🔑AI产品经理和算法知识的布道者\n👣具有丰富的AI产品项目经验",
-      "author_fans_count": 9596,
-      "status": "待处理",
-      "total_score": 37.88
-    },
-    {
-      "candidate_id": "topic-1c8dc91e5ea4b00aa8",
-      "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@cursorenla",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/cursorenla"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -7597,7 +7595,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.64
+      "total_score": 33.63
     },
     {
       "candidate_id": "topic-8c7c2f8f0d2f42e71e",
