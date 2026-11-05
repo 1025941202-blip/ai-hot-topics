@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T01:29:45.910572Z",
+  "generated_at": "2026-11-05T01:30:09.577976Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 25005,
-    "total_candidates": 51972,
+    "total_posts": 25184,
+    "total_candidates": 52514,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-11-04T01:29:44.269386Z",
+    "last_updated_at": "2026-11-05T01:30:07.420880Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 21603
+        "count": 21767
       },
       {
         "platform": "x",
-        "count": 3293
+        "count": 3308
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 42991
+        "count": 43464
       },
       {
         "platform": "x",
-        "count": 12690
+        "count": 12801
       },
       {
         "platform": "xiaohongshu",
-        "count": 467
+        "count": 469
       },
       {
         "platform": "huitun",
@@ -3283,7 +3283,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 52.9
+      "total_score": 52.89
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -3653,6 +3653,34 @@
       "author_fans_count": 108214,
       "status": "待处理",
       "total_score": 41.01
+    },
+    {
+      "candidate_id": "topic-21a642db2f335d1221",
+      "title": "AI FOMO 보다 심각하다는 AI FOBO #AI #FOMO #GPT #인공지능",
+      "summary": "AI FOMO 보다 심각하다는 AI FOBO #AI #FOMO #GPT #인공지능；OpenAI 认了，光靠订阅养不起ChatGPT；【速報】OpenAI、GPT-5.6 SolのAPI料金値下げ　期間限定だが新常態化の懸念も　採算性に影",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=BAsEm5BbcAI",
+        "https://www.xiaohongshu.com/explore/696dd8a0000000001a01d6f4?xsec_token=ABg0KJafc6IMrPzXKhNgpKsftvbXecNHkUbbcDH28ZHcs=&xsec_source=pc_search",
+        "https://t.co/trzzk8TmM2"
+      ],
+      "published_at": "2026-01-19T00:00:00Z",
+      "publish_time_text": "01-19",
+      "view_count": 0,
+      "like_count": 2239,
+      "favorite_count": 802,
+      "comment_count": 623,
+      "share_count": 964,
+      "author_name": "大厂新声",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgmnhnsnodg5pumjbt1ib2ebcjr8s0?imageView2/2/w/80/format/jpg",
+      "author_bio": "大厂新声｜大厂不该静音。",
+      "author_fans_count": 108214,
+      "status": "待处理",
+      "total_score": 39.38
     },
     {
       "candidate_id": "topic-9f3e1bd494c2a53d42",
@@ -5225,7 +5253,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.6
+      "total_score": 33.59
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5650,35 +5678,6 @@
       "total_score": 33.53
     },
     {
-      "candidate_id": "topic-50008c2e37b4a2f79a",
-      "title": "Manus给我们什么教训？ #Manus #AI #人工智能 #财经 #燃起来了大国重器",
-      "summary": "Manus给我们什么教训？ #Manus #AI #人工智能 #财经 #燃起来了大国重器；apon manus nai；每天拆解一个AI产品：Manus",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=DxiuUrvLSeo",
-        "https://www.youtube.com/watch?v=Afw3VHTmpxU",
-        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
-        "https://x.com/ManusAI"
-      ],
-      "published_at": "2025-12-31T00:00:00Z",
-      "publish_time_text": "2025-12-31",
-      "view_count": 0,
-      "like_count": 987,
-      "favorite_count": 949,
-      "comment_count": 32,
-      "share_count": 334,
-      "author_name": "AI产品阿豪",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
-      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
-      "author_fans_count": 21244,
-      "status": "待处理",
-      "total_score": 32.9
-    },
-    {
       "candidate_id": "topic-e01e2db5d7ba74b4a4",
       "title": "Taka takle Manus er priyo howa jai",
       "summary": "Taka takle Manus er priyo howa jai；manus koi jai re😭😭😭；每天拆解一个AI产品：Manus",
@@ -5731,6 +5730,36 @@
       "author_fans_count": 21244,
       "status": "待处理",
       "total_score": 31.59
+    },
+    {
+      "candidate_id": "topic-50008c2e37b4a2f79a",
+      "title": "Manus给我们什么教训？ #Manus #AI #人工智能 #财经 #燃起来了大国重器",
+      "summary": "Manus给我们什么教训？ #Manus #AI #人工智能 #财经 #燃起来了大国重器；apon manus nai；每天拆解一个AI产品：Manus",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=DxiuUrvLSeo",
+        "https://www.youtube.com/watch?v=Afw3VHTmpxU",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://x.com/ManusAI",
+        "https://x.com/ManusAI_JP"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 31.26
     },
     {
       "candidate_id": "topic-ddb0764e71a2ac1e59",
@@ -6391,16 +6420,16 @@
       "total_score": 37.89
     },
     {
-      "candidate_id": "topic-1c8dc91e5ea4b00aa8",
+      "candidate_id": "topic-93e035856a369dbd7c",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；@cursorenla",
+      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/cursorenla"
+        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -6417,16 +6446,16 @@
       "total_score": 37.88
     },
     {
-      "candidate_id": "topic-93e035856a369dbd7c",
+      "candidate_id": "topic-1c8dc91e5ea4b00aa8",
       "title": "cursor实战案例--原型图绘制",
-      "summary": "cursor实战案例--原型图绘制；Cursor Fllow",
+      "summary": "cursor实战案例--原型图绘制；@cursorenla",
       "platforms": [
         "x",
         "xiaohongshu"
       ],
       "source_links": [
         "https://www.xiaohongshu.com/explore/69704a61000000000e00e64e?xsec_token=ABuyUvqplNCZsxlTFStUclgGggnaZKd_t_S7iEDjFw80c=&xsec_source=pc_search",
-        "https://x.com/NextElonPrince/status/2099307157225455674/media_tags"
+        "https://x.com/cursorenla"
       ],
       "published_at": "2026-01-21T00:00:00Z",
       "publish_time_text": "01-21",
@@ -7874,32 +7903,6 @@
       "author_fans_count": 971,
       "status": "待处理",
       "total_score": 35.65
-    },
-    {
-      "candidate_id": "topic-9e750f2ad8e1167100",
-      "title": "给大家普及下用Chatgpt+banana画顶刊技术路",
-      "summary": "给大家普及下用Chatgpt+banana画顶刊技术路；Kaluna chatgpt+",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699e4b65000000002602f164?xsec_token=ABM7BFs1l0rztS8dXNGvxq65_Za0pPcIifrg-n-eTehkA=&xsec_source=pc_search",
-        "https://x.com/maqkarel"
-      ],
-      "published_at": "2026-02-25T07:36:43.061383Z",
-      "publish_time_text": "2天前",
-      "view_count": 0,
-      "like_count": 222,
-      "favorite_count": 366,
-      "comment_count": 238,
-      "share_count": 55,
-      "author_name": "两颗红西柚",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rm4idlc28005q89ofjttcd224kb24g?imageView2/2/w/80/format/jpg",
-      "author_bio": "还没有简介",
-      "author_fans_count": 971,
-      "status": "待处理",
-      "total_score": 31.45
     }
   ]
 }
