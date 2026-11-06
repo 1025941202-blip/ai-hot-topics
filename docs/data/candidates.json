@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:30:09.577976Z",
+  "generated_at": "2026-11-06T01:29:36.467926Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 25184,
-    "total_candidates": 52514,
+    "total_posts": 25371,
+    "total_candidates": 53143,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-11-05T01:30:07.420880Z",
+    "last_updated_at": "2026-11-06T01:29:34.343535Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 21767
+        "count": 21927
       },
       {
         "platform": "x",
-        "count": 3308
+        "count": 3335
       },
       {
         "platform": "xiaohongshu",
@@ -36,11 +36,11 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 43464
+        "count": 43986
       },
       {
         "platform": "x",
-        "count": 12801
+        "count": 12951
       },
       {
         "platform": "xiaohongshu",
@@ -7700,6 +7700,32 @@
       "total_score": 31.88
     },
     {
+      "candidate_id": "topic-27ec6dcf633e5d78b4",
+      "title": "even more AI bullcr*d",
+      "summary": "even more AI bullcr*d；@AskMoreAIs",
+      "platforms": [
+        "x",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=i1fLoUOQbe8",
+        "https://x.com/AskMoreAIs"
+      ],
+      "published_at": "2026-11-06T01:09:09Z",
+      "publish_time_text": "",
+      "view_count": 3393,
+      "like_count": 313,
+      "favorite_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "author_name": "JJJacksfilms",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 33.12
+    },
+    {
       "candidate_id": "topic-b8c7df7eba2564426c",
       "title": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
       "summary": "一觉醒来，Ai圈又变天🔥Manus强在哪里？；什么是Manus？和其他AI有什么区别？小白进",
@@ -7879,30 +7905,6 @@
       "author_fans_count": 134392,
       "status": "待处理",
       "total_score": 33.72
-    },
-    {
-      "candidate_id": "topic-7b9d1dcdc30d7355c2",
-      "title": "给大家普及下用Chatgpt+banana画顶刊技术路",
-      "summary": "给大家普及下用Chatgpt+banana画顶刊技术路",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699e4b65000000002602f164?xsec_token=ABM7BFs1l0rztS8dXNGvxq65_Za0pPcIifrg-n-eTehkA=&xsec_source=pc_search"
-      ],
-      "published_at": "2026-02-25T07:36:43.061383Z",
-      "publish_time_text": "2天前",
-      "view_count": 0,
-      "like_count": 222,
-      "favorite_count": 366,
-      "comment_count": 238,
-      "share_count": 55,
-      "author_name": "两颗红西柚",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rm4idlc28005q89ofjttcd224kb24g?imageView2/2/w/80/format/jpg",
-      "author_bio": "还没有简介",
-      "author_fans_count": 971,
-      "status": "待处理",
-      "total_score": 35.65
     }
   ]
 }
