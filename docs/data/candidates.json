@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T01:29:36.467926Z",
+  "generated_at": "2026-11-07T01:29:42.169995Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 25371,
-    "total_candidates": 53143,
+    "total_posts": 25557,
+    "total_candidates": 53760,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-11-06T01:29:34.343535Z",
+    "last_updated_at": "2026-11-07T01:29:39.907659Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 21927
+        "count": 22091
       },
       {
         "platform": "x",
-        "count": 3335
+        "count": 3357
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 43986
+        "count": 44491
       },
       {
         "platform": "x",
-        "count": 12951
+        "count": 13108
       },
       {
         "platform": "xiaohongshu",
-        "count": 469
+        "count": 471
       },
       {
         "platform": "huitun",
@@ -5253,7 +5253,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.59
+      "total_score": 33.58
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -6315,33 +6315,6 @@
       "author_fans_count": 0,
       "status": "待处理",
       "total_score": 32.13
-    },
-    {
-      "candidate_id": "topic-8173dd7a3800d2fba0",
-      "title": "Manus给我们什么教训？ #Manus #AI #人工智能 #财经 #燃起来了大国重器",
-      "summary": "Manus给我们什么教训？ #Manus #AI #人工智能 #财经 #燃起来了大国重器；manus koi jai re😭😭😭；什么是Manus？和其他AI有什么区别？小白进",
-      "platforms": [
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=DxiuUrvLSeo",
-        "https://www.youtube.com/watch?v=d63bDu0amgc",
-        "https://www.xiaohongshu.com/explore/67c9657e000000000603a539?xsec_token=ABW0WgVzUQsXmGNSxcarIp22fa92xXLY_c1pO4CzkSxmE=&xsec_source=pc_search"
-      ],
-      "published_at": "2025-03-06T00:00:00Z",
-      "publish_time_text": "2025-03-06",
-      "view_count": 0,
-      "like_count": 634,
-      "favorite_count": 626,
-      "comment_count": 26,
-      "share_count": 336,
-      "author_name": "AI探长",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kgrdsorj4005n8bbei49vpe4m4n2ag?imageView2/2/w/80/format/jpg",
-      "author_bio": "AI体验师、超级自学者\n欢迎成为我的赛博网友\n一起学习实践！",
-      "author_fans_count": 203,
-      "status": "待处理",
-      "total_score": 29.89
     },
     {
       "candidate_id": "topic-29d8665732d9fcf282",
@@ -7700,32 +7673,6 @@
       "total_score": 31.88
     },
     {
-      "candidate_id": "topic-27ec6dcf633e5d78b4",
-      "title": "even more AI bullcr*d",
-      "summary": "even more AI bullcr*d；@AskMoreAIs",
-      "platforms": [
-        "x",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=i1fLoUOQbe8",
-        "https://x.com/AskMoreAIs"
-      ],
-      "published_at": "2026-11-06T01:09:09Z",
-      "publish_time_text": "",
-      "view_count": 3393,
-      "like_count": 313,
-      "favorite_count": 0,
-      "comment_count": 0,
-      "share_count": 0,
-      "author_name": "JJJacksfilms",
-      "author_avatar": "",
-      "author_bio": "",
-      "author_fans_count": 0,
-      "status": "待处理",
-      "total_score": 33.12
-    },
-    {
       "candidate_id": "topic-b8c7df7eba2564426c",
       "title": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
       "summary": "一觉醒来，Ai圈又变天🔥Manus强在哪里？；什么是Manus？和其他AI有什么区别？小白进",
@@ -7905,6 +7852,56 @@
       "author_fans_count": 134392,
       "status": "待处理",
       "total_score": 33.72
+    },
+    {
+      "candidate_id": "topic-7b9d1dcdc30d7355c2",
+      "title": "给大家普及下用Chatgpt+banana画顶刊技术路",
+      "summary": "给大家普及下用Chatgpt+banana画顶刊技术路",
+      "platforms": [
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/699e4b65000000002602f164?xsec_token=ABM7BFs1l0rztS8dXNGvxq65_Za0pPcIifrg-n-eTehkA=&xsec_source=pc_search"
+      ],
+      "published_at": "2026-02-25T07:36:43.061383Z",
+      "publish_time_text": "2天前",
+      "view_count": 0,
+      "like_count": 222,
+      "favorite_count": 366,
+      "comment_count": 238,
+      "share_count": 55,
+      "author_name": "两颗红西柚",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rm4idlc28005q89ofjttcd224kb24g?imageView2/2/w/80/format/jpg",
+      "author_bio": "还没有简介",
+      "author_fans_count": 971,
+      "status": "待处理",
+      "total_score": 35.65
+    },
+    {
+      "candidate_id": "topic-9e750f2ad8e1167100",
+      "title": "给大家普及下用Chatgpt+banana画顶刊技术路",
+      "summary": "给大家普及下用Chatgpt+banana画顶刊技术路；Kaluna chatgpt+",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/699e4b65000000002602f164?xsec_token=ABM7BFs1l0rztS8dXNGvxq65_Za0pPcIifrg-n-eTehkA=&xsec_source=pc_search",
+        "https://x.com/maqkarel"
+      ],
+      "published_at": "2026-02-25T07:36:43.061383Z",
+      "publish_time_text": "2天前",
+      "view_count": 0,
+      "like_count": 222,
+      "favorite_count": 366,
+      "comment_count": 238,
+      "share_count": 55,
+      "author_name": "两颗红西柚",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rm4idlc28005q89ofjttcd224kb24g?imageView2/2/w/80/format/jpg",
+      "author_bio": "还没有简介",
+      "author_fans_count": 971,
+      "status": "待处理",
+      "total_score": 31.45
     }
   ]
 }
