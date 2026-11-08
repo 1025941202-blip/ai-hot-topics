@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:29:42.169995Z",
+  "generated_at": "2026-11-08T01:30:12.334928Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 25557,
-    "total_candidates": 53760,
+    "total_posts": 25743,
+    "total_candidates": 54377,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-11-07T01:29:39.907659Z",
+    "last_updated_at": "2026-11-08T01:30:10.416890Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 22091
+        "count": 22254
       },
       {
         "platform": "x",
-        "count": 3357
+        "count": 3380
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 44491
+        "count": 45009
       },
       {
         "platform": "x",
-        "count": 13108
+        "count": 13257
       },
       {
         "platform": "xiaohongshu",
-        "count": 471
+        "count": 473
       },
       {
         "platform": "huitun",
@@ -6267,6 +6267,32 @@
       "total_score": 34.55
     },
     {
+      "candidate_id": "topic-a33546c8addae540dc",
+      "title": "什么是Manus？和其他AI有什么区别？小白进",
+      "summary": "什么是Manus？和其他AI有什么区别？小白进；@ManusAI_JP",
+      "platforms": [
+        "x",
+        "xiaohongshu"
+      ],
+      "source_links": [
+        "https://www.xiaohongshu.com/explore/67c9657e000000000603a539?xsec_token=ABW0WgVzUQsXmGNSxcarIp22fa92xXLY_c1pO4CzkSxmE=&xsec_source=pc_search",
+        "https://x.com/ManusAI_JP"
+      ],
+      "published_at": "2025-03-06T00:00:00Z",
+      "publish_time_text": "2025-03-06",
+      "view_count": 0,
+      "like_count": 634,
+      "favorite_count": 626,
+      "comment_count": 26,
+      "share_count": 336,
+      "author_name": "AI探长",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kgrdsorj4005n8bbei49vpe4m4n2ag?imageView2/2/w/80/format/jpg",
+      "author_bio": "AI体验师、超级自学者\n欢迎成为我的赛博网友\n一起学习实践！",
+      "author_fans_count": 203,
+      "status": "待处理",
+      "total_score": 32.55
+    },
+    {
       "candidate_id": "topic-151b74915733fd8eca",
       "title": "什么是Manus？和其他AI有什么区别？小白进",
       "summary": "什么是Manus？和其他AI有什么区别？小白进；Manus Fellow & SHIFT AI奈良オフ会",
@@ -7876,32 +7902,6 @@
       "author_fans_count": 971,
       "status": "待处理",
       "total_score": 35.65
-    },
-    {
-      "candidate_id": "topic-9e750f2ad8e1167100",
-      "title": "给大家普及下用Chatgpt+banana画顶刊技术路",
-      "summary": "给大家普及下用Chatgpt+banana画顶刊技术路；Kaluna chatgpt+",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699e4b65000000002602f164?xsec_token=ABM7BFs1l0rztS8dXNGvxq65_Za0pPcIifrg-n-eTehkA=&xsec_source=pc_search",
-        "https://x.com/maqkarel"
-      ],
-      "published_at": "2026-02-25T07:36:43.061383Z",
-      "publish_time_text": "2天前",
-      "view_count": 0,
-      "like_count": 222,
-      "favorite_count": 366,
-      "comment_count": 238,
-      "share_count": 55,
-      "author_name": "两颗红西柚",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rm4idlc28005q89ofjttcd224kb24g?imageView2/2/w/80/format/jpg",
-      "author_bio": "还没有简介",
-      "author_fans_count": 971,
-      "status": "待处理",
-      "total_score": 31.45
     }
   ]
 }
