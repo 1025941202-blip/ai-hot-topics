@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:33:42.152318Z",
+  "generated_at": "2026-11-10T01:29:44.429290Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 25926,
-    "total_candidates": 54946,
+    "total_posts": 26115,
+    "total_candidates": 55536,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-11-09T01:33:40.204003Z",
+    "last_updated_at": "2026-11-10T01:29:42.251949Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 22417
+        "count": 22578
       },
       {
         "platform": "x",
-        "count": 3400
+        "count": 3428
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 45487
+        "count": 45975
       },
       {
         "platform": "x",
-        "count": 13392
+        "count": 13533
       },
       {
         "platform": "xiaohongshu",
-        "count": 475
+        "count": 476
       },
       {
         "platform": "huitun",
@@ -3311,7 +3311,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 52.89
+      "total_score": 52.88
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4807,6 +4807,34 @@
       "total_score": 44.84
     },
     {
+      "candidate_id": "topic-424e093e734e906f9a",
+      "title": "Senior Mossad Agent Killed in Tel Aviv?",
+      "summary": "Senior Mossad Agent Killed in Tel Aviv?；Agent Yama does the unthinkable；MAKING NEW CURSOR + SILENT HILL 2 | 3/13/26",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZsQwNZSGvow",
+        "https://www.youtube.com/watch?v=mb0zdPJlImI",
+        "https://www.youtube.com/watch?v=8-ef7F7dFeQ",
+        "https://www.youtube.com/watch?v=NSiPMwpEiZ0",
+        "https://www.youtube.com/watch?v=BqoHe8sbL_s"
+      ],
+      "published_at": "2026-06-04T21:43:33Z",
+      "publish_time_text": "",
+      "view_count": 26231,
+      "like_count": 1632,
+      "favorite_count": 0,
+      "comment_count": 134,
+      "share_count": 0,
+      "author_name": "Cross Examined with Michael Lofton",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.0
+    },
+    {
       "candidate_id": "topic-13c64dc435edd0a958",
       "title": "(附字幕) 「外交短評」毛寧揭批日本右翼向大模型投毒篡改二戰史。特朗普對伊戰爭致日本化工業陷困局中國化工產品佔日本進口加工製品51.5%。  10月10日",
       "summary": "(附字幕) 「外交短評」毛寧揭批日本右翼向大模型投毒篡改二戰史。特朗普對伊戰爭致日本化工業陷困局中國化工產品佔日本進口加工製品51.5%。  10月10日；(附字幕) 盧永雄「巴士的點評」美國讓步，不打算審查中國大模型。中國硬打美國，宣佈5項對美反制措施，警告還有後著。  26年8月5日",
@@ -4829,7 +4857,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 50.83
+      "total_score": 50.82
     },
     {
       "candidate_id": "topic-31f538d914c48e855f",
@@ -7885,31 +7913,6 @@
       "author_fans_count": 446,
       "status": "待处理",
       "total_score": 31.45
-    },
-    {
-      "candidate_id": "topic-0d61f7ede9386a09fd",
-      "title": "10个即梦seedance2.0电影级的爆款提示词！",
-      "summary": "10个即梦seedance2.0电影级的爆款提示词！；即梦 Seedance 2.0 提示词高阶技巧手册",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/699e388d0000000015038d81",
-        "https://www.xiaohongshu.com/explore/698d51d40000000015023e40"
-      ],
-      "published_at": "2026-02-25T07:35:49.754045Z",
-      "publish_time_text": "2天前",
-      "view_count": 0,
-      "like_count": 235,
-      "favorite_count": 359,
-      "comment_count": 7,
-      "share_count": 63,
-      "author_name": "尤道子",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8l68r2l8005prugsn27s4ldfllrs8?imageView2/2/w/80/format/jpg",
-      "author_bio": "分享AI干货 |专注AI变现\n诗词金句爱好者，10年流量玩家，AI变现学员2000+\n关注我，开启AI赋能变现之旅！",
-      "author_fans_count": 134392,
-      "status": "待处理",
-      "total_score": 33.72
     }
   ]
 }
