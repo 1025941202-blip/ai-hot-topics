@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:30:28.978298Z",
+  "generated_at": "2026-11-12T01:32:07.351749Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 26299,
-    "total_candidates": 56128,
+    "total_posts": 26484,
+    "total_candidates": 56662,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-11-11T01:30:26.827687Z",
+    "last_updated_at": "2026-11-12T01:32:05.155811Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 22737
+        "count": 22903
       },
       {
         "platform": "x",
-        "count": 3453
+        "count": 3472
       },
       {
         "platform": "xiaohongshu",
@@ -36,15 +36,15 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 46453
+        "count": 46906
       },
       {
         "platform": "x",
-        "count": 13691
+        "count": 13808
       },
       {
         "platform": "xiaohongshu",
-        "count": 477
+        "count": 478
       },
       {
         "platform": "huitun",
@@ -5566,6 +5566,33 @@
       "total_score": 36.8
     },
     {
+      "candidate_id": "topic-47729011279a1c9bcc",
+      "title": "Manus给我们什么教训？ #Manus #AI #人工智能 #财经 #燃起来了大国重器",
+      "summary": "Manus给我们什么教训？ #Manus #AI #人工智能 #财经 #燃起来了大国重器；Manus AI (бесплатная версия): Урок 2. Deep Research делает исследование рынка за 5 минут.；每天拆解一个AI产品：Manus",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=DxiuUrvLSeo",
+        "https://www.youtube.com/watch?v=TXuYP_e0Q0M",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 36.52
+    },
+    {
       "candidate_id": "topic-6a95eb19ef5bf4c09a",
       "title": "#PR #manus整形や肌治療の経過写真って、撮るだけだと後から見返す時にかなり探しづらくなる。@Manus-AI",
       "summary": "#PR #manus整形や肌治療の経過写真って、撮るだけだと後から見返す時にかなり探しづらくなる。@Manus-AI；컴퓨터 몰라도 PPT 완성! 자료조사부터 디자인까지 Manus AI가 알아서 해줍니다；每天拆解一个AI产品：Manus",
@@ -6161,9 +6188,9 @@
       "total_score": 34.98
     },
     {
-      "candidate_id": "topic-9f32a23d908f00a14a",
+      "candidate_id": "topic-dc1a40bbfa85e9281c",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -6171,7 +6198,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/IKzuhX2Uvc"
+        "https://t.co/A3jnigbUAc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -6188,9 +6215,9 @@
       "total_score": 32.65
     },
     {
-      "candidate_id": "topic-dc1a40bbfa85e9281c",
+      "candidate_id": "topic-9f32a23d908f00a14a",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -6198,7 +6225,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/A3jnigbUAc"
+        "https://t.co/IKzuhX2Uvc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -7885,30 +7912,6 @@
       "author_fans_count": 82,
       "status": "待处理",
       "total_score": 31.09
-    },
-    {
-      "candidate_id": "topic-5b5f37ff9dfe5d34ed",
-      "title": "豆包这 125 个指令直接封神！好用到哭",
-      "summary": "豆包这 125 个指令直接封神！好用到哭",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/69529b09000000001e012175"
-      ],
-      "published_at": "",
-      "publish_time_text": "2025-12-29",
-      "view_count": 0,
-      "like_count": 273,
-      "favorite_count": 396,
-      "comment_count": 8,
-      "share_count": 50,
-      "author_name": "小微AI学习进化论",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ltrui52l0dg5pnvpq17c67mud131vg?imageView2/2/w/80/format/jpg",
-      "author_bio": "🌈AI学习进化论探索者\n🌟探索AI在办公、创作与生活中的应用\n☀分享AI各领域实用技巧与知识\n❄提升工作效率，解锁更多智能化可能",
-      "author_fans_count": 446,
-      "status": "待处理",
-      "total_score": 31.45
     }
   ]
 }
