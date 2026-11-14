@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:30:42.415154Z",
+  "generated_at": "2026-11-14T01:32:18.110332Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -8,21 +8,21 @@
     "sort_order": "desc"
   },
   "summary": {
-    "total_posts": 26676,
-    "total_candidates": 57252,
+    "total_posts": 26849,
+    "total_candidates": 57872,
     "approved_candidates": 0,
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-11-13T01:30:40.445460Z",
+    "last_updated_at": "2026-11-14T01:32:16.050374Z",
     "by_platform": [
       {
         "platform": "youtube",
-        "count": 23068
+        "count": 23225
       },
       {
         "platform": "x",
-        "count": 3499
+        "count": 3515
       },
       {
         "platform": "xiaohongshu",
@@ -36,11 +36,11 @@
     "by_platform_candidates": [
       {
         "platform": "youtube",
-        "count": 47400
+        "count": 47903
       },
       {
         "platform": "x",
-        "count": 13941
+        "count": 14097
       },
       {
         "platform": "xiaohongshu",
@@ -591,7 +591,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 32.04
+      "total_score": 32.01
     },
     {
       "candidate_id": "topic-b030d421b69dddf8a5",
@@ -5209,7 +5209,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.26
+      "total_score": 33.24
     },
     {
       "candidate_id": "topic-942c7026afb018663d",
@@ -5333,7 +5333,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.56
+      "total_score": 33.55
     },
     {
       "candidate_id": "topic-56607ab0297db19ebf",
@@ -5512,6 +5512,33 @@
       "total_score": 40.28
     },
     {
+      "candidate_id": "topic-9bea81fd6fd51768cf",
+      "title": "Manus boroi ajob",
+      "summary": "Manus boroi ajob；每天拆解一个AI产品：Manus；一觉醒来，Ai圈又变天🔥Manus强在哪里？",
+      "platforms": [
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=oVzGyxt1s3A",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://www.xiaohongshu.com/explore/67ca3293000000000302be1f?xsec_token=AB7t3ggQXiq6f-UQ08iW3J2cV3iUQZp2I84VbVHtvjRvQ=&xsec_source=pc_search"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 38.28
+    },
+    {
       "candidate_id": "topic-199ffeeac73e496590",
       "title": "每天拆解一个AI产品：Manus",
       "summary": "每天拆解一个AI产品：Manus；一觉醒来，Ai圈又变天🔥Manus强在哪里？；Manus Fellow & SHIFT AI奈良オフ会",
@@ -5644,36 +5671,6 @@
       "author_fans_count": 21244,
       "status": "待处理",
       "total_score": 34.55
-    },
-    {
-      "candidate_id": "topic-9bea81fd6fd51768cf",
-      "title": "Manus boroi ajob",
-      "summary": "Manus boroi ajob；每天拆解一个AI产品：Manus；一觉醒来，Ai圈又变天🔥Manus强在哪里？",
-      "platforms": [
-        "x",
-        "xiaohongshu",
-        "youtube"
-      ],
-      "source_links": [
-        "https://www.youtube.com/watch?v=oVzGyxt1s3A",
-        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/67ca3293000000000302be1f?xsec_token=AB7t3ggQXiq6f-UQ08iW3J2cV3iUQZp2I84VbVHtvjRvQ=&xsec_source=pc_search",
-        "https://x.com/ManusAI",
-        "https://x.com/ManusAI_JP"
-      ],
-      "published_at": "2025-12-31T00:00:00Z",
-      "publish_time_text": "2025-12-31",
-      "view_count": 0,
-      "like_count": 987,
-      "favorite_count": 949,
-      "comment_count": 32,
-      "share_count": 334,
-      "author_name": "AI产品阿豪",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
-      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
-      "author_fans_count": 21244,
-      "status": "待处理",
-      "total_score": 34.17
     },
     {
       "candidate_id": "topic-71a3627ed2d67f5dbb",
@@ -6217,9 +6214,9 @@
       "total_score": 34.98
     },
     {
-      "candidate_id": "topic-9f32a23d908f00a14a",
+      "candidate_id": "topic-dc1a40bbfa85e9281c",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -6227,7 +6224,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/IKzuhX2Uvc"
+        "https://t.co/A3jnigbUAc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
@@ -6244,9 +6241,9 @@
       "total_score": 32.65
     },
     {
-      "candidate_id": "topic-dc1a40bbfa85e9281c",
+      "candidate_id": "topic-9f32a23d908f00a14a",
       "title": "真绝了👍chatgpt效率爆炸的20个Prompt",
-      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From the ChatGPT community on Reddit",
+      "summary": "真绝了👍chatgpt效率爆炸的20个Prompt；From chatgpt.com；From nano-gpt.com",
       "platforms": [
         "x",
         "xiaohongshu"
@@ -6254,7 +6251,7 @@
       "source_links": [
         "https://www.xiaohongshu.com/explore/683178320000000021001f73?xsec_token=ABZZvMbESkhO-GYOH7ofxyETdwQ3MJAH89Mw2h0Sn-pYg=&xsec_source=pc_search",
         "https://t.co/KIPo3rN0Zc",
-        "https://t.co/A3jnigbUAc"
+        "https://t.co/IKzuhX2Uvc"
       ],
       "published_at": "2025-05-26T00:00:00Z",
       "publish_time_text": "2025-05-26",
