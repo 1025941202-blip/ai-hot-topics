@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:32:18.110332Z",
+  "generated_at": "2026-11-15T01:26:09.170844Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-11-14T01:32:16.050374Z",
+    "last_updated_at": "2026-11-15T01:26:06.530916Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -4833,6 +4833,34 @@
       "total_score": 44.84
     },
     {
+      "candidate_id": "topic-424e093e734e906f9a",
+      "title": "Senior Mossad Agent Killed in Tel Aviv?",
+      "summary": "Senior Mossad Agent Killed in Tel Aviv?；Agent Yama does the unthinkable；MAKING NEW CURSOR + SILENT HILL 2 | 3/13/26",
+      "platforms": [
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=ZsQwNZSGvow",
+        "https://www.youtube.com/watch?v=mb0zdPJlImI",
+        "https://www.youtube.com/watch?v=8-ef7F7dFeQ",
+        "https://www.youtube.com/watch?v=NSiPMwpEiZ0",
+        "https://www.youtube.com/watch?v=BqoHe8sbL_s"
+      ],
+      "published_at": "2026-06-04T21:43:33Z",
+      "publish_time_text": "",
+      "view_count": 26231,
+      "like_count": 1632,
+      "favorite_count": 0,
+      "comment_count": 134,
+      "share_count": 0,
+      "author_name": "Cross Examined with Michael Lofton",
+      "author_avatar": "",
+      "author_bio": "",
+      "author_fans_count": 0,
+      "status": "待处理",
+      "total_score": 30.0
+    },
+    {
       "candidate_id": "topic-13c64dc435edd0a958",
       "title": "(附字幕) 「外交短評」毛寧揭批日本右翼向大模型投毒篡改二戰史。特朗普對伊戰爭致日本化工業陷困局中國化工產品佔日本進口加工製品51.5%。  10月10日",
       "summary": "(附字幕) 「外交短評」毛寧揭批日本右翼向大模型投毒篡改二戰史。特朗普對伊戰爭致日本化工業陷困局中國化工產品佔日本進口加工製品51.5%。  10月10日；(附字幕) 盧永雄「巴士的點評」美國讓步，不打算審查中國大模型。中國硬打美國，宣佈5項對美反制措施，警告還有後著。  26年8月5日",
@@ -5209,7 +5237,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.24
+      "total_score": 33.23
     },
     {
       "candidate_id": "topic-942c7026afb018663d",
@@ -5984,6 +6012,35 @@
       "author_fans_count": 21244,
       "status": "待处理",
       "total_score": 30.04
+    },
+    {
+      "candidate_id": "topic-16825901b7ca0811e8",
+      "title": "Manus boroi ajob",
+      "summary": "Manus boroi ajob；컴퓨터 몰라도 PPT 완성! 자료조사부터 디자인까지 Manus AI가 알아서 해줍니다；每天拆解一个AI产品：Manus",
+      "platforms": [
+        "x",
+        "xiaohongshu",
+        "youtube"
+      ],
+      "source_links": [
+        "https://www.youtube.com/watch?v=oVzGyxt1s3A",
+        "https://www.youtube.com/watch?v=34xVkcAGZPg",
+        "https://www.xiaohongshu.com/explore/6953e7b7000000001e002ca7?xsec_token=AB1SnQvvcC9oBvTpcU5bPnO_-LdRtiVujDzXTq3phcjrw=&xsec_source=pc_search",
+        "https://x.com/manus_chai3546"
+      ],
+      "published_at": "2025-12-31T00:00:00Z",
+      "publish_time_text": "2025-12-31",
+      "view_count": 0,
+      "like_count": 987,
+      "favorite_count": 949,
+      "comment_count": 32,
+      "share_count": 334,
+      "author_name": "AI产品阿豪",
+      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g68vh521q0g49ndsp72gq6j21vd1t0?imageView2/2/w/80/format/jpg",
+      "author_bio": "🧑‍💻大厂AI产品经理，0-1落地多个AI产品\n🎯经历数据产品➡️策略产品➡️AI产品\n✨专注讲人话的大模型科普｜只回粉丝👋",
+      "author_fans_count": 21244,
+      "status": "待处理",
+      "total_score": 29.97
     },
     {
       "candidate_id": "topic-ba86381281cd45d5a8",
@@ -7858,58 +7915,6 @@
       "author_fans_count": 82,
       "status": "待处理",
       "total_score": 33.45
-    },
-    {
-      "candidate_id": "topic-d46bce9f0f8b4ef365",
-      "title": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
-      "summary": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
-      "platforms": [
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/67ca3293000000000302be1f?xsec_token=AB7t3ggQXiq6f-UQ08iW3J2cV3iUQZp2I84VbVHtvjRvQ=&xsec_source=pc_search"
-      ],
-      "published_at": "2025-03-07T00:00:00Z",
-      "publish_time_text": "2025-03-07",
-      "view_count": 0,
-      "like_count": 279,
-      "favorite_count": 210,
-      "comment_count": 22,
-      "share_count": 160,
-      "author_name": "光落在树叶上🍊",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31on2np170g604br4mngapv9f8mbouc8?imageView2/2/w/80/format/jpg",
-      "author_bio": "我今天先坚持，明天再放弃💚\n做你必须做的，直到你能做你想做的",
-      "author_fans_count": 82,
-      "status": "待处理",
-      "total_score": 32.0
-    },
-    {
-      "candidate_id": "topic-d696ad7c8c6e5c2a49",
-      "title": "一觉醒来，Ai圈又变天🔥Manus强在哪里？",
-      "summary": "一觉醒来，Ai圈又变天🔥Manus强在哪里？；什么是Manus？和其他AI有什么区别？小白进；@ManusAI_JP",
-      "platforms": [
-        "x",
-        "xiaohongshu"
-      ],
-      "source_links": [
-        "https://www.xiaohongshu.com/explore/67ca3293000000000302be1f?xsec_token=AB7t3ggQXiq6f-UQ08iW3J2cV3iUQZp2I84VbVHtvjRvQ=&xsec_source=pc_search",
-        "https://www.xiaohongshu.com/explore/67c9657e000000000603a539?xsec_token=ABW0WgVzUQsXmGNSxcarIp22fa92xXLY_c1pO4CzkSxmE=&xsec_source=pc_search",
-        "https://x.com/ManusAI_JP",
-        "https://x.com/ManusAI_JP/status/2036458920085160406?s=20"
-      ],
-      "published_at": "2025-03-07T00:00:00Z",
-      "publish_time_text": "2025-03-07",
-      "view_count": 0,
-      "like_count": 279,
-      "favorite_count": 210,
-      "comment_count": 22,
-      "share_count": 160,
-      "author_name": "光落在树叶上🍊",
-      "author_avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31on2np170g604br4mngapv9f8mbouc8?imageView2/2/w/80/format/jpg",
-      "author_bio": "我今天先坚持，明天再放弃💚\n做你必须做的，直到你能做你想做的",
-      "author_fans_count": 82,
-      "status": "待处理",
-      "total_score": 31.09
     }
   ]
 }
