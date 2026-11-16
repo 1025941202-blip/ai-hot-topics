@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:26:09.170844Z",
+  "generated_at": "2026-11-16T01:26:04.381595Z",
   "filters": {
     "platform": "all",
     "limit": 300,
@@ -14,7 +14,7 @@
     "generated_drafts": 0,
     "xiaohongshu_posts": 98,
     "huitun_posts": 11,
-    "last_updated_at": "2026-11-15T01:26:06.530916Z",
+    "last_updated_at": "2026-11-16T01:26:02.259013Z",
     "by_platform": [
       {
         "platform": "youtube",
@@ -1292,7 +1292,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 30.77
+      "total_score": 30.76
     },
     {
       "candidate_id": "topic-25766b18113987c543",
@@ -3337,7 +3337,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 52.88
+      "total_score": 52.87
     },
     {
       "candidate_id": "topic-9d689f3364dabe3436",
@@ -4830,7 +4830,7 @@
       "author_bio": "📱：一个测评软件 | 网站 | 数码的号\n🌲：带你一起打开新世界的大门\n📮：Uianli",
       "author_fans_count": 425146,
       "status": "待处理",
-      "total_score": 44.84
+      "total_score": 44.83
     },
     {
       "candidate_id": "topic-424e093e734e906f9a",
@@ -4980,7 +4980,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.08
+      "total_score": 33.07
     },
     {
       "candidate_id": "topic-d4637ba4f46774a468",
@@ -5237,7 +5237,7 @@
       "author_bio": "",
       "author_fans_count": 0,
       "status": "待处理",
-      "total_score": 33.23
+      "total_score": 33.22
     },
     {
       "candidate_id": "topic-942c7026afb018663d",
